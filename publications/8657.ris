@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Nord, Alex S; Lee, Ming; King, Mary-Claire; Walsh, Tom
+T1 - Accurate and exact CNV identification from targeted high-throughput sequence data
+JA - BMC Genomics
+VL - 12
+IS - 1
+SP - 184
+U1 - 10.1186/1471-2164-12-184(DOI)
+N2 - Background: Massively parallel sequencing of barcoded DNA samples significantly increases screening efficiency for clinically important genes. Short read aligners are well suited to single nucleotide and indel detection. However, methods for CNV detection from targeted enrichment are lacking. We present a method combining coverage with map information for the identification of deletions and duplications in targeted sequence data. 
+
+Results: Sequencing data is first scanned for gains and losses using a comparison of normalized coverage data between samples. CNV calls are confirmed by testing for a signature of sequences that span the CNV breakpoint. With our method, CNVs can be identified regardless of whether breakpoints are within regions targeted for sequencing. For CNVs where at least one breakpoint is within targeted sequence, exact CNV breakpoints can be identified. In a test data set of 96 subjects sequenced across ~1 Mb genomic sequence using multiplexing technology, our method detected mutations as small as 31 bp, predicted quantitative copy count, and had a low false-positive rate. 
+
+Conclusions: Application of this method allows for identification of gains and losses in targeted sequence data, providing comprehensive mutation screening when combined with a short read aligner.
+UR - http://www.biomedcentral.com/1471-2164/12/184
+ER -
+

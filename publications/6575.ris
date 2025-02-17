@@ -1,0 +1,26 @@
+TY - JOUR
+ID - n/a
+A1 - Mihai Albu, Hamid Nikbakht, Mehrdad Hajibabaei and Donal A. Hickey
+Y1 - 2011
+T1 - DNA BARCODING: The DNA Barcode Linker
+JA - Molecular Ecology Resources
+VL - 11
+IS - 1
+SP - 84
+EP - 88
+M1 - 2010-01-10(date received)
+M1 - 2010-05-26(date accepted)
+U1 - 10.1111/j.1755-0998.2010.02901.x(DOI)
+U1 - User submitted
+N2 - DNA barcoding is based on the use of short DNA sequences to provide taxonomic tags for rapid, efficient identification of
+biological specimens. Currently, reference databases are being compiled. In the future, it will be important to facilitate
+access to these databases, especially for nonspecialist users. The method described here provides a rapid, web-based, userfriendly
+link between the DNA sequence from an unidentified biological specimen and various types of biological information,
+including the species name. Specifically, we use a customized, Google-type search algorithm to quickly match an
+unknown DNA sequence to a list of verified DNA barcodes in the reference database. In addition to retrieving the species
+name, our web tool also provides automatic links to a range of other information about that species. As the DNA barcode
+database becomes more populated, it will become increasingly important for the broader user community to be able to
+exploit it for the rapid identification of unknown specimens and to easily obtain relevant biological information about
+these species. The application presented here meets that need.
+ER -
+

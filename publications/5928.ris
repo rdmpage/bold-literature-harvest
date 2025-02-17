@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Damon P. Little and Dennis Wm. Stevenson
+Y1 - 2007
+T1 - A comparison of algorithms for the identification of specimens using DNA barcodes: examples from gymnosperms.
+JA - Cladistics
+VL - 23
+IS - 1
+SP - 1
+EP - 21
+M1 - 2006-06-28(date accepted)
+U1 - 10.1111/j.1096-0031.2006.00126.x(DOI)
+U1 - User submitted
+N2 - In order to use DNA sequences for specimen identification (e.g., barcoding, fingerprinting) an algorithm to compare query sequences with a reference database is needed. Precision and accuracy of query sequence identification was estimated for hierarchical clustering (parsimony and neighbor joining), similarity methods (BLAST, BLAT and megaBLAST), combined clustering &#8260; similarity methods (BLAST &#8260;parsimony and BLAST&#8260; neighbor joining), diagnostic methods (DNA–BAR and DOME ID), and a new method (ATIM). We offer two novel alignment-free algorithmic solutions (DOME ID and ATIM) to identify query sequences for the purposes of DNA barcoding. Publicly available gymnosperm nrITS 2 and plastid matK sequences were used as test data sets. On the test data sets, almost all of the methods were able to accurately identify sequences to genus; however, no method was able to accurately identify query sequences to species at a frequency that would be considered useful for routine specimen identification (42–71% unambiguously correct). Clustering methods performed the worst (perhaps due to alignment issues). Similarity methods, ATIM, DNA–BAR, and DOME ID all performed at approximately the same level. Given the relative precision of the algorithms (median ¼ 67% unambiguous), the low accuracy of species-level identification observed could be ascribed to the lack of correspondence between patterns of allelic similarity and species delimitations. Application of DNA barcoding to sequences of CITES listed cycads (Cycadopsida) provides an example of the potential application of DNA barcoding to enforcement of conservation laws.
+ER -
+

@@ -1,0 +1,15 @@
+TY - JOUR
+ID - pmid_17348942
+A1 - Noah A Rosenberg
+Y1 - 2007
+T1 - Statistical Tests for Taxonomic Distinctiveness from Observations of Monophyly.
+JA - Evolution
+VL - 61
+IS - 2
+SP - 317
+EP - 323
+U1 - 10.1111/j.1558-5646.2007.00023.x(DOI)
+U1 - User submitted
+N2 - The observation of monophyly for a specified set of genealogical lineages is often used to place the lineages into a distinctive taxonomic entity. However, it is sometimes possible that monophyly of the lineages can occur by chance as an outcome of the random branching of lineages within a single taxon. Thus, especially for small samples, an observation of monophyly for a set of lineages--even if strongly supported statistically--does not necessarily indicate that the lineages are from a distinctive group. Here I develop a test of the null hypothesis that monophyly is a chance outcome of random branching. I also compute the sample size required so that the probability of chance occurrence of monophyly of a specified set of lineages lies below a prescribed tolerance. Under the null model of random branching, the probability that monophyly of the lineages in an index group occurs by chance is substantial if the sample is highly asymmetric, that is, if only a few of the sampled lineages are from the index group, or if only a few lineages are external to the group. If sample sizes are similar inside and outside the group of interest, however, chance occurrence of monophyly can be rejected at stringent significance levels (P < 10(-5)) even for quite small samples (approximately 20 total lineages). For a fixed total sample size, rejection of the null hypothesis of random branching in a single taxon occurs at the most stringent level if samples of nearly equal size inside and outside the index group--with a slightly greater size within the index group--are used. Similar results apply, with smaller sample sizes needed, when reciprocal monophyly of two groups, rather than monophyly of a single group, is of interest. The results suggest minimal sample sizes required for inferences to be made about taxonomic distinctiveness from observations of monophyly.
+ER -
+

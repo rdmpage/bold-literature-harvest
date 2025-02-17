@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - A. B. Zhang and P. Savolainen
+Y1 - 2009
+T1 - BPSI2.0: a C/C++ interface program for species identification via DNA barcoding with a BP-neural network by calling the Matlab engine
+JA - Molecular Ecology Resources
+VL - 9
+IS - 1
+SP - 104
+EP - 106
+U1 - 10.1111/j.1755-0998.2008.02372.x(DOI)
+U1 - User submitted
+N2 - BP-Species Identification (BPSI2.0) is a computer program that performs species identification by training a Back-Propagation Neural Network. A short DNA barcoding segment is used as input for training a three-layer BP network. The trained network can assign an unknown query sequence to a known species in the user's database, and provide the corresponding subvector value of the output vector as a relative probability value.
+ER -
+

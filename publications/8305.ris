@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Bystrykh, Leonid V.
+T1 - Generalized DNA Barcode Design Based on Hamming Codes
+JA - PLoS ONE
+VL - 7
+IS - 5
+SP - e36852
+U1 - 10.1371/journal.pone.0036852(DOI)
+N2 - The diversity and scope of multiplex parallel sequencing applications is steadily increasing. Critically, multiplex parallel sequencing applications methods rely on the use of barcoded primers for sample identification, and the quality of the barcodes directly impacts the quality of the resulting sequence data. Inspection of the recent publications reveals a surprisingly variable quality of the barcodes employed. Some barcodes are made in a semi empirical fashion, without quantitative consideration of error correction or minimal distance properties. After systematic comparison of published barcode sets, including commercially distributed barcoded primers from Illumina and Epicentre, methods for improved, Hamming code-based sequences are suggested and illustrated. Hamming barcodes can be employed for DNA tag designs in many different ways while preserving minimal distance and error-correcting properties. In addition, Hamming barcodes remain flexible with regard to essential biological parameters such as sequence redundancy and GC content. Wider adoption of improved Hamming barcodes is encouraged in multiplex parallel sequencing applications.
+UR - http://dx.plos.org/10.1371/journal.pone.0036852
+ER -
+

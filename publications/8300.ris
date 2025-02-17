@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Boers, Stefan A.; van der Reijden, Wil A.; Jansen, Ruud
+T1 - High-Throughput Multilocus Sequence Typing: Bringing Molecular Typing to the Next Level
+JA - PLoS ONE
+VL - 7
+IS - 7
+SP - e39630
+U1 - 10.1371/journal.pone.0039630(DOI)
+N2 - Multilocus sequence typing (MLST) is a widely used system for typing microorganisms by sequence analysis of housekeeping genes. The main advantage of MLST in comparison to other typing techniques is the unambiguity and transferability of sequence data. However, a main disadvantage is the high cost of DNA sequencing. Here we introduce a high-throughput MLST (HiMLST) method that employs next-generation sequencing (NGS) technology (Roche 454), to generate large quantities of high-quality MLST data at low costs. The HiMLST protocol consists of two steps. In the first step MLST target genes are amplified by PCR in multi-well plates. During this PCR the amplicons of each bacterial isolate are provided with a unique DNA barcode, the multiplex identifier (MID). In the second step all amplicons are pooled and sequenced in a single NGS-run. The MLST profile of each individual isolate can be retrieved easily using its unique MID. With HiMLST we have profiled 575 isolates of Legionella pneumophila, Staphylococcus aureus, Pseudomonas aeruginosa and Streptococcus pneumoniae in mixed species HiMLST experiments. In conclusion, the introduction of HiMLST paves the way for a broad employment of the MLST as a high-quality and cost-effective method for typing microbial species.
+UR - http://dx.plos.org/10.1371/journal.pone.0039630
+ER -
+

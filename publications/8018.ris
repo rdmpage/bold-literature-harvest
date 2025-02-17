@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Long Fan, Jerome H. L. Hui, Zu Guo Yu and Ka Hou Chu
+Y1 - 2014
+T1 - VIP Barcoding: composition vector-based software for rapid species identification based on DNA barcoding
+JA - Molecular Ecology Resources
+VL - 14
+IS - 4
+SP - 871
+EP - 881
+U1 - 10.1111/1755-0998.12235(DOI)
+U1 - User submitted
+N2 - Species identification based on short sequences of DNA markers, i.e., DNA barcoding, has emerged as an integral part of modern taxonomy. However, software for the analysis of large and multi-locus barcoding datasets is scarce. The Basic Local Alignment Search Tool (BLAST) is currently the fastest tool capable of handling large databases (e.g., > 5,000 sequences), but its accuracy is a concern and has been criticised for its local optimisation. However, current more accurate software requires sequence alignment or complex calculations which are time-consuming when dealing with large datasets during data preprocessing or during the search stage. Therefore, it is imperative to develop a practical program for both accurate and scalable species identification for DNA barcoding. In this context, we present VIP Barcoding: user-friendly software in graphical user interface for rapid DNA barcoding. It adopts a hybrid, two-stage algorithm. First, an alignment-free composition vector method is utilised to reduce searching space by screening a reference database. The alignment-based K2P distance nearest neighbour method is then employed to analyse the smaller dataset generated in the first stage. In comparison to other software, we demonstrate that VIP Barcoding has: (1) higher accuracy than Blastn and several alignment-free methods, and (2) higher scalability than alignment-based distance methods and character-based methods. These results suggest that this platform is able to deal with both large-scale and multi-locus barcoding data with accuracy, and can contribute to DNA barcoding for modern taxonomy. VIP Barcoding is free and available at: http://msl.sls.cuhk.edu.hk/vipbarcoding/.
+ER -
+

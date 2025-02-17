@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Kermarrec, L.; Franc, A.; Rimet, F.; Chaumeil, P.; Humbert, J. F.; Bouchez, A.
+T1 - Next-generation sequencing to inventory taxonomic diversity in eukaryotic communities: a test for freshwater diatoms
+JA - Molecular Ecology Resources
+VL - 13
+IS - 4
+SP - 607
+EP - 619
+U1 - 10.1111/1755-0998.12105(DOI)
+N2 - The recent emergence of barcoding approaches coupled to those of next-generation sequencing (NGS) has raised new perspectives for studying environmental communities. In this framework, we tested the possibility to derive accurate inventories of diatom communities from pyrosequencing outputs with an available DNA reference library. We used three molecular markers targeting the nuclear, chloroplast and mitochondrial genomes (SSU rDNA, rbcL and cox1) and three samples of a mock community composed of 30 known diatom strains belonging to 21 species. In the goal to detect methodological biases, one sample was constituted directly from pooled cultures, whereas the others consisted of pooled PCR products. The NGS reads obtained by pyrosequencing (Roche 454) were compared first to a DNA reference library including the sequences of all the species used to constitute the mock community, and second to a complete DNA reference library with a larger taxonomic coverage. A stringent taxonomic assignation gave inventories that were compared to the real one. We detected biases due to DNA extraction and PCR amplification that resulted in false-negative detection. Conversely, pyrosequencing errors appeared to generate false positives, especially in case of closely allied species. The taxonomic coverage of DNA reference libraries appears to be the most crucial factor, together with marker polymorphism which is essential to identify taxa at the species level. RbcL offers a high resolving power together with a large DNA reference library. Although needing further optimization, pyrosequencing is suitable for identifying diatom assemblages and may find applications in the field of freshwater biomonitoring.
+UR - http://doi.wiley.com/10.1111/1755-0998.12105
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Nam, J.; Dong, P.; Tarpine, R.; Istrail, S.; Davidson, E. H.
+T1 - Functional cis-regulatory genomics for systems biology
+JA - Proceedings of the National Academy of Sciences
+VL - 107
+IS - 8
+SP - 3930
+EP - 3935
+U1 - 10.1073/pnas.1000147107(DOI)
+N2 - Gene expression is controlled by interactions between trans-regulatory factors and cis-regulatory DNA sequences, and these interactions constitute the essential functional linkages of gene regulatory networks (GRNs). Validation of GRN models requires experimental cis-regulatory tests of predicted linkages to authenticate their identities and proposed functions. However, cis-regulatory analysis is, at present, at a severe bottleneck in genomic system biology because of the demanding experimental methodologies currently in use for discovering cis-regulatory modules (CRMs), in the genome, and for measuring their activities. Here we demonstrate a high-throughput approach to both discovery and quantitative characterization of CRMs. The unique aspect is use of DNA sequence tags to “barcode” CRM expression constructs, which can then be mixed, injected together into sea urchin eggs, and subsequently deconvolved. This method has increased the rate of cis-regulatory analysis by >100-fold compared with conventional one-by-one reporter assays. The utility of the DNA-tag reporters was demonstrated by the rapid discovery of 81 active CRMs from 37 previously unexplored sea urchin genes. We then obtained simultaneous high-resolution temporal characterization of the regulatory activities of more than 80 CRMs. On average 2–3 CRMs were discovered per gene. Comparison of endogenous gene expression profiles with those of the CRMs recovered from each gene showed that, for most cases, at least one CRM is active in each phase of endogenous expression, suggesting that CRM recovery was comprehensive. This approach will qualitatively alter the practice of GRN construction as well as validation, and will impact many additional areas of regulatory system biology.
+UR - http://www.pnas.org/cgi/doi/10.1073/pnas.1000147107
+ER -
+

@@ -1,0 +1,19 @@
+TY - JOUR
+ID - n/a
+A1 - Pavel Stoev, Ana Komerički, Nesrine Akkari, Shanlin Liu, Xin Zhou, Alexander M. Weigand, Jeroen Hostens, Christopher I. Hunter, Scott C. Edmunds, David Porco, Marzio Zapparoli, Teodor Georgiev, Daniel Mietchen, David Roberts, Sarah Faulwetter, Vincent Smith and Lyubomir Penev
+Y1 - 2013
+T1 - Eupolybothrus cavernicolus Komerički & Stoev sp. n. (Chilopoda: Lithobiomorpha: Lithobiidae): the first eukaryotic species description combining transcriptomic, DNA barcoding and micro-CT imaging data
+JA - Biodiversity Data Journal
+VL - 1
+IS - 1
+SP - e1013
+U1 - 10.3897/BDJ.1.e1013(DOI)
+U1 - User submitted
+N2 - We demonstrate how a classical taxonomic description of a new species can be enhanced by applying new generation molecular methods, and novel computing and imaging technologies. A cave-dwelling centipede, Eupolybothrus cavernicolus Komerički & Stoev
+sp.n. (Chilopoda: Lithobiomorpha: Lithobiidae), found in a remote karst region in Knin, Croatia, is the first eukaryotic species for which, in addition to the traditional morphological description, we provide a fully sequenced transcriptome, a DNA barcode, detailed anatomical X-ray microtomography (micro-CT) scans, and a movie of the living specimen
+to document important traits of its ex-situ behaviour. By employing micro-CT scanning in a new species for the first time, we create a high-resolution morphological and anatomical dataset that allows virtual reconstructions of the specimen and subsequent interactive
+manipulation to test the recently introduced ‘cybertype’ notion. In addition, the transcriptome was recorded with a total of 67,785 scaffolds, having an average length of 812 bp and N50 of 1,448 bp (see GigaDB). Subsequent annotation of 22,866 scaffolds was conducted by tracing homologs against current available databases, including Nr,
+SwissProt and COG. This pilot project illustrates a workflow of producing, storing, publishing and disseminating large data sets associated with a description of a new taxon.
+All data have been deposited in publicly accessible repositories, such as GigaScience GigaDB, NCBI, BOLD, Morphbank and Morphosource, and the respective open licenses used ensure their accessibility and re-usability.
+ER -
+

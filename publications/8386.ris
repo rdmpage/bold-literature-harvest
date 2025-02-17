@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Zamft, Bradley Michael; Marblestone, Adam H.; Kording, Konrad; Schmidt, Daniel; Martin-Alarcon, Daniel; Tyo, Keith; Boyden, Edward S.; Church, George
+T1 - Measuring Cation Dependent DNA Polymerase Fidelity Landscapes by Deep Sequencing
+JA - PLoS ONE
+VL - 7
+IS - 8
+SP - e43876
+U1 - 10.1371/journal.pone.0043876(DOI)
+N2 - High-throughput recording of signals embedded within inaccessible micro-environments is a technological challenge. The ideal recording device would be a nanoscale machine capable of quantitatively transducing a wide range of variables into a molecular recording medium suitable for long-term storage and facile readout in the form of digital data. We have recently proposed such a device, in which cation concentrations modulate the misincorporation rate of a DNA polymerase (DNAP) on a known template, allowing DNA sequences to encode information about the local cation concentration. In this work we quantify the cation sensitivity of DNAP misincorporation rates, making possible the indirect readout of cation concentration by DNA sequencing. Using multiplexed deep sequencing, we quantify the misincorporation properties of two DNA polymerases – Dpo4 and Klenow exo− – obtaining the probability and base selectivity of misincorporation at all positions within the template. We find that Dpo4 acts as a DNA recording device for Mn2+ with a misincorporation rate gain of ∼2%/mM. This modulation of misincorporation rate is selective to the template base: the probability of misincorporation on template T by Dpo4 increases >50-fold over the range tested, while the other template bases are affected less strongly. Furthermore, cation concentrations act as scaling factors for misincorporation: on a given template base, Mn2+ and Mg2+ change the overall misincorporation rate but do not alter the relative frequencies of incoming misincorporated nucleotides. Characterization of the ion dependence of DNAP misincorporation serves as the first step towards repurposing it as a molecular recording device.
+UR - http://dx.plos.org/10.1371/journal.pone.0043876
+ER -
+

@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Wolf, Jochen B. W.; Bayer, Till; Haubold, Bernhard; Schilhabel, Markus; Rosenstiel, Philip; Tautz, Diethard
+T1 - Nucleotide divergence vs. gene expression differentiation: comparative transcriptome sequencing in natural isolates from the carrion crow and its hybrid zone with the hooded crow
+JA - Molecular Ecology
+VL - 19
+SP - 162
+EP - 175
+U1 - 10.1111/j.1365-294X.2009.04471.x(DOI)
+N2 - Recent advances in sequencing technology promise to provide new strategies for studying population differentiation and speciation phenomena in their earliest phases. We focus here on the black carrion crow (Corvus [corone] corone), which forms a zone of hybridization and overlap with the grey coated hooded crow (Corvus [corone] cornix). However, although these semispecies are taxonomically distinct, previous analyses based on several types of genetic markers did not reveal significant molecular differentiation between them. We here corroborate this result with sequence data obtained from a set of 25 nuclear intronic loci. Thus, the system represents a case of a very early phase of species divergence that requires new molecular approaches for its description. We have therefore generated RNAseq expression profiles using barcoded massively parallel pyrosequencing of brain mRNA from six individuals of the carrion crow and five individuals from a hybrid zone with the hooded crow. We obtained 856 675 reads from two runs, with average read length of 270 nt and coverage of 8.44. Reads were assembled de novo into 19 552 contigs, 70% of which could be assigned to annotated genes in chicken and zebra finch. This resulted in a total of 7637 orthologous genes and a core set of 1301 genes that could be compared across all individuals. We find a clear clustering of expression profiles for the pure carrion crow animals and disperse profiles for the animals from the hybrid zone. These results suggest that gene expression differences may indeed be a sensitive indicator of initial species divergence.
+UR - http://doi.wiley.com/10.1111/j.1365-294X.2009.04471.x
+ER -
+

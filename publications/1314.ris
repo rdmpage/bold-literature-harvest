@@ -1,0 +1,17 @@
+TY - JOUR
+ID - pmid_16611600
+A1 - Rachel Lockridge Mueller
+Y1 - 2006
+T1 - Evolutionary rates, divergence dates, and the performance of mitochondrial genes in Bayesian phylogenetic analysis.
+JA - Systematic Biology
+VL - 55
+IS - 2
+SP - 289
+EP - 300
+M1 - 2006-04-13(date received)
+M1 - 2006-06-13(date accepted)
+M1 - 2007-07-19(date revised)
+U1 - 10.1080/10635150500541672(DOI)
+N2 - The mitochondrial genome is one of the most frequently used loci in phylogenetic and phylogeographic analyses, and it is becoming increasingly possible to sequence and analyze this genome in its entirety from diverse taxa. However, sequencing the entire genome is not always desirable or feasible. Which genes should be selected to best infer the evolutionary history of the mitochondria within a group of organisms, and what properties of a gene determine its phylogenetic performance? The current study addresses these questions in a Bayesian phylogenetic framework with reference to a phylogeny of plethodontid and related salamanders derived from 27 complete mitochondrial genomes; this topology is corroborated by nuclear DNA and morphological data. Evolutionary rates for each mitochondrial gene and divergence dates for all nodes in the plethodontid mitochondrial genome phylogeny were estimated in both Bayesian and maximum likelihood frameworks using multiple fossil calibrations, multiple data partitions, and a clock-independent approach. Bayesian analyses of individual genes were performed, and the resulting trees compared against the reference topology. Ordinal logistic regression analysis of molecular evolution rate, gene length, and the G-shape parameter a demonstrated that slower rate of evolution and longer gene length both increased the probability that a gene would perform well phylogenetically. Estimated rates of molecular evolution vary 84-fold among different mitochondrial genes and different salamander lineages, and mean rates among genes vary 15-fold. Despite having conserved amino acid sequences, cox1, cox2, cox3, and cob have the fastest mean rates of nucleotide substitution, and the greatest variation in rates, whereas rrnS and rrnL have the slowest rates. Reasons underlying this rate variation are discussed, as is the extensive rate variation in cox1 in light of its proposed role in DNA barcoding.
+ER -
+

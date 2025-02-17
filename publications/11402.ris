@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Raabe, C. A.; Tang, T.-H.; Brosius, J.; Rozhdestvensky, T. S.
+T1 - Biases in small RNA deep sequencing data
+JA - Nucleic Acids Research
+VL - 42
+IS - 3
+SP - 1414
+EP - 1426
+U1 - 10.1093/nar/gkt1021(DOI)
+N2 - High-throughput RNA sequencing (RNA-seq) is considered a powerful tool for novel gene discovery and fine-tuned transcriptional profiling. The digital nature of RNA-seq is also believed to simplify meta-analysis and to reduce background noise associated with hybridization-based approaches. The development of multiplex sequencing enables efficient and economic parallel analysis of gene expression. In addition, RNA-seq is of particular value when low RNA expression or modest changes between samples are monitored. However, recent data uncovered severe bias in the sequencing of small non-protein coding RNA (small RNA-seq or sRNA-seq), such that the expression levels of some RNAs appeared to be artificially enhanced and others diminished or even undetectable. The use of different adapters and barcodes during ligation as well as complex RNA structures and modifications drastically influence cDNA synthesis efficacies and exemplify sources of bias in deep sequencing. In addition, variable specific RNA G/C-content is associated with unequal polymerase chain reaction amplification efficiencies. Given the central importance of RNA-seq to molecular biology and personalized medicine, we review recent findings that challenge small non-protein coding RNA-seq data and suggest approaches and precautions to overcome or minimize bias.
+UR - http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkt1021
+ER -
+

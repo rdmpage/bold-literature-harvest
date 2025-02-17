@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Erlich, Rachel L; Jia, Xiaoming; Anderson, Scott; Banks, Eric; Gao, Xiaojiang; Carrington, Mary; Gupta, Namrata; DePristo, Mark A; Henn, Matthew R; Lennon, Niall J; de Bakker, Paul IW
+T1 - Next-generation sequencing for HLA typing of class I loci
+JA - BMC Genomics
+VL - 12
+IS - 1
+SP - 42
+U1 - 10.1186/1471-2164-12-42(DOI)
+N2 - Background: Comprehensive sequence characterization across the MHC is important for successful organ transplantation and genetic association studies. To this end, we have developed an automated sample preparation, molecular barcoding and multiplexing protocol for the amplification and sequence-determination of class I HLA loci. We have coupled this process to a novel HLA calling algorithm to determine the most likely pair of alleles at each locus. 
+
+Results: We have benchmarked our protocol with 270 HapMap individuals from four worldwide populations with 96.4% accuracy at 4-digit resolution. A variation of this initial protocol, more suitable for large sample sizes, in which molecular barcodes are added during PCR rather than library construction, was tested on 95 HapMap individuals with 98.6% accuracy at 4-digit resolution. 
+
+Conclusions: Next-generation sequencing on the 454 FLX Titanium platform is a reliable, efficient, and scalable technology for HLA typing.
+UR - http://www.biomedcentral.com/1471-2164/12/42
+ER -
+

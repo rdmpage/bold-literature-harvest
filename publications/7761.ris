@@ -1,0 +1,28 @@
+TY - JOUR
+ID - n/a
+A1 - Bai, Zhou; Kremer, Stefan C
+Y1 - 2011
+T1 - Deep Belief Network: A Step Towards Better DNA Barcoding Classification
+JA - 6th Canadian Student Conference on Biomedical Computing and Engineering
+SP - 91
+EP - 94
+U1 - User submitted
+N2 - DNA barcoding is a genetic technique which uses a short section of DNA from a standardized region of the
+genome to identify and discover species. The COI gene which is used as the standard DNA barcode for animals
+has generated the largest sequence database for a single gene. But the most widely used analysis methods for
+barcode classification which are based on genetic distance measurement have some strong limitations. The
+artificial intelligence based approach such as a neural network seems to be a promising advance to the spectrum of
+available methods since it uses more information contained in the sequence. But in practice, the per-class sample
+size is often small and the training
+of
+a shallow network becomes problematic. Here in this research, we used a
+de
+ep neural network method called the Deep Belief Network. We argue that by transforming the input into a
+compact representation, better classification could be achieved without sacrificing generalization. The results on
+an empirical dataset suggested that a properly trained deep network could noticeably improve the barcoding
+classification accuracy, and more importantly help to deal with the problem of distinguishing non-monophyletic
+species where there existed overlap between intra- and interspecific divergence and species identification was
+more difficult
+UR - http://www.imaging.robarts.ca/extra/CSCBCE2011/files/CSCBCE2011_Proceedings.pdf#page=91
+ER -
+

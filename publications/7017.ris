@@ -1,0 +1,24 @@
+TY - JOUR
+ID - n/a
+A1 - Hendrich, Lars; Pons, Joan; Ribera, Ignacio; Balke, Michael
+Y1 - 2010
+T1 - Mitochondrial cox1 sequence data reliably uncover patterns of insect diversity but suffer from high lineage-idiosyncratic error rates
+JA - PLoS ONE
+VL - 5
+IS - 12
+SP - e14448
+M1 - 2010-07-13(date received)
+M1 - 2010-12-06(date accepted)
+U1 - 10.1371/journal.pone.0014448(DOI)
+U1 - User submitted
+N2 - BACKGROUND:
+
+The demand for scientific biodiversity data is increasing, but taxonomic expertise is often limited or not available. DNA sequencing is a potential remedy to overcome this taxonomic impediment. Mitochondrial DNA is most commonly used, e.g., for species identification ("DNA barcoding"). Here, we present the first study in arthropods based on a near-complete species sampling of a family-level taxon from the entire Australian region. We aimed to assess how reliably mtDNA data can capture species diversity when many sister species pairs are included. Then, we contrasted phylogenetic subsampling with the hitherto more commonly applied geographical subsampling, where sister species are not necessarily captured.
+METHODOLOGY/PRINCIPAL FINDINGS:
+
+We sequenced 800 bp cox1 for 1,439 individuals including 260 Australian species (78% species coverage). We used clustering with thresholds of 1 to 10% and general mixed Yule Coalescent (GMYC) analysis for the estimation of species richness. The performance metrics used were taxonomic accuracy and agreement between the morphological and molecular species richness estimation. Clustering (at the 3% level) and GMYC reliably estimated species diversity for single or multiple geographic regions, with an error for larger clades of lower than 10%, thus outperforming parataxonomy. However, the rates of error were higher for some individual genera, with values of up to 45% when very recent species formed nonmonophyletic clusters. Taxonomic accuracy was always lower, with error rates above 20% and a larger variation at the genus level (0 to 70%). Sørensen similarity indices calculated for morphospecies, 3% clusters and GMYC entities for different pairs of localities was consistent among methods and showed expected decrease over distance.
+CONCLUSION/SIGNIFICANCE:
+
+Cox1 sequence data are a powerful tool for large-scale species richness estimation, with a great potential for use in ecology and &#946;-diversity studies and for setting conservation priorities. However, error rates can be high in individual lineages.
+ER -
+

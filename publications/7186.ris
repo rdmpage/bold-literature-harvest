@@ -1,0 +1,19 @@
+TY - JOUR
+ID - n/a
+A1 - Mehrdad Hajibabaei and Gregory AC Singer
+Y1 - 2009
+T1 - Googling DNA sequences on the World Wide Web
+JA - BMC Bioinformatics
+VL - 10
+IS - S14
+SP - S4
+U1 - 10.1186/1471-2105-10-S14-S4(DOI)
+U1 - User submitted
+N2 - Background
+New web-based technologies provide an excellent opportunity for sharing and accessing information and using web as a platform for interaction and collaboration. Although several specialized tools are available for analyzing DNA sequence information, conventional web-based tools have not been utilized for bioinformatics applications. We have developed a novel algorithm and implemented it for searching species-specific genomic sequences, DNA barcodes, by using popular web-based methods such as Google.
+Results
+We developed an alignment independent character based algorithm based on dividing a sequence library (DNA barcodes) and query sequence to words. The actual search is conducted by conventional search tools such as freely available Google Desktop Search. We implemented our algorithm in two exemplar packages. We developed pre and post-processing software to provide customized input and output services, respectively. Our analysis of all publicly available DNA barcode sequences shows a high accuracy as well as rapid results.
+Conclusion
+Our method makes use of conventional web-based technologies for specialized genetic data. It provides a robust and efficient solution for sequence search on the web. The integration of our search method for large-scale sequence libraries such as DNA barcodes provides an excellent web-based tool for accessing this information and linking it to other available categories of information on the web.
+ER -
+

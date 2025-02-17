@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Trujillano, Daniel; Perez, Belén; González, Justo; Tornador, Cristian; Navarrete, Rosa; Escaramis, Georgia; Ossowski, Stephan; Armengol, Lluís; Cornejo, Verónica; Desviat, Lourdes R; Ugarte, Magdalena; Estivill, Xavier
+T1 - Accurate molecular diagnosis of phenylketonuria and tetrahydrobiopterin-deficient hyperphenylalaninemias using high-throughput targeted sequencing
+JA - European Journal of Human Genetics
+VL - 22
+IS - 4
+SP - 528
+EP - 534
+U1 - 10.1038/ejhg.2013.175(DOI)
+N2 - Genetic diagnostics of phenylketonuria (PKU) and tetrahydrobiopterin (BH4) deficient hyperphenylalaninemia (BH4DH) rely on methods that scan for known mutations or on laborious molecular tools that use Sanger sequencing. We have implemented a novel and much more efficient strategy based on high-throughput multiplex-targeted resequencing of four genes (PAH, GCH1, PTS, and QDPR) that, when affected by loss-of-function mutations, cause PKU and BH4DH. We have validated this approach in a cohort of 95 samples with the previously known PAH, GCH1, PTS, and QDPR mutations and one control sample. Pooled barcoded DNA libraries were enriched using a custom NimbleGen SeqCap EZ Choice array and sequenced using a HiSeq2000 sequencer. The combination of several robust bioinformatics tools allowed us to detect all known pathogenic mutations (point mutations, short insertions/deletions, and large genomic rearrangements) in the 95 samples, without detecting spurious calls in these genes in the control sample. We then used the same capture assay in a discovery cohort of 11 uncharacterized HPA patients using a MiSeq sequencer. In addition, we report the precise characterization of the breakpoints of four genomic rearrangements in PAH, including a novel deletion of 899 bp in intron 3. Our study is a proof-of-principle that high-throughput-targeted resequencing is ready to substitute classical molecular methods to perform differential genetic diagnosis of hyperphenylalaninemias, allowing the establishment of specifically tailored treatments a few days after birth.
+UR - http://www.nature.com/doifinder/10.1038/ejhg.2013.175
+ER -
+

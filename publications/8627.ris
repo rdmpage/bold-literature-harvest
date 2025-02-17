@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Carneiro, João; Pereira, Filipe; Amorim, António
+T1 - SPInDel: a multifunctional workbench for species identification using insertion/deletion variants
+JA - Molecular Ecology Resources
+VL - 12
+IS - 6
+SP - 1190
+EP - 1195
+U1 - 10.1111/1755-0998.12011(DOI)
+N2 - The majority of the available methods for the molecular identification of species use pairwise sequence divergences between the query and reference sequences (DNA barcoding). The presence of multiple insertions and deletions (indels) in the target genomic regions is generally regarded as a problem, as it introduces ambiguities in sequence alignments. However, we have recently shown that a high level of species discrimination is attainable in all taxa of life simply by considering the length of hypervariable regions defined by indel variants. Each species is tagged with a numeric profile of fragment lengths—a true numeric barcode. In this study, we describe a multifunctional computational workbench (named SPInDel for SPecies Identification by Insertions/Deletions) to assist researchers using variable-length DNA sequences, and we demonstrate its applicability in molecular ecology. The SPInDel workbench provides a step-by-step environment for the alignment of target sequences, selection of informative hypervariable regions, design of PCR primers and the statistical validation of the species-identification process. In our test data sets, we were able to discriminate all species from two genera of frogs (Ansonia and Leptobrachium) inhabiting lowland rainforests and mountain regions of South-East Asia and species from the most common genus of coral reef fishes (Apogon). Our method can complement conventional DNA barcoding systems when indels are common (e.g. in rRNA genes) without the required step of DNA sequencing. The executable files, source code, documentation and test data sets are freely available at http://www.portugene.com/SPInDel/SPInDel_webworkbench.html.
+UR - http://doi.wiley.com/10.1111/1755-0998.12011
+ER -
+

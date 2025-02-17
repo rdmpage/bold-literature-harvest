@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Lee, William; St.Onge, Robert P.; Proctor, Michael; Flaherty, Patrick; Jordan, Michael I.; Arkin, Adam P.; Davis, Ronald W.; Nislow, Corey; Giaever, Guri
+T1 - Genome-Wide Requirements for Resistance to Functionally Distinct DNA-Damaging Agents
+JA - PLoS Genetics
+VL - 1
+IS - 2
+SP - e24
+U1 - 10.1371/journal.pgen.0010024(DOI)
+N2 - The mechanistic and therapeutic differences in the cellular response to DNA-damaging compounds are not completely understood, despite intense study. To expand our knowledge of DNA damage, we assayed the effects of 12 closely related DNA-damaging agents on the complete pool of ~4,700 barcoded homozygous deletion strains of Saccharomyces cerevisiae. In our protocol, deletion strains are pooled together and grown competitively in the presence of compound. Relative strain sensitivity is determined by hybridization of PCR-amplified barcodes to an oligonucleotide array carrying the barcode complements. These screens identified genes in well-characterized DNA-damage-response pathways as well as genes whose role in the DNA-damage response had not been previously established. High-throughput individual growth analysis was used to independently confirm microarray results. Each compound produced a unique genome-wide profile. Analysis of these data allowed us to determine the relative importance of DNA-repair modules for resistance to each of the 12 profiled compounds. Clustering the data for 12 distinct compounds uncovered both known and novel functional interactions that comprise the DNA-damage response and allowed us to define the genetic determinants required for repair of interstrand cross-links. Further genetic analysis allowed determination of epistasis for one of these functional groups.
+UR - http://dx.plos.org/10.1371/journal.pgen.0010024
+ER -
+

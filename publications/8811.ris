@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Zieliński, P.; Stuglik, M. T.; Dudek, K.; Konczal, M.; Babik, W.
+T1 - Development, validation and high-throughput analysis of sequence markers in nonmodel species
+JA - Molecular Ecology Resources
+VL - 14
+IS - 2
+SP - 352
+EP - 360
+U1 - 10.1111/1755-0998.12171(DOI)
+N2 - DNA sequences derived from multiple regions of the nuclear genome are essential for historical inferences in the fields of phylogeography and phylogenetics. The appropriate markers should be single-copy, variable, easy to amplify from multiple samples and easy to sequence using high-throughput technologies. This may be difficult to achieve for species lacking sequenced genomes and particularly challenging for species possessing large genomes, which consist mostly of repetitive sequences. Here, we present a cost-effective, broadly applicable framework for designing, validating and high-throughput sequencing of multiple markers in nonmodel species without sequenced genomes. We demonstrate its utility in two closely related species of newts, representatives of urodeles, a vertebrate group characterized by large genomes. We show that over 80 markers, c. 600 bp each, developed mainly from 3′ untranslated transcript regions (3′UTR) may be effectively multiplexed and sequenced. Data are further processed using standard, freely available bioinformatic tools, producing phase-resolved sequences. The approach does not require barcoded PCR primers, and the cost of library preparation is independent of the number of markers investigated. We hope that this approach will be of broad interest for researchers working at the interface of population genetics and phylogenetics, exploring deep intraspecific genetic structure, species boundaries and phylogeographies of closely related species.
+UR - http://doi.wiley.com/10.1111/1755-0998.12171
+ER -
+

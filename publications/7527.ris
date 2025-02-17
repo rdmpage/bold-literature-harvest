@@ -1,0 +1,23 @@
+TY - JOUR
+ID - n/a
+A1 - Mehrdad Hajibabaei, Jennifer L Spall, Shadi Shokralla and Steven van Konynenburg
+Y1 - 2012
+T1 - Assessing biodiversity of a freshwater benthic macroinvertebrate community through non-destructive environmental barcoding of DNA from preservative ethanol
+JA - BMC Ecology
+VL - 12
+IS - 28
+SP - 28
+U1 - 10.1186/1472-6785-12-28(DOI)
+U1 - User submitted
+N2 - Background
+
+Characterizing biodiversity in a habitat or in targeted taxonomically or socioeconomically important groups remains a challenge. Standard DNA-based biodiversity identification tools such as DNA barcoding coupled with high-throughput Next-Generation Sequencing (NGS) technologies are rapidly changing the landscape of biodiversity analysis by targeting various habitats and a wide array of organisms. However, effective use of these technological advances requires optimized protocols and benchmarking against traditional tools. Here we investigate the use of commonly used preservative ethanol as a non-destructive and inexpensive source of DNA for NGS biodiversity analysis of benthic macroinvertebrates. We used the preservative ethanol added to field collected organisms (live sorted bulk benthic samples) as a source of community DNA for NGS environmental barcoding. We directly compare this approach with a DNA barcode library generated using Sanger sequencing of all individuals separated from benthic sample as well as with NGS environmental barcoding of DNA extracted from mixed/homogenized tissue specimens of the same benthic sample. We also evaluate a multiplex PCR strategy, as compared to commonly used single amplicon workflow, using three newly designed primer sets targeting a wide array of benthic macroinvertebrate taxa.
+Results
+
+Our results indicate the effectiveness of ethanol-based DNA in providing sequence information from 87% of taxa identified individually from mixture as compared to 89% in conventional tissue extracted DNA. Missing taxa in both DNA sources were from species with the lowest abundance (e.g. 1 individual) in the benthic mixture. Interestingly, we achieved 100% detection for taxa represented with more than 1% individuals in the mixture in both sources of DNA. Our multiplex amplification regime increased the detection as compared to any single primer set indicating the usefulness of using multiple primer sets in initial amplification of target genes.
+Conclusions
+
+Although NGS approaches have significantly increased the potential of using DNA information in biodiversity analysis, robust methods are needed to provide reliable data and alleviate sample-processing bottlenecks. Here we coupled non-destructive DNA access and a multiplex PCR approach in NGS environmental barcoding for effective data generation from benthic live-sorted samples collected in bulk and preserved in ethanol. Our study provides a possible solution to sampling and vouchering challenges in using benthic samples through next-generation environmental barcoding and facilitates wider utility of DNA information, especially species-specific DNA barcodes, in ecological and environmental studies and real-world applications such as biomonitoring programs.
+UR - http://www.biomedcentral.com/content/pdf/1472-6785-12-28.pdf
+ER -
+

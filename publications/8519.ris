@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Zuzarte, Philip C.; Denroche, Robert E.; Fehringer, Gordon; Katzov-Eckert, Hagit; Hung, Rayjean J.; McPherson, John D.
+T1 - A Two-Dimensional Pooling Strategy for Rare Variant Detection on Next-Generation Sequencing Platforms
+JA - PLoS ONE
+VL - 9
+IS - 4
+SP - e93455
+U1 - 10.1371/journal.pone.0093455(DOI)
+N2 - We describe a method for pooling and sequencing DNA from a large number of individual samples while preserving information regarding sample identity. DNA from 576 individuals was arranged into four 12 row by 12 column matrices and then pooled by row and by column resulting in 96 total pools with 12 individuals in each pool. Pooling of DNA was carried out in a two-dimensional fashion, such that DNA from each individual is present in exactly one row pool and exactly one column pool. By considering the variants observed in the rows and columns of a matrix we are able to trace rare variants back to the specific individuals that carry them. The pooled DNA samples were enriched over a 250 kb region previously identified by GWAS to significantly predispose individuals to lung cancer. All 96 pools (12 row and 12 column pools from 4 matrices) were barcoded and sequenced on an Illumina HiSeq 2000 instrument with an average depth of coverage greater than 4,000×. Verification based on Ion PGM sequencing confirmed the presence of 91.4% of confidently classified SNVs assayed. In this way, each individual sample is sequenced in multiple pools providing more accurate variant calling than a single pool or a multiplexed approach. This provides a powerful method for rare variant detection in regions of interest at a reduced cost to the researcher.
+UR - http://dx.plos.org/10.1371/journal.pone.0093455
+ER -
+

@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Svensson, J. Peter; Quirós Pesudo, Laia; McRee, Siobhan K.; Adeleye, Yeyejide; Carmichael, Paul; Samson, Leona D.
+T1 - Genomic Phenotyping by Barcode Sequencing Broadly Distinguishes between Alkylating Agents, Oxidizing Agents, and Non-Genotoxic Agents, and Reveals a Role for Aromatic Amino Acids in Cellular Recovery after Quinone Exposure
+JA - PLoS ONE
+VL - 8
+IS - 9
+SP - e73736
+U1 - 10.1371/journal.pone.0073736(DOI)
+N2 - Toxicity screening of compounds provides a means to identify compounds harmful for human health and the environment. Here, we further develop the technique of genomic phenotyping to improve throughput while maintaining specificity. We exposed cells to eight different compounds that rely on different modes of action: four genotoxic alkylating (methyl methanesulfonate (MMS), N-Methyl-N-nitrosourea (MNU), N,N′-bis(2-chloroethyl)-N-nitroso-urea (BCNU), N-ethylnitrosourea (ENU)), two oxidizing (2-methylnaphthalene-1,4-dione (menadione, MEN), benzene-1,4-diol (hydroquinone, HYQ)), and two non-genotoxic (methyl carbamate (MC) and dimethyl sulfoxide (DMSO)) compounds. A library of S. cerevisiae 4,852 deletion strains, each identifiable by a unique genetic ‘barcode’, were grown in competition; at different time points the ratio between the strains was assessed by quantitative high throughput ‘barcode’ sequencing. The method was validated by comparison to previous genomic phenotyping studies and 90% of the strains identified as MMS-sensitive here were also identified as MMS-sensitive in a much lower throughput solid agar screen. The data provide profiles of proteins and pathways needed for recovery after both genotoxic and non-genotoxic compounds. In addition, a novel role for aromatic amino acids in the recovery after treatment with oxidizing agents was suggested. The role of aromatic acids was further validated; the quinone subgroup of oxidizing agents were extremely toxic in cells where tryptophan biosynthesis was compromised.
+UR - http://dx.plos.org/10.1371/journal.pone.0073736
+ER -
+

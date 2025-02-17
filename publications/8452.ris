@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Ramirez-Gonzalez, Ricardo; Yu, Douglas W.; Bruce, Catharine; Heavens, Darren; Caccamo, Mario; Emerson, Brent C.
+T1 - PyroClean: Denoising Pyrosequences from Protein-Coding Amplicons for the Recovery of Interspecific and Intraspecific Genetic Variation
+JA - PLoS ONE
+VL - 8
+IS - 3
+SP - e57615
+U1 - 10.1371/journal.pone.0057615(DOI)
+N2 - High-throughput parallel sequencing is a powerful tool for the quantification of microbial diversity through the amplification of nuclear ribosomal gene regions. Recent work has extended this approach to the quantification of diversity within otherwise difficult-to-study metazoan groups. However, nuclear ribosomal genes present both analytical challenges and practical limitations that are a consequence of the mutational properties of nuclear ribosomal genes. Here we exploit useful properties of protein-coding genes for cross-species amplification and denoising of 454 flowgrams. We first use experimental mixtures of species from the class Collembola to amplify and pyrosequence the 5′ region of the COI barcode, and we implement a new algorithm called PyroClean for the denoising of Roche GS FLX pyrosequences. Using parameter values from the analysis of experimental mixtures, we then analyse two communities sampled from field sites on the island of Tenerife. Cross-species amplification success of target mitochondrial sequences in experimental species mixtures is high; however, there is little relationship between template DNA concentrations and pyrosequencing read abundance. Homopolymer error correction and filtering against a consensus reference sequence reduced the volume of unique sequences to approximately 5% of the original unique raw reads. Filtering of remaining non-target sequences attributed to PCR error, sequencing error, or numts further reduced unique sequence volume to 0.8% of the original raw reads. PyroClean reduces or eliminates the need for an additional, time-consuming step to cluster reads into Operational Taxonomic Units, which facilitates the detection of intraspecific DNA sequence variation. PyroCleaned sequence data from field sites in Tenerife demonstrate the utility of our approach for quantifying evolutionary diversity and its spatial structure. Comparison of our sequence data to public databases reveals that we are able to successfully recover both interspecific and intraspecific sequence diversity.
+UR - http://dx.plos.org/10.1371/journal.pone.0057615
+ER -
+

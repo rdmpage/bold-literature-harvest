@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Paul Hebert, Dan Bock, Sean Prosser
+Y1 - 2022
+T1 - Interrogating 1000 Insect Genomes for NUMTs: A Risk Assessment for Species Scans
+JA -  Authorea
+VL - 1
+IS - 1
+SP - 49
+U1 - https://doi.org/10.22541/au.165893766.64488370/v1(DOI)
+U1 - User submitted
+N2 - The nuclear genomes of most animal species include segments of the mitogenome, but the count of these NUMTs varies greatly. This study examines the incidence of NUMTs derived from a 658 bp region of the cytochrome c oxidase I (COI) gene as a proxy for other coding regions of the mitochondrial genome. Analysis focuses on the most diverse group of terrestrial organisms, insects, because COI-based identification systems play a key role in clarifying their diversity, an essential antecedent to genome sequencing. Nearly 10,000 COI NUMTs ≥ 100 bp were detected in the genomes of 1,002 insect species with a range from 0–443. NUMT counts were similar among congeners, but differences among genera in a family were often large with genome size explaining 56% of the mitogenome-wide variation in counts. While many of these NUMTs possessed an indel or premature stop codon allowing their exclusion, the others could complicate species diagnosis as they averaged 10.1% divergence from their mitochondrial homologue. The count of NUMTs varies widely among insect lineages, peaking in groups that employ direct development or incomplete metamorphosis. They can raise the apparent species count by up to 22% when the 658 bp barcode region is examined while shorter targets (300 bp, 150 bp) elevate exposure (58–111%) to “ghost” species. As a result, NUMTs represent a particular complication for protocols (e.g., eDNA, metabarcoding) which employ short amplicons for biodiversity assessments.
+ER -
+

@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Quail, Michael A; Smith, Miriam; Jackson, David; Leonard, Steven; Skelly, Thomas; Swerdlow, Harold P; Gu, Yong; Ellis, Peter
+T1 - SASI-Seq: sample assurance Spike-Ins, and highly differentiating 384 barcoding for Illumina sequencing
+JA - BMC Genomics
+VL - 15
+IS - 1
+SP - 110
+U1 - 10.1186/1471-2164-15-110(DOI)
+N2 - Background: A minor but significant fraction of samples subjected to next-generation sequencing methods are either mixed-up or cross-contaminated. These events can lead to false or inconclusive results. We have therefore developed SASI-Seq; a process whereby a set of uniquely barcoded DNA fragments are added to samples destined for sequencing. From the final sequencing data, one can verify that all the reads derive from the original sample(s) and not from contaminants or other samples. 
+
+Results: By adding a mixture of three uniquely barcoded amplicons, of different sizes spanning the range of insert sizes one would normally use for Illumina sequencing, at a spike-in level of approximately 0.1%, we demonstrate that these fragments remain intimately associated with the sample. They can be detected following even the tightest size selection regimes or exome enrichment and can report the occurrence of sample mix-ups and cross-contamination. As a consequence of this work, we have designed a set of 384 eleven-base Illumina barcode sequences that are at least 5 changes apart from each other, allowing for single-error correction and very low levels of barcode misallocation due to sequencing error. 
+
+Conclusion: SASI-Seq is a simple, inexpensive and flexible tool that enables sample assurance, allows deconvolution of sample mix-ups and reports levels of cross-contamination between samples throughout NGS workflows.
+UR - http://www.biomedcentral.com/1471-2164/15/110
+ER -
+

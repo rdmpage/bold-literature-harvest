@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Massimiliano Virgilio, Thierry Backeljau, Bruno Nevado and Marc De Meyer
+Y1 - 2010
+T1 - Comparative performances of DNA barcoding across insect orders
+JA - BMC Bioinformatics
+VL - 11
+IS - 1
+SP - 206
+U1 - 10.1186/1471-2105-11-206(DOI)
+U1 - User submitted
+N2 - BACKGROUND:Previous studies on insect DNA barcoding provide contradictory results and suggest not consistent performances across orders. This work aims at providing a general evaluation of insect DNA barcoding and "mini-barcoding" by performing simulations on a large database of 15,948 DNA barcodes. We compared the proportions of correctly identified queries across a) six insect orders (Coleoptera, Diptera, Hemiptera, Hymenoptera, Lepidoptera and Orthoptera), b) four identification criteria (Best Match: BM; Best Close Match: BCM; All Species Barcodes: ASB; tree-based identification: NJT), and c) reference databases with different taxon coverage (100, 500, 1,000, 1,500 and 1,995 insect species). RESULTS:Analysis of variance revealed highly significant differences among ID criteria and insect orders. A posteriori comparisons of means showed that NJT had always a significantly lower identification success (NJT = 0.656, S.D. = 0.118) compared to both BM and BCM (BM = 0.948, S.D. = 0.026; BCM = 0.946, S.D. = 0.031). NJT showed significant variations among orders, with the highest proportion of correctly identified queries in Hymenoptera and Orthoptera and the lowest in Diptera. Conversely, the proportions of correct matches of BM and BCM were consistent across orders but a progressive increase in false identification was observed when larger reference databases were used. CONCLUSIONS:Regardless the relatively low proportion of Type I errors (misidentification of queries which are represented in the reference database) of BM and BCM, the lack of reference DNA barcodes for 98% of the known insect species implies that insect DNA barcoding is heavily biased by Type II errors (misidentification of queries without conspecifics in the database). The detrimental effects of Type II errors could be circumvented if insect DNA barcoding is used to verify the lack of correspondence between a query and a list of properly referenced target species (e.g. insect pests). This "negative identification" would only be subjected to Type I errors and could be profitably adopted in insect quarantine procedures.
+UR - http://www.biomedcentral.com/1471-2105/11/206
+ER -
+

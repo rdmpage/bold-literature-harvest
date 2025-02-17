@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Shental, N.; Amir, A.; Zuk, O.
+T1 - Identification of rare alleles and their carriers using compressed se(que)nsing
+JA - Nucleic Acids Research
+VL - 38
+IS - 19
+SP - e179
+EP - e179
+U1 - 10.1093/nar/gkq675(DOI)
+N2 - Identification of rare variants by resequencing is important both for detecting novel variations and for screening individuals for known disease alleles. New technologies enable low-cost resequencing of target regions, although it is still prohibitive to test more than a few individuals. We propose a novel pooling design that enables the recovery of novel or known rare alleles and their carriers in groups of individuals. The method is based on a Compressed Sensing (CS) approach, which is general, simple and efficient. CS allows the use of generic algorithmic tools for simultaneous identification of multiple variants and their carriers. We model the experimental procedure and show via computer simulations that it enables the recovery of rare alleles and their carriers in larger groups than were possible before. Our approach can also be combined with barcoding techniques to provide a feasible solution based on current resequencing costs. For example, when targeting a small enough genomic region (∼100 bp) and using only ∼10 sequencing lanes and ∼10 distinct barcodes per lane, one recovers the identity of 4 rare allele carriers out of a population of over 4000 individuals. We demonstrate the performance of our approach over several publicly available experimental data sets.
+UR - http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkq675
+ER -
+

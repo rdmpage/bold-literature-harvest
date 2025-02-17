@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Tu, Jing; Ge, Qinyu; Wang, Shengqin; Wang, Lei; Sun, Beili; Yang, Qi; Bai, Yunfei; Lu, Zuhong
+T1 - Pair-barcode high-throughput sequencing for large-scale multiplexed sample analysis
+JA - BMC Genomics
+VL - 13
+IS - 1
+SP - 43
+U1 - 10.1186/1471-2164-13-43(DOI)
+N2 - Background: The multiplexing becomes the major limitation of the next-generation sequencing (NGS) in application to low complexity samples. Physical space segregation allows limited multiplexing, while the existing barcode approach only permits simultaneously analysis of up to several dozen samples. 
+
+Results: Here we introduce pair-barcode sequencing (PBS), an economic and flexible barcoding technique that permits parallel analysis of large-scale multiplexed samples. In two pilot runs using SOLiD sequencer (Applied Biosystems Inc.), 32 independent pair-barcoded miRNA libraries were simultaneously discovered by the combination of 4 unique forward barcodes and 8 unique reverse barcodes. Over 174,000,000 reads were generated and about 64% of them are assigned to both of the barcodes. After mapping all reads to pre-miRNAs in miRBase, different miRNA expression patterns are captured from the two clinical groups. The strong correlation using different barcode pairs and the high consistency of miRNA expression in two independent runs demonstrates that PBS approach is valid. 
+
+Conclusions: By employing PBS approach in NGS, large-scale multiplexed pooled samples could be practically analyzed in parallel so that high-throughput sequencing economically meets the requirements of samples which are low sequencing throughput demand.
+UR - http://www.biomedcentral.com/1471-2164/13/43
+ER -
+

@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Galan, Maxime; Guivier, Emmanuel; Caraux, Gilles; Charbonnel, Nathalie; Cosson, Jean-Francois
+T1 - A 454 multiplex sequencing method for rapid and reliable genotyping of highly polymorphic genes in large-scale studies
+JA - BMC Genomics
+VL - 11
+IS - 1
+SP - 296
+U1 - 10.1186/1471-2164-11-296(DOI)
+N2 - Background: High-throughput sequencing technologies offer new perspectives for biomedical, agronomical and evolutionary research. Promising progresses now concern the application of these technologies to large-scale studies of genetic variation. Such studies require the genotyping of high numbers of samples. This is theoretically possible using 454 pyrosequencing, which generates billions of base pairs of sequence data. However several challenges arise: first in the attribution of each read produced to its original sample, and second, in bioinformatic analyses to distinguish true from artifactual sequence variation. This pilot study proposes a new application for the 454 GS FLX platform, allowing the individual genotyping of thousands of samples in one run. A probabilistic model has been developed to demonstrate the reliability of this method. 
+
+Results: DNA amplicons from 1,710 rodent samples were individually barcoded using a combination of tags located in forward and reverse primers. Amplicons consisted in 222 bp fragments corresponding to DRB exon 2, a highly polymorphic gene in mammals. A total of 221,789 reads were obtained, of which 153,349 were finally assigned to original samples. Rules based on a probabilistic model and a four-step procedure, were developed to validate sequences and provide a confidence level for each genotype. The method gave promising results, with the genotyping of DRB exon 2 sequences for 1,407 samples from 24 different rodent species and the sequencing of 392 variants in one half of a 454 run. Using replicates, we estimated that the reproducibility of genotyping reached 95%. 
+
+Conclusions: This new approach is a promising alternative to classical methods involving electrophoresis-based techniques for variant separation and cloning-sequencing for sequence determination. The 454 system is less costly and time consuming and may enhance the reliability of genotypes obtained when high numbers of samples are studied. It opens up new perspectives for the study of evolutionary and functional genetics of highly polymorphic genes like major histocompatibility complex genes in vertebrates or loci regulating self-compatibility in plants. Important applications in biomedical research will include the detection of individual variation in disease susceptibility. Similarly, agronomy will benefit from this approach, through the study of genes implicated in productivity or disease susceptibility traits.
+UR - http://www.biomedcentral.com/1471-2164/11/296
+ER -
+

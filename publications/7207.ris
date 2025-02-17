@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Julia C. Engelmann, Sven Rahmann, Matthias Wolf, Jörg Schultz, Epameinondas Fritzilas, Susanne Kneitz, Thomas Dandekar and Tobias Müller
+Y1 - 2009
+T1 - Modelling cross-hybridization on phylogenetic DNA microarrays increases the detection power of closely related species
+JA - Molecular Ecology Resources
+VL - 9
+IS - 1
+SP - 83
+EP - 93
+U1 - 10.1111/j.1755-0998.2008.02199.x(DOI)
+U1 - User submitted
+N2 - DNA microarrays are a popular technique for the detection of microorganisms. Several approaches using specific oligomers targeting one or a few marker genes for each species have been proposed. Data analysis is usually limited to call a species present when its oligomer exceeds a certain intensity threshold. While this strategy works reasonably well for distantly related species, it does not work well for very closely related species: Cross-hybridization of nontarget DNA prevents a simple identification based on signal intensity. The majority of species of the same genus has a sequence similarity of over 90%. For biodiversity studies down to the species level, it is therefore important to increase the detection power of closely related species. We propose a simple, cost-effective and robust approach for biodiversity studies using DNA microarray technology and demonstrate it on scenedesmacean green algae. The internal transcribed spacer 2 (ITS2) rDNA sequence was chosen as marker because it is suitable to distinguish all eukaryotic species even though parts of it are virtually identical in closely related species. We show that by modelling hybridization behaviour with a matrix algebra approach, we are able to identify closely related species that cannot be distinguished with a threshold on signal intensity. Thus this proof-of-concept study shows that by adding a simple and robust data analysis step to the evaluation of DNA microarrays, species detection can be significantly improved for closely related species with a high sequence similarity.
+ER -
+

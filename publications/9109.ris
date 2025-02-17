@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Mogno, I.; Kwasnieski, J. C.; Cohen, B. A.
+T1 - Massively parallel synthetic promoter assays reveal the in vivo effects of binding site variants
+JA - Genome Research
+VL - 23
+IS - 11
+SP - 1908
+EP - 1915
+U1 - 10.1101/gr.157891.113(DOI)
+N2 - Gene promoters typically contain multiple transcription factor binding sites (TFBSs), which may vary in affinity for their cognate transcription factors (TFs). One major challenge in studying cis-regulation is to understand how TFBS variants affect gene expression. We studied the in vivo effects of TFBS variants on cis-regulation using synthetic promoters coupled with a thermodynamic model of TF binding. We measured expression driven by each promoter with RNA-seq of transcribed sequence barcodes. This allowed reporter genes to be highly multiplexed and increased our statistical power to detect the effects of TFBS variants. We analyzed the effects of TFBS variants using a thermodynamic framework that models both TF-DNA interactions and TF-TF interactions. We found that this system accurately estimates the in vivo relative affinities of TFBSs and predicts unexpected interactions between several TFBSs. Our results reveal that binding site variants can have complex effects on gene expression due to differences in TFBS affinity for cognate TFs and differences in TFBS specificity for noncognate TFs.
+UR - http://genome.cshlp.org/cgi/doi/10.1101/gr.157891.113
+ER -
+

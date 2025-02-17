@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Paula Arribas,  Carmelo Andújar,  Kristine Bohmann,  Jeremy R deWaard, Evan P Economo,  Vasco Elbrecht,  Stefan Geisen,  Marta Goberna, Henrik Krehenwinkel,  Vojtech Novotny,  Lucie Zinger,  Thomas J Creedy, Emmanouil Meramveliotakis,  Víctor Noguerales,  Isaac Overcast, Hélène Morlon,  Anna Papadopoulou,  Alfried P Vogler,  Brent C Emerson
+Y1 - 2022
+T1 - Toward global integration of biodiversity big data: a harmonized metabarcode data generation module for terrestrial arthropods
+JA - GigaScience
+VL - 11
+IS - 1
+SP - 12
+U1 - 10.1093/gigascience/giac065(DOI)
+U1 - User submitted
+N2 - Metazoan metabarcoding is emerging as an essential strategy for inventorying biodiversity, with diverse projects currently generating massive quantities of community-level data. The potential for integrating across such data sets offers new opportunities to better understand biodiversity and how it might respond to global change. However, large-scale syntheses may be compromised if metabar- coding workflows differ from each other. There are ongoing efforts to improve standardization for the reporting of inventory data. However, harmonization at the stage of generating metabarcode data has yet to be addressed. A modular framework for harmonized data generation offers a pathway to navigate the complex structure of terrestrial metazoan biodiversity. Here, through our collective expertise as practitioners, method developers, and researchers leading metabarcoding initiatives to inventory terrestrial biodiversity, we seek to initiate a harmonized framework for metabarcode data generation, with a terrestrial arthropod module. We develop an initial set of submodules covering the 5 main steps of metabarcode data generation: (i) sample acquisition; (ii) sample processing; (iii) DNA extraction; (iv) polymerase chain reaction amplification, library preparation, and sequencing; and (v) DNA sequence and metadata deposition, providing a backbone for a terrestrial arthropod module. To achieve this, we (i) identified key points for har- monization, (ii) reviewed the current state of the art, and (iii) distilled existing knowledge within submodules, thus promoting best practice by providing guidelines and recommendations to reduce the universe of methodological options. We advocate the adoption and further development of the terrestrial arthropod module. We further encourage the development of modules for other biodiversity fractions as an essential step toward large-scale biodiversity synthesis through harmonization.
+ER -
+

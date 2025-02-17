@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Matthew G. Links, Tim J. Dumonceaux, Sean M. Hemmingsen and Janet E. Hill
+Y1 - 2012
+T1 - The Chaperonin-60 Universal Target Is a Barcode for Bacteria That Enables De Novo Assembly of Metagenomic Sequence Data
+JA - PLoS ONE
+VL - 7
+IS - 11
+SP - e49755
+U1 - 10.1371/journal.pone.0049755(DOI)
+U1 - User submitted
+N2 - Barcoding with molecular sequences is widely used to catalogue eukaryotic biodiversity. Studies investigating the community dynamics of microbes have relied heavily on gene-centric metagenomic profiling using two genes (16S rRNA and cpn60) to identify and track Bacteria. While there have been criteria formalized for barcoding of eukaryotes, these criteria have not been used to evaluate gene targets for other domains of life. Using the framework of the International Barcode of Life we evaluated DNA barcodes for Bacteria. Candidates from the 16S rRNA gene and the protein coding cpn60 gene were evaluated. Within complete bacterial genomes in the public domain representing 983 species from 21 phyla, the largest difference between median pairwise inter- and intra-specific distances (“barcode gap”) was found from cpn60. Distribution of sequence diversity along the ~555 bp cpn60 target region was remarkably uniform. The barcode gap of the cpn60 universal target facilitated the faithful de novo assembly of full-length operational taxonomic units from pyrosequencing data from a synthetic microbial community. Analysis supported the recognition of both 16S rRNA and cpn60 as DNA barcodes for Bacteria. The cpn60 universal target was found to have a much larger barcode gap than 16S rRNA suggesting cpn60 as a preferred barcode for Bacteria. A large barcode gap for cpn60 provided a robust target for species-level characterization of data. The assembly of consensus sequences for barcodes was shown to be a reliable method for the identification and tracking of novel microbes in metagenomic studies.
+UR - http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0049755
+ER -
+

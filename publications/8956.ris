@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Kenny, E. M.; Cormican, P.; Gilks, W. P.; Gates, A. S.; O'Dushlaine, C. T.; Pinto, C.; Corvin, A. P.; Gill, M.; Morris, D. W.
+T1 - Multiplex Target Enrichment Using DNA Indexing for Ultra-High Throughput SNP Detection
+JA - DNA Research
+VL - 18
+IS - 1
+SP - 31
+EP - 38
+U1 - 10.1093/dnares/dsq029(DOI)
+N2 - Screening large numbers of target regions in multiple DNA samples for sequence variation is an important application of next-generation sequencing but an efficient method to enrich the samples in parallel has yet to be reported. We describe an advanced method that combines DNA samples using indexes or barcodes prior to target enrichment to facilitate this type of experiment. Sequencing libraries for multiple individual DNA samples, each incorporating a unique 6-bp index, are combined in equal quantities, enriched using a single in-solution target enrichment assay and sequenced in a single reaction. Sequence reads are parsed based on the index, allowing sequence analysis of individual samples. We show that the use of indexed samples does not impact on the efficiency of the enrichment reaction. For three- and nine-indexed HapMap DNA samples, the method was found to be highly accurate for SNP identification. Even with sequence coverage as low as 8x, 99% of sequence SNP calls were concordant with known genotypes. Within a single experiment, this method can sequence the exonic regions of hundreds of genes in tens of samples for sequence and structural variation using as little as 1 μg of input DNA per sample.
+UR - http://dnaresearch.oxfordjournals.org/cgi/doi/10.1093/dnares/dsq029
+ER -
+

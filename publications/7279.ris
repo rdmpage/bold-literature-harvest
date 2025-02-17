@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - N. Puillandre, P. Bouchet, M.-C. Boisselier-Dubayle, J. Brisset, B. Buge, M. Castelin, S. Chagnoux, T. Christophe, L. Corbari, J. LambourdiÃ¨Re, P. Lozouet, G. Marani, A. Rivasseau, N. Silva, Y. Terryn, S. Tillier, J. Utge and S. Samadi
+Y1 - 2012
+T1 - New taxonomy and old collections: integrating DNA barcoding into the collection curation process
+JA - Molecular Ecology Resources
+VL - 12
+IS - 3
+SP - 396
+EP - 402
+U1 - 10.1111/j.1755-0998.2011.03105.x(DOI)
+U1 - User submitted
+N2 - Because they house large biodiversity collections and are also research centres with sequencing facilities, natural history museums are well placed to develop DNA barcoding best practices. The main difficulty is generally the vouchering system: it must ensure that all data produced remain attached to the corresponding specimen, from the field to publication in articles and online databases. The Museum National d’Histoire Naturelle in Paris is one of the leading laboratories in the Marine Barcode of Life (MarBOL) project, which was used as a pilot programme to include barcode collections for marine molluscs and crustaceans. The system is based on two relational databases. The first one classically records the data (locality and identification) attached to the specimens. In the second one, tissue-clippings, DNA extractions (both preserved in 2D barcode tubes) and PCR data (including primers) are linked to the corresponding specimen. All the steps of the process [sampling event, specimen identification, molecular processing, data submission to Barcode Of Life Database (BOLD) and GenBank] are thus linked together. Furthermore, we have developed several web-based tools to automatically upload data into the system, control the quality of the sequences produced and facilitate the submission to online databases. This work is the result of a joint effort from several teams in the Museum National d’Histoire Naturelle (MNHN), but also from a collaborative network of taxonomists and molecular systematists outside the museum, resulting in the vouchering so far of &#8764;41 000 sequences and the production of &#8764;11 000 COI sequences.
+ER -
+

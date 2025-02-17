@@ -1,0 +1,18 @@
+TY - JOUR
+ID - pmid_15545254
+A1 - Marcos Pérez-Losada, Georgina Bond-Buckup, Carlos Jara and Keith Crandall
+Y1 - 2004
+T1 - Molecular systematics and biogeography of the southern South american freshwater "crabs" Aegla (decapoda: Anomura: Aeglidae) using multiple heuristic tree search approaches.
+JA - Systematic Biology
+VL - 53
+IS - 5
+SP - 767
+EP - 780
+M1 - 2004-11-16(date received)
+M1 - 2005-02-22(date accepted)
+M1 - 2006-11-15(date revised)
+U1 - 10.1080/10635150490522331(DOI)
+U1 - BOLD.ca
+N2 - Recently new heuristic genetic algorithms such as Treefinder and MetaGA have been developed to search for optimal trees in a maximum likelihood (ML) framework. In this study we combined these methods with other standard heuristic approaches such as ML and maximum parsimony hill-climbing searches and Bayesian inference coupled with Markov chain Monte Carlo techniques under homogeneous and mixed models of evolution to conduct an extensive phylogenetic analysis of the most abundant and widely distributed southern South American freshwater"crab,"the Aegla(Anomura: Aeglidae). A total of 167 samples representing 64 Aegla species and subspecies were sequenced for one nuclear (28S rDNA) and four mitochondrial (12S and 16S rDNA, COI, and COII) genes (5352 bp total). Additionally, six other anomuran species from the genera Munida,Pachycheles, and Uroptychus(Galatheoidea), Lithodes(Paguroidea), and Lomis(Lomisoidea) and the nuclear 18S rDNA gene (1964 bp) were included in preliminary analyses for rooting the Aegla tree. Nonsignificantly different phylogenetic hypotheses resulted from all the different heuristic methods used here, although the best scored topologies found under the ML hill-climbing, Bayesian, and MetaGA approaches showed considerably better likelihood scores (Delta> 54) than those found under the MP and Treefinder approaches. Our trees provided strong support for most of the recognized Aegla species except for A. cholchol,A. jarai,A. parana,A. marginata, A. platensis, and A. franciscana, which may actually represent multiple species. Geographically, the Aegla group was divided into a basal western clade (21 species and subspecies) composed of two subclades with overlapping distributions, and a more recent central-eastern clade (43 species) composed of three subclades with fairly well-recognized distributions. This result supports the Pacific-Origin Hypothesis postulated for the group; alternative hypotheses of Atlantic or multiple origins were significantly rejected by our analyses. Finally, we combined our phylogenetic results with previous hypotheses of South American paleodrainages since the Jurassic to propose a biogeographical framework of the Aegla radiation.
+ER -
+

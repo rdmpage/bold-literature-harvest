@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Fu, G. K.; Xu, W.; Wilhelmy, J.; Mindrinos, M. N.; Davis, R. W.; Xiao, W.; Fodor, S. P. A.
+T1 - Molecular indexing enables quantitative targeted RNA sequencing and reveals poor efficiencies in standard library preparations
+JA - Proceedings of the National Academy of Sciences
+VL - 111
+IS - 5
+SP - 1891
+EP - 1896
+U1 - 10.1073/pnas.1323732111(DOI)
+N2 - We present a simple molecular indexing method for quantitative targeted RNA sequencing, in which mRNAs of interest are selectively captured from complex cDNA libraries and sequenced to determine their absolute concentrations. cDNA fragments are individually labeled so that each molecule can be tracked from the original sample through the library preparation and sequencing process. Multiple copies of cDNA fragments of identical sequence become distinct through labeling, and replicate clones created during PCR amplification steps can be identified and assigned to their distinct parent molecules. Selective capture enables efficient use of sequencing for deep sampling and for the absolute quantitation of rare or transient transcripts that would otherwise escape detection by standard sequencing methods. We have also constructed a set of synthetic barcoded RNA molecules, which can be introduced as controls into the sample preparation mix and used to monitor the efficiency of library construction. The quantitative targeted sequencing revealed extremely low efficiency in standard library preparations, which were further confirmed by using synthetic barcoded RNA molecules. This finding shows that standard library preparation methods result in the loss of rare transcripts and highlights the need for monitoring library efficiency and for developing more efficient sample preparation methods.
+UR - http://www.pnas.org/cgi/doi/10.1073/pnas.1323732111
+ER -
+

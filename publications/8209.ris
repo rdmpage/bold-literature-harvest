@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Talavera, Gerard; Dincă, Vlad; Vila, Roger
+T1 - Factors affecting species delimitations with the GMYC model: insights from a butterfly survey
+JA - Methods in Ecology and Evolution
+VL - 4
+IS - 12
+SP - 1101
+EP - 1110
+U1 - 10.1111/2041-210X.12107(DOI)
+N2 - The generalized mixed Yule-coalescent (GMYC) model has become one of the most popular approaches for species delimitation based on single-locus data, and it is widely used in biodiversity assessments and phylogenetic community ecology. We here examine an array of factors affecting GMYC resolution (tree reconstruction method, taxon sampling coverage/taxon richness and geographic sampling intensity/geographic scale).We test GMYC performance based on empirical data (DNA barcoding of the Romanian butterflies) on a solid taxonomic framework (i.e. all species are thought to be described and can be determined with independent sources of evidence). The data set is comprehensive (176 species), and intensely and homogeneously sampled (1303 samples representing the main populations of butterflies in this country). Taxonomy was assessed based on morphology, including linear and geometric morphometry when needed.The number of GMYC entities obtained constantly exceeds the total number of morphospecies in the data set. We show that c. 80% of the species studied are recognized as entities by GMYC. Interestingly, we show that this percentage is practically the maximum that a single-threshold method can provide for this data set. Thus, the c. 20% of failures are attributable to intrinsic properties of the COI polymorphism: overlap in inter- and intraspecific divergences and non-monophyly of the species likely because of introgression or lack of independent lineage sorting.Our results demonstrate that this method is remarkably stable under a wide array of circumstances, including most phylogenetic reconstruction methods, high singleton presence (up to 95%), taxon richness (above five species) and the presence of gaps in intraspecific sampling coverage (removal of intermediate haplotypes). Hence, the method is useful to designate an optimal divergence threshold in an objective manner and to pinpoint potential cryptic species that are worth being studied in detail. However, the existence of a substantial percentage of species wrongly delimited indicates that GMYC cannot be used as sufficient evidence for evaluating the specific status of particular cases without additional data.Finally, we provide a set of guidelines to maximize efficiency in GMYC analyses and discuss the range of studies that can take advantage of the method.
+UR - http://doi.wiley.com/10.1111/2041-210X.12107
+ER -
+

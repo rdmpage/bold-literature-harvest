@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Van Nieuwerburgh, Filip; Soetaert, Sandra; Podshivalova, Katie; Ay-Lin Wang, Eileen; Schaffer, Lana; Deforce, Dieter; Salomon, Daniel R.; Head, Steven R.; Ordoukhanian, Phillip
+T1 - Quantitative Bias in Illumina TruSeq and a Novel Post Amplification Barcoding Strategy for Multiplexed DNA and Small RNA Deep Sequencing
+JA - PLoS ONE
+VL - 6
+IS - 10
+SP - e26969
+U1 - 10.1371/journal.pone.0026969(DOI)
+N2 - Here we demonstrate a method for unbiased multiplexed deep sequencing of RNA and DNA libraries using a novel, efficient and adaptable barcoding strategy called Post Amplification Ligation-Mediated (PALM). PALM barcoding is performed as the very last step of library preparation, eliminating a potential barcode-induced bias and allowing the flexibility to synthesize as many barcodes as needed. We sequenced PALM barcoded micro RNA (miRNA) and DNA reference samples and evaluated the quantitative barcode-induced bias in comparison to the same reference samples prepared using the Illumina TruSeq barcoding strategy. The Illumina TruSeq small RNA strategy introduces the barcode during the PCR step using differentially barcoded primers, while the TruSeq DNA strategy introduces the barcode before the PCR step by ligation of differentially barcoded adaptors. Results show virtually no bias between the differentially barcoded miRNA and DNA samples, both for the PALM and the TruSeq sample preparation methods. We also multiplexed miRNA reference samples using a pre-PCR barcode ligation. This barcoding strategy results in significant bias.
+UR - http://dx.plos.org/10.1371/journal.pone.0026969
+ER -
+

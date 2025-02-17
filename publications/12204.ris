@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Munch, K.; Boomsma, W.; Willerslev, E.; Nielsen, R.
+T1 - Fast phylogenetic DNA barcoding
+JA - Philosophical Transactions of the Royal Society B: Biological Sciences
+VL - 363
+IS - 1512
+SP - 3997
+EP - 4002
+U1 - 10.1098/rstb.2008.0169(DOI)
+N2 - We present a heuristic approach to the DNA assignment problem based on phylogenetic inferences using constrained neighbour joining and non-parametric bootstrapping. We show that this method performs as well as the more computationally intensive full Bayesian approach in an analysis of 500 insect DNA sequences obtained from GenBank. We also analyse a previously published dataset of environmental DNA sequences from soil from New Zealand and Siberia, and use these data to illustrate the fact that statistical approaches to the DNA assignment problem allow for more appropriate criteria for determining the taxonomic level at which a particular DNA sequence can be assigned.
+UR - http://rstb.royalsocietypublishing.org/cgi/doi/10.1098/rstb.2008.0169
+ER -
+

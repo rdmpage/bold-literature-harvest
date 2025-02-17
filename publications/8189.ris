@@ -1,0 +1,11 @@
+TY - JOUR
+ID - n/a
+A1 - Stoeckle, Mark Y.; Coffran, Cameron
+T1 - TreeParser-Aided Klee Diagrams Display Taxonomic Clusters in DNA Barcode and Nuclear Gene Datasets
+JA - Scientific Reports
+VL - 3
+U1 - 10.1038/srep02635(DOI)
+N2 - Indicator vector analysis of a nucleotide sequence alignment generates a compact heat map, called a Klee diagram, with potential insight into clustering patterns in evolution. However, so far this approach has examined only mitochondrial cytochrome c oxidase I (COI) DNA barcode sequences. To further explore, we developed TreeParser, a freely-available web-based program that sorts a sequence alignment according to a phylogenetic tree generated from the dataset. We applied TreeParser to nuclear gene and COI barcode alignments from birds and butterflies. Distinct blocks in the resulting Klee diagrams corresponded to species and higher-level taxonomic divisions in both groups, and this enabled graphic comparison of phylogenetic information in nuclear and mitochondrial genes. Our results demonstrate TreeParser-aided Klee diagrams objectively display taxonomic clusters in nucleotide sequence alignments. This approach may help establish taxonomy in poorly studied groups and investigate higher-level clustering which appears widespread but not well understood.
+UR - http://www.nature.com/doifinder/10.1038/srep02635
+ER -
+

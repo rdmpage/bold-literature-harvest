@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Caporaso, J Gregory; Lauber, Christian L; Walters, William A; Berg-Lyons, Donna; Huntley, James; Fierer, Noah; Owens, Sarah M; Betley, Jason; Fraser, Louise; Bauer, Markus; Gormley, Niall; Gilbert, Jack A; Smith, Geoff; Knight, Rob
+T1 - Ultra-high-throughput microbial community analysis on the Illumina HiSeq and MiSeq platforms
+JA - The ISME Journal
+VL - 6
+IS - 8
+SP - 1621
+EP - 1624
+U1 - 10.1038/ismej.2012.8(DOI)
+N2 - DNA sequencing continues to decrease in cost with the Illumina HiSeq2000 generating up to 600 Gb of paired-end 100 base reads in a ten-day run. Here we present a protocol for community amplicon sequencing on the HiSeq2000 and MiSeq Illumina platforms, and apply that protocol to sequence 24 microbial communities from host-associated and free-living environments. A critical question as more sequencing platforms become available is whether biological conclusions derived on one platform are consistent with what would be derived on a different platform. We show that the protocol developed for these instruments successfully recaptures known biological results, and additionally that biological conclusions are consistent across sequencing platforms (the HiSeq2000 versus the MiSeq) and across the sequenced regions of amplicons.
+UR - http://www.nature.com/doifinder/10.1038/ismej.2012.8
+ER -
+

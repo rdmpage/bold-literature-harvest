@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Kim, Sungmin; Kim, Chang-Bae; Min, Gi-Sik; Suh, Youngbae; Bhak, Jong; Woo, Taeha; Koo, Hyeyoung; Choi, Jun-Kil; Shin, Mann Kyoon; Jung, Jongwoo; Song, Kyo-Hong; Ree, Han-Il; Hwang, Ui Wook; Park, Yungchul; Eo, Hae-Seok; Kim, Joopil; Yoon, Seong Myeong; Rho, Hyun Soo; Kim, Sa Heung; Lee, Hang; Min, Mi-Sook; Kim, Jin Koo; Sim, Chungja; Won, Yong-Jin; Lee, Jongwook; Cho, Soowon; Seo, Ji Eun; Lee, Seunghwan; Song, Jun-Im; Han, Ho-Yeon; Shin, Sook; Song, Sung Joon; Park, Joong-Ki
+T1 - Korea Barcode of Life Database System (KBOL)
+JA - Animal Cells and Systems
+VL - 16
+IS - 1
+SP - 41962
+U1 - 10.1080/19768354.2011.607513(DOI)
+N2 - A major concern regarding the collection and storage of biodiversity information is the inefficiency of conventional taxonomic approaches in dealing with a large number of species. This inefficiency has increased the demand for automated, rapid, and reliable molecular identification systems and large-scale biological databases. DNA-based taxonomic approaches are now arguably a necessity in biodiversity studies. In particular, DNA barcoding using short DNA sequences provides an effective molecular tool for species identification. We constructed a large-scale database system that holds a collection of 5531 barcode sequences from 2429 Korean species. The Korea Barcode of Life database (KBOL, http://koreabarcode.org) is a web-based database system that is used for compiling a high volume of DNA barcode data and identifying unknown biological specimens. With the KBOL system, users can not only link DNA barcodes and biological information but can also undertake conservation activities, including environmental management, monitoring, and detecting significant organisms.
+UR - http://www.tandfonline.com/doi/abs/10.1080/19768354.2011.607513
+ER -
+

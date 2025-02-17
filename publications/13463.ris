@@ -1,0 +1,34 @@
+TY - JOUR
+ID - n/a
+A1 - Jacopo D’Ercole, Sean W.J. Prosser, Paul D.N. Hebert
+Y1 - 2021
+T1 - A SMRT approach for targeted amplicon sequencing of museum specimens (Lepidoptera)—patterns of nucleotide misincorporation
+JA - PeerJ
+VL - 1
+IS - 1
+SP - 18
+U1 - 10.7717/peerj.10420(DOI)
+U1 - User submitted
+N2 - Natural history collections are a valuable resource for molecular taxonomic studies
+and for examining patterns of evolutionary diversification, particularly in the case of
+rare or extinct species. However, the recovery of sequence information is often
+complicated by DNA degradation. This article describes use of the Sequel platform
+(Pacific Biosciences) to recover the 658 bp barcode region of the mitochondrial
+cytochrome c oxidase I (COI) gene from 380 butterflies with an average age of
+50 years. Nested multiplex PCR was employed for library preparation to facilitate
+sequence recovery from extracts with low concentrations of highly degraded DNA.
+By employing circular consensus sequencing (CCS) of short amplicons (circa
+150 bp), full-length barcodes could be assembled without a reference sequence, an
+important advance from earlier protocols which required reference sequences to
+guide contig assembly. The Sequel protocol recovered COI sequences (499 bp on
+average) from 318 of 380 specimens (84%), much higher than for Sanger sequencing
+(26%). Because each read derives from a single molecule, it was also possible to
+quantify the incidence of substitutions arising from DNA damage. In agreement with
+past work on sequence changes induced by DNA degradation, the transition C/G →
+T/A was the most prevalent category of change, but its rate of occurrence (4.58E−4)
+was so low that it did not impede the recovery of reliable sequences. Because the
+current protocol recovers COI sequence from most museum specimens, and because
+sequence fidelity is unaffected by nucleotide misincorporations, large-scale sequence
+characterization of museum specimens is feasible.
+ER -
+

@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Sasakawa, Kôji
+T1 - A Novel Technique for Identifying the Instar of Field-Collected Insect Larvae
+JA - PLoS ONE
+VL - 8
+IS - 2
+SP - e57836
+U1 - 10.1371/journal.pone.0057836(DOI)
+N2 - Many field studies of insects have focused on the adult stage alone, likely because immature stages are unknown in most insect species. Molecular species identification (e.g., DNA barcoding) has helped ascertain the immature stages of many insects, but larval developmental stages (instars) cannot be identified. The identification of the growth stages of collected individuals is indispensable from both ecological and taxonomic perspectives. Using a larval–adult body size relationship across species, I present a novel technique for identifying the instar of field-collected insect larvae that are identified by molecular species identification technique. This method is based on the assumption that classification functions derived from discriminant analyses, performed with larval instar as a response variable and adult and larval body sizes as explanatory variables, can be used to determine the instar of a given larval specimen that was not included in the original data set, even at the species level. This size relationship has been demonstrated in larval instars for many insects (Dyar’s rule), but no attempt has been made to include the adult stage. Analysis of a test data set derived from the beetle family Carabidae (Coleoptera) showed that classification functions obtained from data sets derived from related species had a correct classification rate of 81–100%. Given that no reliable method has been established to identify the instar of field-collected insect larvae, these values may have sufficient accuracy as an analytical method for field-collected samples. The chief advantage of this technique is that the instar can be identified even when only one specimen is available per species if classification functions are determined for groups to which the focal species belongs. Similar classification functions should be created for other insect groups. By using those functions together with molecular species identification, future studies could include larval stages as well as adults.
+UR - http://dx.plos.org/10.1371/journal.pone.0057836
+ER -
+

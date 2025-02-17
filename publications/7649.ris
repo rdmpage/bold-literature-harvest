@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Melanie Lou and G. Brian Golding
+Y1 - 2012
+T1 - The effect of sampling from subdivided populations on species identiﬁcation with DNA barcodes using a Bayesian statistical approach
+JA - Molecular Phylogenetics and Evolution
+VL - 65
+IS - 2
+SP - 765
+EP - 773
+U1 - 10.1016/j.ympev.2012.07.033(DOI)
+U1 - User submitted
+N2 - Barcoding is an initiative to define a standard fragment of DNA to be used to assign sequences of unknown origin to existing known species whose sequences are recorded in databases. This is a difficult task when species are closely related and individuals of these species might have more than one origin. Using a previously introduced Bayesian statistical tree-less assignment algorithm based on segregating sites, we examine how it functions in the presence of hidden population subdivision with closely related species using simulations. Not surprisingly, adding samples to the database from a greater proportion of the species range leads to a consistently higher number of accurate results. Without such samples, query sequences that originate from outside of the sampled range are easily misinterpreted as coming from other species. However, we show that even the addition of a single sample from a different subpopulation is sufficient to greatly increase the probability of placement of unknown queries into the correct species group. This study highlights the importance of broad sampling, even with five reference samples per species, in the creation of a reference database.
+UR - http://www.sciencedirect.com/science/article/pii/S1055790312003090#
+ER -
+

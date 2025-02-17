@@ -1,0 +1,19 @@
+TY - JOUR
+ID - n/a
+A1 - Wooderchak-Donahue, Whitney L; O’Fallon, Brendan; Furtado, Larissa V; Durtschi, Jacob D; Plant, Parker; Ridge, Perry G; Rope, Alan F; Yetman, Angela T; Bayrak-Toydemir, Pinar
+T1 - A direct comparison of next generation sequencing enrichment methods using an aortopathy gene panel- clinical diagnostics perspective
+JA - BMC Medical Genomics
+VL - 5
+IS - 1
+SP - 50
+U1 - 10.1186/1755-8794-5-50(DOI)
+N2 - Background: Aortopathies are a group of disorders characterized by aneurysms, dilation, and tortuosity of the aorta. Because of the phenotypic overlap and genetic heterogeneity of diseases featuring aortopathy, molecular testing is often required for timely and correct diagnosis of affected individuals. In this setting next generation sequencing (NGS) offers several advantages over traditional molecular techniques. 
+
+Methods: The purpose of our study was to compare NGS enrichment methods for a clinical assay targeting the nine genes known to be associated with aortopathy. RainDance emulsion PCR and SureSelect RNA-bait hybridization capture enrichment methods were directly compared by enriching DNA from eight samples. Enriched samples were barcoded, pooled, and sequenced on the Illumina HiSeq2000 platform. Depth of coverage, consistency of coverage across samples, and the overlap of variants identified were assessed. This data was also compared to whole-exome sequencing data from ten individuals. 
+
+Results: Read depth was greater and less variable among samples that had been enriched using the RNA-bait hybridization capture enrichment method. In addition, samples enriched by hybridization capture had fewer exons with mean coverage less than 10, reducing the need for followup Sanger sequencing. Variants sets produced were 77% concordant, with both techniques yielding similar numbers of discordant variants. 
+
+Conclusions: When comparing the design flexibility, performance, and cost of the targeted enrichment methods to whole-exome sequencing, the RNA-bait hybridization capture enrichment gene panel offers the better solution for interrogating the aortopathy genes in a clinical laboratory setting.
+UR - http://www.biomedcentral.com/1755-8794/5/50
+ER -
+

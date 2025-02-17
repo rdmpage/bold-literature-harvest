@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Frédéric Boyer,Céline Mercier,Aurélie Bonin,Yvan Le Bras,Pierre Taberlet,Eric Coissac
+Y1 - 2016
+T1 - obitools: a unix-inspired software package for DNA metabarcoding
+JA - Molecular Ecology Resources
+VL - 16
+IS - 1
+SP - 176–182
+U1 - User submitted
+N2 - DNA metabarcoding offers new perspectives in biodiversity research. This recently developed approach to ecosystem study relies heavily on the use of next-generation sequencing (NGS) and thus calls upon the ability to deal with huge sequence data sets. The obitools package satisfies this requirement thanks to a set of programs specifically designed for analysing NGS data in a DNA metabarcoding context. Their capacity to filter and edit sequences while taking into account taxonomic annotation helps to set up tailor-made analysis pipelines for a broad range of DNA metabarcoding applications, including biodiversity surveys or diet analyses. The obitools package is distributed as an open source software available on the following website: http://metabarcoding.org/obitools. A Galaxy wrapper is available on the GenOuest core facility toolshed: http://toolshed.genouest.org.
+ER -
+

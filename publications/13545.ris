@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Arnaud Goulpeau, Benoit Penel, Marie-Eugénie Maggia, Daniel Fernández Marchán, Dirk Steinke, Mickael Hedde, Thibaud Decaëns
+Y1 - 2022
+T1 - OTU Delimitation with Earthworm DNA Barcodes: A Comparison of Methods
+JA - Diversity
+VL - 14
+IS - 10
+SP - 16
+U1 - 10.3390/d14100866(DOI)
+U1 - User submitted
+N2 - Although DNA barcodes-based operational taxonomic units (OTUs) are increasingly used in earthworm research, the relative efficiency of the different methods available to delimit them has not yet been tested on a comprehensive dataset. For this study, we used three datasets containing 651, 2304 and 4773 COI barcodes of earthworms from French Guiana, respectively, to compare five of these methods: two phylogenetic methods—namely Poisson Tree Processes (PTP) and General Mixed Yule Coalescence (GMYC)—and three distance matrix methods—namely Refined Single Linkage (RESL, used for assigning Barcode Index Numbers in the Barcode of Life Data systems), Automatic Barcode Gap Discovery (ABGD), and Assemble Species by Automatic Partitioning (ASAP). We found that phylogenetic approaches are less suitable for delineating OTUs from DNA barcodes in earthworms, especially for large sets of sequences. The computation times are unreasonable, they often fail to converge, and they also show a strong tendency to oversplit species. Among distance-based methods, RESL also has a clear tendency to oversplitting, while ABGD and ASAP are less prone to mismatches and have short computation times. ASAP requires less a priori knowledge for model parameterisation than AGBD, provides efficient graphical outputs, and has a much lower tendency to generate mismatches.
+ER -
+

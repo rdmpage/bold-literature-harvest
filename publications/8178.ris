@@ -1,0 +1,20 @@
+TY - JOUR
+ID - n/a
+A1 - Collins, Rupert A.; Boykin, Laura M.; Cruickshank, Robert H.; Armstrong, Karen F.
+T1 - Barcoding's next top model: an evaluation of nucleotide substitution models for specimen identification: Model selection in DNA barcoding
+JA - Methods in Ecology and Evolution
+VL - 3
+IS - 3
+SP - 457
+EP - 465
+U1 - 10.1111/j.2041-210X.2011.00176.x(DOI)
+N2 - 1. DNA barcoding studies use Kimura's two-parameter substitution model (K2P) as the de facto standard for constructing genetic distance matrices. Distances generated under this model then provide the basis for most downstream analyses, but uncertainty in model choice is rarely explored and could potentially affect how reliably DNA barcodes discriminate species. 
+
+2. Using information-theoretic approaches for a data set comprising 14 472 DNA barcodes from 14 published studies, we tested whether the K2P model was a good fit at the species level and whether applying a better fitting model biased error rates or changed overall identification success. 
+
+3. We report that the K2P was a poorly fitting model at the species level; it was never selected as the best model and very rarely selected as a credible alternative model. Despite the lack of support for the K2P model, differences in distance between best model and K2P model estimates were usually minimal, and importantly, identification success rates were largely unaffected by model choice even when interspecific threshold values were reassessed. 
+
+4. Although these conclusions may justify using the K2P model for specimen identification purposes, we found simpler metrics such as p distance performed equally well, perhaps obviating the requirement for model correction in DNA barcoding. Conversely, when incorporating genetic distance data into taxonomic studies, we advocate a more thorough examination of model uncertainty.
+UR - http://doi.wiley.com/10.1111/j.2041-210X.2011.00176.x
+ER -
+

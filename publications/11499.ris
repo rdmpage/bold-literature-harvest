@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Kawano, Mitsuoki; Kawazu, Chika; Lizio, Marina; Kawaji, Hideya; Carninci, Piero; Suzuki, Harukazu; Hayashizaki, Yoshihide
+T1 - Reduction of non-insert sequence reads by dimer eliminator LNA oligonucleotide for small RNA deep sequencing
+JA - BioTechniques
+VL - 49
+IS - 4
+SP - 751
+EP - 755
+U1 - 10.2144/000113516(DOI)
+N2 - Here we describe a method for constructing small RNA libraries for highthroughput sequencing in which we have made a significant improvement to commonly available standard protocols. We added a locked nucleic acid (LNA) oligonucleotide—named dimer eliminator—that is complementary to the adapter-dimer ligation products during the reverse transcription reaction. It reduces adapter-dimers, which often contaminate standard libraries and increase the number of non-insert sequence reads. This simple technology can be used for simultaneous multiplex sequencing of various barcoded samples as well as nonbarcoded small RNA library sequencing. In this study we also evaluated the reproducibility and quantitative design of the eight barcoded tags by comparing the Pearson's correlation values in the expression analysis between each barcoded sample. This method improves the sequencing yield and efficiency, while simplifying library construction, and makes it easier to perform large-scale small RNA analysis under multiple conditions with next-generation sequencers.
+UR - http://www.biotechniques.com/article/000113516
+ER -
+

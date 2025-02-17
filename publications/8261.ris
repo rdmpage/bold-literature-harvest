@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Hajibabaei, Mehrdad; Shokralla, Shadi; Zhou, Xin; Singer, Gregory A. C.; Baird, Donald J.
+T1 - Environmental Barcoding: A Next-Generation Sequencing Approach for Biomonitoring Applications Using River Benthos
+JA - PLoS ONE
+VL - 6
+IS - 4
+SP - e17497
+U1 - 10.1371/journal.pone.0017497(DOI)
+N2 - Timely and accurate biodiversity analysis poses an ongoing challenge for the success of biomonitoring programs. Morphology-based identification of bioindicator taxa is time consuming, and rarely supports species-level resolution especially for immature life stages. Much work has been done in the past decade to develop alternative approaches for biodiversity analysis using DNA sequence-based approaches such as molecular phylogenetics and DNA barcoding. On-going assembly of DNA barcode reference libraries will provide the basis for a DNA-based identification system. The use of recently introduced next-generation sequencing (NGS) approaches in biodiversity science has the potential to further extend the application of DNA information for routine biomonitoring applications to an unprecedented scale. Here we demonstrate the feasibility of using 454 massively parallel pyrosequencing for species-level analysis of freshwater benthic macroinvertebrate taxa commonly used for biomonitoring. We designed our experiments in order to directly compare morphology-based, Sanger sequencing DNA barcoding, and next-generation environmental barcoding approaches. Our results show the ability of 454 pyrosequencing of mini-barcodes to accurately identify all species with more than 1% abundance in the pooled mixture. Although the approach failed to identify 6 rare species in the mixture, the presence of sequences from 9 species that were not represented by individuals in the mixture provides evidence that DNA based analysis may yet provide a valuable approach in finding rare species in bulk environmental samples. We further demonstrate the application of the environmental barcoding approach by comparing benthic macroinvertebrates from an urban region to those obtained from a conservation area. Although considerable effort will be required to robustly optimize NGS tools to identify species from bulk environmental samples, our results indicate the potential of an environmental barcoding approach for biomonitoring programs.
+UR - http://dx.plos.org/10.1371/journal.pone.0017497
+ER -
+

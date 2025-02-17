@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Mao, Fenglou; Olman, Victor; Wang, Yan; Xu, Ying
+T1 - Barcode Server: A Visualization-Based Genome Analysis System
+JA - PLoS ONE
+VL - 8
+IS - 2
+SP - e56726
+U1 - 10.1371/journal.pone.0056726(DOI)
+N2 - We have previously developed a computational method for representing a genome as a barcode image, which makes various genomic features visually apparent. We have demonstrated that this visual capability has made some challenging genome analysis problems relatively easy to solve. We have applied this capability to a number of challenging problems, including (a) identification of horizontally transferred genes, (b) identification of genomic islands with special properties and (c) binning of metagenomic sequences, and achieved highly encouraging results. These application results inspired us to develop this barcode-based genome analysis server for public service, which supports the following capabilities: (a) calculation of the k-mer based barcode image for a provided DNA sequence; (b) detection of sequence fragments in a given genome with distinct barcodes from those of the majority of the genome, (c) clustering of provided DNA sequences into groups having similar barcodes; and (d) homology-based search using Blast against a genome database for any selected genomic regions deemed to have interesting barcodes. The barcode server provides a job management capability, allowing processing of a large number of analysis jobs for barcode-based comparative genome analyses. The barcode server is accessible at http://csbl1.bmb.uga.edu/Barcode.
+UR - http://dx.plos.org/10.1371/journal.pone.0056726
+ER -
+

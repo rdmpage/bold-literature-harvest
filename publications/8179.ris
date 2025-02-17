@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Cook, Michael A.; Chan, Chi-Kin; Jorgensen, Paul; Ketela, Troy; So, Daniel; Tyers, Mike; Ho, Chi-Yip
+T1 - Systematic Validation and Atomic Force Microscopy of Non-Covalent Short Oligonucleotide Barcode Microarrays
+JA - PLoS ONE
+VL - 3
+IS - 2
+SP - e1546
+U1 - 10.1371/journal.pone.0001546(DOI)
+N2 - Background: Molecular barcode arrays provide a powerful means to analyze cellular phenotypes in parallel through detection of short (20–60 base) unique sequence tags, or “barcodes”, associated with each strain or clone in a collection. However, costs of current methods for microarray construction, whether by in situ oligonucleotide synthesis or ex situ coupling of modified oligonucleotides to the slide surface are often prohibitive to large-scale analyses. 
+
+Methodology/Principal Findings: Here we demonstrate that unmodified 20mer oligonucleotide probes printed on conventional surfaces show comparable hybridization signals to covalently linked 5′-amino-modified probes. As a test case, we undertook systematic cell size analysis of the budding yeast Saccharomyces cerevisiae genome-wide deletion collection by size separation of the deletion pool followed by determination of strain abundance in size fractions by barcode arrays. We demonstrate that the properties of a 13K unique feature spotted 20 mer oligonucleotide barcode microarray compare favorably with an analogous covalently-linked oligonucleotide array. Further, cell size profiles obtained with the size selection/barcode array approach recapitulate previous cell size measurements of individual deletion strains. Finally, through atomic force microscopy (AFM), we characterize the mechanism of hybridization to unmodified barcode probes on the slide surface. 
+
+Conclusions/Significance: These studies push the lower limit of probe size in genome-scale unmodified oligonucleotide microarray construction and demonstrate a versatile, cost-effective and reliable method for molecular barcode analysis.
+UR - http://dx.plos.org/10.1371/journal.pone.0001546
+ER -
+

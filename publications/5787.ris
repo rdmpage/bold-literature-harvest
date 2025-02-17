@@ -1,0 +1,15 @@
+TY - JOUR
+ID - pmid_18398767
+A1 - Ross, Howard; Murugan, Sumathi; Li, Wai Lok Sibon
+Y1 - 2008
+T1 - Testing the reliability of genetic methods of species identification via simulation.
+JA - Systematic Biology
+VL - 57
+IS - 2
+SP - 216
+EP - 230
+U1 - 10.1080/10635150802032990(DOI)
+U1 - User submitted
+N2 - Although genetic methods of species identification, especially DNA barcoding, are strongly debated, tests of these methods have been restricted to a few empirical cases for pragmatic reasons. Here we use simulation to test the performance of methods based on sequence comparison (BLAST and genetic distance) and tree topology over a wide range of evolutionary scenarios. Sequences were simulated on a range of gene trees spanning almost three orders of magnitude in tree depth and in coalescent depth; that is, deep or shallow trees with deep or shallow coalescences. When the query's conspecific sequences were included in the reference alignment, the rate of positive identification was related to the degree to which different species were genetically differentiated. The BLAST, distance, and liberal tree-based methods returned higher rates of correct identification than did the strict tree-based requirement that the query was within, but not sister to, a single-species clade. Under this more conservative approach, ambiguous outcomes occurred in inverse proportion to the number of reference sequences per species. When the query's conspecific sequences were not in the reference alignment, only the strict tree-based approach was relatively immune to making false-positive identifications. Thresholds affected the rates at which false-positive identifications were made when the query's species was unrepresented in the reference alignment but did not otherwise influence outcomes. A conservative approach using the strict tree-based method should be used initially in large-scale identification systems, with effort made to maximize sequence sampling within species. Once the genetic variation within a taxonomic group is well characterized and the taxonomy resolved, then the choice of method used should be dictated by considerations of computational efficiency. The requirement for extensive genetic sampling may render these techniques inappropriate in some circumstances.
+ER -
+

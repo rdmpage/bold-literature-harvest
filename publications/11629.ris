@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Hausdorf, B.; Hennig, C.
+T1 - Species Delimitation Using Dominant and Codominant Multilocus Markers
+JA - Systematic Biology
+VL - 59
+IS - 5
+SP - 491
+EP - 503
+U1 - 10.1093/sysbio/syq039(DOI)
+N2 - We propose a method for delimiting species based on dominant or codominant multilocus data using Gaussian clustering with a noise component for outliers. Case studies show that provisional species delimited using Gaussian clustering based on dominant multilocus data correspond well with provisional species delimited based on other data. However, the performance of Gaussian clustering in delimiting species based on few codominant markers was only moderate. Species represented by few individuals are usually included in the noise component because clusters are difficult to recognize with limited data. As alternative methods, we evaluated two model-based clustering methods originally proposed to infer population structure and assign individuals to populations based on the assumption of Hardy–Weinberg equilibrium within populations, namely STRUCTURE and STRUCTURAMA, as well as the “fields for recombination” approach. The latter resulted in lumping all individuals of each data set with codominant markers together, and whereas STRUCTURE often provides no decision about the number of clusters, STRUCTURAMA usually yields correct or almost correct numbers of clusters. The classification success of STRUCTURAMA analyses based on codominant markers was very good, but its performance with dominant markers was less consistent. Based on the classification success of the different methods for delimiting species with dominant and codominant multilocus markers in the case studies, we recommend using Gaussian clustering for data sets with dominant markers and STRUCTURAMA for data sets with codominant markers.
+UR - http://sysbio.oxfordjournals.org/cgi/doi/10.1093/sysbio/syq039
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Christopher A Hempel, Shea EE Carson, Tyler A Elliott, Sarah J Adamowicz, Dirk Steinke
+Y1 - 2022
+T1 - Reconstruction of Small Subunit Ribosomal RNA from High-Throughput Sequencing Data: A Comparative Study of Metagenomics and Total RNA Sequencing
+JA - bioRxiv
+VL - 1
+IS - 1
+SP - 31
+U1 - 10.1101/2022.08.26.505493(DOI)
+U1 - User submitted
+N2 - The small subunit (SSU) ribosomal RNA (rRNA) is the most commonly used marker for the identification of microbial taxa, but its full-length reconstruction from high-throughput sequencing (HTS) data remains challenging, especially for complex and diverse environmental samples. Metagenomics and total RNA sequencing (total RNA-Seq) are target-PCR-free HTS methods that are used to characterize microbial communities and simultaneously reconstruct SSU rRNA sequences. However, more testing is required to determine and improve their effectiveness. In this study, we processed metagenomics and total RNA-Seq data retrieved from a commercially available mock microbial community using 112 combinations of commonly used data-processing tools, determined SSU rRNA reconstruction completeness of both sequencing methods for each species in the mock community, and analyzed the impact of data-processing tools on SSU rRNA and genome completeness. Total RNA-Seq allowed for the complete or near- complete reconstruction of all mock community SSU rRNA sequences and outperformed metagenomics. SSU rRNA completeness of metagenomics strongly correlated with the genome size of mock community species. The impact of data-processing tools was overall low, although certain tools resulted in significantly lower SSU rRNA completeness. These results are promising for the high-throughput reconstruction of novel full-length SSU rRNA sequences and could advance the simultaneous application of multiple -omics approaches in routine environmental assessments to allow for more holistic assessments of ecosystems.
+ER -
+

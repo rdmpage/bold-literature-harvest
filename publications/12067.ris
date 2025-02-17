@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Bischof, J.; Bjorklund, M.; Furger, E.; Schertel, C.; Taipale, J.; Basler, K.
+T1 - A versatile platform for creating a comprehensive UAS-ORFeome library in Drosophila
+JA - Development
+VL - 140
+IS - 11
+SP - 2434
+EP - 2442
+U1 - 10.1242/dev.088757(DOI)
+N2 - Overexpression screens are used to explore gene functions in Drosophila, but this strategy suffers from the lack of comprehensive and systematic fly strain collections and efficient methods for generating such collections. Here, we present a strategy that could be used efficiently to generate large numbers of transgenic Drosophila strains, and a collection of 1149 UAS-ORF fly lines that were created with the site-specific ΦC31 integrase method. For this collection, we used a set of 655 genes that were cloned as two variants, either as an open reading frame (ORF) with a native stop codon or with a C-terminal 3xHA tag. To streamline the procedure for transgenic fly generation, we demonstrate the utility of injecting pools of plasmids into embryos, each plasmid containing a randomised sequence (barcode) that serves as a unique identifier for plasmids and, subsequently, fly strains. We also developed a swapping technique that facilitates the rapid exchange of promoters and epitope tags in vivo, expanding the versatility of the ORF collection. The work described here serves as the basis of a systematic library of Gal4/UAS-regulated transgenes.
+UR - http://dev.biologists.org/cgi/doi/10.1242/dev.088757
+ER -
+

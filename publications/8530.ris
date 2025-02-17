@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Bryden, K.M.; Ashlock, D.A.; Corns, S.; Willson, S.J.
+T1 - Graph-based evolutionary algorithms
+JA - IEEE Transactions on Evolutionary Computation
+VL - 10
+IS - 5
+SP - 550
+EP - 567
+U1 - 10.1109/TEVC.2005.863128(DOI)
+N2 - Evolutionary algorithms use crossover to combine information from pairs of solutions and use selection to retain the best solutions. Ideally, crossover takes distinct good features from each of the two structures involved. This process creates a conflict: progress results from crossing over structures with different features, but crossover produces new structures that are like their parents and so reduces the diversity on which it depends. As evolution continues, the algorithm searches a smaller and smaller portion of the search space. Mutation can help maintain diversity but is not a panacea for diversity loss. This paper explores evolutionary algorithms that use combinatorial graphs to limit possible crossover partners. These graphs limit the speed and manner in which information can spread giving competing solutions time to mature. This use of graphs is a computationally inexpensive method of picking a global level of tradeoff between exploration and exploitation. The results of using 26 graphs with a diverse collection of graphical properties are presented. The test problems used are: one-max, the De Jong functions, the Griewangk function in three to seven dimensions, the self-avoiding random walk problem in 9, 12, 16, 20, 25, 30, and 36 dimensions, the plus-one-recall-store (PORS) problem with n=15,16, and 17, location of length-six one-error-correcting DNA barcodes, and solving a simple differential equation semi-symbolically. The choice of combinatorial graph has a significant effect on the time-to-solution. In the cases studied, the optimal choice of graph improved solution time as much as 63-fold with typical impact being in the range of 15% to 100% variation. The graph yielding superior performance is found to be problem dependent. In general, the optimal graph diameter increases and the optimal average degree decreases with the complexity and difficulty of the fitness landscape. The use of diverse graphs as population structures for a collection of proble- - ms also permits a classification of the problems. A phylogenetic analysis of the problems using normalized time to solution on each graph groups the numerical problems as a clade together with one-max; self-avoiding walks form a clade with the semisymbolic differential equation solution; and the PORS and DNA barcode problems form a superclade with the numerical problems but are substantially distinct from them. This novel form of analysis has the potential to aid researchers choosing problems for a test suite
+UR - http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1705403
+ER -
+

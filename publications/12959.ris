@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Thomas W. A. Braukmann, Maria L. Kuzmina, Jesse Sills, Evgeny V. Zakharov, Paul D. N. Hebert
+Y1 - 2017
+T1 - Testing the Efficacy of DNA Barcodes for Identifying the Vascular Plants of Canada
+JA - PLoS ONE
+VL - 12
+IS - 1
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - Their relatively slow rates of molecular evolution, as well as frequent exposure to hybridization and introgression, often make it difficult to discriminate species of vascular plants with the standard barcode markers (rbcL, matK, ITS2). Previous studies have examined these constraints in narrow geographic or taxonomic contexts, but the present investigation expands analysis to consider the performance of these gene regions in discriminating the species in local floras at sites across Canada. To test identification success, we employed a DNA barcode reference library with sequence records for 96% of the 5108 vascular plant species known from Canada, but coverage varied from 94% for rbcL to 60% for ITS2 and 39% for matK. Using plant lists from 27 national parks and one scientific reserve, we tested the efficacy of DNA barcodes in identifying the plants in simulated species assemblages from six biogeographic regions of Canada using BLAST and mothur. Mean pairwise distance (MPD) and mean nearest taxon distance (MNTD) were strong predictors of barcode performance for different plant families and genera, and both metrics supported ITS2 as possessing the highest genetic diversity. All three genes performed strongly in assigning the taxa present in local floras to the correct genus with values ranging from 91% for rbcL to 97% for ITS2 and 98% for matK. However, matK delivered the highest species discrimination (~81%) followed by ITS2 (~72%) and rbcL (~44%). Despite the low number of plant taxa in the Canadian Arctic, DNA barcodes had the least success in discriminating species from this biogeographic region with resolution ranging from 36% with rbcL to 69% with matK. Species resolution was higher in the other settings, peaking in the Woodland region at 52% for rbcL and 87% for matK. Our results indicate that DNA barcoding is very effective in identifying Canadian plants to a genus, and that it performs well in discriminating species in regions where floristic diversity is highest.
+ER -
+

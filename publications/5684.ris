@@ -1,0 +1,13 @@
+TY - JOUR
+ID - pmid_17176465
+A1 - Jones, Martin; Blaxter, Mark
+Y1 - 2006
+T1 - TaxMan: a taxonomic database manager.
+JA - BMC Bioinformatics
+VL - 7
+SP - 536
+U1 - 10.1186/1471-2105-7-536(DOI)
+U1 - User submitted
+N2 - BACKGROUND: Phylogenetic analysis of large, multiple-gene datasets, assembled from public sequence databases, is rapidly becoming a popular way to approach difficult phylogenetic problems. Supermatrices (concatenated multiple sequence alignments of multiple genes) can yield more phylogenetic signal than individual genes. However, manually assembling such datasets for a large taxonomic group is time-consuming and error-prone. Additionally, sequence curation, alignment and assessment of the results of phylogenetic analysis are made particularly difficult by the potential for a given gene in a given species to be unrepresented, or to be represented by multiple or partial sequences. We have developed a software package, TaxMan, that largely automates the processes of sequence acquisition, consensus building, alignment and taxon selection to facilitate this type of phylogenetic study. RESULTS: TaxMan uses freely available tools to allow rapid assembly, storage and analysis of large, aligned DNA and protein sequence datasets for user-defined sets of species and genes. The user provides GenBank format files and a list of gene names and synonyms for the loci to analyse. Sequences are extracted from the GenBank files on the basis of annotation and sequence similarity. Consensus sequences are built automatically. Alignment is carried out (where possible, at the protein level) and aligned sequences are stored in a database. TaxMan can automatically determine the best subset of taxa to examine phylogeny at a given taxonomic level. By using the stored aligned sequences, large concatenated multiple sequence alignments can be generated rapidly for a subset and output in analysis-ready file formats. Trees resulting from phylogenetic analysis can be stored and compared with a reference taxonomy. CONCLUSION: TaxMan allows rapid automated assembly of a multigene datasets of aligned sequences for large taxonomic groups. By extracting sequences on the basis of both annotation and BLAST similarity, it ensures that all available sequence data can be brought to bear on a phylogenetic problem, but remains fast enough to cope with many thousands of records. By automatically assisting in the selection of the best subset of taxa to address a particular phylogenetic problem, TaxMan greatly speeds up the process of generating multiple sequence alignments for phylogenetic analysis. Our results indicate that an automated phylogenetic workbench can be a useful tool when correctly guided by user knowledge.
+ER -
+

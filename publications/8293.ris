@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Wilson, John James
+T1 - Assessing the Value of DNA Barcodes for Molecular Phylogenetics: Effect of Increased Taxon Sampling in Lepidoptera
+JA - PLoS ONE
+VL - 6
+IS - 9
+SP - e24769
+U1 - 10.1371/journal.pone.0024769(DOI)
+N2 - Background A common perception is that DNA barcode datamatrices have limited phylogenetic signal due to the small number of characters available per taxon. However, another school of thought suggests that the massively increased taxon sampling afforded through the use of DNA barcodes may considerably increase the phylogenetic signal present in a datamatrix. Here I test this hypothesis using a large dataset of macrolepidopteran DNA barcodes. 
+
+Methodology/Principal Findings Taxon sampling was systematically increased in datamatrices containing macrolepidopteran DNA barcodes. Sixteen family groups were designated as concordance groups and two quantitative measures; the taxon consistency index and the taxon retention index, were used to assess any changes in phylogenetic signal as a result of the increase in taxon sampling. DNA barcodes alone, even with maximal taxon sampling (500 species per family), were not sufficient to reconstruct monophyly of families and increased taxon sampling generally increased the number of clades formed per family. However, the scores indicated a similar level of taxon retention (species from a family clustering together) in the cladograms as the number of species included in the datamatrix was increased, suggesting substantial phylogenetic signal below the ‘family’ branch. 
+
+Conclusions/Significance The development of supermatrix, supertree or constrained tree approaches could enable the exploitation of the massive taxon sampling afforded through DNA barcodes for phylogenetics, connecting the twigs resolved by barcodes to the deep branches resolved through phylogenomics.
+UR - http://dx.plos.org/10.1371/journal.pone.0024769
+ER -
+

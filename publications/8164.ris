@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Hedman, Johannes; Albinsson, Linda; Ansell, Carina; Tapper, Helene; Hansson, Oskar; Holgersson, Stig; Ansell, Ricky
+T1 - A fast analysis system for forensic DNA reference samples
+JA - Forensic Science International: Genetics
+VL - 2
+IS - 3
+SP - 184
+EP - 189
+U1 - 10.1016/j.fsigen.2007.12.011(DOI)
+N2 - On January 1st, 2006, the Swedish legislation on obtaining DNA reference samples from suspects and the recording of DNA profiles in databases was changed. As a result the number of samples analysed at the Swedish National Laboratory of Forensic Science (SKL) increased from about 4500 in 2005 to more than 25,000 in 2006. To meet this challenge, SKL launched a new analysis system to create an unbroken chain, from sampling to incorporation of a profile in the national DNA database and subsequent automatic generation of digitally signed hit reports. The system integrates logistics, digital data transfer, new functions in LIMS (ForumDNA Version 4, Ida Infront AB) and laboratory automation. Buccal swab samples are secured on a FTA® card attached to an identity form, which is barcoded with a unique sample ID. After sampling, the police officer sends a digital request to SKL. The sample is automatically registered in LIMS and processed on delivery. The resulting DNA profiles are automatically classified according to quality using a custom-made expert system. Building the evaluation around mathematical rules makes it reproducible, standardised and minimises manual work and clerk errors. All samples are run in duplicate and the two profiles are compared within LIMS before incorporation in the database. In the first year of operation, the median time for completion of an analysis was 3 days, measured from delivery of the sample to incorporation of the profile in the national DNA database. In spite of the dramatic increase in the number of reference samples there was no backlog.
+UR - http://linkinghub.elsevier.com/retrieve/pii/S1872497307004103
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Monaghan, M. T.; Wild, R.; Elliot, M.; Fujisawa, T.; Balke, M.; Inward, D. J.G.; Lees, D. C.; Ranaivosolo, R.; Eggleton, P.; Barraclough, T. G.; Vogler, A. P.
+T1 - Accelerated Species Inventory on Madagascar Using Coalescent-Based Models of Species Delineation
+JA - Systematic Biology
+VL - 58
+IS - 3
+SP - 298
+EP - 311
+U1 - 10.1093/sysbio/syp027(DOI)
+N2 - High-throughput DNA sequencing has the potential to accelerate species discovery if it is able to recognize evolutionary entities from sequence data that are comparable to species. The general mixed Yule-coalescent (GMYC) model estimates the species boundary from DNA surveys by identifying independently evolving lineages as a transition from coalescent to speciation branching patterns on a phylogenetic tree. Applied here to 12 families from 4 orders of insects in Madagascar, we used the model to delineate 370 putative species from mitochondrial DNA sequence variation among 1614 individuals. These were compared with data from the nuclear genome and morphological identification and found to be highly congruent (98% and 94%). We developed a modified GMYC that allows for a variable transition from coalescent to speciation among lineages. This revised model increased the congruence with morphology (97%), suggesting that a variable threshold better reflects the clustering of sequence data into biological species. Local endemism was pronounced in all 5 insect groups. Most species (60–91%) and haplotypes (88–99%) were found at only 1 of the 5 study sites (40–1000 km apart). This pronounced endemism resulted in a 37% increase in species numbers using diagnostic nucleotides in a population aggregation analysis. Sample sizes between 7 and 10 individuals represented a threshold above which there was minimal increase in genetic diversity, broadly agreeing with coalescent theory and other empirical studies. Our results from > 1.4 Mb of empirical data suggest that the GMYC model captures species boundaries comparable to those from traditional methods without the need for prior hypotheses of population coherence. This provides a method of species discovery and biodiversity assessment using single-locus data from mixed or environmental samples while building a globally available taxonomic database for future identifications.
+UR - http://sysbio.oxfordjournals.org/cgi/doi/10.1093/sysbio/syp027
+ER -
+

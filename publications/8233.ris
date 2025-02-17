@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Matsumura, Hideo; Yoshida, Kentaro; Luo, Shujun; Kimura, Eiji; Fujibe, Takahiro; Albertyn, Zayed; Barrero, Roberto A.; Krüger, Detlev H.; Kahl, Günter; Schroth, Gary P.; Terauchi, Ryohei
+T1 - High-Throughput SuperSAGE for Digital Gene Expression Analysis of Multiple Samples Using Next Generation Sequencing
+JA - PLoS ONE
+VL - 5
+IS - 8
+SP - e12010
+U1 - 10.1371/journal.pone.0012010(DOI)
+N2 - We established a protocol of the SuperSAGE technology combined with next-generation sequencing, coined “High-Throughput (HT-) SuperSAGE”. SuperSAGE is a method of digital gene expression profiling that allows isolation of 26-bp tag fragments from expressed transcripts. In the present protocol, index (barcode) sequences are employed to discriminate tags from different samples. Such barcodes allow researchers to analyze digital tags from transcriptomes of many samples in a single sequencing run by simply pooling the libraries. Here, we demonstrated that HT-SuperSAGE provided highly sensitive, reproducible and accurate digital gene expression data. By increasing throughput for analysis in HT-SuperSAGE, various applications are foreseen and several examples are provided in the present study, including analyses of laser-microdissected cells, biological replicates and tag extraction using different anchoring enzymes.
+UR - http://dx.plos.org/10.1371/journal.pone.0012010
+ER -
+

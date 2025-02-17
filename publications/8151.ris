@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Links, Matthew G; Chaban, Bonnie; Hemmingsen, Sean M; Muirhead, Kevin; Hill, Janet E
+T1 - mPUMA: a computational approach to microbiota analysis by de novo assembly of operational taxonomic units based on protein-coding barcode sequences
+JA - Microbiome
+VL - 1
+IS - 1
+SP - 23
+U1 - 10.1186/2049-2618-1-23(DOI)
+N2 - Background: Formation of operational taxonomic units (OTU) is a common approach to data aggregation in microbial ecology studies based on amplification and sequencing of individual gene targets. The de novo assembly of OTU sequences has been recently demonstrated as an alternative to widely used clustering methods, providing robust information from experimental data alone, without any reliance on an external reference database. 
+
+Results: Here we introduce mPUMA (microbial Profiling Using Metagenomic Assembly, http://mpuma.sourceforge.net webcite), a software package for identification and analysis of protein-coding barcode sequence data. It was developed originally for Cpn60 universal target sequences (also known as GroEL or Hsp60). Using an unattended process that is independent of external reference sequences, mPUMA forms OTUs by DNA sequence assembly and is capable of tracking OTU abundance. mPUMA processes microbial profiles both in terms of the direct DNA sequence as well as in the translated amino acid sequence for protein coding barcodes. By forming OTUs and calculating abundance through an assembly approach, mPUMA is capable of generating inputs for several popular microbiota analysis tools. Using SFF data from sequencing of a synthetic community of Cpn60 sequences derived from the human vaginal microbiome, we demonstrate that mPUMA can faithfully reconstruct all expected OTU sequences and produce compositional profiles consistent with actual community structure. 
+
+Conclusions: mPUMA enables analysis of microbial communities while empowering the discovery of novel organisms through OTU assembly. Keywords: Operational taxonomic unit; Assembly; Automated sequence analysis pipeline; 60 kDa chaperonin; Cpn60; Barcode; Microbial profiling; Microbiota; Microbiota analysis
+UR - http://www.microbiomejournal.com/content/1/1/23
+ER -
+

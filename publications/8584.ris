@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Cummings, Nik; King, Rob; Rickers, Andre; Kaspi, Antony; Lunke, Sebastian; Haviv, Izhak; Jowett, Jeremy BM
+T1 - Combining target enrichment with barcode multiplexing for high throughput SNP discovery
+JA - BMC Genomics
+VL - 11
+IS - 1
+SP - 641
+U1 - 10.1186/1471-2164-11-641(DOI)
+N2 - Background: The primary goal of genetic linkage analysis is to identify genes affecting a phenotypic trait. After localisation of the linkage region, efficient genetic dissection of the disease linked loci requires that functional variants are identified across the loci. These functional variations are difficult to detect due to extent of genetic diversity and, to date, incomplete cataloguing of the large number of variants present both within and between populations. Massively parallel sequencing platforms offer unprecedented capacity for variant discovery, however the number of samples analysed are still limited by cost per sample. Some progress has been made in reducing the cost of resequencing using either multiplexing methodologies or through the utilisation of targeted enrichment technologies which provide the ability to resequence genomic areas of interest rather that full genome sequencing. 
+
+Results: We developed a method that combines current multiplexing methodologies with a solution-based target enrichment method to further reduce the cost of resequencing where region-specific sequencing is required. Our multiplex/enrichment strategy produced high quality data with nominal reduction of sequencing depth. We undertook a genotyping study and were successful in the discovery of novel SNP alleles in all samples at uniplex, duplex and pentaplex levels. 
+
+Conclusion: Our work describes the successful combination of a targeted enrichment method and index barcode multiplexing to reduce costs, time and labour associated with processing large sample sets. Furthermore, we have shown that the sequencing depth obtained is adequate for credible SNP genotyping analysis at uniplex, duplex and pentaplex levels.
+UR - http://www.biomedcentral.com/1471-2164/11/641
+ER -
+

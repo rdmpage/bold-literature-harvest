@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Li, Fuyang; Dong, Junchao; Pan, Xuewen; Oum, Ji-Hyun; Boeke, Jef D.; Lee, Sang Eun
+T1 - Microarray-Based Genetic Screen Defines SAW1, a Gene Required for Rad1/Rad10-Dependent Processing of Recombination Intermediates
+JA - Molecular Cell
+VL - 30
+IS - 3
+SP - 325
+EP - 335
+U1 - 10.1016/j.molcel.2008.02.028(DOI)
+N2 - Elimination of a double-strand break (DSB) flanked by direct repeat sequences is mediated by single-strand annealing (SSA), which relies on a distinct set of gene products involving recombination, mismatch repair, and nucleotide excision repair. Here, we screened for yeast mutants defective in SSA with a plasmid-based SSA assay coupled to a barcode microarray readout. The screen identified Yal027Wp/Saw1 (single-strand annealing weakened 1) and Slx4 besides other known SSA proteins. Saw1 interacts physically with Rad1/Rad10, Msh2/Msh3, and Rad52 proteins, and cells lacking SLX4 or SAW1 accumulate recombination intermediates blocked at the Rad1/Rad10-dependent 3′ flap cleavage step. Slx4 and Saw1 also contribute to the integrity of ribosomal DNA arrays. Saw1 mutants that fail to interact with Rad1, but retain interaction with Rad52 and Msh2, are defective in 3′ flap removal and SSA repair. Deletion of SAW1 abolished association of Rad1 at SSA intermediates in vivo. We propose that Saw1 targets Rad1/Rad10 to Rad52-coated recombination intermediates.
+UR - http://linkinghub.elsevier.com/retrieve/pii/S1097276508001767
+ER -
+

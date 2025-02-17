@@ -1,0 +1,20 @@
+TY - JOUR
+ID - n/a
+A1 - Bilgenur Baloğlu, Zhewei Chen, Vasco Elbrecht, Thomas Braukmann, Shanna MacDonald, Dirk Steinke
+Y1 - 2021
+T1 - A workflow for accurate metabarcoding using nanopore MinION sequencing
+JA - Methods in Ecology and Evolution
+VL - 12
+IS - 5
+SP - 10
+U1 - 10.1111/2041-210X.13561(DOI)
+U1 - User submitted
+N2 - 1. Metabarcoding has become a common approach to the rapid identification of
+the species composition in a mixed sample. The majority of studies use estab-
+lished short-read high-throughput sequencing platforms. The Oxford Nanopore
+TM
+2. To test whether the MinIONTM represents a viable alternative to other sequencing platforms, we used rolling circle amplification (RCA) to generate full-length consensus DNA barcodes for a bulk mock sample of 50 aquatic invertebrate species with at least 15% genetic distance to each other. By applying two different laboratory protocols, we generated two MinIONTM runs that were used to build error-corrected consensus sequences. A newly developed Python pipeline, ASHURE, was used for data process- ing, consensus building, clustering and taxonomic assignment of the resulting reads.
+3. Our pipeline achieved median accuracies of up to 99.3% for long concatemeric reads (>45 barcodes) and successfully identified all 50 species in the mock community. The use of RCA was integral for increasing consensus accuracy but was also the most time- consuming step of the laboratory workflow. Most concatemeric reads were skewed towards a shorter read length range with a median read length of up to 1,262 bp.
+4. Our study demonstrates that Nanopore sequencing can be used for metabarcod- ing, but exploration of other isothermal amplification procedures to improve con- sensus accuracy is recommended.
+ER -
+

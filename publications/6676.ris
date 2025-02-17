@@ -1,0 +1,24 @@
+TY - JOUR
+ID - n/a
+A1 - Jones, Martin; Ghoorah, Anisah; Blaxter, Mark
+Y1 - 2011
+T1 - jMOTU and Taxonerator: Turning DNA Barcode Sequences into Annotated Operational Taxonomic Units
+JA - PLoS ONE
+VL - 6
+IS - 4
+SP - e19259
+M1 - 2010-12-21(date received)
+M1 - 2011-03-31(date accepted)
+U1 - 10.1371/journal.pone.0019259(DOI)
+U1 - User submitted
+N2 - Background
+
+DNA barcoding and other DNA sequence-based techniques for investigating and estimating biodiversity require explicit methods for associating individual sequences with taxa, as it is at the taxon level that biodiversity is assessed. For many projects, the bioinformatic analyses required pose problems for laboratories whose prime expertise is not in bioinformatics. User-friendly tools are required for both clustering sequences into molecular operational taxonomic units (MOTU) and for associating these MOTU with known organismal taxonomies.
+Results
+
+Here we present jMOTU, a Java program for the analysis of DNA barcode datasets that uses an explicit, determinate algorithm to define MOTU. We demonstrate its usefulness for both individual specimen-based Sanger sequencing surveys and bulk-environment metagenetic surveys using long-read next-generation sequencing data. jMOTU is driven through a graphical user interface, and can analyse tens of thousands of sequences in a short time on a desktop computer. A companion program, Taxonerator, that adds traditional taxonomic annotation to MOTU, is also presented. Clustering and taxonomic annotation data are stored in a relational database, and are thus amenable to subsequent data mining and web presentation.
+Conclusions
+
+jMOTU efficiently and robustly identifies the molecular taxa present in survey datasets, and Taxonerator decorates the MOTU with putative identifications. jMOTU and Taxonerator are freely available from http://www.nematodes.org/.
+ER -
+

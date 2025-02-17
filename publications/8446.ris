@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Nagpure, Naresh Sahebrao; Rashid, Iliyas; Pathak, Ajey Kumar; Singh, Mahender; Singh, Shri Prakash; Sarkar, Uttam Kumar
+T1 - FBIS: A regional DNA barcode archival & analysis system for Indian fishes
+JA - Bioinformation
+VL - 8
+IS - 10
+SP - 483
+EP - 488
+U1 - 10.6026/97320630008483(DOI)
+N2 - DNA barcode is a new tool for taxon recognition and classification of biological organisms based on sequence of a fragment of mitochondrial gene, cytochrome c oxidase I (COI). In view of the growing importance of the fish DNA barcoding for species identification, molecular taxonomy and fish diversity conservation, we developed a Fish Barcode Information System (FBIS) for Indian fishes, which will serve as a regional DNA barcode archival and analysis system. The database presently contains 2334 sequence records of COI gene for 472 aquatic species belonging to 39 orders and 136 families, collected from available published data sources. Additionally, it contains information on phenotype, distribution and IUCN Red List status of fishes. The web version of FBIS was designed using MySQL, Perl and PHP under Linux operating platform to (a) store and manage the acquisition (b) analyze and explore DNA barcode records (c) identify species and estimate genetic divergence. FBIS has also been integrated with appropriate tools for retrieving and viewing information about the database statistics and taxonomy. It is expected that FBIS would be useful as a potent information system in fish molecular taxonomy, phylogeny and genomics.
+UR - http://www.bioinformation.net/008/97320630008483.htm
+ER -
+

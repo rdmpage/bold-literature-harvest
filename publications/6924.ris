@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Damon P. Little
+Y1 - 2011
+T1 - DNA Barcode Sequence Identification Incorporating Taxonomic Hierarchy and within Taxon Variability
+JA - PLoS ONE
+VL - 6
+IS - 8
+SP - e20552
+M1 - 2010-11-18(date received)
+M1 - 2011-05-04(date accepted)
+U1 - 10.1371/journal.pone.0020552(DOI)
+U1 - User submitted
+N2 - For DNA barcoding to succeed as a scientific endeavor an accurate and expeditious query sequence identification method is needed. Although a global multiple–sequence alignment can be generated for some barcoding markers (e.g. COI, rbcL), not all barcoding markers are as structurally conserved (e.g. matK). Thus, algorithms that depend on global multiple–sequence alignments are not universally applicable. Some sequence identification methods that use local pairwise alignments (e.g. BLAST) are unable to accurately differentiate between highly similar sequences and are not designed to cope with hierarchic phylogenetic relationships or within taxon variability. Here, I present a novel alignment–free sequence identification algorithm–BRONX–that accounts for observed within taxon variability and hierarchic relationships among taxa. BRONX identifies short variable segments and corresponding invariant flanking regions in reference sequences. These flanking regions are used to score variable regions in the query sequence without the production of a global multiple–sequence alignment. By incorporating observed within taxon variability into the scoring procedure, misidentifications arising from shared alleles/haplotypes are minimized. An explicit treatment of more inclusive terminals allows for separate identifications to be made for each taxonomic level and/or for user–defined terminals. BRONX performs better than all other methods when there is imperfect overlap between query and reference sequences (e.g. mini–barcode queries against a full–length barcode database). BRONX consistently produced better identifications at the genus–level for all query types.
+ER -
+

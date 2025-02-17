@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Richardson, David E.; Vanwye, Jeffrey D.; Exum, Amy M.; Cowen, Robert K.; Crawford, Douglas L.
+Y1 - 2007
+T1 - High-throughput species identification: from DNA isolation to bioinformatics.
+JA - Molecular Ecology Notes
+VL - 7
+IS - 2
+SP - 199
+EP - 207
+U1 - 10.1111/j.1471-8286.2006.01620.x(DOI)
+U1 - User submitted
+N2 - Ichthyoplankton collections provide a valuable means to study fish life histories. However, these collections are greatly underutilized, as larval fishes are frequently not identified to species due to their small size and limited morphological development. Currently, there is an effort underway to make species identification more readily available across a broad range of taxa through the sequencing of a standard gene. This effort requires the development of new methodologies to both rapidly produce and analyse large numbers of sequences. The methodology presented in this paper addresses these issues with a focus on the larvae of large pelagic fish species. All steps of the methodology are targeted towards high-throughput identification using small amounts of tissue. To accomplish this, DNA isolation was automated on a liquid-handling robot using magnetic bead technologies. Polymerase chain reaction and a unidirectional sequencing reaction followed standard protocols with all template cleanup and transferring also automated. Manual pipetting was thus reduced to a minimum. A character-based bioinformatics program was developed to handle the large sequence output. This program incorporates base-call quality scores in two types of sample to voucher sequence comparisons and provides suggested identifications and sequence information in an easily interpreted spreadsheet format. This technique when applied to tuna and billfish larvae collected in the Straits of Florida had an 89% success rate. A single species (Thunnus atlanticus) was found to dominate the catch of tuna larvae, while billfish larvae were more evenly divided between two species (Makaira nigricans and Istiophorus platypterus).
+ER -
+

@@ -1,0 +1,29 @@
+TY - JOUR
+ID - n/a
+A1 - Massimiliano Virgilio, Kurt Jordaens, Floris C. Breman, Thierry Backeljau and Marc De Meyer
+Y1 - 2012
+T1 - Identifying insects with incomplete DNA barcode libraries, African fruit flies (Diptera: Tephritidae) as a test case
+JA - PLoS ONE
+VL - 7
+IS - 2
+SP - e31581
+U1 - 10.1371/journal.pone.0031581(DOI)
+U1 - User submitted
+N2 - We propose a general working strategy to deal with incomplete reference libraries in the DNA barcoding identification of
+species. Considering that (1) queries with a large genetic distance with their best DNA barcode match are more likely to be
+misidentified and (2) imposing a distance threshold profitably reduces identification errors, we modelled relationships
+between identification performances and distance thresholds in four DNA barcode libraries of Diptera (n = 4270),
+Lepidoptera (n = 7577), Hymenoptera (n = 2067) and Tephritidae (n = 602 DNA barcodes). In all cases, more restrictive
+distance thresholds produced a gradual increase in the proportion of true negatives, a gradual decrease of false positives
+and more abrupt variations in the proportions of true positives and false negatives. More restrictive distance thresholds
+improved precision, yet negatively affected accuracy due to the higher proportions of queries discarded (viz. having a
+distance query-best match above the threshold). Using a simple linear regression we calculated an ad hoc distance
+threshold for the tephritid library producing an estimated relative identification error ,0.05. According to the expectations,
+when we used this threshold for the identification of 188 independently collected tephritids, less than 5% of queries with a
+distance query-best match below the threshold were misidentified. Ad hoc thresholds can be calculated for each particular
+reference library of DNA barcodes and should be used as cut-off mark defining whether we can proceed identifying the
+query with a known estimated error probability (e.g. 5%) or whether we should discard the query and consider alternative/
+complementary identification methods.
+UR - http://dx.doi.org/10.1371%2Fjournal.pone.0031581
+ER -
+

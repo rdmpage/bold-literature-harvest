@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Call, Douglas R.; Orfe, Lisa; Davis, Margaret A.; Lafrentz, Stacey; Kang, Min-Su
+T1 - Impact of Compounding Error on Strategies for Subtyping Pathogenic Bacteria
+JA - Foodborne Pathogens and Disease
+VL - 5
+IS - 4
+SP - 505
+EP - 516
+U1 - 10.1089/fpd.2008.0097(DOI)
+N2 - Comparative-omics will identify a multitude of markers that can be used for intraspecific discrimination between strains of bacteria. It seems intuitive that with this plethora of markers we can construct higher resolution subtyping assays using discrete markers to define strain “barcodes.” Unfortunately, with each new marker added to an assay, overall assay robustness declines because errors are compounded exponentially. For example, the difference in accuracy of strain classification for an assay with 60 markers will change from 99.9% to 54.7% when average probe accuracy declines from 99.999% to 99.0%. To illustrate this effect empirically, we constructed a 19 probe bead-array for subtyping Listeria monocytogenes and showed that despite seemingly reliable individual probe accuracy (>97%), our best classification results at the strain level were <75%. A more robust strategy would use as few markers as possible to achieve strain discrimination. Consequently, we developed two variable number of tandem repeat (VNTR) assays (Vibrio parahaemolyticus and L. monocytogenes) and demonstrate that these assays along with a published assay (Salmonella enterica) produce robust results when products were machine scored. The discriminatory ability with four to seven VNTR loci was comparable to pulsed-field gel electrophoresis. Passage experiments showed some instability with ca. 5% of passaged lines showing evidence for new alleles within 30 days (V. parahaemolyticus and S. enterica). Changes were limited to a single locus and allele so conservative rules can be used to determine strain matching. Most importantly, VNTRs appear robust and portable and can clearly discriminate between strains with relatively few loci thereby limiting effects of compounding error.
+UR - http://www.liebertonline.com/doi/abs/10.1089/fpd.2008.0097
+ER -
+

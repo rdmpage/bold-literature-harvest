@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Christopher A Hempel,  Natalie Wright,  Julia Harvie,  Jose S Hleap, Sarah J Adamowicz,  Dirk Steinke
+Y1 - 2022
+T1 - Metagenomics versus total RNA sequencing: most accurate data-processing tools, microbial identification accuracy and perspectives for ecological assessments
+JA - Nucleic Acids Research
+VL - 50
+IS - 16
+SP - 15
+U1 - https://doi.org/10.1093/nar/gkac689(DOI)
+U1 - User submitted
+N2 - Metagenomics and total RNA sequencing (total RNA-Seq) have the potential to improve the taxonomic identification of diverse microbial communities, which could allow for the incorporation of microbes into routine ecological assessments. However, these target-PCR-free techniques require more testing and optimization. In this study, we processed metagenomics and total RNA-Seq data from a commercially available microbial mock community using 672 data-processing workflows, identified the most accurate data-processing tools, and compared their microbial identification accuracy at equal and increasing sequencing depths. The accuracy of data-processing tools substantially varied among replicates. Total RNA-Seq was more accurate than metagenomics at equal sequencing depths and even at sequencing depths almost one order of magnitude lower than those of metagenomics. We show that while data-processing tools require further exploration, total RNA-Seq might be a favorable alternative to metagenomics for target-PCR-free taxonomic identifications of microbial communities and might enable a substantial reduction in sequencing costs while maintaining accuracy. This could be particularly an advantage for routine ecological assessments, which require cost-effective yet accurate methods, and might allow for the incorporation of microbes into ecological assessments.
+ER -
+

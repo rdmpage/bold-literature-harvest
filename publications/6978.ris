@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Daniel D. Ence and Bryan C. Carstens
+Y1 - 2011
+T1 - SpedeSTEM: a rapid and accurate method for species delimitation
+JA - Molecular Ecology Resources
+VL - 11
+IS - 3
+SP - 473
+EP - 480
+U1 - 10.1111/j.1755-0998.2010.02947.x(DOI)
+U1 - User submitted
+N2 - We describe a software package (SpedeSTEM) that allows researchers to conduct a species delimitation analysis using intraspecific genetic data. Our method operates under the assumption that a priori information regarding group membership is available, for example that samples are drawn from some number of described subspecies, races or distinct morphotypes. SpedeSTEM proceeds by calculating the maximum likelihood species tree from all hierarchical arrangements of the sampled alleles and uses information theory to quantify the model probability of each permutation. SpedeSTEM is tested here against empirical and simulated data; results indicate that evolutionary lineages that diverged as few as 0.5N generations in the past can be validated as distinct using sequence data from little as five loci. This work enables speciation investigations to identify lineages that are evolutionarily distinct and thus have the potential to form new species before these lineages acquire secondary characteristics such as reproductive isolation or morphological differentiation that are commonly used to define species.
+ER -
+

@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Frank, Daniel N
+T1 - BARCRAWL and BARTAB: software tools for the design and implementation of barcoded primers for highly multiplexed DNA sequencing
+JA - BMC Bioinformatics
+VL - 10
+IS - 1
+SP - 362
+U1 - 10.1186/1471-2105-10-362(DOI)
+N2 - Background: Advances in automated DNA sequencing technology have greatly increased the scale of genomic and metagenomic studies. An increasingly popular means of increasing project throughput is by multiplexing samples during the sequencing phase. This can be achieved by covalently linking short, unique "barcode" DNA segments to genomic DNA samples, for instance through incorporation of barcode sequences in PCR primers. Although several strategies have been described to insure that barcode sequences are unique and robust to sequencing errors, these have not been integrated into the overall primer design process, thus potentially introducing bias into PCR amplification and/or sequencing steps. 
+
+Results: Barcrawl is a software program that facilitates the design of barcoded primers, for multiplexed high-throughput sequencing. The program bartab can be used to deconvolute DNA sequence datasets produced by the use of multiple barcoded primers. This paper describes the functions implemented by barcrawl and bartab and presents a proof-of-concept case study of both programs in which barcoded rRNA primers were designed and validated by high-throughput sequencing. 
+
+Conclusion: Barcrawl and bartab can benefit researchers who are engaged in metagenomic projects that employ multiplexed specimen processing. The source code is released under the GNU general public license and can be accessed at http://www.phyloware.com webcite.
+UR - http://www.biomedcentral.com/1471-2105/10/362
+ER -
+

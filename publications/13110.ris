@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Robert G. Young, Cathryn L. Abbott, Thomas W. Therriault, Sarah J. Adamowicz
+Y1 - 2017
+T1 - Barcode-based species delimitation in the marine realm: a test using Hexanauplia (Multicrustacea: Thecostraca and Copepoda)
+JA - Genome
+VL - 60
+SP - 169
+EP - 182
+U1 - User submitted
+N2 - DNA barcoding has been used successfully for identifying specimens belonging to marine planktonic groups. However, the ability to delineate species within taxonomically diverse and widely distributed marine groups, such as the Copepoda and Thecostraca, remains largely untested. We investigate whether a cytochrome c oxidase subunit I (COI-5P) global pairwise sequence divergence threshold exists between intraspecific and interspecific divergences in the copepods plus the thecostracans (barnacles and allies). Using publicly accessible sequence data, we applied a graphical method to determine an optimal threshold value. With these thresholds, and using a newly generated planktonic marine data set, we quantify the degree of concordance using a bidirectional analysis and discuss different analytical methods for sequence-based species delimitation (e.g., BIN, ABGD, jMOTU, UPARSE, Mothur, PTP, and GMYC). Our results support a COI-5P threshold between 2.1% and 2.6% p-distance across methods for these crustacean taxa, yielding molecular groupings largely concordant with traditional, morphologically defined species. The adoption of internal methods for clustering verification enables rapid biodiversity studies and the exploration of unknown faunas using DNA barcoding. The approaches taken here for concordance assessment also provide a more quantitative comparison of clustering results (as contrasted with “success/failure” of barcoding), and we recommend their further consideration for barcoding studies.
+ER -
+

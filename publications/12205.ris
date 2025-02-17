@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Rodrigo, A.; Bertels, F.; Heled, J.; Noder, R.; Shearman, H.; Tsai, P.
+T1 - The perils of plenty: what are we going to do with all these genes?
+JA - Philosophical Transactions of the Royal Society B: Biological Sciences
+VL - 363
+IS - 1512
+SP - 3893
+EP - 3902
+U1 - 10.1098/rstb.2008.0173(DOI)
+N2 - This new century's biology promises more of everything—more genes, more organisms, more species and, in short, more data. The flood of data challenges us to find better and quicker ways to summarize and analyse. Here, we present preliminary results and proofs of concept from three of our research projects that are motivated by our search for solutions to the perils of plenty. First, we discuss how models of evolution can accommodate change to better reflect the dynamics of sequence diversity, particularly when it is becoming a lot easier to obtain sequences at different times and across intervals where the probability of new mutations contributing to this diversity is high. Second, we describe our work on the use of a single locus for species delimitation; this research targets the new DNA-barcoding approach that aims to catalogue the entirety of life. We have developed a single-locus test based on the coalescent that tests the null hypothesis of panmixis. Finally, we discuss new sequencing technologies, the types of data available and the efficacy of alignment-free methods to estimate pairwise distances for phylogenetic analyses.
+UR - http://rstb.royalsocietypublishing.org/cgi/doi/10.1098/rstb.2008.0173
+ER -
+

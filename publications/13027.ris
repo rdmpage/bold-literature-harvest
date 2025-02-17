@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Zhaofu Yang, Jean-François Landry, Paul D. N. Hebert
+Y1 - 2016
+T1 - A DNA Barcode Library for North American Pyraustinae (Lepidoptera: Pyraloidea: Crambidae)
+JA - PLoS ONE
+VL - 11
+IS - 10
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - Although members of the crambid subfamily Pyraustinae are frequently important crop pests, their identification is often difficult because many species lack conspicuous diagnostic morphological characters. DNA barcoding employs sequence diversity in a short standardized gene region to facilitate specimen identifications and species discovery. This study provides a DNA barcode reference library for North American pyraustines based upon the analysis of 1589 sequences recovered from 137 nominal species, 87% of the fauna. Data from 125 species were barcode compliant (>500bp, <1% n), and 99 of these taxa formed a distinct cluster that was assigned to a single BIN. The other 26 species were assigned to 56 BINs, reflecting frequent cases of deep intraspecific sequence divergence and a few instances of barcode sharing, creating a total of 155 BINs. Two systems for OTU designation, ABGD and BIN, were examined to check the correspondence between current taxonomy and sequence clusters. The BIN system performed better than ABGD in delimiting closely related species, while OTU counts with ABGD were influenced by the value employed for relative gap width. Different species with low or no interspecific divergence may represent cases of unrecognized synonymy, whereas those with high intraspecific divergence require further taxonomic scrutiny as they may involve cryptic diversity. The barcode library developed in this study will also help to advance understanding of relationships among species of Pyraustinae.
+ER -
+

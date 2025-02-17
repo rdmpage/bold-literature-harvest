@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Brodin, Johanna; Krishnamoorthy, Mohan; Athreya, Gayathri; Fischer, Will; Hraber, Peter; Gleasner, Cheryl; Green, Lance; Korber, Bette; Leitner, Thomas
+T1 - A multiple-alignment based primer design algorithm for genetically highly variable DNA targets
+JA - BMC Bioinformatics
+VL - 14
+IS - 1
+SP - 255
+U1 - 10.1186/1471-2105-14-255(DOI)
+N2 - Background: Primer design for highly variable DNA sequences is difficult, and experimental success requires attention to many interacting constraints. The advent of next-generation sequencing methods allows the investigation of rare variants otherwise hidden deep in large populations, but requires attention to population diversity and primer localization in relatively conserved regions, in addition to recognized constraints typically considered in primer design. 
+
+Results: Design constraints include degenerate sites to maximize population coverage, matching of melting temperatures, optimizing de novo sequence length, finding optimal bio-barcodes to allow efficient downstream analyses, and minimizing risk of dimerization. To facilitate primer design addressing these and other constraints, we created a novel computer program (PrimerDesign) that automates this complex procedure. We show its powers and limitations and give examples of successful designs for the analysis of HIV-1 populations. 
+
+Conclusions: PrimerDesign is useful for researchers who want to design DNA primers and probes for analyzing highly variable DNA populations. It can be used to design primers for PCR, RT-PCR, Sanger sequencing, next-generation sequencing, and other experimental protocols targeting highly variable DNA samples.
+UR - http://www.biomedcentral.com/1471-2105/14/255
+ER -
+

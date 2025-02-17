@@ -1,0 +1,18 @@
+TY - JOUR
+ID - pmid_17520504
+A1 - Bryan C. Carstens and L. Lacey Knowles
+Y1 - 2007
+T1 - Estimating species phylogeny from gene-tree probabilities despite incomplete lineage sorting: an example from Melanoplus grasshoppers.
+JA - Systematic Biology
+VL - 56
+IS - 3
+SP - 400
+EP - 411
+M1 - 2007-05-23(date received)
+M1 - 2007-09-13(date accepted)
+M1 - 2008-11-21(date revised)
+U1 - 10.1080/10635150701405560(DOI)
+U1 - PubMed
+N2 - Estimating phylogenetic relationships among closely related species can be extremely difficult when there is incongruence among gene trees and between the gene trees and the species tree. Here we show that incorporating a model of the stochastic loss of gene lineages by genetic drift into the phylogenetic estimation procedure can provide a robust estimate of species relationships, despite widespread incomplete sorting of ancestral polymorphism. This approach is applied to a group of montane Melanoplus grasshoppers for which genealogical discordance among loci and incomplete lineage sorting obscures any obvious phylogenetic relationships among species. Unlike traditional treatments where gene trees estimated using standard phylogenetic methods are implicitly equated with the species tree, with the coalescent-based approach the species tree is modeled probabilistically from the estimated gene trees. The estimated species phylogeny (the ESP) is calculated for the grasshoppers from multiple gene trees reconstructed for nuclear loci and a mitochondrial gene. This empirical application is coupled with a simulation study to explore the performance of the coalescent-based approach. Specifically, we test the accuracy of the ESP given the data based on analyses of simulated data matching the multilocus data collected in Melanoplus (i.e., data were simulated for each locus with the same number of base pairs and locus-specific mutational models). The results of the study show that ESPs can be computed using the coalescent-based approach long before reciprocal monophyly has been achieved, and that these statistical estimates are accurate. This contrasts with analyses of the empirical data collected in Melanoplus and simulated data based on concatenation of multiple loci, for which the incomplete lineage sorting of recently diverged species posed significant problems. The strengths and potential challenges associated with incorporating an explicit model of gene-lineage coalescence into the phylogenetic procedure to obtain an ESP, as illustrated by application to Melanoplus, versus concatenation and consensus approaches are discussed. This study represents a fundamental shift in how species relationships are estimated - the relationship between the gene trees and the species phylogeny is modeled probabilistically rather than equating gene trees with a species tree.
+ER -
+

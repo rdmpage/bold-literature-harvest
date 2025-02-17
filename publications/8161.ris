@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Douglas, A. C.; Smith, A. M.; Sharifpoor, S.; Yan, Z.; Durbic, T.; Heisler, L. E.; Lee, A. Y.; Ryan, O.; Gottert, H.; Surendra, A.; van Dyk, D.; Giaever, G.; Boone, C.; Nislow, C.; Andrews, B. J.
+T1 - Functional Analysis With a Barcoder Yeast Gene Overexpression System
+JA - G3: Genes|Genomes|Genetics
+VL - 2
+IS - 10
+SP - 1279
+EP - 1289
+U1 - 10.1534/g3.112.003400(DOI)
+N2 - Systematic analysis of gene overexpression phenotypes provides an insight into gene function, enzyme targets, and biological pathways. Here, we describe a novel functional genomics platform that enables a highly parallel and systematic assessment of overexpression phenotypes in pooled cultures. First, we constructed a genome-level collection of ~5100 yeast barcoder strains, each of which carries a unique barcode, enabling pooled fitness assays with a barcode microarray or sequencing readout. Second, we constructed a yeast open reading frame (ORF) galactose-induced overexpression array by generating a genome-wide set of yeast transformants, each of which carries an individual plasmid-born and sequence-verified ORF derived from the Saccharomyces cerevisiae full-length EXpression-ready (FLEX) collection. We combined these collections genetically using synthetic genetic array methodology, generating ~5100 strains, each of which is barcoded and overexpresses a specific ORF, a set we termed “barFLEX.” Additional synthetic genetic array allows the barFLEX collection to be moved into different genetic backgrounds. As a proof-of-principle, we describe the properties of the barFLEX overexpression collection and its application in synthetic dosage lethality studies under different environmental conditions.
+UR - http://g3journal.org/cgi/doi/10.1534/g3.112.003400
+ER -
+

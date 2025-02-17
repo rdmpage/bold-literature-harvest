@@ -1,0 +1,20 @@
+TY - JOUR
+ID - n/a
+A1 - Steele, P. R.; Hertweck, K. L.; Mayfield, D.; McKain, M. R.; Leebens-Mack, J.; Pires, J. C.
+T1 - Quality and quantity of data recovered from massively parallel sequencing: Examples in Asparagales and Poaceae
+JA - American Journal of Botany
+VL - 99
+IS - 2
+SP - 330
+EP - 348
+U1 - 10.3732/ajb.1100491(DOI)
+N2 - • Premise of the study: Genome survey sequences (GSS) from massively parallel sequencing have potential to provide large, cost-effective data sets for phylogenetic inference, replace single gene or spacer regions as DNA barcodes, and provide a plethora of data for other comparative molecular evolution studies. Here we report on the application of this method to estimating the molecular phylogeny of core Asparagales, investigating plastid gene losses, assembling complete plastid genomes, and determining the type and quality of assembled genomic data attainable from Illumina 80–120-bp reads. 
+
+• Methods: We sequenced total genomic DNA from samples in two lineages of monocotyledonous plants, Poaceae and Asparagales, on the Illumina platform in a multiplex arrangement. We compared reference-based assemblies to de novo contigs, evaluated consistency of assemblies resulting from use of various references sequences, and assessed our methods to obtain sequence assemblies in nonmodel taxa.
+
+ • Key results: Our method returned reliable, robust organellar and nrDNA sequences in a variety of plant lineages. High quality assemblies are not dependent on genome size, amount of plastid present in the total genomic DNA template, or relatedness of available reference sequences for assembly. Phylogenetic results revealed familial and subfamilial relationships within Asparagales with high bootstrap support, although placement of the monotypic genus Aphyllanthes was placed with moderate confidence. 
+
+• Conclusions: The well-supported molecular phylogeny provides evidence for delineation of subfamilies within core Asparagales. With advances in technology and bioinformatics tools, the use of massively parallel sequencing will continue to become easier and more affordable for phylogenomic and molecular evolutionary biology investigations.
+UR - http://www.amjbot.org/cgi/doi/10.3732/ajb.1100491
+ER -
+

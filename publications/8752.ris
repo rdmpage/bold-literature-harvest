@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Bishop, Morgan A.; D'Yachkov, Arkadii G.; Macula, Anthony J.; Renz, Thomas E.; Rykov, Vyacheslav V.
+T1 - Free Energy Gap and Statistical Thermodynamic Fidelity of DNA Codes
+JA - Journal of Computational Biology
+VL - 14
+IS - 8
+SP - 1088
+EP - 1104
+U1 - 10.1089/cmb.2007.0083(DOI)
+N2 - DNA nanotechnology often requires collections of oligonucleotides called “DNA free energy gap codes” that do not produce erroneous crosshybridizations in a competitive muliplexing environment. This paper addresses the question of how to design these codes to accomplish a desired amount of work within an acceptable error rate. Using a statistical thermody namic and probabilistic model of DNA code fidelity and mathematical random coding theory methods, theoretical lower bounds on the size of DNA codes are given. More importantly, DNA code design parameters (e.g., strand number, strand length and sequence composition) needed to achieve experimental goals are identified.
+UR - http://www.liebertonline.com/doi/abs/10.1089/cmb.2007.0083
+ER -
+

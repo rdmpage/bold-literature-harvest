@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Vollmers, C.; Sit, R. V.; Weinstein, J. A.; Dekker, C. L.; Quake, S. R.
+T1 - Genetic measurement of memory B-cell recall using antibody repertoire sequencing
+JA - Proceedings of the National Academy of Sciences
+VL - 110
+IS - 33
+SP - 13463
+EP - 13468
+U1 - 10.1073/pnas.1312146110(DOI)
+N2 - Annual influenza vaccinations aim to protect against seasonal infections, and vaccine strain compositions are updated every year. This protection is based on antibodies that are produced by either newly activated or memory B cells recalled from previous encounters with influenza vaccination or infection. The extent to which the B-cell repertoire responds to vaccination and recalls antibodies has so far not been analyzed at a genetic level—which is to say, at the level of antibody sequences. Here, we developed a consensus read sequencing approach that incorporates unique barcode labels on each starting RNA molecule. These labels allow one to combine multiple sequencing reads covering the same RNA molecule to reduce the error rate to a desired level, and they also enable accurate quantification of RNA and isotype levels. We validated this approach and analyzed the differential response of the antibody repertoire to live-attenuated or trivalent-inactivated influenza vaccination. Additionally, we analyzed the antibody repertoire in response to repeated yearly vaccinations with trivalent-inactivated influenza vaccination. We found antibody sequences that were present in both years, providing a direct genetic measurement of B-cell recall.
+UR - http://www.pnas.org/cgi/doi/10.1073/pnas.1312146110
+ER -
+

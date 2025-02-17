@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Kastenmayer, J. P.
+T1 - Functional genomics of genes with small open reading frames (sORFs) in S. cerevisiae
+JA - Genome Research
+VL - 16
+IS - 3
+SP - 365
+EP - 373
+U1 - 10.1101/gr.4355406(DOI)
+N2 - Genes with small open reading frames (sORFs; <100 amino acids) represent an untapped source of important biology. sORFs largely escaped analysis because they were difficult to predict computationally and less likely to be targeted by genetic screens. Thus, the substantial number of sORFs and their potential importance have only recently become clear. To investigate sORF function, we undertook the first functional studies of sORFs in any system, using the model eukaryote Saccharomyces cerevisiae. Based on independent experimental approaches and computational analyses, evidence exists for 299 sORFs in the S. cerevisiae genome, representing ∼5% of the annotated ORFs. We determined that a similar percentage of sORFs are annotated in other eukaryotes, including humans, and 184 of the S. cerevisiae sORFs exhibit similarity with ORFs in other organisms. To investigate sORF function, we constructed a collection of gene-deletion mutants of 140 newly identified sORFs, each of which contains a strain-specific “molecular barcode,” bringing the total number of sORF deletion strains to 247. Phenotypic analyses of the new gene-deletion strains identified 22 sORFs required for haploid growth, growth at high temperature, growth in the presence of a nonfermentable carbon source, or growth in the presence of DNA damage and replication-arrest agents. We provide a collection of sORF deletion strains that can be integrated into the existing deletion collection as a resource for the yeast community for elucidating gene function. Moreover, our analyses of the S. cerevisiae sORFs establish that sORFs are conserved across eukaryotes and have important biological functions.
+UR - http://www.genome.org/cgi/doi/10.1101/gr.4355406
+ER -
+

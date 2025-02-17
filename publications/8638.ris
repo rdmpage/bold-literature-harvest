@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Fridjonsson, Olafur; Olafsson, Kristinn; Tompsett, Scott; Bjornsdottir, Snaedis; Consuegra, Sonia; Knox, David; de Leaniz, Carlos; Magnusdottir, Steinunn; Olafsdottir, Gudbjorg; Verspoor, Eric; Hjorleifsdottir, Sigridur
+T1 - Detection and mapping of mtDNA SNPs in Atlantic salmon using high throughput DNA sequencing
+JA - BMC Genomics
+VL - 12
+IS - 1
+SP - 179
+U1 - 10.1186/1471-2164-12-179(DOI)
+N2 - Background: Approximately half of the mitochondrial genome inherent within 546 individual Atlantic salmon (Salmo salar) derived from across the species' North Atlantic range, was selectively amplified with a novel combination of standard PCR and pyro-sequencing in a single run using 454 Titanium FLX technology (Roche, 454 Life Sciences). A unique combination of barcoded primers and a partitioned sequencing plate was employed to designate each sequence read to its original sample. The sequence reads were aligned according to the S. salar mitochondrial reference sequence (NC_001960.1), with the objective of identifying single nucleotide polymorphisms (SNPs). They were validated if they met with the following three stringent criteria: (i) sequence reads were produced from both DNA strands; (ii) SNPs were confirmed in a minimum of 90% of replicate sequence reads; and (iii) SNPs occurred in more than one individual. 
+
+Results: Pyrosequencing generated a total of 179,826,884 bp of data, and 10,765 of the total 10,920 S. salar sequences (98.6%) were assigned back to their original samples. The approach taken resulted in a total of 216 SNPs and 2 indels, which were validated and mapped onto the S. salar mitochondrial genome, including 107 SNPs and one indel not previously reported. An average of 27.3 sequence reads with a standard deviation of 11.7 supported each SNP per individual. 
+
+Conclusion: The study generated a mitochondrial SNP panel from a large sample group across a broad geographical area, reducing the potential for ascertainment bias, which has hampered previous studies. The SNPs identified here validate those identified in previous studies, and also contribute additional potentially informative loci for the future study of phylogeography and evolution in the Atlantic salmon. The overall success experienced with this novel application of HT sequencing of targeted regions suggests that the same approach could be successfully applied for SNP mining in other species.
+UR - http://www.biomedcentral.com/1471-2164/12/179
+ER -
+

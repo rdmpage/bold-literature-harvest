@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - D. P. Little
+Y1 - 2010
+T1 - A unified index of sequence quality and contig overlap for DNA barcoding
+JA - Bioinformatics
+VL - 26
+IS - 21
+SP - 2780
+EP - 2781
+U1 - 10.1093/bioinformatics/btq507(DOI)
+U1 - User submitted
+N2 - Summary: Barcode quality index (B) is a novel, unified measure of sequence quality and contig overlap tailored to the needs of DNA barcoding. Re-analysis of published data demonstrates the utility of B.
+
+Availability and Implementation: A GPL PERL script is available for download (http://www.nybg.org/files/scientists/dlittle/B.html).
+ER -
+

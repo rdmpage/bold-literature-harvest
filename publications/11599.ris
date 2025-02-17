@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Leier, André; Richter, Christoph; Banzhaf, Wolfgang; Rauhe, Hilmar
+T1 - Cryptography with DNA binary strands
+JA - Biosystems
+VL - 57
+IS - 1
+SP - 13
+EP - 22
+U1 - 10.1016/S0303-2647(00)00083-6(DOI)
+N2 - Biotechnological methods can be used for cryptography. Here two different cryptographic approaches based on DNA binary strands are shown. The first approach shows how DNA binary strands can be used for steganography, a technique of encryption by information hiding, to provide rapid encryption and decryption. It is shown that DNA steganography based on DNA binary strands is secure under the assumption that an interceptor has the same technological capabilities as sender and receiver of encrypted messages. The second approach shown here is based on steganography and a method of graphical subtraction of binary gel-images. It can be used to constitute a molecular checksum and can be combined with the first approach to support encryption. DNA cryptography might become of practical relevance in the context of labelling organic and inorganic materials with DNA ‘barcodes’.
+UR - http://linkinghub.elsevier.com/retrieve/pii/S0303264700000836
+ER -
+

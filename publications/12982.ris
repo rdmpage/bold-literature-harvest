@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Evgeny V. Zakharov and Sean W. Prosser
+Y1 - 2017
+T1 - Surveying non-arthropod diversity through DNA barcoding of arthropods
+JA - Genome
+VL - 60
+IS - 11
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - Background: Besides their own DNA, organisms often carry genetic signals of other species they encounter and interact with. The sources of foreign DNA can be prey species, symbiotic organisms, or even environmental DNA (eDNA) acquired from the surrounding habitat. In many cases, the foreign DNA signals are too weak to detect using routine barcode analysis due to extremely low DNA yields and high levels of fragmentation. Rapid advances in next-generation sequencing (NGS) technology that permits simultaneous detection of multiple genetic targets with low DNA input have propelled metabarcoding research to the forefront of ecology and conservation biology by enabling dietary analysis, eDNA sensing, and other forms of non-invasive molecular tools for species diagnostics. Here, we explore the capacity of NGS-based barcode analyses to expose non-arthropod diversity by analyzing foreign DNA in arthropod samples. Results: By combining highly productive insect sampling techniques with the sensitivity of second- and third-generation sequencing, we analyzed over one thousand DNA extracts from both mixed and individual insect samples representing five major insect orders. Using primer cocktails targeting diverse phyla, we were able to simultaneously recover full-length barcodes for the target insect specimens and shorter sequences of foreign origin (the latter representing local vertebrate fauna, flora, and even pathogenic invertebrates). Significance: Our results suggest that large-scale arthropod surveys capture a much broader scope of genetic diversity than previously thought. In addition to being able to simultaneously detect the target arthropods and local non-arthropod flora and fauna, DNA extracts from arthropods of past surveys can be reanalyzed to gain a better understanding of the local diversity. Our method is fully compatible with high-throughput workflows for conventional DNA barcoding and thus enables the characterization of species interactions with high accuracy and unprecedented scale. Moreover, our data suggest caution in over-interpreting DNA barcoding results based on very short NGS reads.
+ER -
+

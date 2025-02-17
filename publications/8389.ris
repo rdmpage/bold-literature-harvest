@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Zhu, Yuan; Bergland, Alan O.; González, Josefa; Petrov, Dmitri A.
+T1 - Empirical Validation of Pooled Whole Genome Population Re-Sequencing in Drosophila melanogaster
+JA - PLoS ONE
+VL - 7
+IS - 7
+SP - e41901
+U1 - 10.1371/journal.pone.0041901(DOI)
+N2 - The sequencing of pooled non-barcoded individuals is an inexpensive and efficient means of assessing genome-wide population allele frequencies, yet its accuracy has not been thoroughly tested. We assessed the accuracy of this approach on whole, complex eukaryotic genomes by resequencing pools of largely isogenic, individually sequenced Drosophila melanogaster strains. We called SNPs in the pooled data and estimated false positive and false negative rates using the SNPs called in individual strain as a reference. We also estimated allele frequency of the SNPs using “pooled” data and compared them with “true” frequencies taken from the estimates in the individual strains. We demonstrate that pooled sequencing provides a faithful estimate of population allele frequency with the error well approximated by binomial sampling, and is a reliable means of novel SNP discovery with low false positive rates. However, a sufficient number of strains should be used in the pooling because variation in the amount of DNA derived from individual strains is a substantial source of noise when the number of pooled strains is low. Our results and analysis confirm that pooled sequencing is a very powerful and cost-effective technique for assessing of patterns of sequence variation in populations on genome-wide scales, and is applicable to any dataset where sequencing individuals or individual cells is impossible, difficult, time consuming, or expensive.
+UR - http://dx.plos.org/10.1371/journal.pone.0041901
+ER -
+

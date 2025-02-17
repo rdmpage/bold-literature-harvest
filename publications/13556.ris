@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Josip Rudar, G Brian Golding, Stefan C Kremer, Mehrdad Hajibabaei
+Y1 - 2022
+T1 - Decision Tree Ensembles Utilizing Multivariate Splits Are Effective at Investigating Beta-Diversity in Medically Relevant 16S Amplicon Sequencing Data
+JA - bioRxiv
+VL - 1
+IS - 1
+SP - 36
+U1 - 10.1101/2022.03.31.486647(DOI)
+U1 - User submitted
+N2 - Developing an understanding of how microbial communities vary across conditions is an important analytical step. We used 16S rRNA data isolated from human stool to investigate if learned dissimilarities, such as those produced using unsupervised decision tree ensembles, can be used to improve the analysis of the composition of bacterial communities in patients suffering from Crohn’s Disease and adenomas/colorectal cancers. We also introduce a workflow capable of learning dissimilarities, projecting them into a lower dimensional space, and identifying features that impact the location of samples in the projections. For example, when used with the centered log-ratio transformation, our new workflow (TreeOrdination) could identify differences in the microbial communities of Crohn’s Disease patients and healthy controls. Further investigation of our models elucidated the global impact ASVs had on the location of samples in the projected space and how each ASV impacted individual samples in this space. Furthermore, this approach can be used to integrate patient data easily into the model and results in models that generalize well to unseen data. Models employing multivariate splits can improve the analysis of complex high-throughput sequencing datasets since they are better able to learn about the underlying structure of the dataset.
+ER -
+

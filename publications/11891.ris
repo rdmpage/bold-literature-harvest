@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Yan, H.; LaBean, T. H.; Feng, L.; Reif, J. H.
+T1 - Directed nucleation assembly of DNA tile complexes for barcode-patterned lattices
+JA - Proceedings of the National Academy of Sciences
+VL - 100
+IS - 14
+SP - 8103
+EP - 8108
+U1 - 10.1073/pnas.1032954100(DOI)
+N2 - The programmed self-assembly of patterned aperiodic molecular structures is a major challenge in nanotechnology and has numerous potential applications for nanofabrication of complex structures and useful devices. Here we report the construction of an aperiodic patterned DNA lattice (barcode lattice) by a self-assembly process of directed nucleation of DNA tiles around a scaffold DNA strand. The input DNA scaffold strand, constructed by ligation of shorter synthetic oligonucleotides, provides layers of the DNA lattice with barcode patterning information represented by the presence or absence of DNA hairpin loops protruding out of the lattice plane. Self-assembly of multiple DNA tiles around the scaffold strand was shown to result in a patterned lattice containing barcode information of 01101. We have also demonstrated the reprogramming of the system to another patterning. An inverted barcode pattern of 10010 was achieved by modifying the scaffold strands and one of the strands composing each tile. A ribbon lattice, consisting of repetitions of the barcode pattern with expected periodicity, was also constructed by the addition of sticky ends. The patterning of both classes of lattices was clearly observable via atomic force microscopy. These results represent a step toward implementation of a visual readout system capable of converting information encoded on a 1D DNA strand into a 2D form readable by advanced microscopic techniques. A functioning visual output method would not only increase the readout speed of DNA-based computers, but may also find use in other sequence identification techniques such as mutation or allele mapping.
+UR - http://www.pnas.org/cgi/doi/10.1073/pnas.1032954100
+ER -
+

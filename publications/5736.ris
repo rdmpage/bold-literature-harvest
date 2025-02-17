@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Lou, Melanie; Golding, G. Brian
+Y1 - 2007
+T1 - fingerprint: visual depiction of variation in multiple sequence alignments.
+JA - Molecular Ecology Notes
+VL - 7
+IS - 6
+SP - 908
+EP - 914
+U1 - 10.1111/j.1471-8286.2007.01904.x(DOI)
+U1 - User submitted
+N2 - There is a lack of programs available that focus on providing an overview of an aligned set of sequences such that the comparison of homologous sites becomes comprehensible and intuitive. Being able to identify similarities, differences, and patterns within a multiple sequence alignment is biologically valuable because it permits visualization of the distribution of a particular feature and inferences about the structure, function, and evolution of the sequences in question. We have therefore created a web server, FINGERPRINT, which
+combines the characteristics of existing programs that represent identity, variability, charge, hydrophobicity, solvent accessibility, and structure along with new visualizations based on composition, heterogeneity, heterozygosity,dN/dS and nucleotide diversity. FINGERPRINTis easy to use and globally accessible through any computer using any major browser. FINGERPRINT is available at http://evol.mcmaster.ca/fingerprint/.
+ER -
+

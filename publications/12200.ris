@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Lee, J. H.; Daugharthy, E. R.; Scheiman, J.; Kalhor, R.; Yang, J. L.; Ferrante, T. C.; Terry, R.; Jeanty, S. S. F.; Li, C.; Amamoto, R.; Peters, D. T.; Turczyk, B. M.; Marblestone, A. H.; Inverso, S. A.; Bernard, A.; Mali, P.; Rios, X.; Aach, J.; Church, G. M.
+T1 - Highly Multiplexed Subcellular RNA Sequencing in Situ
+JA - Science
+VL - 343
+IS - 6177
+SP - 1360
+EP - 1363
+U1 - 10.1126/science.1250212(DOI)
+N2 - Understanding the spatial organization of gene expression with single-nucleotide resolution requires localizing the sequences of expressed RNA transcripts within a cell in situ. Here, we describe fluorescent in situ RNA sequencing (FISSEQ), in which stably cross-linked complementary DNA (cDNA) amplicons are sequenced within a biological sample. Using 30-base reads from 8102 genes in situ, we examined RNA expression and localization in human primary fibroblasts with a simulated wound-healing assay. FISSEQ is compatible with tissue sections and whole-mount embryos and reduces the limitations of optical resolution and noisy signals on single-molecule detection. Our platform enables massively parallel detection of genetic elements, including gene transcripts and molecular barcodes, and can be used to investigate cellular phenotype, gene regulation, and environment in situ.
+UR - http://www.sciencemag.org/cgi/doi/10.1126/science.1250212
+ER -
+

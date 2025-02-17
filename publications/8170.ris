@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Wang, Tao; Pradhan, Kith; Ye, Kenny; Wong, Lee-Jun; Rohan, Thomas E.
+T1 - Estimating Allele Frequency from Next-Generation Sequencing of Pooled Mitochondrial DNA Samples
+JA - Frontiers in Genetics
+VL - 2
+U1 - 10.3389/fgene.2011.00051(DOI)
+N2 - Background: Both common and rare mitochondrial DNA (mtDNA) variants may contribute to genetic susceptibility to some complex human diseases. Understanding of the role of mtDNA variants will provide valuable insights into the etiology of these diseases. However, to date, there have not been any large-scale, genome-wide association studies of complete mtDNA variants and disease risk. One reason for this might be the substantial cost of sequencing the large number of samples required for genetic epidemiology studies. Next-generation sequencing of pooled mtDNA samples will dramatically reduce the cost of such studies and may represent an appealing approach for large-scale genetic epidemiology studies. However, the performance of the different designs of sequencing pooled mtDNA has not been evaluated. 
+
+Methods: We examined the approach of sequencing pooled mtDNA of multiple individuals for estimating allele frequency using the Illumina genome analyzer (GA) II sequencing system. In this study the pool included mtDNA samples of 20 subjects that had been sequenced previously using Sanger sequencing. Each pool was replicated once to assess variation of the sequencing error between pools. To reduce such variation, barcoding was used for sequencing different pools in the same lane of the flow cell. To evaluate the effect of different pooling strategies pooling was done at both the pre- and post-PCR amplification step. 
+
+Results: The sequencing error rate was close to that expected based on the Phred score. When only reads with Phred ≥ 20 were considered, the average error rate was about 0.3%. However, there was significant variation of the base-calling errors for different types of bases or at different loci. Using the results of the Sanger sequencing as the standard, the sensitivity of single nucleotide polymorphism detection with post-PCR pooling (about 99%) was higher than that of the pre-PCR pooling (about 82%), while the two approaches had similar specificity (about 99%). Among a total of 298 variants in the sample, the allele frequencies of 293 variants (98%) were correctly estimated with post-PCR pooling, the correlation between the estimated and the true allele frequencies being >0.99, while only 206 allele frequencies (69%) were correctly estimated in the pre-PCR pooling, the correlation being 0.89. 
+
+Conclusion: Sequencing of mtDNA pooled after PCR amplification is a viable tool for screening mitochondrial variants potentially related to human diseases.
+UR - http://journal.frontiersin.org/Journal/10.3389/fgene.2011.00051/full
+ER -
+

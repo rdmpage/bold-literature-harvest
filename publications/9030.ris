@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Coissac, Eric; Riaz, Tiayyba; Puillandre, Nicolas
+T1 - Bioinformatic challenges for DNA metabarcoding of plants and animals: BIOINFORMATIC FOR DNA METABARCODING
+JA - Molecular Ecology
+VL - 21
+IS - 8
+SP - 1834
+EP - 1847
+U1 - 10.1111/j.1365-294X.2012.05550.x(DOI)
+N2 - Almost all empirical studies in ecology have to identify the species involved in the ecological process under examination. DNA metabarcoding, which couples the principles of DNA barcoding with next generation sequencing technology, provides an opportunity to easily produce large amounts of data on biodiversity. Microbiologists have long used metabarcoding approaches, but use of this technique in the assessment of biodiversity in plant and animal communities is under-explored. Despite its relationship with DNA barcoding, several unique features of DNA metabarcoding justify the development of specific data analysis methodologies. In this review, we describe the bioinformatics tools available for DNA metabarcoding of plants and animals, and we revisit others developed for DNA barcoding or microbial metabarcoding. We also discuss the principles and associated tools for evaluating and comparing DNA barcodes in the context of DNA metabarcoding, for designing new custom-made barcodes adapted to specific ecological question, for dealing with PCR and sequencing errors, and for inferring taxonomical data from sequences.
+UR - http://doi.wiley.com/10.1111/j.1365-294X.2012.05550.x
+ER -
+

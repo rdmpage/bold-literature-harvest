@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Eddie Ma, Sujeevan Ratnasingham, and Stefan C. Kremer
+Y1 - 2015
+T1 - NNEditor: neural N-label editor toward automated sequence finishing
+JA - Genome
+VL - 58
+IS - 5
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - Background: DNA barcodes, short segments of DNA used for identifying species, have greatly expedited indexing life on the planet. Application of DNA barcoding consists of DNA sequencing and algorithms to assign species identifications based on DNA sequences. This contrasts with the traditional method—differentiation by physical characteristics. DNA barcoding addresses a challenge termed “the taxonomic impediment”—the limitation of experts to identify species. However, DNA sequencing here has its own human challenges. One limitation is sequence editing—correcting sequences using instrument data. We address this challenge by applying Neural Networks to automate editing. We present NNEditor, a tool that automates the most frequent human editing action, replacing ambiguous N-labels with basecalls. Our basecalling approach is distinct from other strategies. First, our solution is complementary to the instrument basecaller, addressing only ambiguous bases. Second, our training strategy uses both human-edited sequences and complementary basecalled sequences. Third, our tool automatically replaces N-labels, only if it estimates a low probability of error for the new basecall. Results: Our approach was applied to animal (COI) and plant (rbcL, Atpf) barcodes with high success. Validation experiments resulted in resolution of 80% of N-labels (0.78% error) from COI and 80% from Atpf and rbcL (0.45% error). To test the generalizability, our system was also validated on a range of non-protein-coding genes, replacing 58% of N-labels (0.43% error). Significance: We sampled 450k tracefiles with sequence length ≥500 from BOLD to estimate the impact of NNEditor. Of these tracefiles, 76% are already barcode compliant, having <1% N-labels. The application of NNEditor would result in 4.6% of sampled tracefiles being made barcode compliant, and 20% improved beyond the minimum barcode standard. Such improvements are critical for diagnostic character analysis and species identity thresholds. In total, a quarter of incoming tracefiles that could be improved using human editing would be improved automatically using NNEditor.
+ER -
+

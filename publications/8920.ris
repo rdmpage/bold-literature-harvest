@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Hafner, M.; Renwick, N.; Brown, M.; Mihailovic, A.; Holoch, D.; Lin, C.; Pena, J. T. G.; Nusbaum, J. D.; Morozov, P.; Ludwig, J.; Ojo, T.; Luo, S.; Schroth, G.; Tuschl, T.
+T1 - RNA-ligase-dependent biases in miRNA representation in deep-sequenced small RNA cDNA libraries
+JA - RNA
+VL - 17
+IS - 9
+SP - 1697
+EP - 1712
+U1 - 10.1261/rna.2799511(DOI)
+N2 - Sequencing of small RNA cDNA libraries is an important tool for the discovery of new RNAs and the analysis of their mutational status as well as expression changes across samples. It requires multiple enzyme-catalyzed steps, including sequential oligonucleotide adapter ligations to the 3′ and 5′ ends of the small RNAs, reverse transcription (RT), and PCR. We assessed biases in representation of miRNAs relative to their input concentration, using a pool of 770 synthetic miRNAs and 45 calibrator oligoribonucleotides, and tested the influence of Rnl1 and two variants of Rnl2, Rnl2(1–249) and Rnl2(1–249)K227Q, for 3′-adapter ligation. The use of the Rnl2 variants for adapter ligations yielded substantially fewer side products compared with Rnl1; however, the benefits of using Rnl2 remained largely obscured by additional biases in the 5′-adapter ligation step; RT and PCR steps did not have a significant impact on read frequencies. Intramolecular secondary structures of miRNA and/or miRNA/3′-adapter products contributed to these biases, which were highly reproducible under defined experimental conditions. We used the synthetic miRNA cocktail to derive correction factors for approximation of the absolute levels of individual miRNAs in biological samples. Finally, we evaluated the influence of 5′-terminal 5-nt barcode extensions for a set of 20 barcoded 3′ adapters and observed similar biases in miRNA read distribution, thereby enabling cost-saving multiplex analysis for large-scale miRNA profiling.
+UR - http://rnajournal.cshlp.org/cgi/doi/10.1261/rna.2799511
+ER -
+

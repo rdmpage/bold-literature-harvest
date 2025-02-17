@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - O'Sullivan, Orla; O'Callaghan, John; Sangrador-Vegas, Amaia; McAuliffe, Olivia; Slattery, Lydia; Kaleta, Pawel; Callanan, Michael; Fitzgerald, Gerald F; Ross, R Paul; Beresford, Tom
+T1 - Comparative genomics of lactic acid bacteria reveals a niche-specific gene set
+JA - BMC Microbiology
+VL - 9
+IS - 1
+SP - 50
+U1 - 10.1186/1471-2180-9-50(DOI)
+N2 - Background: The recently sequenced genome of Lactobacillus helveticus DPC4571 [1] revealed a dairy organism with significant homology (75% of genes are homologous) to a probiotic bacteria Lb. acidophilus NCFM [2]. This led us to hypothesise that a group of genes could be determined which could define an organism's niche. 
+
+Results: Taking 11 fully sequenced lactic acid bacteria (LAB) as our target, (3 dairy LAB, 5 gut LAB and 3 multi-niche LAB), we demonstrated that the presence or absence of certain genes involved in sugar metabolism, the proteolytic system, and restriction modification enzymes were pivotal in suggesting the niche of a strain. We identified 9 niche specific genes, of which 6 are dairy specific and 3 are gut specific. The dairy specific genes identified in Lactobacillus helveticus DPC4571 were lhv_1161 and lhv_1171, encoding components of the proteolytic system, lhv_1031 lhv_1152, lhv_1978 and lhv_0028 encoding restriction endonuclease genes, while bile salt hydrolase genes lba_0892 and lba_1078, and the sugar metabolism gene lba_1689 from Lb. acidophilus NCFM were identified as gut specific genes. 
+
+Conclusion: Comparative analysis revealed that if an organism had homologs to the dairy specific geneset, it probably came from a dairy environment, whilst if it had homologs to gut specific genes, it was highly likely to be of intestinal origin. We propose that this "barcode" of 9 genes will be a useful initial guide to researchers in the LAB field to indicate an organism's ability to occupy a specific niche.
+UR - http://www.biomedcentral.com/1471-2180/9/50
+ER -
+

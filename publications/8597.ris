@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Jennings, T. N.; Knaus, B. J.; Mullins, T. D.; Haig, S. M.; Cronn, R. C.
+T1 - Multiplexed microsatellite recovery using massively parallel sequencing: MICROSATELLITE RECOVERY USING MMPS
+JA - Molecular Ecology Resources
+VL - 11
+IS - 6
+SP - 1060
+EP - 1067
+U1 - 10.1111/j.1755-0998.2011.03033.x(DOI)
+N2 - Conservation and management of natural populations requires accurate and inexpensive genotyping methods. Traditional microsatellite, or simple sequence repeat (SSR), marker analysis remains a popular genotyping method because of the comparatively low cost of marker development, ease of analysis and high power of genotype discrimination. With the availability of massively parallel sequencing (MPS), it is now possible to sequence microsatellite-enriched genomic libraries in multiplex pools. To test this approach, we prepared seven microsatellite-enriched, barcoded genomic libraries from diverse taxa (two conifer trees, five birds) and sequenced these on one lane of the Illumina Genome Analyzer using paired-end 80-bp reads. In this experiment, we screened 6.1 million sequences and identified 356 958 unique microreads that contained di- or trinucleotide microsatellites. Examination of four species shows that our conversion rate from raw sequences to polymorphic markers compares favourably to Sanger- and 454-based methods. The advantage of multiplexed MPS is that the staggering capacity of modern microread sequencing is spread across many libraries; this reduces sample preparation and sequencing costs to less than $400 (USD) per species. This price is sufficiently low that microsatellite libraries could be prepared and sequenced for all 1373 organisms listed as ‘threatened’ and ‘endangered’ in the United States for under $0.5 M (USD).
+UR - http://doi.wiley.com/10.1111/j.1755-0998.2011.03033.x
+ER -
+

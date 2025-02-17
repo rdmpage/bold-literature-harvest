@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Vasco Elbrecht​, Ecaterina Edith Vamos, Dirk Steinke, Florian Leese
+Y1 - 2018
+T1 - Estimating intraspecific genetic diversity from community DNA metabarcoding data
+JA - PeerJ
+VL - 6
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - BACKGROUND: DNA metabarcoding is used to generate species composition data for entire communities. However, sequencing errors in high-throughput sequencing instruments are fairly common, usually requiring reads to be clustered into operational taxonomic units (OTUs), losing information on intraspecific diversity in the process. While Cytochrome c oxidase subunit I (COI) haplotype information is limited in resolving intraspecific diversity it is nevertheless often useful e.g. in a phylogeographic context, helping to formulate hypotheses on taxon distribution and dispersal. 
+DISCUSSION: We developed a strategy to infer intraspecific genetic diversity from bulk invertebrate metabarcoding data. It needs to be stressed that at this point this metabarcoding-informed haplotyping is not capable of capturing the full diversity present in such samples, due to variation in specimen size, primer bias and loss of sequence variants with low abundance. Nevertheless, for a high number of species intraspecific diversity was recovered, identifying potentially isolated populations and taxa for further more detailed phylogeographic investigation. While we are currently lacking large-scale metabarcoding datasets to fully take advantage of our new approach, metabarcoding-informed haplotyping holds great promise for biomonitoring efforts that not only seek information about species diversity but also underlying genetic diversity.
+ER -
+

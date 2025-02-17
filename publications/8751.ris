@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Bacci, G.; Bazzicalupo, M.; Benedetti, A.; Mengoni, A.
+T1 - StreamingTrim 1.0: a Java software for dynamic trimming of 16S rRNA sequence data from metagenetic studies
+JA - Molecular Ecology Resources
+VL - 14
+IS - 2
+SP - 426
+EP - 434
+U1 - 10.1111/1755-0998.12187(DOI)
+N2 - Next-generation sequencing technologies are extensively used in the field of molecular microbial ecology to describe taxonomic composition and to infer functionality of microbial communities. In particular, the so-called barcode or metagenetic applications that are based on PCR amplicon library sequencing are very popular at present. One of the problems, related to the utilization of the data of these libraries, is the analysis of reads quality and removal (trimming) of low-quality segments, while retaining sufficient information for subsequent analyses (e.g. taxonomic assignment). Here, we present StreamingTrim, a DNA reads trimming software, written in Java, with which researchers are able to analyse the quality of DNA sequences in fastq files and to search for low-quality zones in a very conservative way. This software has been developed with the aim to provide a tool capable of trimming amplicon library data, retaining as much as taxonomic information as possible. This software is equipped with a graphical user interface for a user-friendly usage. Moreover, from a computational point of view, StreamingTrim reads and analyses sequences one by one from an input fastq file, without keeping anything in memory, permitting to run the computation on a normal desktop PC or even a laptop. Trimmed sequences are saved in an output file, and a statistics summary is displayed that contains the mean and standard deviation of the length and quality of the whole sequence file. Compiled software, a manual and example data sets are available under the BSD-2-Clause License at the GitHub repository at https://github.com/GiBacci/StreamingTrim/.
+UR - http://doi.wiley.com/10.1111/1755-0998.12187
+ER -
+

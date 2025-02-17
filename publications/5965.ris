@@ -1,0 +1,15 @@
+TY - JOUR
+ID - pmid_16214755
+A1 - D. Steinke, M. Vences, W. Salzburger and A. Meyer
+Y1 - 2005
+T1 - TaxI: a software tool for DNA barcoding using distance methods.
+JA - Philosophical Transactions of the Royal Society B: Biological Sciences
+VL - 360
+IS - 1462
+SP - 1975
+EP - 1980
+U1 - 10.1098/rstb.2005.1729(DOI)
+U1 - User submitted
+N2 - DNA barcoding is a promising approach to the diagnosis of biological diversity in which DNA sequences serve as the primary key for information retrieval. Most existing software for evolutionary analysis of DNA sequences was designed for phylogenetic analyses and, hence, those algorithms do not offer appropriate solutions for the rapid, but precise analyses needed for DNA barcoding, and are also unable to process the often large comparative datasets. We developed a flexible software tool for DNA taxonomy, named TaxI. This program calculates sequence divergences between a query sequence (taxon to be barcoded) and each sequence of a dataset of reference sequences defined by the user. Because the analysis is based on separate pairwise alignments this software is also able to work with sequences characterized by multiple insertions and deletions that are difficult to align in large sequence sets (i.e. thousands of sequences) by multiple alignment algorithms because of computational restrictions. Here, we demonstrate the utility of this approach with two datasets of fish larvae and juveniles from Lake Constance and juvenile land snails under different models of sequence evolution. Sets of ribosomal 16S rRNA sequences, characterized by multiple indels, performed as good as or better than cox1 sequence sets in assigning sequences to species, demonstrating the suitability of rRNA genes for DNA barcoding.
+ER -
+

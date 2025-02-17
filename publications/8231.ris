@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Lotta, Luca A; Wang, Mark; Yu, Jin; Martinelli, Ida; Yu, Fuli; Passamonti, Serena M; Consonni, Dario; Pappalardo, Emanuela; Menegatti, Marzia; Scherer, Steven E; Lewis, Lora L; Akbar, Humeira; Wu, Yuanqing; Bainbridge, Matthew N; Muzny, Donna M; Mannucci, Pier M; Gibbs, Richard A; Peyvandi, Flora
+T1 - Identification of genetic risk variants for deep vein thrombosis by multiplexed next-generation sequencing of 186 hemostatic/pro-inflammatory genes
+JA - BMC Medical Genomics
+VL - 5
+IS - 1
+SP - 7
+U1 - 10.1186/1755-8794-5-7(DOI)
+N2 - Background: Next-generation DNA sequencing is opening new avenues for genetic association studies in common diseases that, like deep vein thrombosis (DVT), have a strong genetic predisposition still largely unexplained by currently identified risk variants. In order to develop sequencing and analytical pipelines for the application of next-generation sequencing to complex diseases, we conducted a pilot study sequencing the coding area of 186 hemostatic/proinflammatory genes in 10 Italian cases of idiopathic DVT and 12 healthy controls. 
+
+Results: A molecular-barcoding strategy was used to multiplex DNA target capture and sequencing, while retaining individual sequence information. Genomic libraries with barcode sequence-tags were pooled (in pools of 8 or 16 samples) and enriched for target DNA sequences. Sequencing was performed on ABI SOLiD-4 platforms. We produced > 12 gigabases of raw sequence data to sequence at high coverage (average: 42X) the 700-kilobase target area in 22 individuals. A total of 1876 high-quality genetic variants were identified (1778 single nucleotide substitutions and 98 insertions/deletions). Annotation on databases of genetic variation and human disease mutations revealed several novel, potentially deleterious mutations. We tested 576 common variants in a case-control association analysis, carrying the top-5 associations over to replication in up to 719 DVT cases and 719 controls. We also conducted an analysis of the burden of nonsynonymous variants in coagulation factor and anticoagulant genes. We found an excess of rare missense mutations in anticoagulant genes in DVT cases compared to controls and an association for a missense polymorphism of FGA (rs6050; p = 1.9 × 10-5, OR 1.45; 95% CI, 1.22-1.72; after replication in > 1400 individuals). 
+
+Conclusions: We implemented a barcode-based strategy to efficiently multiplex sequencing of hundreds of candidate genes in several individuals. In the relatively small dataset of our pilot study we were able to identify bona fide associations with DVT. Our study illustrates the potential of next-generation sequencing for the discovery of genetic variation predisposing to complex diseases.
+UR - http://www.biomedcentral.com/1755-8794/5/7
+ER -
+

@@ -1,0 +1,12 @@
+TY - JOUR
+ID - n/a
+A1 - Du, Wei; Cao, Zhongbo; Wang, Yan; Sun, Ying; Blanzieri, Enrico; Liang, Yanchun
+T1 - Prokaryotic Phylogenies Inferred from Whole-Genome Sequence and Annotation Data
+JA - BioMed Research International
+VL - 2013
+SP - 41654
+U1 - 10.1155/2013/409062(DOI)
+N2 - Phylogenetic trees are used to represent the evolutionary relationship among various groups of species. In this paper, a novel method for inferring prokaryotic phylogenies using multiple genomic information is proposed. The method is called CGCPhy and based on the distance matrix of orthologous gene clusters between whole-genome pairs. CGCPhy comprises four main steps. First, orthologous genes are determined by sequence similarity, genomic function, and genomic structure information. Second, genes involving potential HGT events are eliminated, since such genes are considered to be the highly conserved genes across different species and the genes located on fragments with abnormal genome barcode. Third, we calculate the distance of the orthologous gene clusters between each genome pair in terms of the number of orthologous genes in conserved clusters. Finally, the neighbor-joining method is employed to construct phylogenetic trees across different species. CGCPhy has been examined on different datasets from 617 complete single-chromosome prokaryotic genomes and achieved applicative accuracies on different species sets in agreement with Bergey's taxonomy in quartet topologies. Simulation results show that CGCPhy achieves high average accuracy and has a low standard deviation on different datasets, so it has an applicative potential for phylogenetic analysis.
+UR - http://www.hindawi.com/journals/bmri/2013/409062/
+ER -
+

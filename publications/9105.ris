@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Kheradpour, P.; Ernst, J.; Melnikov, A.; Rogov, P.; Wang, L.; Zhang, X.; Alston, J.; Mikkelsen, T. S.; Kellis, M.
+T1 - Systematic dissection of regulatory motifs in 2000 predicted human enhancers using a massively parallel reporter assay
+JA - Genome Research
+VL - 23
+IS - 5
+SP - 800
+EP - 811
+U1 - 10.1101/gr.144899.112(DOI)
+N2 - Genome-wide chromatin annotations have permitted the mapping of putative regulatory elements across multiple human cell types. However, their experimental dissection by directed regulatory motif disruption has remained unfeasible at the genome scale. Here, we use a massively parallel reporter assay (MPRA) to measure the transcriptional levels induced by 145-bp DNA segments centered on evolutionarily conserved regulatory motif instances within enhancer chromatin states. We select five predicted activators (HNF1, HNF4, FOXA, GATA, NFE2L2) and two predicted repressors (GFI1, ZFP161) and measure reporter expression in erythroleukemia (K562) and liver carcinoma (HepG2) cell lines. We test 2104 wild-type sequences and 3314 engineered enhancer variants containing targeted motif disruptions, each using 10 barcode tags and two replicates. The resulting data strongly confirm the enhancer activity and cell-type specificity of enhancer chromatin states, the ability of 145-bp segments to recapitulate both, the necessary role of regulatory motifs in enhancer function, and the complementary roles of activator and repressor motifs. We find statistically robust evidence that (1) disrupting the predicted activator motifs abolishes enhancer function, while silent or motif-improving changes maintain enhancer activity; (2) evolutionary conservation, nucleosome exclusion, binding of other factors, and strength of the motif match are predictive of enhancer activity; (3) scrambling repressor motifs leads to aberrant reporter expression in cell lines where the enhancers are usually inactive. Our results suggest a general strategy for deciphering cis-regulatory elements by systematic large-scale manipulation and provide quantitative enhancer activity measurements across thousands of constructs that can be mined to develop predictive models of gene expression.
+UR - http://genome.cshlp.org/cgi/doi/10.1101/gr.144899.112
+ER -
+

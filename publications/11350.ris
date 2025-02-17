@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Smith, A. M.; Heisler, L. E.; St.Onge, R. P.; Farias-Hesson, E.; Wallace, I. M.; Bodeau, J.; Harris, A. N.; Perry, K. M.; Giaever, G.; Pourmand, N.; Nislow, C.
+T1 - Highly-multiplexed barcode sequencing: an efficient method for parallel analysis of pooled samples
+JA - Nucleic Acids Research
+VL - 38
+IS - 13
+SP - e142
+EP - e142
+U1 - 10.1093/nar/gkq368(DOI)
+N2 - Next-generation sequencing has proven an extremely effective technology for molecular counting applications where the number of sequence reads provides a digital readout for RNA-seq, ChIP-seq, Tn-seq and other applications. The extremely large number of sequence reads that can be obtained per run permits the analysis of increasingly complex samples. For lower complexity samples, however, a point of diminishing returns is reached when the number of counts per sequence results in oversampling with no increase in data quality. A solution to making next-generation sequencing as efficient and affordable as possible involves assaying multiple samples in a single run. Here, we report the successful 96-plexing of complex pools of DNA barcoded yeast mutants and show that such ‘Bar-seq’ assessment of these samples is comparable with data provided by barcode microarrays, the current benchmark for this application. The cost reduction and increased throughput permitted by highly multiplexed sequencing will greatly expand the scope of chemogenomics assays and, equally importantly, the approach is suitable for other sequence counting applications that could benefit from massive parallelization.
+UR - http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkq368
+ER -
+

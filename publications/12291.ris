@@ -1,0 +1,11 @@
+TY - JOUR
+ID - n/a
+A1 - Smith, Andrew M.; Durbic, Tanja; Oh, Julia; Urbanus, Malene; Proctor, Michael; Heisler, Lawrence E.; Giaever, Guri; Nislow, Corey
+T1 - Competitive Genomic Screens of Barcoded Yeast Libraries
+JA - Journal of Visualized Experiments
+IS - 54
+U1 - 10.3791/2864(DOI)
+N2 - By virtue of advances in next generation sequencing technologies, we have access to new genome sequences almost daily. The tempo of these advances is accelerating, promising greater depth and breadth. In light of these extraordinary advances, the need for fast, parallel methods to define gene function becomes ever more important. Collections of genome-wide deletion mutants in yeasts and E. coli have served as workhorses for functional characterization of gene function, but this approach is not scalable, current gene-deletion approaches require each of the thousands of genes that comprise a genome to be deleted and verified. Only after this work is complete can we pursue high-throughput phenotyping. Over the past decade, our laboratory has refined a portfolio of competitive, miniaturized, high-throughput genome-wide assays that can be performed in parallel. This parallelization is possible because of the inclusion of DNA 'tags', or 'barcodes,' into each mutant, with the barcode serving as a proxy for the mutation and one can measure the barcode abundance to assess mutant fitness. In this study, we seek to fill the gap between DNA sequence and barcoded mutant collections. To accomplish this we introduce a combined transposon disruption-barcoding approach that opens up parallel barcode assays to newly sequenced, but poorly characterized microbes. To illustrate this approach we present a new Candida albicans barcoded disruption collection and describe how both microarray-based and next generation sequencing-based platforms can be used to collect 10,000 - 1,000,000 gene-gene and drug-gene interactions in a single experiment.
+UR - http://www.jove.com/details.php?id=2864
+ER -
+

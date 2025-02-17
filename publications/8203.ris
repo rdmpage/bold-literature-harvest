@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Narechania, A.; Baker, R. H.; Sit, R.; Kolokotronis, S.-O.; DeSalle, R.; Planet, P. J.
+T1 - Random Addition Concatenation Analysis: A Novel Approach to the Exploration of Phylogenomic Signal Reveals Strong Agreement between Core and Shell Genomic Partitions in the Cyanobacteria
+JA - Genome Biology and Evolution
+VL - 4
+IS - 1
+SP - 30
+EP - 43
+U1 - 10.1093/gbe/evr121(DOI)
+N2 - Recent whole-genome approaches to microbial phylogeny have emphasized partitioning genes into functional classes, often focusing on differences between a stable core of genes and a variable shell. To rigorously address the effects of partitioning and combining genes in genome-level analyses, we developed a novel technique called Random Addition Concatenation Analysis (RADICAL). RADICAL operates by sequentially concatenating randomly chosen gene partitions starting with a single-gene partition and ending with the entire genomic data set. A phylogenetic tree is built for every successive addition, and the entire process is repeated creating multiple random concatenation paths. The result is a library of trees representing a large variety of differently sized random gene partitions. This library can then be mined to identify unique topologies, assess overall agreement, and measure support for different trees. To evaluate RADICAL, we used 682 orthologous genes across 13 cyanobacterial genomes. Despite previous assertions of substantial differences between a core and a shell set of genes for this data set, RADICAL reveals the two partitions contain congruent phylogenetic signal. Substantial disagreement within the data set is limited to a few nodes and genes involved in metabolism, a functional group that is distributed evenly between the core and the shell partitions. We highlight numerous examples where RADICAL reveals aspects of phylogenetic behavior not evident by examining individual gene trees or a “‘total evidence” tree. Our method also demonstrates that most emergent phylogenetic signal appears early in the concatenation process. The software is freely available at http://desalle.amnh.org.
+UR - http://gbe.oxfordjournals.org/cgi/doi/10.1093/gbe/evr121
+ER -
+

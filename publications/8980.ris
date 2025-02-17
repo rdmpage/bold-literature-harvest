@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - David, Olivier; Larédo, Catherine; Leblois, Raphaël; Schaeffer, Brigitte; Vergne, Nicolas
+T1 - Coalescent-Based DNA Barcoding: Multilocus Analysis and Robustness
+JA - Journal of Computational Biology
+VL - 19
+IS - 3
+SP - 271
+EP - 278
+U1 - 10.1089/cmb.2011.0122(DOI)
+N2 - DNA barcoding is the assignment of individuals to species using standardized mitochondrial sequences. Nuclear data are sometimes added to the mitochondrial data to increase power. A barcoding method for analysing mitochondrial and nuclear data is developed. It is a Bayesian method based on the coalescent model. Then this method is assessed using simulated and real data. It is found that adding nuclear data can reduce the number of ambiguous assignments. Finally, the robustness of coalescent-based barcoding to departures from model assumptions is studied using simulations. This method is found to be robust to past population size variations, to within-species population structures, and to designs that poorly sample populations within species. Supplementary Material is available online at www.liebertonline.com/cmb.
+UR - http://online.liebertpub.com/doi/abs/10.1089/cmb.2011.0122
+ER -
+

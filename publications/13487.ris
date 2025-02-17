@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Jessica A. Schultz, Paul D. N. Hebert
+Y1 - 2021
+T1 - Do pseudogenes pose a problem for metabarcoding marine animal communities?
+JA - Molecular Ecology Resources.
+VL - 1
+IS - 1
+SP - 20
+U1 - 10.1111/1755-0998.13667(DOI)
+U1 - User submitted
+N2 - Because DNA metabarcoding typically employs sequence diversity among mitochondrial amplicons to estimate species composition, nuclear mitochondrial pseudogenes (NUMTs) can inflate diversity. This study quantifies the incidence and attributes of NUMTs derived from the 658 bp barcode region of cytochrome c oxidase I (COI) in 156 marine animal genomes. The number of NUMTs meeting four length criteria (>150 bp, >300 bp, >450 bp, >600 bp) was determined, and they were examined to ascertain if they could be recognized by their possession of indels or stop codons. In total, 389 NUMTs <100 bp were detected, with an average of 2.49 per species (range = 0–50) and a mean length of 336 bp +/- 208 bp. Among NUMTs lacking diagnostic features, 52.5% were ≤300 bp, 63.9% were ≤450 bp, and 76.2% were ≤600 bp. Studies examing 150 bp amplicons inflate the OTU count by 1.57x compared to the true species count and increase perceived intraspecific variation at COI by 1.19x (when sequence variants with >2% sequence divergence are recognized as different OTUs). There was a weak positive correlation between genome size and NUMT count but no variation among phyla, trophic groups or life history traits. While bioinformatic advances will improve NUMT detection, the best defense involves targeting long amplicons and developing reference databases that include both mitochondrial sequences and their NUMT derivatives.
+ER -
+

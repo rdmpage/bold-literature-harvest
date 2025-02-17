@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Shen, Yong-Yi; Chen, Xiao; Murphy, Robert W.
+T1 - Assessing DNA Barcoding as a Tool for Species Identification and Data Quality Control
+JA - PLoS ONE
+VL - 8
+IS - 2
+SP - e57125
+U1 - 10.1371/journal.pone.0057125(DOI)
+N2 - In recent years, the number of sequences of diverse species submitted to GenBank has grown explosively and not infrequently the data contain errors. This problem is extensively recognized but not for invalid or incorrectly identified species, sample mixed-up, and contamination. DNA barcoding is a powerful tool for identifying and confirming species and one very important application involves forensics. In this study, we use DNA barcoding to detect erroneous sequences in GenBank by evaluating deep intraspecific and shallow interspecific divergences to discover possible taxonomic problems and other sources of error. We use the mitochondrial DNA gene encoding cytochrome b (Cytb) from turtles to test the utility of barcoding for pinpointing potential errors. This gene is widely used in phylogenetic studies of the speciose group. Intraspecific variation is usually less than 2.0% and in most cases it is less than 1.0%. In comparison, most species differ by more than 10.0% in our dataset. Overlapping intra- and interspecific percentages of variation mainly involve problematic identifications of species and outdated taxonomies. Further, we detect identical problems in Cytb from Insectivora and Chiroptera. Upon applying this strategy to 47,524 mammalian CoxI sequences, we resolve a suite of potentially problematic sequences. Our study reveals that erroneous sequences are not rare in GenBank and that the DNA barcoding can serve to confirm sequencing accuracy and discover problems such as misidentified species, inaccurate taxonomies, contamination, and potential errors in sequencing.
+UR - http://dx.plos.org/10.1371/journal.pone.0057125
+ER -
+

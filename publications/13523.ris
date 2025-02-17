@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Jose Sergio Hleap, Melania E Cristescu, Dirk Steinke
+Y1 - 2020
+T1 - A2G2: A Python wrapper to perform very large alignments in semi-conserved regions
+JA - BioRxiv
+VL - 1
+IS - 1
+SP - 5
+U1 - 10.1101/2020.05.21.109009(DOI)
+U1 - User submitted
+N2 - Summary: Amplicons to Global Gene (A2G2) is a Python wrapper that uses MAFFT and an “Amplicon to Gene” strategy to align very large numbers of se- quences while improving alignment accuracy. It is specially developed to deal with conserved genes, where traditional aligners introduce a significant amount of gaps. A2G2 leverages the add sequences option of MAFFT to align the sequences to a global reference gene and a local reference region. Both of these references can be consensus sequences of trusted sources. Efficient parallelization of these tasks allows A2G2 to align a very large number of sequences (> 500K) in a reasonable amount of time. A2G2 can be imported in Python for easier integration with other software, or can be run via command line.
+Availability: A2G2 is implemented in Python 3 (3.6) and depends on MAFFT availability. Other package requirements can be found in the requirements.txt file at https://github.com/jshleap/A2G. A2G2 is also available via PyPi (https: //pypi.org/project/A2G). It is licensed under the LGPLv3.
+Supplementary information: Supplementary material is available at github as jupyter notebook.
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Sarkar, Indra Neil; Planet, Paul J.; Desalle, Rob
+T1 - caos software for use in character-based DNA barcoding
+JA - Molecular Ecology Resources
+VL - 8
+IS - 6
+SP - 1256
+EP - 1259
+U1 - 10.1111/j.1755-0998.2008.02235.x(DOI)
+N2 - The success of character-based DNA barcoding depends on the efficient identification of diagnostic character states from molecular sequences that have been organized hierarchically (e.g. according to phylogenetic methods). Similarly, the reliability of these identified diagnostic character states must be assessed according to their ability to diagnose new sequences. Here, a set of software tools is presented that implement the previously described Characteristic Attribute Organization System for both diagnostic identification and diagnostic-based classification. The software is publicly available from http://sarkarlab.mbl.edu/CAOS.
+UR - http://doi.wiley.com/10.1111/j.1755-0998.2008.02235.x
+ER -
+

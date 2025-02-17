@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Hand, Daniel; Wallis, Corrin; Colyer, Alison; Penn, Charles W.
+T1 - Pyrosequencing the Canine Faecal Microbiota: Breadth and Depth of Biodiversity
+JA - PLoS ONE
+VL - 8
+IS - 1
+SP - e53115
+U1 - 10.1371/journal.pone.0053115(DOI)
+N2 - Mammalian intestinal microbiota remain poorly understood despite decades of interest and investigation by culture-based and other long-established methodologies. Using high-throughput sequencing technology we now report a detailed analysis of canine faecal microbiota. The study group of animals comprised eleven healthy adult miniature Schnauzer dogs of mixed sex and age, some closely related and all housed in kennel and pen accommodation on the same premises with similar feeding and exercise regimes. DNA was extracted from faecal specimens and subjected to PCR amplification of 16S rDNA, followed by sequencing of the 5′ region that included variable regions V1 and V2. Barcoded amplicons were sequenced by Roche-454 FLX high-throughput pyrosequencing. Sequences were assigned to taxa using the Ribosomal Database Project Bayesian classifier and revealed dominance of Fusobacterium and Bacteroidetes phyla. Differences between animals in the proportions of different taxa, among 10,000 reads per animal, were clear and not supportive of the concept of a “core microbiota”. Despite this variability in prominent genera, littermates were shown to have a more similar faecal microbial composition than unrelated dogs. Diversity of the microbiota was also assessed by assignment of sequence reads into operational taxonomic units (OTUs) at the level of 97% sequence identity. The OTU data were then subjected to rarefaction analysis and determination of Chao1 richness estimates. The data indicated that faecal microbiota comprised possibly as many as 500 to 1500 OTUs.
+UR - http://dx.plos.org/10.1371/journal.pone.0053115
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - King, Oliver D.; Gaborit, Philippe
+T1 - Binary templates for comma-free DNA codes
+JA - Discrete Applied Mathematics
+VL - 155
+IS - 41797
+SP - 831
+EP - 839
+U1 - 10.1016/j.dam.2005.07.015(DOI)
+N2 - Arita and Kobayashi proposed a method for constructing comma-free DNA codes using binary templates, and showed that the separation d of any such binary template of length n satisfies d ⩽ n / 2 . Kobayashi, Kondo and Arita later produced an infinite family of binary templates with d ⩾ 11 n / 30 . Here we demonstrate the existence of an infinite family of binary templates with d > n / 2 - ( 18 n log e n ) 1 / 2 . We also give an explicit construction for an infinite family of binary templates with d > n / 2 - 19 n 1 / 2 log e n .
+UR - http://linkinghub.elsevier.com/retrieve/pii/S0166218X06003714
+ER -
+

@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Mullenders, Jasper; Fabius, Armida W. M.; Madiredjo, Mandy; Bernards, René; Beijersbergen, Roderick L.
+T1 - A Large Scale shRNA Barcode Screen Identifies the Circadian Clock Component ARNTL as Putative Regulator of the p53 Tumor Suppressor Pathway
+JA - PLoS ONE
+VL - 4
+IS - 3
+SP - e4798
+U1 - 10.1371/journal.pone.0004798(DOI)
+N2 - Background: The p53 tumor suppressor gene is mutated in about half of human cancers, but the p53 pathway is thought to be functionally inactivated in the vast majority of cancer. Understanding how tumor cells can become insensitive to p53 activation is therefore of major importance. Using an RNAi-based genetic screen, we have identified three novel genes that regulate p53 function. 
+
+Results: We have screened the NKI shRNA library targeting 8,000 human genes to identify modulators of p53 function. Using the shRNA barcode technique we were able to quickly identify active shRNA vectors from a complex mixture. Validation of the screening results indicates that the shRNA barcode technique can reliable identify active shRNA vectors from a complex pool. Using this approach we have identified three genes, ARNTL, RBCK1 and TNIP1, previously unknown to regulate p53 function. Importantly, ARNTL (BMAL1) is an established component of the circadian regulatory network. The latter finding adds to recent observations that link circadian rhythm to the cell cycle and cancer. We show that cells having suppressed ARNTL are unable to arrest upon p53 activation associated with an inability to activate the p53 target gene p21CIP1. 
+
+Conclusions: We identified three new regulators of the p53 pathway through a functional genetic screen. The identification of the circadian core component ARNTL strengthens the link between circadian rhythm and cancer.
+UR - http://dx.plos.org/10.1371/journal.pone.0004798
+ER -
+

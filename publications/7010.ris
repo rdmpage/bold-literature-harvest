@@ -1,0 +1,24 @@
+TY - JOUR
+ID - n/a
+A1 - Atsushi Ebihara, Joel H. Nitta and Motomi Ito
+Y1 - 2010
+T1 - Molecular species identification with rich floristic sampling: DNA barcoding the pteridophyte flora of Japan
+JA - PLoS ONE
+VL - 5
+IS - 12
+SP - e15136
+M1 - 2010-08-07(date received)
+M1 - 2010-10-22(date accepted)
+U1 - 10.1371/journal.pone.0015136(DOI)
+U1 - User submitted
+N2 - Background
+
+DNA barcoding is expected to be an effective identification tool for organisms with heteromorphic generations such as pteridophytes, which possess a morphologically simple gametophyte generation. Although a reference data set including complete coverage of the target local flora/fauna is necessary for accurate identification, DNA barcode studies including such rich taxonomic sampling on a countrywide scale are lacking.
+Methodology/Principal Findings
+
+The Japanese pteridophyte flora (733 taxa including subspecies and varieties) was used to test the utility of two plastid DNA barcode regions (rbcL and trnH-psbA) with the intention of developing an identification system for native gametophytes. DNA sequences were obtained from each of 689 (94.0%) taxa for rbcL and 617 (84.2%) taxa for trnH-psbA. Mean interspecific divergence values across all taxon pairs (K2P genetic distances) did not reveal a significant difference in rate between trnH-psbA and rbcL, but mean K2P distances of each genus showed significant heterogeneity according to systematic position. The minimum fail rate of taxon discrimination in an identification test using BLAST (12.52%) was obtained when rbcL and trnH-psbA were combined, and became lower in datasets excluding infraspecific taxa or apogamous taxa, or including sexual diploids only.
+Conclusions/Significance
+
+This study demonstrates the overall effectiveness of DNA barcodes for species identification in the Japanese pteridophyte flora. Although this flora is characterized by a high occurrence of apogamous taxa that pose a serious challenge to identification using DNA barcodes, such taxa are limited to a small number of genera, and only minimally detract from the overall success rate. In the case that a query sequence is matched to a known apogamous genus, routine species identification may not be possible. Otherwise, DNA barcoding is a practical tool for identification of most Japanese pteridophytes, and is especially anticipated to be helpful for identification of non-hybridizing gametophytes.
+ER -
+

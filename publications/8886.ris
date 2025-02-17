@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Pan, Xuewen; Yuan, Daniel S.; Xiang, Dong; Wang, Xiaoling; Sookhai-Mahadeo, Sharon; Bader, Joel S.; Hieter, Philip; Spencer, Forrest; Boeke, Jef D.
+T1 - A Robust Toolkit for Functional Profiling of the Yeast Genome
+JA - Molecular Cell
+VL - 16
+IS - 3
+SP - 487
+EP - 496
+U1 - 10.1016/j.molcel.2004.09.035(DOI)
+N2 - Study of mutant phenotypes is a fundamental method for understanding gene function. The construction of a near-complete collection of yeast knockouts (YKO) and the unique molecular barcodes (or TAGs) that identify each strain has enabled quantitative functional profiling of Saccharomyces cerevisiae. By using these TAGs and the SGA reporter, MFA1pr-HIS3, which facilitates conversion of heterozygous diploid YKO strains into haploid mutants, we have developed a set of highly efficient microarray-based techniques, collectively referred as dSLAM (diploid-based synthetic lethality analysis on microarrays), to probe genome-wide gene-chemical and gene-gene interactions. Direct comparison revealed that these techniques are more robust than existing methods in functional profiling of the yeast genome. Widespread application of these tools will elucidate a comprehensive yeast genetic network.
+UR - http://linkinghub.elsevier.com/retrieve/pii/S1097276504005878
+ER -
+

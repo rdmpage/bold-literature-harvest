@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Teresita M. Porter , Mehrdad Hajibabaei
+Y1 - 2022
+T1 - MetaWorks: A flexible, scalable bioinformatic pipeline for high-throughput multi-marker biodiversity assessments
+JA - PLOS ONE
+VL - 17
+IS - 9
+SP - 11
+U1 - 10.1371/journal.pone.0274260(DOI)
+U1 - User submitted
+N2 - Multi-marker metabarcoding is increasingly being used to generate biodiversity information across different domains of life from microbes to fungi to animals such as for molecular ecology and biomonitoring applications in different sectors from academic research to regulatory agencies and industry. Current popular bioinformatic pipelines support microbial and fungal marker analysis, while ad hoc methods are often used to process animal metabarcode markers from the same study. MetaWorks provides a harmonized processing environment, pipeline, and taxonomic assignment approach for demultiplexed Illumina reads for all biota using a wide range of metabarcoding markers such as 16S, ITS, and COI. A Conda environment is provided to quickly gather most of the programs and dependencies for the pipeline. Several workflows are provided such as: taxonomically assigning exact sequence variants, provides an option to generate operational taxonomic units, and facilitates single-read processing. Pipelines are automated using Snakemake to minimize user intervention and facilitate scalability. All pipelines use the RDP classifier to provide taxonomic assignments with confidence measures. We extend the functionality of the RDP classifier for taxonomically assigning 16S (bacteria), ITS (fungi), and 28S (fungi), to also support COI (eukaryotes), rbcL (eukaryotes, land plants, diatoms), 12S (fish, vertebrates), 18S (eukaryotes, diatoms) and ITS (fungi, plants). MetaWorks properly handles ITS by trimming flanking conserved rRNA gene regions as well as protein coding genes by providing two options for removing obvious pseudogenes. MetaWorks can be downloaded from https://github.com/terrimporter/MetaWorks and quickstart instructions, pipeline details, and a tutorial for new users can be found at https://terrimporter.github.io/MetaWorksSite.
+ER -
+

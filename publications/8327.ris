@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Helyar, Sarah J.; Limborg, Morten T.; Bekkevold, Dorte; Babbucci, Massimiliano; van Houdt, Jeroen; Maes, Gregory E.; Bargelloni, Luca; Nielsen, Rasmus O.; Taylor, Martin I.; Ogden, Rob; Cariani, Alessia; Carvalho, Gary R.; Consortium, FishPopTrace; Panitz, Frank
+T1 - SNP Discovery Using Next Generation Transcriptomic Sequencing in Atlantic Herring (Clupea harengus)
+JA - PLoS ONE
+VL - 7
+IS - 8
+SP - e42089
+U1 - 10.1371/journal.pone.0042089(DOI)
+N2 - The introduction of Next Generation Sequencing (NGS) has revolutionised population genetics, providing studies of non-model species with unprecedented genomic coverage, allowing evolutionary biologists to address questions previously far beyond the reach of available resources. Furthermore, the simple mutation model of Single Nucleotide Polymorphisms (SNPs) permits cost-effective high-throughput genotyping in thousands of individuals simultaneously. Genomic resources are scarce for the Atlantic herring (Clupea harengus), a small pelagic species that sustains high revenue fisheries. This paper details the development of 578 SNPs using a combined NGS and high-throughput genotyping approach. Eight individuals covering the species distribution in the eastern Atlantic were bar-coded and multiplexed into a single cDNA library and sequenced using the 454 GS FLX platform. SNP discovery was performed by de novo sequence clustering and contig assembly, followed by the mapping of reads against consensus contig sequences. Selection of candidate SNPs for genotyping was conducted using an in silico approach. SNP validation and genotyping were performed simultaneously using an Illumina 1,536 GoldenGate assay. Although the conversion rate of candidate SNPs in the genotyping assay cannot be predicted in advance, this approach has the potential to maximise cost and time efficiencies by avoiding expensive and time-consuming laboratory stages of SNP validation. Additionally, the in silico approach leads to lower ascertainment bias in the resulting SNP panel as marker selection is based only on the ability to design primers and the predicted presence of intron-exon boundaries. Consequently SNPs with a wider spectrum of minor allele frequencies (MAFs) will be genotyped in the final panel. The genomic resources presented here represent a valuable multi-purpose resource for developing informative marker panels for population discrimination, microarray development and for population genomic studies in the wild.
+UR - http://dx.plos.org/10.1371/journal.pone.0042089
+ER -
+

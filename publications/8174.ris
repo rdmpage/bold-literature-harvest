@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Baird, Nathan A.; Etter, Paul D.; Atwood, Tressa S.; Currey, Mark C.; Shiver, Anthony L.; Lewis, Zachary A.; Selker, Eric U.; Cresko, William A.; Johnson, Eric A.
+T1 - Rapid SNP Discovery and Genetic Mapping Using Sequenced RAD Markers
+JA - PLoS ONE
+VL - 3
+IS - 10
+SP - e3376
+U1 - 10.1371/journal.pone.0003376(DOI)
+N2 - Single nucleotide polymorphism (SNP) discovery and genotyping are essential to genetic mapping. There remains a need for a simple, inexpensive platform that allows high-density SNP discovery and genotyping in large populations. Here we describe the sequencing of restriction-site associated DNA (RAD) tags, which identified more than 13,000 SNPs, and mapped three traits in two model organisms, using less than half the capacity of one Illumina sequencing run. We demonstrated that different marker densities can be attained by choice of restriction enzyme. Furthermore, we developed a barcoding system for sample multiplexing and fine mapped the genetic basis of lateral plate armor loss in threespine stickleback by identifying recombinant breakpoints in F2 individuals. Barcoding also facilitated mapping of a second trait, a reduction of pelvic structure, by in silico re-sorting of individuals. To further demonstrate the ease of the RAD sequencing approach we identified polymorphic markers and mapped an induced mutation in Neurospora crassa. Sequencing of RAD markers is an integrated platform for SNP discovery and genotyping. This approach should be widely applicable to genetic mapping in a variety of organisms.
+UR - http://dx.plos.org/10.1371/journal.pone.0003376
+ER -
+

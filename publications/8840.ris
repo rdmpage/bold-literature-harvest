@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Palla, Piergiorgio; Frau, Gianfranco; Vargiu, Laura; Rodriguez-Tomé, Patricia
+T1 - QTREDS: a Ruby on Rails-based platform for omics laboratories
+JA - BMC Bioinformatics
+VL - 15
+IS - S1
+SP - S13
+U1 - 10.1186/1471-2105-15-S1-S13(DOI)
+N2 - Background: In recent years, the experimental aspects of the laboratory activities have been growing in complexity in terms of amount and diversity of data produced, equipment used, of computer-based workflows needed to process and analyze the raw data generated. To enhance the level of quality control over the laboratory activities and efficiently handle the large amounts of data produced, a Laboratory Management Information System (LIMS) is highly-recommended. A LIMS is a complex software platform that helps researchers to have a complete knowledge of the laboratory activities at each step encouraging them to adopt good laboratory practices. 
+
+Results: We have designed and implemented Quality and TRacEability Data System - QTREDS, a software platform born to address the specific needs of the CRS4 Sequencing and Genotyping Platform (CSGP). The system written in the Ruby programming language and developed using the Rails framework is based on four main functional blocks: a sample handler, a workflow generator, an inventory management system and a user management system. The wizard-based sample handler allows to manage one or multiple samples at a time, tracking the path of each sample and providing a full chain of custody. The workflow generator encapsulates a user-friendly JavaScript-based visual tool that allows users to design customized workflows even for those without a technical background. With the inventory management system, reagents, laboratory glassware and consumables can be easily added through their barcodes and minimum stock levels can be controlled to avoid shortages of essential laboratory supplies. QTREDS provides a system for privileges management and authorizations to create different user roles, each with a well-defined access profile. 
+
+Conclusions: Tracking and monitoring all the phases of the laboratory activities can help to identify and troubleshoot problems more quickly, reducing the risk of process failures and their related costs. QTREDS was designed to address the specific needs of the CSGP laboratory, where it has been successfully used for over a year, but thanks to its flexibility it can be easily adapted to other "omics" laboratories. The software is freely available for academic users from http://qtreds.crs4.it webcite.
+UR - http://www.biomedcentral.com/1471-2105/15/S1/S13
+ER -
+

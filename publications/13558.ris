@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Christopher A Hempel, Dominik Buchner, Leoni Mack, Marie V Brasseur, Dan Tulpan, Florian Leese, Dirk Steinke
+Y1 - 2022
+T1 - Predicting environmental stressor levels with machine learning: a comparison between amplicon sequencing, metagenomics, and total RNA sequencing based on taxonomically assigned data
+JA - bioRxiv
+VL - 1
+IS - 1
+SP - 43
+U1 - 10.1101/2022.11.18.517107(DOI)
+U1 - User submitted
+N2 - Background: Microbes are increasingly (re)considered for environmental assessments because they are powerful indicators for the health of ecosystems. The complexity of microbial communities necessitates powerful novel tools to derive conclusions for environmental decision- makers, and machine learning is a promising option in that context. While amplicon sequencing is typically applied to assess microbial communities, metagenomics and total RNA sequencing (herein summarized as omics-based methods) can provide a more holistic picture of microbial biodiversity at sufficient sequencing depths. Despite this advantage, amplicon sequencing and omics-based methods have not yet been compared for taxonomy-based environmental assessments with machine learning. In this study, we applied 16S and ITS-2 sequencing, metagenomics, and total RNA sequencing to samples from a stream mesocosm experiment that investigated the impacts of two aquatic stressors, insecticide and increased fine sediment deposition, on stream biodiversity. We processed the data using similarity clustering and denoising (only applicable to amplicon sequencing) as well as multiple taxonomic levels, data types, feature selection, and machine learning algorithms and evaluated the stressor prediction performance of each generated model for a total of 1,536 evaluated combinations of taxonomic datasets and data-processing methods.
+Results: Sequencing and data-processing methods had a substantial impact on stressor prediction. While omics-based methods detected much more taxa than amplicon sequencing, 16S sequencing outperformed all other sequencing methods in terms of stressor prediction based on the Matthews Correlation Coefficient. However, even the highest observed performance for 16S sequencing was still only moderate. Omics-based methods performed poorly overall, but this was likely due to insufficient sequencing depth. Data types had no impact on performance while feature selection significantly improved performance for omics-based methods but not for amplicon sequencing.
+Conclusion: Amplicon sequencing might be a better candidate for machine-learning-based environmental stressor prediction than omics-based methods, but the latter require further research at higher sequencing depths to confirm this conclusion. More sampling could improve stressor prediction performance, and while this was not possible in the context of our study, thousands of sampling sites are monitored for routine environmental assessments, providing an ideal framework to further refine the approach for possible implementation in environmental diagnostics.
+ER -
+

@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Tae-Kun Seo
+Y1 - 2010
+T1 - Classification of Nucleotide Sequences Using Support Vector Machines
+JA - Journal of Molecular Evolution
+VL - 71
+IS - 4
+SP - 250
+EP - 267
+M1 - 2009-12-15(date received)
+M1 - 2010-08-02(date accepted)
+U1 - 10.1007/s00239-010-9380-9(DOI)
+U1 - User submitted
+N2 - Species identification is one of the most important issues in biological studies. Due to recent increases in the amount of genomic information available and the development of DNA sequencing technologies, the applicability of using DNA sequences to identify species (commonly referred to as “DNA barcoding”) is being tested in many areas. Several methods have been suggested to identify species using DNA sequences, including similarity scores, analysis of phylogenetic and population genetic information, and detection of species-specific sequence patterns. Although these methods have demonstrated good performance under a range of circumstances, they also have limitations, as they are subject to loss of information, require intensive computation and are sensitive to model mis-specification, and can be difficult to evaluate in terms of the significance of identification. Here, we suggest a new DNA barcoding method in which support vector machine (SVM) procedures are adopted. Our new method is nonparametric and thus is expected to be robust for a wide range of evolutionary scenarios as well as multilocus analyses. Furthermore, we describe bootstrap procedures that can be used to test the significances of species identifications. We implemented a novel conversion technique for transforming sequence data to real-valued vectors, and therefore, bootstrap procedures can be easily combined with our SVM approach. In this study, we present the results of simulation studies and empirical data analyses to demonstrate the performance of our method and discuss its properties.
+ER -
+

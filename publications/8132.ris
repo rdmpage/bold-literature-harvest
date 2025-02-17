@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Osmundson, Todd W.; Robert, Vincent A.; Schoch, Conrad L.; Baker, Lydia J.; Smith, Amy; Robich, Giovanni; Mizzan, Luca; Garbelotto, Matteo M.
+Y1 - 2013
+T1 - Filling Gaps in Biodiversity Knowledge for Macrofungi: Contributions and Assessment of an Herbarium Collection DNA Barcode Sequencing Project
+JA - PLoS ONE
+VL - 8
+IS - 4
+SP - e62419
+U1 - 10.1371/journal.pone.0062419(DOI)
+U1 - User submitted
+N2 - Despite recent advances spearheaded by molecular approaches and novel technologies, species description and DNA sequence information are significantly lagging for fungi compared to many other groups of organisms. Large scale sequencing of vouchered herbarium material can aid in closing this gap. Here, we describe an effort to obtain broad ITS sequence coverage of the approximately 6000 macrofungal-species-rich herbarium of the Museum of Natural History in Venice, Italy. Our goals were to investigate issues related to large sequencing projects, develop heuristic methods for assessing the overall performance of such a project, and evaluate the prospects of such efforts to reduce the current gap in fungal biodiversity knowledge. The effort generated 1107 sequences submitted to GenBank, including 416 previously unrepresented taxa and 398 sequences exhibiting a best BLAST match to an unidentified environmental sequence. Specimen age and taxon affected sequencing success, and subsequent work on failed specimens showed that an ITS1 mini-barcode greatly increased sequencing success without greatly reducing the discriminating power of the barcode. Similarity comparisons and nonmetric multidimensional scaling ordinations based on pairwise distance matrices proved to be useful heuristic tools for validating the overall accuracy of specimen identifications, flagging potential misidentifications, and identifying taxa in need of additional species-level revision. Comparison of within- and among-species nucleotide variation showed a strong increase in species discriminating power at 1–2% dissimilarity, and identified potential barcoding issues (same sequence for different species and vice-versa). All sequences are linked to a vouchered specimen, and results from this study have already prompted revisions of species-sequence assignments in several taxa.
+UR - http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0062419&representation=PDF
+ER -
+

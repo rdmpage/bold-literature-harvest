@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Yoon, H.; Gros, P.; Heffron, F.
+T1 - Quantitative PCR-Based Competitive Index for High-Throughput Screening of Salmonella Virulence Factors
+JA - Infection and Immunity
+VL - 79
+IS - 1
+SP - 360
+EP - 368
+U1 - 10.1128/IAI.00873-10(DOI)
+N2 - Salmonella enterica serovar Typhimurium is an intracellular pathogen and a main cause of food-borne illness. In this study, a quantitative PCR (qPCR)-based competitive index (CI) method was developed to simultaneously compare the growth of multiple Salmonella strains. This method was applied to a mixture of 17 Salmonella mutants lacking regulator genes, and their survival ratios were compared based on expression of natural resistance-associated macrophage protein 1 (Nramp1). Nramp1, as a major host innate immune component, controls the intracellular replication of pathogens. Deletion strains containing unique DNA barcodes in place of regulator genes were mixed with the parental control, and the bacteria were inoculated into congenic mice differing only at Nramp1. Most of the deletion strains were outcompeted by wild-type bacteria in either mouse strain, and the lack of Nramp1 didn't increase the tested strain/parent control replication ratios. When the same collection of mutants was tested in congenic mouse-derived primary macrophages, a major Nramp1-expressing cell type, six strains (ΔhimD, ΔphoP/phoQ, ΔrpoE, ΔrpoS, ΔompR/envZ, and Δhfq strains) grew better in Nramp1−/− than in Nramp1+/+ macrophages, suggesting that these six regulators may play roles in overcoming Nramp1-mediated bactericidal activity in primary macrophages. The discrepancy in survival of macrophages and that of mice suggests either that there are differences in macrophage populations or that other cell types expressing Nramp1 control Salmonella proliferation in the host. The method described allows competitive infection analysis to be carried out on complex mixtures of bacteria and provides high reproducibility from independent biological replicates.
+UR - http://iai.asm.org/cgi/doi/10.1128/IAI.00873-10
+ER -
+

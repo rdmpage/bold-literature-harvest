@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Kim, H.; Han, H.; Ahn, J.; Lee, J.; Cho, N.; Jang, H.; Kim, H.; Kwon, S.; Bang, D.
+T1 - 'Shotgun DNA synthesis' for the high-throughput construction of large DNA molecules
+JA - Nucleic Acids Research
+VL - 40
+IS - 18
+SP - e140
+EP - e140
+U1 - 10.1093/nar/gks546(DOI)
+N2 - We developed a highly scalable ‘shotgun’ DNA synthesis technology by utilizing microchip oligonucleotides, shotgun assembly and next-generation sequencing technology. A pool of microchip oligonucleotides targeting a penicillin biosynthetic gene cluster were assembled into numerous random fragments, and tagged with 20 bp degenerate barcode primer pairs. An optimal set of error-free fragments were identified by high-throughput DNA sequencing, selectively amplified using the barcode sequences, and successfully assembled into the target gene cluster.
+UR - http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gks546
+ER -
+

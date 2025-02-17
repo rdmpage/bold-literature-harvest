@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Marko Mutanen,  Mari Kekkonen,  Sean W. J. Prosser, Paul D. N. Hebert, Lauri Kaila
+Y1 - 2014
+T1 - One species in eight: DNA barcodes from type specimens resolve a taxonomic quagmire.
+JA - Molecular Ecology Resources
+VL - 15
+IS - 4
+SP - 967
+EP - 984
+U1 - User submitted
+N2 - Each holotype specimen provides the only objective link to a particular Linnean binomen. Sequence information from them is increasingly valuable due to the growing usage of DNA barcodes in taxonomy. As type specimens are often old, it may only be possible to recover fragmentary sequence information from them. We tested the efficacy of short sequences from type specimens in the resolution of a challenging taxonomic puzzle: the Elachista dispunctella complex which includes 64 described species with minuscule morphological differences. We applied a multistep procedure to resolve the taxonomy of this species complex. First, we sequenced a large number of newly collected specimens and as many holotypes as possible. Second, we used all >400 bp examine species boundaries. We employed three unsupervised methods (BIN, ABGD, GMYC) with specified criteria on how to handle discordant results and examined diagnostic bases from each delineated putative species (operational taxonomic units, OTUs). Third, we evaluated the morphological characters of each OTU. Finally, we associated short barcodes from types with the delineated OTUs. In this step, we employed various supervised methods, including distance‐based, tree‐based and character‐based. We recovered 658 bp barcode sequences from 194 of 215 fresh specimens and recovered an average of 141 bp from 33 of 42 holotypes. We observed strong congruence among all methods and good correspondence with morphology. We demonstrate potential pitfalls with tree‐, distance‐ and character‐based approaches when associating sequences of varied length. Our results suggest that sequences as short as 56 bp can often provide valuable taxonomic information. The results support significant taxonomic oversplitting of species in the Elachista dispunctella complex.
+ER -
+

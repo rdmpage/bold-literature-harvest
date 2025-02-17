@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Liu, Chang; Shi, Linchun; Xu, Xiaolan; Li, Huan; Xing, Hang; Liang, Dong; Jiang, Kun; Pang, Xiaohui; Song, Jingyuan; Chen, Shilin
+T1 - DNA Barcode Goes Two-Dimensions: DNA QR Code Web Server
+JA - PLoS ONE
+VL - 7
+IS - 5
+SP - e35146
+U1 - 10.1371/journal.pone.0035146(DOI)
+N2 - The DNA barcoding technology uses a standard region of DNA sequence for species identification and discovery. At present, “DNA barcode” actually refers to DNA sequences, which are not amenable to information storage, recognition, and retrieval. Our aim is to identify the best symbology that can represent DNA barcode sequences in practical applications. A comprehensive set of sequences for five DNA barcode markers ITS2, rbcL, matK, psbA-trnH, and CO1 was used as the test data. Fifty-three different types of one-dimensional and ten two-dimensional barcode symbologies were compared based on different criteria, such as coding capacity, compression efficiency, and error detection ability. The quick response (QR) code was found to have the largest coding capacity and relatively high compression ratio. To facilitate the further usage of QR code-based DNA barcodes, a web server was developed and is accessible at http://qrfordna.dnsalias.org. The web server allows users to retrieve the QR code for a species of interests, convert a DNA sequence to and from a QR code, and perform species identification based on local and global sequence similarities. In summary, the first comprehensive evaluation of various barcode symbologies has been carried out. The QR code has been found to be the most appropriate symbology for DNA barcode sequences. A web server has also been constructed to allow biologists to utilize QR codes in practical DNA barcoding applications.
+UR - http://dx.plos.org/10.1371/journal.pone.0035146
+ER -
+

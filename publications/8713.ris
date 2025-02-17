@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Monson-Miller, Jennifer; Sanchez-Mendez, Diana C; Fass, Joseph; Henry, Isabelle M; Tai, Thomas H; Comai, Luca
+T1 - Reference genome-independent assessment of mutation density using restriction enzyme-phased sequencing
+JA - BMC Genomics
+VL - 13
+IS - 1
+SP - 72
+U1 - 10.1186/1471-2164-13-72(DOI)
+N2 - Background: The availability of low cost sequencing has spurred its application to discovery and typing of variation, including variation induced by mutagenesis. Mutation discovery is challenging as it requires a substantial amount of sequencing and analysis to detect very rare changes and distinguish them from noise. Also challenging are the cases when the organism of interest has not been sequenced or is highly divergent from the reference. 
+
+Results: We describe the development of a simple method for reduced representation sequencing. Input DNA was digested with a single restriction enzyme and ligated to Y adapters modified to contain a sequence barcode and to provide a compatible overhang for ligation. We demonstrated the efficiency of this method at SNP discovery using rice and arabidopsis. To test its suitability for the discovery of very rare SNP, one control and three mutagenized rice individuals (1, 5 and 10 mM sodium azide) were used to prepare genomic libraries for Illumina sequencers by ligating barcoded adapters to NlaIII restriction sites. For genome-dependent discovery 15-30 million of 80 base reads per individual were aligned to the reference sequence achieving individual sequencing coverage from 7 to 15×. We identified high-confidence base changes by comparing sequences across individuals and identified instances consistent with mutations, i.e. changes that were found in a single treated individual and were solely GC to AT transitions. For genome-independent discovery 70-mers were extracted from the sequence of the control individual and single-copy sequence was identified by comparing the 70-mers across samples to evaluate copy number and variation. This de novo "genome" was used to align the reads and identify mutations as above. Covering approximately 1/5 of the 380 Mb genome of rice we detected mutation densities ranging from 0.6 to 4 per Mb of diploid DNA depending on the mutagenic treatment. 
+
+Conclusions: The combination of a simple and cost-effective library construction method, with Illumina sequencing, and the use of a bioinformatic pipeline allows practical SNP discovery regardless of whether a genomic reference is available.
+UR - http://www.biomedcentral.com/1471-2164/13/72
+ER -
+

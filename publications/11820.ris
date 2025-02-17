@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Whiteley, Andrew S.; Jenkins, Sasha; Waite, Ian; Kresoje, Nina; Payne, Hugh; Mullan, Bruce; Allcock, Richard; O'Donnell, Anthony
+T1 - Microbial 16S rRNA Ion Tag and community metagenome sequencing using the Ion Torrent (PGM) Platform
+JA - Journal of Microbiological Methods
+VL - 91
+IS - 1
+SP - 80
+EP - 88
+U1 - 10.1016/j.mimet.2012.07.008(DOI)
+N2 - Here we demonstrate a cost effective and scalable microbial ecology sequencing platform using the Ion Torrent Personal Genome Machine (PGM). We assessed both PCR amplified 16S rRNA and shotgun metagenomic approaches and generated 100,000 + to 1,000,000 + reads using ‘post-light’ based sequencing technology within different sized semi-conductor chips. Further development of Golay barcoded Ion Tags allowed multiplex analyses of microbial communities with substantially reduced costs compared with platforms such as 454/GS-FLX. Using these protocols we assessed the bacterial and archaeal dynamics within covered anaerobic digesters used to treat piggery wastes. Analysis of these sequence data showed that these novel methanogenic waste treatment systems are dominated by bacterial taxa, in particular Clostridium, Synergistia and Bacteroides that were maintained as a stable community over extended time periods. Archaeal community dynamics were more stochastic with the key methanogenic taxa more difficult to resolve, principally due to the poor congruence seen between community structures generated either by nested PCR or metagenomic approaches for archaeal analyses. Our results show that for microbial community structure and function analyses, the PGM platform provides a low cost, scalable and high throughput solution for both Tag sequencing and metagenomic analyses.
+UR - http://linkinghub.elsevier.com/retrieve/pii/S0167701212002345
+ER -
+

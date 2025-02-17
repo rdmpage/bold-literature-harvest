@@ -1,0 +1,24 @@
+TY - JOUR
+ID - n/a
+A1 - Eddie Y. T. Ma , Sujeevan Ratnasingham, and Stefan C. Kremer
+Y1 - 2018
+T1 - Machine Learned Replacement of N-Labels for Basecalled Sequences in DNA Barcoding
+JA - TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATICS
+VL - 15
+IS - 01
+SP - 191
+EP - 204
+U1 - User submitted
+N2 - This study presents a machine learning method that increases the number of identified bases in Sanger Sequencing. The
+system post-processes a KB basecalled chromatogram. It selects a recoverable subset of N-labels in the KB-called chromatogram to
+replace with basecalls (A,C,G,T). An N-label correction is defined given an additional read of the same sequence, and a human finished
+sequence. Corrections are added to the dataset when an alignment determines the additional read and human agree on the identity of
+the N-label. KB must also rate the replacement with quality value of > 60 in the additional read. Corrections are only available during
+system training. Developing the system, nearly 850,000 N-labels are obtained from Barcode of Life Datasystems, the premier database
+of genetic markers called DNA Barcodes. Increasing the number of correct bases improves reference sequence reliability, increases
+sequence identification accuracy, and assures analysis correctness. Keeping with barcoding standards, our system maintains an error
+rate of < 1 percent. Our system only applies corrections when it estimates low rate of error. Tested on this data, our automation selects
+and recovers: 79 percent of N-labels from COI (animal barcode); 80 percent from matK and rbcL (plant barcodes); and 58 percent from
+non-protein-coding sequences (across eukaryotes).
+ER -
+

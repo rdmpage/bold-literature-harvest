@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Noah M Reid and Bryan C Carstens
+Y1 - 2012
+T1 - Phylogenetic estimation error can decrease the accuracy of species delimitation: a Bayesian implementation of the general mixed Yule-coalescent model
+JA - BMC Evolutionary Biology
+VL - 12
+IS - 1
+SP - 196
+U1 - 10.1186/1471-2148-12-196(DOI)
+U1 - User submitted
+N2 - Species are considered the fundamental unit in many ecological and evolutionary analyses, yet accurate, complete, accessible taxonomic frameworks with which to identify them are often unavailable to researchers. In such cases DNA sequence-based species delimitation has been proposed as a means of estimating species boundaries for further analysis. Several methods have been proposed to accomplish this. Here we present a Bayesian implementation of an evolutionary model-based method, the general mixed Yule-coalescent model (GMYC). Our implementation integrates over the parameters of the model and uncertainty in phylogenetic relationships using the output of widely available phylogenetic models and Markov-Chain Monte Carlo (MCMC) simulation in order to produce marginal probabilities of species identities.
+UR - http://www.biomedcentral.com/content/pdf/1471-2148-12-196.pdf
+ER -
+

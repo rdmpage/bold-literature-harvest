@@ -1,0 +1,23 @@
+TY - JOUR
+ID - n/a
+A1 - Agnes Dettai, Cyril Gallut, Sophie Brouillet, Joel Pothier, Guillaume Lecointre and Régis Debruyne
+Y1 - 2012
+T1 - Conveniently Pre-Tagged and Pre-Packaged: Extended Molecular Identification and Metagenomics Using Complete Metazoan Mitochondrial Genomes
+JA - PLoS ONE
+VL - 7
+IS - 12
+SP - e51263
+U1 - 10.1371/journal.pone.0051263(DOI)
+U1 - User submitted
+N2 - Background
+
+Researchers sorely need markers and approaches for biodiversity exploration (both specimen linked and metagenomics) using the full potential of next generation sequencing technologies (NGST). Currently, most studies rely on expensive multiple tagging, PCR primer universality and/or the use of few markers, sometimes with insufficient variability.
+Methodology/Principal Findings
+
+We propose a novel approach for the isolation and sequencing of a universal, useful and popular marker across distant, non-model metazoans: the complete mitochondrial genome. It relies on the properties of metazoan mitogenomes for enrichment, on careful choice of the organisms to multiplex, as well as on the wide collection of accumulated mitochondrial reference datasets for post-sequencing sorting and identification instead of individual tagging. Multiple divergent organisms can be sequenced simultaneously, and their complete mitogenome obtained at a very low cost. We provide in silico testing of dataset assembly for a selected set of example datasets.
+Conclusions/Significance
+
+This approach generates large mitogenome datasets. These sequences are useful for phylogenetics, molecular identification and molecular ecology studies, and are compatible with all existing projects or available datasets based on mitochondrial sequences, such as the Barcode of Life project. Our method can yield sequences both from identified samples and metagenomic samples. The use of the same datasets for both kinds of studies makes for a powerful approach, especially since the datasets have a high variability even at species level, and would be a useful complement to the less variable 18S rDNA currently prevailing in metagenomic studies.
+UR - http://www.plosone.org/article/fetchObjectAttachment.action;jsessionid=D7FF1C2E4B57C3AA28230AB22948D22E?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0051263&representation=PDF
+ER -
+

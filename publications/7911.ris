@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Seunghoon Baek, Incheol Ha, Sungmin Kim, Seung Hwan Lee, Hye Hyun Oh, Dong Chan Moon, Won Kim and Yangseok Kim
+Y1 - 2013
+T1 - Construction of an integrated barcode database for the molecular identification of species
+JA - BioChip Journal
+VL - 7
+IS - 3
+SP - 242
+EP - 246
+U1 - 10.1007/s13206-013-7307-4(DOI)
+U1 - User submitted
+N2 - Species identification based on molecular markers is a major concern in the field of phylogenetic systematics because it has a wide range of applications such as molecular forensics and biodiversity research. Therefore, a well-organized and curated database is essential to meet this need. Barcode of Life Database (BOLD) is the main database system that stores a large variety of species identification markers. However, BOLD does not contain all of the barcode information available in other databases such as GenBank and the Korea Barcode Of Life database (KBOL). As a result, users must navigate all of these databases to obtain integrated information on barcodes and species.
+To solve this issue, we have constructed a molecular marker database for the integration of all available barcode information. BOLD, the National Center for Biological Information database, and KBOL were used as external sources for database construction. We carefully annotated all data from each database for the exclusion of duplicate information and unreliable data. As a result, the database contains 622,913 molecular markers that identify 104,487 species. Among these, 5,320 makers can be used for the identification of 2,326 Korean species. This database is freely available on the internet (http://203.234.220.113/).
+ER -
+

@@ -1,0 +1,19 @@
+TY - JOUR
+ID - n/a
+A1 - Daniels, Rachel; Volkman, Sarah K; Milner, Danny A; Mahesh, Nira; Neafsey, Daniel E; Park, Daniel J; Rosen, David; Angelino, Elaine; Sabeti, Pardis C; Wirth, Dyann F; Wiegand, Roger C
+T1 - A general SNP-based molecular barcode for Plasmodium falciparum identification and tracking
+JA - Malaria Journal
+VL - 7
+IS - 1
+SP - 223
+U1 - 10.1186/1475-2875-7-223(DOI)
+N2 - Background: Single nucleotide polymorphism (SNP) genotyping provides the means to develop a practical, rapid, inexpensive assay that will uniquely identify any Plasmodium falciparum parasite using a small amount of DNA. Such an assay could be used to distinguish recrudescence from re-infection in drug trials, to monitor the frequency and distribution of specific parasites in a patient population undergoing drug treatment or vaccine challenge, or for tracking samples and determining purity of isolates in the laboratory during culture adaptation and sub-cloning, as well as routine passage. 
+
+Methods: A panel of twenty-four SNP markers has been identified that exhibit a high minor allele frequency (average MAF > 35%), for which robust TaqMan genotyping assays were constructed. All SNPs were identified through whole genome sequencing and MAF was estimated through Affymetrix array-based genotyping of a worldwide collection of parasites. These assays create a "molecular barcode" to uniquely identify a parasite genome. 
+
+Results: Using 24 such markers no two parasites known to be of independent origin have yet been found to have the same allele signature. The TaqMan genotyping assays can be performed on a variety of samples including cultured parasites, frozen whole blood, or whole blood spotted onto filter paper with a success rate > 99%. Less than 5 ng of parasite DNA is needed to complete a panel of 24 markers. The ability of this SNP panel to detect and identify parasites was compared to the standard molecular methods, MSP-1 and MSP-2 typing. 
+
+Conclusion: This work provides a facile field-deployable genotyping tool that can be used without special skills with standard lab equipment, and at reasonable cost that will unambiguously identify and track P. falciparum parasites both from patient samples and in the laboratory.
+UR - http://www.malariajournal.com/content/7/1/223
+ER -
+

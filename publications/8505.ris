@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Skerker, J. M.; Leon, D.; Price, M. N.; Mar, J. S.; Tarjan, D. R.; Wetmore, K. M.; Deutschbauer, A. M.; Baumohl, J. K.; Bauer, S.; Ibanez, A. B.; Mitchell, V. D.; Wu, C. H.; Hu, P.; Hazen, T.; Arkin, A. P.
+T1 - Dissecting a complex chemical stress: chemogenomic profiling of plant hydrolysates
+JA - Molecular Systems Biology
+VL - 9
+IS - 1
+SP - 674
+EP - 674
+U1 - 10.1038/msb.2013.30(DOI)
+N2 - The efficient production of biofuels from cellulosic feedstocks will require the efficient fermentation of the sugars in hydrolyzed plant material. Unfortunately, plant hydrolysates also contain many compounds that inhibit microbial growth and fermentation. We used DNA‐barcoded mutant libraries to identify genes that are important for hydrolysate tolerance in both Zymomonas mobilis (44 genes) and Saccharomyces cerevisiae (99 genes). Overexpression of a Z. mobilis tolerance gene of unknown function (ZMO1875) improved its specific ethanol productivity 2.4‐fold in the presence of miscanthus hydrolysate. However, a mixture of 37 hydrolysate‐derived inhibitors was not sufficient to explain the fitness profile of plant hydrolysate. To deconstruct the fitness profile of hydrolysate, we profiled the 37 inhibitors against a library of Z. mobilis mutants and we modeled fitness in hydrolysate as a mixture of fitness in its components. By examining outliers in this model, we identified methylglyoxal as a previously unknown component of hydrolysate. Our work provides a general strategy to dissect how microbes respond to a complex chemical stress and should enable further engineering of hydrolysate tolerance. Synopsis Complex chemical stress arises during the production of biofuels. Large‐scale mutant fitness profiling was used to identify bacterial and yeast tolerance genes and to model fitness in a complex hydrolysate mixture. The resulting model can be used to engineer more tolerant strains. Genome‐wide fitness profiling was used to identify plant hydrolysate tolerance genes in Zymomonas mobilis and Saccharomyces cerevisiae.We modeled fitness in hydrolysate as a mixture of fitness in its components.Outliers in our model led to the identification of a previously unknown component of hydrolysate.Overexpression of a Z. mobilis tolerance gene of unknown function improved ethanol productivity in plant hydrolysate.
+UR - http://msb.embopress.org/cgi/doi/10.1038/msb.2013.30
+ER -
+

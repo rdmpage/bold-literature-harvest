@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Kawano, Tomonori
+T1 - Run-length encoding graphic rules, biochemically editable designs and steganographical numeric data embedment for DNA-based cryptographical coding system
+JA - Communicative and Integrative Biology
+VL - 6
+IS - 2
+SP - e23478
+U1 - 10.4161/cib.23478(DOI)
+N2 - There have been a wide variety of approaches for handling the pieces of DNA as the “unplugged” tools for digital information storage and processing, including a series of studies applied to the security-related area, such as DNA-based digital barcodes, water marks and cryptography. In the present article, novel designs of artificial genes as the media for storing the digitally compressed data for images are proposed for bio-computing purpose while natural genes principally encode for proteins. Furthermore, the proposed system allows cryptographical application of DNA through biochemically editable designs with capacity for steganographical numeric data embedment. As a model case of image-coding DNA technique application, numerically and biochemically combined protocols are employed for ciphering the given “passwords” and/or secret numbers using DNA sequences. The “passwords” of interest were decomposed into single letters and translated into the font image coded on the separate DNA chains with both the coding regions in which the images are encoded based on the novel run-length encoding rule, and the non-coding regions designed for biochemical editing and the remodeling processes revealing the hidden orientation of letters composing the original “passwords.” The latter processes require the molecular biological tools for digestion and ligation of the fragmented DNA molecules targeting at the polymerase chain reaction-engineered termini of the chains. Lastly, additional protocols for steganographical overwriting of the numeric data of interests over the image-coding DNA are also discussed.
+UR - http://www.landesbioscience.com/journals/cib/article/23478/
+ER -
+

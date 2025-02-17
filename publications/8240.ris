@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Yan, Zhun; Costanzo, Michael; Heisler, Lawrence E; Paw, Jadine; Kaper, Fiona; Andrews, Brenda J; Boone, Charles; Giaever, Guri; Nislow, Corey
+T1 - Yeast Barcoders: a chemogenomic application of a universal donor-strain collection carrying bar-code identifiers
+JA - Nature Methods
+VL - 5
+IS - 8
+SP - 719
+EP - 725
+U1 - 10.1038/nmeth.1231(DOI)
+N2 - The ability to perform complex bioassays in parallel enables experiments that are otherwise impossible because of throughput and cost constraints. For example, highly parallel chemical-genetic screens using pooled collections of thousands of defined Saccharomyces cerevisiae gene deletion strains are feasible because each strain is bar-coded with unique DNA sequences. It is, however, time-consuming and expensive to individually bar-code individual strains. To provide a simple and general method of barcoding yeast collections, we built a set of donor strains, called Barcoders, with unique bar codes that can be systematically transferred to any S. cerevisiae collection. We applied this technology by generating a collection of bar-coded 'decreased abundance by mRNA perturbation' (DAmP) loss-of-function strains comprising 87.1% of all essential yeast genes. These experiments validate both the Barcoders and the DAmP strain collection as useful tools for genome-wide chemical-genetic assays.
+UR - http://www.nature.com/doifinder/10.1038/nmeth.1231
+ER -
+

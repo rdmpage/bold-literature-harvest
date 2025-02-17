@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Jolma, A.; Kivioja, T.; Toivonen, J.; Cheng, L.; Wei, G.; Enge, M.; Taipale, M.; Vaquerizas, J. M.; Yan, J.; Sillanpaa, M. J.; Bonke, M.; Palin, K.; Talukder, S.; Hughes, T. R.; Luscombe, N. M.; Ukkonen, E.; Taipale, J.
+T1 - Multiplexed massively parallel SELEX for characterization of human transcription factor binding specificities
+JA - Genome Research
+VL - 20
+IS - 6
+SP - 861
+EP - 873
+U1 - 10.1101/gr.100552.109(DOI)
+N2 - The genetic code—the binding specificity of all transfer-RNAs—defines how protein primary structure is determined by DNA sequence. DNA also dictates when and where proteins are expressed, and this information is encoded in a pattern of specific sequence motifs that are recognized by transcription factors. However, the DNA-binding specificity is only known for a small fraction of the ∼1400 human transcription factors (TFs). We describe here a high-throughput method for analyzing transcription factor binding specificity that is based on systematic evolution of ligands by exponential enrichment (SELEX) and massively parallel sequencing. The method is optimized for analysis of large numbers of TFs in parallel through the use of affinity-tagged proteins, barcoded selection oligonucleotides, and multiplexed sequencing. Data are analyzed by a new bioinformatic platform that uses the hundreds of thousands of sequencing reads obtained to control the quality of the experiments and to generate binding motifs for the TFs. The described technology allows higher throughput and identification of much longer binding profiles than current microarray-based methods. In addition, as our method is based on proteins expressed in mammalian cells, it can also be used to characterize DNA-binding preferences of full-length proteins or proteins requiring post-translational modifications. We validate the method by determining binding specificities of 14 different classes of TFs and by confirming the specificities for NFATC1 and RFX3 using ChIP-seq. Our results reveal unexpected dimeric modes of binding for several factors that were thought to preferentially bind DNA as monomers.
+UR - http://genome.cshlp.org/cgi/doi/10.1101/gr.100552.109
+ER -
+

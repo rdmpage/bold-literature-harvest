@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Lou, D. I.; Hussmann, J. A.; McBee, R. M.; Acevedo, A.; Andino, R.; Press, W. H.; Sawyer, S. L.
+T1 - High-throughput DNA sequencing errors are reduced by orders of magnitude using circle sequencing
+JA - Proceedings of the National Academy of Sciences
+VL - 110
+IS - 49
+SP - 19872
+EP - 19877
+U1 - 10.1073/pnas.1319590110(DOI)
+N2 - A major limitation of high-throughput DNA sequencing is the high rate of erroneous base calls produced. For instance, Illumina sequencing machines produce errors at a rate of ∼0.1–1 × 10−2 per base sequenced. These technologies typically produce billions of base calls per experiment, translating to millions of errors. We have developed a unique library preparation strategy, “circle sequencing,” which allows for robust downstream computational correction of these errors. In this strategy, DNA templates are circularized, copied multiple times in tandem with a rolling circle polymerase, and then sequenced on any high-throughput sequencing machine. Each read produced is computationally processed to obtain a consensus sequence of all linked copies of the original molecule. Physically linking the copies ensures that each copy is independently derived from the original molecule and allows for efficient formation of consensus sequences. The circle-sequencing protocol precedes standard library preparations and is therefore suitable for a broad range of sequencing applications. We tested our method using the Illumina MiSeq platform and obtained errors in our processed sequencing reads at a rate as low as 7.6 × 10−6 per base sequenced, dramatically improving the error rate of Illumina sequencing and putting error on par with low-throughput, but highly accurate, Sanger sequencing. Circle sequencing also had substantially higher efficiency and lower cost than existing barcode-based schemes for correcting sequencing errors.
+UR - http://www.pnas.org/cgi/doi/10.1073/pnas.1319590110
+ER -
+

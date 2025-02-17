@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Anastasija Zaiko, Paul Greenfield, Cathryn Abbott, Ulla von Ammon, Jaret Bilewitch, Michael Bunce, Melania E Cristescu, Anthony Chariton, Eddy Dowle, Jonathan Geller, Alba Ardura Gutierrez, Mehrdad Hajibabaei, Emmet Haggard, Graeme J Inglis, Shane D Lavery, Aurelija Samuiloviene, Tiffany Simpson, Michael Stat, Sarah Stephenson, Judy Sutherland, Vibha Thakur, Kristen Westfall, Susanna A Wood, Michael Wright, Guang Zhang, Xavier Pochon
+Y1 - 2022
+T1 - Towards reproducible metabarcoding data: Lessons from an international cross-laboratory experiment
+JA - Molecular Ecology Resources
+VL - 22
+IS - 2
+SP - 20
+U1 - 10.1111/1755-0998.13485(DOI)
+U1 - User submitted
+N2 - Advances in high-throughput sequencing (HTS) are revolutionizing monitoring in marine environments by enabling rapid, accurate and holistic detection of species within complex biological samples. Research institutions worldwide increasingly employ HTS methods for biodiversity assessments. However, variance in laboratory procedures, analytical workflows and bioinformatic pipelines impede the transferability and comparability of results across research groups. An international experiment was conducted to assess the consistency of metabarcoding results derived from identical samples and primer sets using varying laboratory procedures. Homogenized biofouling samples collected from four coastal locations (Australia, Canada, New Zealand and the USA) were distributed to 12 independent laboratories. Participants were asked to follow one of two HTS library preparation workflows. While DNA extraction, primers and bioinformatic analyses were purposefully standardized to allow comparison, many other technical variables were allowed to vary among laboratories (amplification protocols, type of instrument used, etc.). Despite substantial variation observed in raw results, the primary signal in the data was consistent, with the samples grouping strongly by geographical origin for all data sets. Simple post hoc data clean-up by removing low-quality samples gave the best improvement in sample classification for nuclear 18S rRNA gene data, with an overall 92.81% correct group attribution. For mitochondrial COI gene data, the best classification result (95.58%) was achieved after correction for contamination errors. The identified critical methodological factors that introduced the greatest variability (preservation buffer, sample defrosting, template concentration, DNA polymerase, PCR enhancer) should be of great assistance in standardizing future biodiversity studies using metabarcoding.
+ER -
+

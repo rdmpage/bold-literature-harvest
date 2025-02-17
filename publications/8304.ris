@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Bruni, Ilaria; De Mattia, Fabrizio; Martellos, Stefano; Galimberti, Andrea; Savadori, Paolo; Casiraghi, Maurizio; Nimis, Pier Luigi; Labra, Massimo
+T1 - DNA Barcoding as an Effective Tool in Improving a Digital Plant Identification System: A Case Study for the Area of Mt. Valerio, Trieste (NE Italy)
+JA - PLoS ONE
+VL - 7
+IS - 9
+SP - e43256
+U1 - 10.1371/journal.pone.0043256(DOI)
+N2 - Background Identification keys are decision trees which require the observation of one or more morphological characters of an organism at each step of the process. While modern digital keys can overcome several constraints of classical paper-printed keys, their performance is not error-free. Moreover, identification cannot be always achieved when a specimen lacks some morphological features (i.e. because of season, incomplete development or miss-collecting). DNA barcoding was proven to have great potential in plant identification, while it can be ineffective with some closely related taxa, in which the relatively brief evolutionary distance did not produce differences in the core-barcode sequences.
+
+Methodology/Principal Findings In this paper, we investigated how the DNA barcoding can support the modern digital approaches to the identification of organisms, using as a case study a local flora, that of Mt. Valerio, a small hill near the centre of Trieste (NE Italy). The core barcode markers (plastidial rbcL and matK), plus the additional trnH-psbA region, were used to identify vascular plants specimens. The usefulness of DNA barcoding data in enhancing the performance of a digital identification key was tested on three independent simulated scenarios.
+
+Conclusions/Significance Our results show that the core barcode markers univocally identify most species of our local flora (96%). The trnH-psbA data improve the discriminating power of DNA barcoding among closely related plant taxa. In the multiparametric digital key, DNA barcoding data improves the identification success rate; in our simulation, DNA data overcame the absence of some morphological features, reaching a correct identification for 100% of the species. FRIDA, the software used to generate the digital key, has the potential to combine different data sources: we propose to use this feature to include molecular data as well, creating an integrated identification system for plant biodiversity surveys.
+UR - http://dx.plos.org/10.1371/journal.pone.0043256
+ER -
+

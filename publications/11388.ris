@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Hahn, C.; Bachmann, L.; Chevreux, B.
+T1 - Reconstructing mitochondrial genomes directly from genomic next-generation sequencing reads--a baiting and iterative mapping approach
+JA - Nucleic Acids Research
+VL - 41
+IS - 13
+SP - e129
+EP - e129
+U1 - 10.1093/nar/gkt371(DOI)
+N2 - We present an in silico approach for the reconstruction of complete mitochondrial genomes of non-model organisms directly from next-generation sequencing (NGS) data—mitochondrial baiting and iterative mapping (MITObim). The method is straightforward even if only (i) distantly related mitochondrial genomes or (ii) mitochondrial barcode sequences are available as starting-reference sequences or seeds, respectively. We demonstrate the efficiency of the approach in case studies using real NGS data sets of the two monogenean ectoparasites species Gyrodactylus thymalli and Gyrodactylus derjavinoides including their respective teleost hosts European grayling (Thymallus thymallus) and Rainbow trout (Oncorhynchus mykiss). MITObim appeared superior to existing tools in terms of accuracy, runtime and memory requirements and fully automatically recovered mitochondrial genomes exceeding 99.5% accuracy from total genomic DNA derived NGS data sets in <24 h using a standard desktop computer. The approach overcomes the limitations of traditional strategies for obtaining mitochondrial genomes for species with little or no mitochondrial sequence information at hand and represents a fast and highly efficient in silico alternative to laborious conventional strategies relying on initial long-range PCR. We furthermore demonstrate the applicability of MITObim for metagenomic/pooled data sets using simulated data. MITObim is an easy to use tool even for biologists with modest bioinformatics experience. The software is made available as open source pipeline under the MIT license at https://github.com/chrishah/MITObim.
+UR - http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkt371
+ER -
+

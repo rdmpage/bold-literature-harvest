@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Indra Neil Sarkar and Michael Trizna
+Y1 - 2011
+T1 - The Barcode of Life Data Portal: Bridging the Biodiversity Informatics Divide for DNA Barcoding
+JA - PLoS ONE
+VL - 6
+IS - 7
+SP - e14689
+M1 - 2010-07-24(date received)
+M1 - 2011-01-20(date accepted)
+U1 - 10.1371/journal.pone.0014689(DOI)
+U1 - User submitted
+N2 - With the volume of molecular sequence data that is systematically being generated globally, there is a need for centralized resources for data exploration and analytics. DNA Barcode initiatives are on track to generate a compendium of molecular sequence–based signatures for identifying animals and plants. To date, the range of available data exploration and analytic tools to explore these data have only been available in a boutique form—often representing a frustrating hurdle for many researchers that may not necessarily have resources to install or implement algorithms described by the analytic community. The Barcode of Life Data Portal (BDP) is a first step towards integrating the latest biodiversity informatics innovations with molecular sequence data from DNA barcoding. Through establishment of community driven standards, based on discussion with the Data Analysis Working Group (DAWG) of the Consortium for the Barcode of Life (CBOL), the BDP provides an infrastructure for incorporation of existing and next-generation DNA barcode analytic applications in an open forum.
+ER -
+

@@ -1,0 +1,22 @@
+TY - JOUR
+ID - n/a
+A1 - Landi, Monica; Dimech, Mark; Arculeo, Marco; Biondo, Girolama; Martins, Rogelia; Carneiro, Miguel; Carvalho, Gary Robert; Brutto, Sabrina Lo; Costa, Filipe O.
+Y1 - 2014
+T1 - DNA Barcoding for Species Assignment: The Case of Mediterranean Marine Fishes.
+JA - PLoS ONE
+VL - 9
+IS - 9
+SP - e106135
+U1 - 10.1371/journal.pone.0106135(DOI)
+U1 - User submitted
+N2 - Background
+DNA barcoding enhances the prospects for species-level identifications globally using a standardized and authenticated DNA-based approach. Reference libraries comprising validated DNA barcodes (COI) constitute robust datasets for testing query sequences, providing considerable utility to identify marine fish and other organisms. Here we test the feasibility of using DNA barcoding to assign species to tissue samples from fish collected in the central Mediterranean Sea, a major contributor to the European marine ichthyofaunal diversity.
+
+Methodology/Principal Findings
+A dataset of 1278 DNA barcodes, representing 218 marine fish species, was used to test the utility of DNA barcodes to assign species from query sequences. We tested query sequences against 1) a reference library of ranked DNA barcodes from the neighbouring North East Atlantic, and 2) the public databases BOLD and GenBank. In the first case, a reference library comprising DNA barcodes with reliability grades for 146 fish species was used as diagnostic dataset to screen 486 query DNA sequences from fish specimens collected in the central basin of the Mediterranean Sea. Of all query sequences suitable for comparisons 98% were unambiguously confirmed through complete match with reference DNA barcodes. In the second case, it was possible to assign species to 83% (BOLD-IDS) and 72% (GenBank) of the sequences from the Mediterranean. Relatively high intraspecific genetic distances were found in 7 species (2.2%–18.74%), most of them of high commercial relevance, suggesting possible cryptic species.
+
+Conclusion/Significance
+We emphasize the discriminatory power of COI barcodes and their application to cases requiring species level resolution starting from query sequences. Results highlight the value of public reference libraries of reliability grade-annotated DNA barcodes, to identify species from different geographical origins. The ability to assign species with high precision from DNA samples of disparate quality and origin has major utility in several fields, from fisheries and conservation programs to control of fish products authenticity.
+UR - http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0106135
+ER -
+

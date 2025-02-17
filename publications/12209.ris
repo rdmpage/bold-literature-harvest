@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Smit, John; Reijnen, Bastian; Stokvis, Frank
+T1 - Half of the European fruit fly species barcoded (Diptera, Tephritidae); a feasibility test for molecular identification
+JA - ZooKeys
+VL - 365
+SP - 279
+EP - 305
+U1 - 10.3897/zookeys.365.5819(DOI)
+N2 - A feasibility test of molecular identification of European fruit flies (Diptera: Tephritidae) based on COI barcode sequences has been executed. A dataset containing 555 sequences of 135 ingroup species from three subfamilies and 42 genera and one single outgroup species has been analysed. 73.3% of all included species could be identified based on their COI barcode gene, based on similarity and distances. The low success rate is caused by singletons as well as some problematic groups: several species groups within the genus Terellia and especially the genus Urophora. With slightly more than 100 sequences – almost 20% of the total – this genus alone constitutes the larger part of the failure for molecular identification for this dataset. Deleting the singletons and Urophora results in a success-rate of 87.1% of all queries and 93.23% of the not discarded queries as correctly identified. Urophora is of special interest due to its economic importance as beneficial species for weed control, therefore it is desirable to have alternative markers for molecular identification. We demonstrate that the success of DNA barcoding for identification purposes strongly depends on the contents of the database used to BLAST against. Especially the necessity of including multiple specimens per species of geographically distinct populations and different ecologies for the understanding of the intra- versus interspecific variation is demonstrated. Furthermore thresholds and the distinction between true and false positives and negatives should not only be used to increase the reliability of the success of molecular identification but also to point out problematic groups, which should then be flagged in the reference database suggesting alternative methods for identification.
+UR - http://www.pensoft.net/journals/zookeys/article/5819/abstract/half-of-the-european-fruit-fly-species-barcoded-diptera-tephritidae-a-feasibility-test-for-molecular-identification
+ER -
+

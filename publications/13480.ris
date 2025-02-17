@@ -1,0 +1,29 @@
+TY - JOUR
+ID - n/a
+A1 - Monica R. Young, Jeremy R. deWaard, Paul D. N. Hebert
+Y1 - 2021
+T1 - DNA barcodes enable higher taxonomic assignments in the Acari
+JA - Scientific Reports
+VL - 11
+IS - 1
+SP - 13
+U1 - 10.1038/s41598-021-95147-8(DOI)
+U1 - User submitted
+N2 - Although mites (Acari) are abundant in many terrestrial and freshwater ecosystems, their diversity
+is poorly understood. Since most mite species can be distinguished by variation in the DNA barcode
+region of cytochrome c oxidase I, the Barcode Index Number (BIN) system provides a reliable species
+proxy that facilitates large-scale surveys. Such analysis reveals many new BINs that can only be
+identified as Acari until they are examined by a taxonomic specialist. This study demonstrates that
+the Barcode of Life Datasystem’s identification engine (BOLD ID) generally delivers correct ordinal
+and family assignments from both full-length DNA barcodes and their truncated versions gathered
+in metabarcoding studies. This result was demonstrated by examining BOLD ID’s capacity to assign
+7021 mite BINs to their correct order (4) and family (189). Identification success improved with
+sequence length and taxon coverage but varied among orders indicating the need for lineage-specific
+thresholds. A strict sequence similarity threshold (86.6%) prevented all ordinal misassignments and
+allowed the identification of 78.6% of the 7021 BINs. However, higher thresholds were required
+to eliminate family misassignments for Sarcoptiformes (89.9%), and Trombidiformes (91.4%),
+consequently reducing the proportion of BINs identified to 68.6%. Lineages with low barcode
+coverage in the reference library should be prioritized for barcode library expansion to improve
+assignment success.
+ER -
+

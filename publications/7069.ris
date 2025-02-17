@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Kim, Sungmin; Eo, Hae-Seok; Koo, Hyeyoung; Choi, Jun-Kil; Kim, Won
+Y1 - 2010
+T1 - DNA Barcode-based molecular identification system for fish species
+JA - Molecules and Cells
+VL - 30
+IS - 6
+SP - 507
+EP - 512
+U1 - 10.1007/s10059-010-0148-2(DOI)
+U1 - User submitted
+N2 - In this study, we applied DNA barcoding to identify species using short DNA sequence analysis. We examined the utility of DNA barcoding by identifying 53 Korean freshwater fish species, 233 other freshwater fish species, and 1339 saltwater fish species. We successfully developed a web-based molecular identification system for fish (MISF) using a profile hidden Markov model. MISF facilitates efficient and reliable species identification, overcoming the limitations of conventional taxonomic approaches. MISF is freely accessible at http://bioinfosys.snu.ac.kr:8080/MISF/misf.jsp .
+ER -
+

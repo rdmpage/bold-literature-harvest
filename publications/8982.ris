@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Erlich, Y.; Chang, K.; Gordon, A.; Ronen, R.; Navon, O.; Rooks, M.; Hannon, G. J.
+T1 - DNA Sudoku--harnessing high-throughput sequencing for multiplexed specimen analysis
+JA - Genome Research
+VL - 19
+IS - 7
+SP - 1243
+EP - 1253
+U1 - 10.1101/gr.092957.109(DOI)
+N2 - Next-generation sequencers have sufficient power to analyze simultaneously DNAs from many different specimens, a practice known as multiplexing. Such schemes rely on the ability to associate each sequence read with the specimen from which it was derived. The current practice of appending molecular barcodes prior to pooling is practical for parallel analysis of up to many dozen samples. Here, we report a strategy that permits simultaneous analysis of tens of thousands of specimens. Our approach relies on the use of combinatorial pooling strategies in which pools rather than individual specimens are assigned barcodes. Thus, the identity of each specimen is encoded within the pooling pattern rather than by its association with a particular sequence tag. Decoding the pattern allows the sequence of an original specimen to be inferred with high confidence. We verified the ability of our encoding and decoding strategies to accurately report the sequence of individual samples within a large number of mixed specimens in two ways. First, we simulated data both from a clone library and from a human population in which a sequence variant associated with cystic fibrosis was present. Second, we actually pooled, sequenced, and decoded identities within two sets of 40,000 bacterial clones comprising approximately 20,000 different artificial microRNAs targeting Arabidopsis or human genes. We achieved greater than 97% accuracy in these trials. The strategies reported here can be applied to a wide variety of biological problems, including the determination of genotypic variation within large populations of individuals.
+UR - http://genome.cshlp.org/cgi/doi/10.1101/gr.092957.109
+ER -
+

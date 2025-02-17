@@ -1,0 +1,17 @@
+TY - JOUR
+ID - pmid_16154784
+A1 - Irina S. Druzhinina, Alexei G. Kopchinskiy, Monika Komoń, John Bissett, George Szakacs and Christian P. Kubicek
+Y1 - 2005
+T1 - An oligonucleotide barcode for species identification in Trichoderma and Hypocrea.
+JA - Fungal Genetics and Biology
+VL - 42
+IS - 10
+SP - 813
+EP - 828
+M1 - 2005-09-19(date received)
+M1 - 2006-02-03(date accepted)
+M1 - 2006-11-15(date revised)
+U1 - 10.1016/j.fgb.2005.06.007(DOI)
+N2 - One of the biggest obstructions to studies on Trichoderma has been the incorrect and confused application of species names to isolates used in industry, biocontrol of plant pathogens and ecological surveys, thereby making the comparison of results questionable. Here we provide a convenient, on-line method for the quick molecular identification of Hypocrea/Trichoderma at the genus and species levels based on an oligonucleotide barcode: a diagnostic combination of several oligonucleotides (hallmarks) specifically allocated within the internal transcribed spacer 1 and 2 (ITS1 and 2) sequences of the rDNA repeat. The barcode was developed on the basis of 979 sequences of 88 vouchered species which displayed in total 135 ITS1 and 2 haplotypes. Oligonucleotide sequences which are constant in all known ITS1 and 2 of Hypocrea/Trichoderma but different in closely related fungal genera, were used to define genus-specific hallmarks. The library of species-, clade- and genus-specific hallmarks is stored in the MySQL database and integrated in the TrichOKey v. 1.0 - barcode sequence identification program with the web interface located on . TrichOKey v. 1.0 identifies 75 single species, 5 species pairs and 1 species triplet. Verification of the DNA-barcode was done by a blind test on 53 unknown isolates of Trichoderma, collected in Central and South America. The obtained results were in a total agreement with phylogenetic identification based on tef1 (large intron), NCBI BLAST of vouchered records and postum morphological analysis. We conclude that oligonucleotide barcode is a powerful tool for the routine identification of Hypocrea/Trichoderma species and should be useful as a complement to traditional methods.
+ER -
+

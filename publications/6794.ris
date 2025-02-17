@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Sirovich, Lawrence; Stoeckle, Mark Y.; Zhang, Yu
+Y1 - 2010
+T1 - Structural Analysis of Biodiversity
+JA - PLoS ONE
+VL - 5
+IS - 2
+SP - e9266
+M1 - 2009-11-25(date received)
+M1 - 2010-01-28(date accepted)
+U1 - 10.1371/journal.pone.0009266(DOI)
+U1 - User submitted
+N2 - Large, recently-available genomic databases cover a wide range of life forms, suggesting opportunity for insights into genetic structure of biodiversity. In this study we refine our recently-described technique using indicator vectors to analyze and visualize nucleotide sequences. The indicator vector approach generates correlation matrices, dubbed Klee diagrams, which represent a novel way of assembling and viewing large genomic datasets. To explore its potential utility, here we apply the improved algorithm to a collection of almost 17000 DNA barcode sequences covering 12 widely-separated animal taxa, demonstrating that indicator vectors for classification gave correct assignment in all 11000 test cases. Indicator vector analysis revealed discontinuities corresponding to species- and higher-level taxonomic divisions, suggesting an efficient approach to classification of organisms from poorly-studied groups. As compared to standard distance metrics, indicator vectors preserve diagnostic character probabilities, enable automated classification of test sequences, and generate high-information density single-page displays. These results support application of indicator vectors for comparative analysis of large nucleotide data sets and raise prospect of gaining insight into broad-scale patterns in the genetic structure of biodiversity.
+ER -
+

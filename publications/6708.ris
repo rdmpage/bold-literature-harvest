@@ -1,0 +1,18 @@
+TY - JOUR
+ID - n/a
+A1 - Melanie Lou and G. Brian Golding
+Y1 - 2010
+T1 - Assigning sequences to species in the absence of large interspecific differences
+JA - Molecular Phylogenetics and Evolution
+VL - 56
+IS - 1
+SP - 187
+EP - 194
+M1 - 2009-10-06(date received)
+M1 - 2010-01-02(date accepted)
+M1 - 2009-12-30(date revised)
+U1 - 10.1016/j.ympev.2010.01.002(DOI)
+U1 - User submitted
+N2 - Barcoding is an initiative to define a standard fragment of DNA to be used to assign unknown sequences to existing known species groups that have been pre-identified externally (by a taxonomist). Several methods have been described that attempt to place this assignment into a Bayesian statistical framework. Here we describe an algorithm that makes use of segregating sites and we examine how well these methods perform in the absence of an interspecific ‘barcoding gap’. When a barcoding gap exists, that is when the data are clearly delimited, most methods perform well. Here we have used data from the Drosophila genus because this genus includes sibling species and the species relationships within this species while complex are, arguably, better understood than in any other group. The results show that the Bayesian methods perform well even in the absence of a barcoding gap. The sequences from Drosophila are correctly identified and only when the degree of incomplete lineage sorting is extreme in simulations or within the Drosophila species, do they fail in their identifications and even then, the “correct” species has a high posterior probability.
+ER -
+

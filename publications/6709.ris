@@ -1,0 +1,25 @@
+TY - JOUR
+ID - n/a
+A1 - Shao-Ke Lou, Ka-Lok Wong, Ming Li, Paul But, Stephen Tsui and Pang-Chui Shaw
+Y1 - 2010
+T1 - An integrated web medicinal materials DNA database: MMDBD (Medicinal Materials DNA Barcode Database)
+JA - BMC Genomics
+VL - 11
+IS - 1
+SP - 402
+M1 - 2010-01-19(date received)
+M1 - 2010-06-24(date accepted)
+U1 - 10.1186/1471-2164-11-402(DOI)
+U1 - User submitted
+N2 - Background
+
+Thousands of plants and animals possess pharmacological properties and there is an increased interest in using these materials for therapy and health maintenance. Efficacies of the application is critically dependent on the use of genuine materials. For time to time, life-threatening poisoning is found because toxic adulterant or substitute is administered. DNA barcoding provides a definitive means of authentication and for conducting molecular systematics studies. Owing to the reduced cost in DNA authentication, the volume of the DNA barcodes produced for medicinal materials is on the rise and necessitates the development of an integrated DNA database.
+Description
+
+We have developed an integrated DNA barcode multimedia information platform- Medicinal Materials DNA Barcode Database (MMDBD) for data retrieval and similarity search. MMDBD contains over 1000 species of medicinal materials listed in the Chinese Pharmacopoeia and American Herbal Pharmacopoeia. MMDBD also contains useful information of the medicinal material, including resources, adulterant information, medical parts, photographs, primers used for obtaining the barcodes and key references. MMDBD can be accessed at http://www.cuhk.edu.hk/icm/mmdbd.htm
+
+Conclusions
+
+This work provides a centralized medicinal materials DNA barcode database and bioinformatics tools for data storage, analysis and exchange for promoting the identification of medicinal materials. MMDBD has the largest collection of DNA barcodes of medicinal materials and is a useful resource for researchers in conservation, systematic study, forensic and herbal industry.
+ER -
+

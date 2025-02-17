@@ -1,0 +1,17 @@
+TY - JOUR
+ID - pmid_16507520
+A1 - Torsten Struck, Günter Purschke and Kenneth Halanych
+Y1 - 2006
+T1 - Phylogeny of Eunicida (Annelida) and exploring data congruence using a partition addition bootstrap alteration (PABA) approach.
+JA - Systematic Biology
+VL - 55
+IS - 1
+SP - 1
+EP - 20
+M1 - 2006-03-01(date received)
+M1 - 2006-04-18(date accepted)
+M1 - 2006-11-15(date revised)
+U1 - 10.1080/10635150500354910(DOI)
+N2 - Even though relationships within Annelida are poorly understood, Eunicida is one of only a few major annelid lineages well supported by morphology. The seven recognized eunicid families possess sclerotized jaws that include mandibles and a maxillary apparatus. The maxillary apparatuses vary in shape and number of elements, and three main types are recognized in extant taxa: ctenognath, labidognath, and prionognath. Ctenognath jaws are usually considered to represent the plesiomorphic state of Eunicida, whereas taxa with labidognath and prionognath are thought to form a derived monophyletic assemblage. However, this hypothesis has never been tested in a statistical framework even though it holds considerable importance for understanding annelid phylogeny and possibly lophotrochozoan evolution because Eunicida has the best annelid fossil record. Therefore, we used maximum likelihood and Bayesian inference approaches to reconstruct Eunicida phylogeny using sequence data from nuclear 18S and 28S rDNA genes and mitochondrial 16S rDNA and cytochrome c oxidase subunit I genes. Additionally, we conducted three different tests to investigate suitability of combining data sets. Incongruence length difference (ILD) and Shimodaira-Hasegawa (SH) test comparisons of resultant trees under different data partitions have been widely used previously but do not give a good indication as to which nodes may be causing the conflict. Thus, we developed a partition addition bootstrap alteration (PABA) approach that evaluates congruence or conflict for any given node by determining how bootstrap scores are altered when different data partitions are added. PABA shows the contribution of each partition to the phylogeny obtained in the combined analysis. Generally, the ILD test performed worse than the other approaches in detecting incongruence. Both PABA and the SH approach indicated the 28S and COI data sets add conflicting signal, but PABA is more informative for elucidating which data partition may be misleading at a given node. All our analyses indicate that the monophyly of the labidognath/prionognath taxa and even a labidognath clade (i.e., a "Eunicidae"/Onuphidae/Lumbrineridae clade) is significantly rejected. We show that the definition of both the labidognath and ctenognath jaw type does not address adequately the variation within Eunicida and thus misleads our current evolutionary understanding. Based on the presented results a symmetric maxillary apparatus with a carrier and four to six maxillae is most likely the plesiomorphic condition for Eunicida. [COI; conflicting data; fossil record; ILD; Jaw Evolution; molecular phylogeny; rDNA; SH test.].
+ER -
+

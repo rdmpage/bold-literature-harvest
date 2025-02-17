@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Maeda, Norihiro; Nishiyori, Hiromi; Nakamura, Mari; Kawazu, Chika; Murata, Mitsuyoshi; Sano, Hiromi; Hayashida, Kengo; Fukuda, Shiro; Tagami, Michihira; Hasegawa, Akira; Murakami, Kayoko; Schroder, Kate; Irvine, Katharine; Hume, David; Hayashizaki, Yoshihide; Carninci, Piero; Suzuki, Harukazu
+T1 - Development of a DNA barcode tagging method for monitoring dynamic changes in gene expression by using an ultra high-throughput sequencer
+JA - BioTechniques
+VL - 45
+IS - 1
+SP - 95
+EP - 97
+U1 - 10.2144/000112814(DOI)
+N2 - CAGE (cap analysis of gene expression) is a method for identifying transcription start sites by sequencing the first 20 or 21 nucleotides from the 5′ end of capped transcripts, allowing genome-wide promoter analyses to be performed. The potential of the CAGE as a form of expression profiling was limited previously by sequencing technology and the labor-intensive protocol. Here we describe an improved CAGE method for use with a next generation sequencer. This modified method allows the identification of the RNA source of each CAGE tag within a pooled library by introducing DNA tags (barcodes). The method not only drastically improves the sequencing capacity, but also contributes to savings in both time and budget. Additionally, this pooled CAGE tag method enables the dynamic changes in promoter usage and gene expression to be monitored.
+UR - http://www.biotechniques.com/article/000112814
+ER -
+

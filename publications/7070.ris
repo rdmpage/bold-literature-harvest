@@ -1,0 +1,24 @@
+TY - JOUR
+ID - n/a
+A1 - Ficetola, Gentile; Coissac, Eric; Zundel, Stéphanie; Riaz, Tiayyba; Shehzad, Wasim; Bessière, Julien; Taberlet, Pierre; Pompanon, François
+Y1 - 2010
+T1 - An In silico approach for the evaluation of DNA barcodes
+JA - BMC Genomics
+VL - 11
+IS - 1
+SP - 434
+U1 - 10.1186/1471-2164-11-434(DOI)
+U1 - User submitted
+N2 - Background
+
+DNA barcoding is a key tool for assessing biodiversity in both taxonomic and environmental studies. Essential features of barcodes include their applicability to a wide spectrum of taxa and their ability to identify even closely related species. Several DNA regions have been proposed as barcodes and the region selected strongly influences the output of a study. However, formal comparisons between barcodes remained limited until now. Here we present a standard method for evaluating barcode quality, based on the use of a new bioinformatic tool that performs in silico PCR over large databases. We illustrate this approach by comparing the taxonomic coverage and the resolution of several DNA regions already proposed for the barcoding of vertebrates. To assess the relationship between in silico and in vitro PCR, we also developed specific primers amplifying different species of Felidae, and we tested them using both kinds of PCR
+
+Results
+
+Tests on specific primers confirmed the correspondence between in silico and in vitro PCR. Nevertheless, results of in silico and in vitro PCRs can be somehow different, also because tuning PCR conditions can increase the performance of primers with limited taxonomic coverage. The in silico evaluation of DNA barcodes showed a strong variation of taxonomic coverage (i.e., universality): barcodes based on highly degenerated primers and those corresponding to the conserved region of the Cyt-b showed the highest coverage. As expected, longer barcodes had a better resolution than shorter ones, which are however more convenient for ecological studies analysing environmental samples.
+
+Conclusions
+
+In silico PCR could be used to improve the performance of a study, by allowing the preliminary comparison of several DNA regions in order to identify the most appropriate barcode depending on the study aims.
+ER -
+

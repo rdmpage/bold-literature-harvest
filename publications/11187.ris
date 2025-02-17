@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - McMahon, K. Wyatt; Manukyan, Arkadi; Dungrawala, Huzefa; Montgomery, Micah; Nordstrom, Brian; Wright, Jill; Abraham, Lesley; Schneider, Brandt L.
+T1 - FASTA barcodes: a simple method for the identification of yeast ORF deletions
+JA - Yeast
+VL - 28
+IS - 9
+SP - 661
+EP - 671
+U1 - 10.1002/yea.1894(DOI)
+N2 - A consortium of yeast geneticists have created ∼6000 individual ORF deletions, representing > 96% of the currently verified or predicted ORFs in S. cerevisiae. Importantly, molecular barcodes (each a unique 20 bp sequence termed either Uptag or Downtag) were used as identifiers for every ORF deletion. Microarray analyses of pooled yeast deletions has been used to identify thousands of genes involved in general fitness, haploinsufficiency, drug resistance and DNA damage repair. However, application of this powerful technology requires considerable expense, expertise and specialized equipment. While standard PCR techniques and specifically designed PCR primers can be used to confirm that a given ORF is in fact deleted, this procedure cannot be used to identify unknown deletions. In theory, every ORF deletion could be determined by barcode sequencing. However, neither a consolidated barcode database nor a reliable search engine is currently available for this purpose. To address this need, we have adapted a FASTA sequence program that utilizes the unique barcode database to allow users to identify individual ORF deletions, based upon simple sequencing reactions of PCR amplifications of either Uptag or Downtag barcodes. In silico and practical testing of this application reveals that it is an inexpensive, reliable and reproducible method for rapidly identifying unknown deletions. This approach allows laboratories to conduct small- or large-scale genetic screens with pooled yeast deletion strains and identify or verify any ORF deletion without the need for microarray technology. Copyright © 2011 John Wiley & Sons, Ltd.
+UR - http://doi.wiley.com/10.1002/yea.1894
+ER -
+

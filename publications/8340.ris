@@ -1,0 +1,19 @@
+TY - JOUR
+ID - n/a
+A1 - Lv, Jizhou; Wu, Shaoqiang; Zhang, Yongning; Chen, Yan; Feng, Chunyan; Yuan, Xiangfen; Jia, Guangle; Deng, Junhua; Wang, Caixia; Wang, Qin; Mei, Lin; Lin, Xiangmei
+T1 - Assessment of four DNA fragments (COI, 16S rDNA, ITS2, 12S rDNA) for species identification of the Ixodida (Acari: Ixodida)
+JA - Parasites and Vectors
+VL - 7
+IS - 1
+SP - 93
+U1 - 10.1186/1756-3305-7-93(DOI)
+N2 - Background: The 5’ region of cytochrome oxidase I (COI) is the standard marker for DNA barcoding. However, COI has proved to be of limited use in identifying some species, and for some taxa, the coding sequence is not efficiently amplified by PCR. These deficiencies lead to uncertainty as to whether COI is the most suitable barcoding fragment for species identification of ticks. 
+
+Methods: In this study, we directly compared the relative effectiveness of COI, 16S ribosomal DNA (rDNA), nuclear ribosomal internal transcribed spacer 2 (ITS2) and 12S rDNA for tick species identification. A total of 307 sequences from 84 specimens representing eight tick species were acquired by PCR. Besides the 1,834 published sequences of 189 tick species from GenBank and the Barcode of Life Database, 430 unpublished sequences representing 59 tick species were also successfully screened by Bayesian analyses. Thereafter, the performance of the four DNA markers to identify tick species was evaluated by identification success rates given by these markers using nearest neighbour (NN), BLASTn, liberal tree-based or liberal tree-based (+threshold) methods. 
+
+Results: Genetic divergence analyses showed that the intra-specific divergence of each marker was much lower than the inter-specific divergence. Our results indicated that the rates of correct sequence identification for all four markers (COI, 16S rDNA, ITS2, 12S rDNA) were very high (> 96%) when using the NN methodology. We also found that COI was not significantly better than the other markers in terms of its rate of correct sequence identification. Overall, BLASTn and NN methods produced higher rates of correct species identification than that produced by the liberal tree-based methods (+threshold or otherwise). 
+
+Conclusions: As the standard DNA barcode, COI should be the first choice for tick species identification, while 16S rDNA, ITS2, and 12S rDNA could be used when COI does not produce reliable results. Besides, NN and BLASTn are efficient methods for species identification of ticks.
+UR - http://www.parasitesandvectors.com/content/7/1/93
+ER -
+

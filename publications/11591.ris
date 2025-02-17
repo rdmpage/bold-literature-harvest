@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Yang, ChenXue; Ji, YingQiu; Wang, XiaoYang; Yang, ChunYang; Yu, Douglas W.
+T1 - Testing three pipelines for 18S rDNA-based metabarcoding of soil faunal diversity
+JA - Science China Life Sciences
+VL - 56
+IS - 1
+SP - 73
+EP - 81
+U1 - 10.1007/s11427-012-4423-7(DOI)
+N2 - A number of basic and applied questions in ecology and environmental management require the characterization of soil and leaf litter faunal diversity. Recent advances in high-throughput sequencing of barcode-gene amplicons (‘metabarcoding’) have made it possible to survey biodiversity in a robust and efficient way. However, one obstacle to the widespread adoption of this technique is the need to choose amongst many candidates for bioinformatic processing of the raw sequencing data. We compare three candidate pipelines for the processing of 18S small subunit rDNA metabarcode data from solid substrates: (i) USEARCH/CROP, (ii) Denoiser/UCLUST, and (iii) OCTUPUS. The three pipelines produced reassuringly similar and highly correlated assessments of community composition that are dominated by taxa known to characterize the sampled environments. However, OCTUPUS appears to inflate phylogenetic diversity, because of higher sequence noise. We therefore recommend either the USEARCH/CROP or Denoiser/UCLUST pipelines, both of which can be run within the QIIME (Quantitative Insights Into Microbial Ecology) environment.
+UR - http://link.springer.com/10.1007/s11427-012-4423-7
+ER -
+

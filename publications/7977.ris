@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Sonet, Gontran; Jordaens, Kurt; Nagy, Zoltán T.; Breman, Floris C.; De Meyer, Marc; Backeljau, Thierry; Virgilio, Massimiliano
+Y1 - 2013
+T1 - Adhoc: an R package to calculate ad hoc distance  thresholds for DNA barcoding identification
+JA - ZooKeys
+VL - 365
+IS - n/a
+SP - 329
+EP - 336
+U1 - User submitted
+N2 - Identification by DNA barcoding is more likely to be erroneous when it is based on a large distance between the query (the barcode sequence of the specimen to identify) and its best match in a reference barcode library. The number of such false positive identifications can be decreased by setting a distance threshold above which identification has to be rejected. To this end, we proposed recently to use an ad hoc distance threshold producing identifications with an estimated relative error probability that can be fixed by the user (e.g. 5%). Here we introduce two R functions that automate the calculation of ad hoc distance thresholds for reference libraries of DNA barcodes. The scripts of both functions, a user manual and an example file are available on the JEMU website (http://jemu.myspecies.info/computer-programs) as well as on the comprehensive R archive network (CRAN, http://cran.r-project.org).
+ER -
+

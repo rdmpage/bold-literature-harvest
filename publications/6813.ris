@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Willy A Valdivia-Granda
+Y1 - 2010
+T1 - Bioinformatics for biodefense: challenges and opportunities.
+JA - Biosecurity and Bioterrorism
+VL - 8
+IS - 1
+SP - 69
+EP - 77
+U1 - 10.1089/bsp.2009.0024(DOI)
+U1 - User submitted
+N2 - The intentional release of traditional or combinatorial bioweapons remains one of the most important challenges that will continue to shape homeland security. The misuse of dual-use and how-to methods and techniques in the fields of molecular, synthetic, and computational biology can lessen the technical barriers for launching attacks, even for small groups or individuals. Bioinformatics is guiding the implementation of several biodefense countermeasures. However, existing algorithms have not effectively translated available pathogen genomic data into standardized diagnostics, rational vaccine development, or broad spectrum therapeutics. Despite its potential, bioinformatics has a limited impact on forensic and intelligence operations. More than 12 biodefense databases and information exchange architectures lack interoperability and a common layer that restricts scalability and the development of biodefense enterprises. Therefore, in order to use next-generation genome sequencing for medical intelligence, forensic operations, biothreat awareness, and mitigation, the attention has to be redirected toward the development of computational biology applications. This article debates some of the challenges that the bioinformatics field confronts in terms of biodefense problems and proposes potential opportunities to use pathogen genomic data. Issues related to the analysis of pathogen genomes and emerging methods including genomic barcoding, active curation, and knowledge management and their impact on intelligence, forensics, and policymaking are discussed.
+ER -
+

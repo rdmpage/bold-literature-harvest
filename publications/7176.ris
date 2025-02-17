@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Dorota L. Porazinska, Robin M. Giblin-Davis, Lina Faller, William Farmerie, Natsumi Kanzaki, Krystalynne Morris, Thomas O. Powers, Abraham E. Tucker, Way Sung and W. Kelley Thomas
+Y1 - 2009
+T1 - Evaluating high-throughput sequencing as a method for metagenomic analysis of nematode diversity
+JA - Molecular Ecology Resources
+VL - 9
+IS - 6
+SP - 1439
+EP - 1450
+U1 - 10.1111/j.1755-0998.2009.02611.x(DOI)
+U1 - User submitted
+N2 - Nematodes play an important role in ecosystem processes, yet the relevance of nematode species diversity to ecology is unknown. Because nematode identification of all individuals at the species level using standard techniques is difficult and time-consuming, nematode communities are not resolved down to the species level, leaving ecological analysis ambiguous. We assessed the suitability of massively parallel sequencing for analysis of nematode diversity from metagenomic samples. We set up four artificial metagenomic samples involving 41 diverse reference nematodes in known abundances. Two samples came from pooling polymerase chain reaction products amplified from single nematode species. Two additional metagenomic samples consisted of amplified products of DNA extracted from pooled nematode species. Amplified products involved two rapidly evolving ~400-bp sections coding for the small and large subunit of rRNA. The total number of reads ranged from 4159 to 14771 per metagenomic sample. Of these, 82% were > 199 bp in length. Among the reads > 199 bp, 86% matched the referenced species with less than three nucleotide differences from a reference sequence. Although neither rDNA section recovered all nematode species, the use of both loci improved the detection level of nematode species from 90 to 97%. Overall, results support the suitability of massively parallel sequencing for identification of nematodes. In contrast, the frequency of reads representing individual species did not correlate with the number of individuals in the metagenomic samples, suggesting that further methodological work is necessary before it will be justified for inferring the relative abundances of species within a nematode community.
+ER -
+

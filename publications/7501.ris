@@ -1,0 +1,22 @@
+TY - JOUR
+ID - n/a
+A1 - Filipe O. Costa, Monica Landi, Rogelia Martins, Maria H. Costa, Maria E. Costa, Miguel Carneiro, Maria J. Alves, Dirk Steinke and Gary R. Carvalho
+Y1 - 2012
+T1 - A Ranking System for Reference Libraries of DNA Barcodes: Application to Marine Fish Species from Portugal
+JA - PLoS ONE
+VL - 7
+IS - 4
+SP - e35858
+U1 - 10.1371/journal.pone.0035858(DOI)
+U1 - User submitted
+N2 - Background
+The increasing availability of reference libraries of DNA barcodes (RLDB) offers the opportunity to the screen the level of consistency in DNA barcode data among libraries, in order to detect possible disagreements generated from taxonomic uncertainty or operational shortcomings. We propose a ranking system to attribute a confidence level to species identifications associated with DNA barcode records from a RLDB. Here we apply the proposed ranking system to a newly generated RLDB for marine fish of Portugal.
+
+Methodology/Principal Findings
+Specimens (n=659) representing 102 marine fish species were collected along the continental shelf of Portugal, morphologically identified and archived in a museum collection. Samples were sequenced at the barcode region of the cytochrome oxidase subunit I gene (COI-5P). Resultant DNA barcodes had average intra-specific and inter-specific Kimura-2-parameter distances (0.32% and 8.84%, respectively) within the range usually observed for marine fishes. All specimens were ranked in five different levels (A - E), according to the reliability of the match between their species identification and the respective diagnostic DNA barcodes. Grades A to E were attributed upon submission of individual specimen sequences to BOLD-IDS and inspection of the clustering pattern in the NJ tree generated. Overall, our study resulted in 73.5% of unambiguous species IDs (grade A), 7.8% taxonomically congruent barcode clusters within our dataset, but awaiting external confirmation (grade B), and 18.7% of species identifications with lower levels of reliability (grades C/E).
+
+Conclusion/Significance
+We highlight the importance of implementing a system to rank barcode records in RLDB, in order to flag taxa in need of taxonomic revision, or reduce ambiguities of discordant data. With increasing DNA barcode records publicly available, this cross-validation system would provide a metric of relative accuracy of barcodes, while enabling the continuous revision and annotation required in taxonomic work
+UR - http://www.plosone.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0035858&representation=PDF
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Mari Kekkonen, Marko Mutanen, Lauri Kaila, Marko Nieminen, Paul D. N. Hebert
+Y1 - 2015
+T1 - Delineating Species with DNA Barcodes: A Case of Taxon Dependent Method Performance in Moths
+JA - PLoS ONE
+VL - 10
+IS - 4
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - The accelerating loss of biodiversity has created a need for more effective ways to discover species. Novel algorithmic approaches for analyzing sequence data combined with rapidly expanding DNA barcode libraries provide a potential solution. While several analytical methods are available for the delineation of operational taxonomic units (OTUs), few studies have compared their performance. This study compares the performance of one morphology-based and four DNA-based (BIN, parsimony networks, ABGD, GMYC) methods on two groups of gelechioid moths. It examines 92 species of Finnish Gelechiinae and 103 species of Australian Elachistinae which were delineated by traditional taxonomy. The results reveal a striking difference in performance between the two taxa with all four DNA-based methods. OTU counts in the Elachistinae showed a wider range and a relatively low (ca. 65%) OTU match with reference species while OTU counts were more congruent and performance was higher (ca. 90%) in the Gelechiinae. Performance rose when only monophyletic species were compared, but the taxon-dependence remained. None of the DNA-based methods produced a correct match with non-monophyletic species, but singletons were handled well. A simulated test of morphospecies-grouping performed very poorly in revealing taxon diversity in these small, dull-colored moths. Despite the strong performance of analyses based on DNA barcodes, species delineated using single-locus mtDNA data are best viewed as OTUs that require validation by subsequent integrative taxonomic work.
+ER -
+

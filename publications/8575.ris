@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Zador, Anthony M.; Dubnau, Joshua; Oyibo, Hassana K.; Zhan, Huiqing; Cao, Gang; Peikon, Ian D.
+T1 - Sequencing the Connectome
+JA - PLoS Biology
+VL - 10
+IS - 10
+SP - e1001411
+U1 - 10.1371/journal.pbio.1001411(DOI)
+N2 - Connectivity determines the function of neural circuits. Historically, circuit mapping has usually been viewed as a problem of microscopy, but no current method can achieve high-throughput mapping of entire circuits with single neuron precision. Here we describe a novel approach to determining connectivity. We propose BOINC (“barcoding of individual neuronal connections”), a method for converting the problem of connectivity into a form that can be read out by high-throughput DNA sequencing. The appeal of using sequencing is that its scale—sequencing billions of nucleotides per day is now routine—is a natural match to the complexity of neural circuits. An inexpensive high-throughput technique for establishing circuit connectivity at single neuron resolution could transform neuroscience research.
+UR - http://dx.plos.org/10.1371/journal.pbio.1001411
+ER -
+

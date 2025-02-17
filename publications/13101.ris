@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Teresita M Porter, Joel F Gibson, Shadi Shokralla, Donald J Baird, G Brian Golding, and Mehrdad Hajibabaei
+Y1 - 2014
+T1 - Rapid and accurate taxonomic classification of insect (class Insecta) cytochrome c oxidase subunit 1 (COI) DNA barcode sequences using a naïve Bayesian classifier
+JA - Molecular Ecology Resources
+VL - 14
+IS - 5
+SP - 929
+EP - 942
+U1 - 10.1111/1755-0998.12240(DOI)
+U1 - User submitted
+N2 - Current methods to identify unknown insect (class Insecta) cytochrome c oxidase (COI barcode) sequences often rely on thresholds of distances that can be difficult to define, sequence similarity cut-offs, or monophyly. Some of the most commonly used metagenomic classification methods do not provide a measure of confidence for the taxonomic assignments they provide. The aim of this study was to use a naïve Bayesian classifier (Wang et al. Applied and Environmental Microbiology, 2007; 73: 5261) to automate taxonomic assignments for large batches of insect COI sequences such as data obtained from high-throughput environmental sequencing. This method provides rank-flexible taxonomic assignments with an associated bootstrap support value, and it is faster than the blast-based methods commonly used in environmental sequence surveys. We have developed and rigorously tested the performance of three different training sets using leave-one-out cross-validation, two field data sets, and targeted testing of Lepidoptera, Diptera and Mantodea sequences obtained from the Barcode of Life Data system. We found that type I error rates, incorrect taxonomic assignments with a high bootstrap support, were already relatively low but could be lowered further by ensuring that all query taxa are actually present in the reference database. Choosing bootstrap support cut-offs according to query length and summarizing taxonomic assignments to more inclusive ranks can also help to reduce error while retaining the maximum number of assignments. Additionally, we highlight gaps in the taxonomic and geographic representation of insects in public sequence databases that will require further work by taxonomists to improve the quality of assignments generated using any method.
+UR - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4282328/
+ER -
+

@@ -1,0 +1,19 @@
+TY - JOUR
+ID - n/a
+A1 - Paola Bertolazzi, Giovanni Felici and Emanuel Weitschek
+Y1 - 2009
+T1 - Learning to classify species with barcodes
+JA - BMC Bioinformatics
+VL - 10
+IS - S14
+SP - S7
+U1 - 10.1186/1471-2105-10-S14-S7(DOI)
+U1 - User submitted
+N2 - Background
+According to many field experts, specimens classification based on morphological keys needs to be supported with automated techniques based on the analysis of DNA fragments. The most successful results in this area are those obtained from a particular fragment of mitochondrial DNA, the gene cytochrome c oxidase I (COI) (the "barcode"). Since 2004 the Consortium for the Barcode of Life (CBOL) promotes the collection of barcode specimens and the development of methods to analyze the barcode for several tasks, among which the identification of rules to correctly classify an individual into its species by reading its barcode.
+Results
+We adopt a Logic Mining method based on two optimization models and present the results obtained on two datasets where a number of COI fragments are used to describe the individuals that belong to different species. The method proposed exhibits high correct recognition rates on a training-testing split of the available data using a small proportion of the information available (e.g., correct recognition approx. 97% when only 20 sites of the 648 available are used). The method is able to provide compact formulas on the values (A, C, G, T) at the selected sites that synthesize the characteristic of each species, a relevant information for taxonomists.
+Conclusion
+We have presented a Logic Mining technique designed to analyze barcode data and to provide detailed output of interest to the taxonomists and the barcode community represented in the CBOL Consortium. The method has proven to be effective, efficient and precise.
+ER -
+

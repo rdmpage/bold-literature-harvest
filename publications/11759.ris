@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Bokulich, N. A.; Mills, D. A.
+T1 - Improved Selection of Internal Transcribed Spacer-Specific Primers Enables Quantitative, Ultra-High-Throughput Profiling of Fungal Communities
+JA - Applied and Environmental Microbiology
+VL - 79
+IS - 8
+SP - 2519
+EP - 2526
+U1 - 10.1128/AEM.03870-12(DOI)
+N2 - Ultra-high-throughput sequencing (HTS) of fungal communities has been restricted by short read lengths and primer amplification bias, slowing the adoption of newer sequencing technologies to fungal community profiling. To address these issues, we evaluated the performance of several common internal transcribed spacer (ITS) primers and designed a novel primer set and work flow for simultaneous quantification and species-level interrogation of fungal consortia. Primer comparison and validation were predicted in silico and by sequencing a “mock community” of mixed yeast species to explore the challenges of amplicon length and amplification bias for reconstructing defined yeast community structures. The amplicon size and distribution of this primer set are smaller than for all preexisting ITS primer sets, maximizing sequencing coverage of hypervariable ITS domains by very-short-amplicon, high-throughput sequencing platforms. This feature also enables the optional integration of quantitative PCR (qPCR) directly into the HTS preparatory work flow by substituting qPCR with these primers for standard PCR, yielding quantification of individual community members. The complete work flow described here, utilizing any of the qualified primer sets evaluated, can rapidly profile mixed fungal communities and capably reconstructed well-characterized beer and wine fermentation fungal communities.
+UR - http://aem.asm.org/cgi/doi/10.1128/AEM.03870-12
+ER -
+

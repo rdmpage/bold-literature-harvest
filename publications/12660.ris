@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Vasco Elbrecht, Florian Leese
+Y1 - 2015
+T1 - Can DNA-Based Ecosystem Assessments Quantify Species Abundance? Testing Primer Bias and Biomass—Sequence Relationships with an Innovative Metabarcoding Protocol
+JA - PLoS ONE
+VL - 10
+IS - 7
+SP - 1
+EP - 16
+U1 - 10.1371/journal.pone.0130324(DOI)
+U1 - User submitted
+N2 - Metabarcoding is an emerging genetic tool to rapidly assess biodiversity in ecosystems. It involves high-throughput sequencing of a standard gene from an environmental sample and comparison to a reference database. However, no consensus has emerged regarding laboratory pipelines to screen species diversity and infer species abundances from environmental samples. In particular, the effect of primer bias and the detection limit for specimens with a low biomass has not been systematically examined, when processing samples in bulk. We developed and tested a DNA metabarcoding protocol that utilises the standard cytochrome c oxidase subunit I (COI) barcoding fragment to detect freshwater macroinvertebrate taxa. DNA was extracted in bulk, amplified in a single PCR step, and purified, and the libraries were directly sequenced in two independent MiSeq runs (300-bp paired-end reads). Specifically, we assessed the influence of specimen biomass on sequence read abundance by sequencing 31 specimens of a stonefly species with known haplotypes spanning three orders of magnitude in biomass (experiment I). Then, we tested the recovery of 52 different freshwater invertebrate taxa of similar biomass using the same standard barcoding primers (experiment II). Each experiment was replicated ten times to maximise statistical power. The results of both experiments were consistent across replicates. We found a distinct positive correlation between species biomass and resulting numbers of MiSeq reads. Furthermore, we reliably recovered 83% of the 52 taxa used to test primer bias. However, sequence abundance varied by four orders of magnitudes between taxa despite the use of similar amounts of biomass. Our metabarcoding approach yielded reliable results for high-throughput assessments. However, the results indicated that primer efficiency is highly species-specific, which would prevent straightforward assessments of species abundance and biomass in a sample. Thus, PCR-based metabarcoding assessments of biodiversity should rely on presence-absence metrics.
+UR - http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0130324&representation=PDF
+ER -
+

@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Tae, Hongseok; Ryu, Dongsung; Sureshchandra, Suhas; Choi, Jeong-Hyeon
+T1 - ESTclean: a cleaning tool for next-gen transcriptome shotgun sequencing
+JA - BMC Bioinformatics
+VL - 13
+IS - 1
+SP - 247
+U1 - 10.1186/1471-2105-13-247(DOI)
+N2 - Background: With the advent of next-generation sequencing (NGS) technologies, full cDNA shotgun sequencing has become a major approach in the study of transcriptomes, and several different protocols in 454 sequencing have been invented. As each protocol uses its own short DNA tags or adapters attached to the ends of cDNA fragments for labeling or sequencing, different contaminants may lead to mis-assembly and inaccurate sequence products. 
+
+Results: We have designed and implemented a new program for raw sequence cleaning in a graphical user interface and a batch script. The cleaning process consists of several modules including barcode trimming, sequencing adapter trimming, amplification primer trimming, poly-A tail trimming, vector screening and low quality region trimming. These modules can be combined based on various sequencing applications. 
+
+Conclusions: ESTclean is a software package not only for cleaning cDNA sequences, but also for helping to develop sequencing protocols by providing summary tables and figures for sequencing quality control in a graphical user interface. It outperforms in cleaning read sequences from complicated sequencing protocols which use barcodes and multiple amplification primers.
+UR - http://www.biomedcentral.com/1471-2105/13/247
+ER -
+

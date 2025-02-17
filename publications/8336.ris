@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Li, Chi Pang; Yu, Zu Guo; Han, Guo Sheng; Chu, Ka Hou
+T1 - Analyzing Multi-locus Plant Barcoding Datasets with a Composition Vector Method Based on Adjustable Weighted Distance
+JA - PLoS ONE
+VL - 7
+IS - 7
+SP - e42154
+U1 - 10.1371/journal.pone.0042154(DOI)
+N2 - Background The composition vector (CV) method has been proved to be a reliable and fast alignment-free method to analyze large COI barcoding data. In this study, we modify this method for analyzing multi-gene datasets for plant DNA barcoding. The modified method includes an adjustable-weighted algorithm for the vector distance according to the ratio in sequence length of the candidate genes for each pair of taxa.
+
+Methodology/Principal Findings Three datasets, matK+rbcL dataset with 2,083 sequences, matK+rbcL dataset with 397 sequences and matK+rbcL+trnH-psbA dataset with 397 sequences, were tested. We showed that the success rates of grouping sequences at the genus/species level based on this modified CV approach are always higher than those based on the traditional K2P/NJ method. For the matK+rbcL datasets, the modified CV approach outperformed the K2P-NJ approach by 7.9% in both the 2,083-sequence and 397-sequence datasets, and for the matK+rbcL+trnH-psbA dataset, the CV approach outperformed the traditional approach by 16.7%.
+
+Conclusions We conclude that the modified CV approach is an efficient method for analyzing large multi-gene datasets for plant DNA barcoding. Source code, implemented in C++ and supported on MS Windows, is freely available for download at http://math.xtu.edu.cn/myphp/math/research/source/Barcode_source_codes.zip.
+UR - http://dx.plos.org/10.1371/journal.pone.0042154
+ER -
+

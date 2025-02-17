@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Erika S Tavares and Allan J Baker
+Y1 - 2008
+T1 - Single mitochondrial gene barcodes reliably identify sister-species in diverse clades of birds.
+JA - BMC Evolutionary Biology
+VL - 8
+IS - 1
+SP - 81
+M1 - 2007-12-29(date received)
+M1 - 2008-03-09(date accepted)
+U1 - 10.1186/1471-2148-8-81(DOI)
+U1 - User submitted
+N2 - BACKGROUND: DNA barcoding of life using a standardized COI sequence was proposed as a species identification system, and as a method for detecting putative new species. Previous tests in birds showed that individuals can be correctly assigned to species in ~94% of the cases and suggested a threshold of 10x mean intraspecific difference to detect potential new species. However, these tests were criticized because they were based on a single maternally inherited gene rather than multiple nuclear genes, did not compare phylogenetically identified sister species, and thus likely overestimated the efficacy of DNA barcodes in identifying species. RESULTS: To test the efficacy of DNA barcodes we compared ~650 bp of COI in 60 sister-species pairs identified in multigene phylogenies from 10 orders of birds. In all pairs, individuals of each species were monophyletic in a neighbor-joining (NJ) tree, and each species possessed fixed mutational differences distinguishing them from their sister species. Consequently, individuals were correctly assigned to species using a statistical coalescent framework. A coalescent test of taxonomic distinctiveness based on chance occurrence of reciprocal monophyly in two lineages was verified in known sister species, and used to identify recently separated lineages that represent putative species. This approach avoids the use of a universal distance cutoff which is invalidated by variation in times to common ancestry of sister species and in rates of evolution. CONCLUSION: Closely related sister species of birds can be identified reliably by barcodes of fixed diagnostic substitutions in COI sequences, verifying coalescent-based statistical tests of reciprocal monophyly for taxonomic distinctiveness. Contrary to recent criticisms, a single DNA barcode is a rapid way to discover monophyletic lineages within a metapopulation that might represent undiscovered cryptic species, as envisaged in the unified species concept. This identifies a smaller set of lineages that can also be tested independently for species status with multiple nuclear gene approaches and other phenotypic characters.
+ER -
+

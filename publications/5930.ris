@@ -1,0 +1,16 @@
+TY - JOUR
+ID - pmid_18282635
+A1 - N. Pradeep Kumar, A.R. Rajavel and P. Jambulingam
+Y1 - 2008
+T1 - Application of PDF417 symbology for 'DNA Barcoding'.
+JA - Computer Methods and Programs in Biomedicine
+VL - 90
+IS - 2
+SP - 187
+EP - 189
+M1 - 2007-04-30(date received)
+U1 - 10.1016/j.cmpb.2007.12.011(DOI)
+U1 - User submitted
+N2 - DNA sequences consisting of about 600 base pairs of the 5' region of the cytochrome c oxidase subunit 1 (COI) gene has been proposed as DNA Barcodes for taxonomical identification of species in different animals. We evaluated the application of two-dimensional barcodes for 'DNA Barcoding'. 'PDF417' symbology was applied to convert DNA Barcode sequences already proposed [N. Pradeep Kumar, A.R. Rajavel, R. Natarajan, P. Jambulingam, DNA Barcodes can distinguish species of Indian mosquitoes (Diptera: Culicidae). J. Med. Entomol. 77 (2007) 1-7.] for 10 different species of mosquitoes prevalent in India. Decoding of these digital images using 2-D scanner and a suitable software reproduced the input DNA sequences unchanged. This analysis indicated the utility of PDF417 for 'DNA Barcoding', which could be of definite use for taxonomic documentation of animals.
+ER -
+

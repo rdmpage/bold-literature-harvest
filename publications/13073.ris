@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Vasco Elbrecht, Paul D. N. Hebert & Dirk Steinke
+Y1 - 2018
+T1 - Slippage of degenerate primers can cause variation in amplicon length
+JA - Scientific Reports
+VL - 8
+IS - 1
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - It is well understood that homopolymer regions should be avoided for primer binding to prevent off-target amplification. However, in metabarcoding, it is often difficult to avoid primer degeneracy in order to maximize taxa detection. We here investigate primer binding specificity using different primer sets from several invertebrate metabarcoding studies. Our results indicate that primers frequently bound 1-2 bp upstream in taxa where a homopolymer region was present in the amplification direction. Primer binding 1 bp downstream was observed less frequently. This primer slippage leads to taxon-specific length variation in amplicons and subsequent length variation in recovered sequences. Some widely used primer sets were severely affected by this bias, while others were not. While this variation will only have small impacts on the designation of Operational Taxonomic Units (OTUs) by clustering algorithms that ignore terminal gaps, primer sets employed in metabarcoding projects should be evaluated for their sensitivity to slippage. Moreover, steps should be taken to reduce slippage by improving protocols for primer design. For example, the flanking region adjacent to the 3′ end of the primer is not considered by current primer development software although GC clamps in this position could mitigate slippage.
+ER -
+

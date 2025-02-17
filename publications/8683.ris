@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Chen, Bo-Ruei; Hale, Devin C; Ciolek, Peter J; Runge, Kurt W
+T1 - Generation and analysis of a barcode-tagged insertion mutant library in the fission yeast Schizosaccharomyces pombe
+JA - BMC Genomics
+VL - 13
+IS - 1
+SP - 161
+U1 - 10.1186/1471-2164-13-161(DOI)
+N2 - Background: Barcodes are unique DNA sequence tags that can be used to specifically label individual mutants. The barcode-tagged open reading frame (ORF) haploid deletion mutant collections in the budding yeast Saccharomyces cerevisiae and the fission yeast Schizosaccharomyces pombe allow for high-throughput mutant phenotyping because the relative growth of mutants in a population can be determined by monitoring the proportions of their associated barcodes. While these mutant collections have greatly facilitated genome-wide studies, mutations in essential genes are not present, and the roles of these genes are not as easily studied. To further support genome-scale research in S. pombe, we generated a barcode-tagged fission yeast insertion mutant library that has the potential of generating viable mutations in both essential and non-essential genes and can be easily analyzed using standard molecular biological techniques. 
+
+Results: An insertion vector containing a selectable ura4+ marker and a random barcode was used to generate a collection of 10,000 fission yeast insertion mutants stored individually in 384-well plates and as six pools of mixed mutants. Individual barcodes are flanked by Sfi I recognition sites and can be oligomerized in a unique orientation to facilitate barcode sequencing. Independent genetic screens on a subset of mutants suggest that this library contains a diverse collection of single insertion mutations. We present several approaches to determine insertion sites. 
+
+Conclusions: This collection of S. pombe barcode-tagged insertion mutants is well-suited for genome-wide studies. Because insertion mutations may eliminate, reduce or alter the function of essential and non-essential genes, this library will contain strains with a wide range of phenotypes that can be assayed by their associated barcodes. The design of the barcodes in this library allows for barcode sequencing using next generation or standard benchtop cloning approaches.
+UR - http://www.biomedcentral.com/1471-2164/13/161
+ER -
+

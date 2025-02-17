@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Matecic, Mirela; Smith, Daniel L.; Pan, Xuewen; Maqani, Nazif; Bekiranov, Stefan; Boeke, Jef D.; Smith, Jeffrey S.
+T1 - A Microarray-Based Genetic Screen for Yeast Chronological Aging Factors
+JA - PLoS Genetics
+VL - 6
+IS - 4
+SP - e1000921
+U1 - 10.1371/journal.pgen.1000921(DOI)
+N2 - Model organisms have played an important role in the elucidation of multiple genes and cellular processes that regulate aging. In this study we utilized the budding yeast, Saccharomyces cerevisiae, in a large-scale screen for genes that function in the regulation of chronological lifespan, which is defined by the number of days that non-dividing cells remain viable. A pooled collection of viable haploid gene deletion mutants, each tagged with unique identifying DNA “bar-code” sequences was chronologically aged in liquid culture. Viable mutants in the aging population were selected at several time points and then detected using a microarray DNA hybridization technique that quantifies abundance of the barcode tags. Multiple short- and long-lived mutants were identified using this approach. Among the confirmed short-lived mutants were those defective for autophagy, indicating a key requirement for the recycling of cellular organelles in longevity. Defects in autophagy also prevented lifespan extension induced by limitation of amino acids in the growth media. Among the confirmed long-lived mutants were those defective in the highly conserved de novo purine biosynthesis pathway (the ADE genes), which ultimately produces IMP and AMP. Blocking this pathway extended lifespan to the same degree as calorie (glucose) restriction. A recently discovered cell-extrinsic mechanism of chronological aging involving acetic acid secretion and toxicity was suppressed in a long-lived ade4Δ mutant and exacerbated by a short-lived atg16Δ autophagy mutant. The identification of multiple novel effectors of yeast chronological lifespan will greatly aid in the elucidation of mechanisms that cells and organisms utilize in slowing down the aging process.
+UR - http://dx.plos.org/10.1371/journal.pgen.1000921
+ER -
+

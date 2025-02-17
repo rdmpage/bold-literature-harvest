@@ -1,0 +1,57 @@
+TY - JOUR
+ID - n/a
+A1 - Xin Zhou, Yiyuan Li, Shanlin Liu, Qing Yang, Xu Su, Lili Zhou, Min Tang, Ribei Fu, Jiguang Li and Quanfei Huang
+Y1 - 2013
+T1 - Ultra-deep sequencing enables high-fidelity recovery of biodiversity for bulk arthropod samples without PCR amplification
+JA - GigaScience
+VL - 2
+IS - 4
+SP - 0
+EP - 0
+U1 - 10.1186/2047-217X-2-4(DOI)
+U1 - User submitted
+N2 - Background
+Next-generation-sequencing (NGS) technologies combined with a cla
+ssic DNA barcoding
+approach have enabled fast and credible measurement for biodiversity
+of mixed
+environmental samples. However, the PCR amplification involved in nearly
+all existing NGS
+protocols inevitably introduces taxonomic biases. In the present study,
+we developed new
+Illumina pipelines without PCR amplifications to analyze terrestrial a
+rthropod communities.
+Results
+Mitochondrial enrichment directly followed by Illumina shotgun sequenci
+ng, at an ultra-high
+sequence volume, enabled the recovery of
+Cytochrome c Oxidase subunit 1
+(
+COI
+) barcode
+sequences, which allowed for the estimation of species composition a
+t high fidelity for a
+terrestrial insect community. With 15.5 Gbp Illumina data, approximately 97%
+and 92% were
+detected out of the 37 input Operational Taxonomic Units (OTUs), whet
+her the reference
+barcode library was used or not, respectively, while only 1 novel OTU
+was found for the
+latter. Additionally, relatively strong correlation between t
+he sequencing volume and the total
+biomass was observed for species from the bulk sample, suggesting a p
+otential solution to
+reveal relative abundance.
+Conclusions
+The ability of the new Illumina PCR-free pipeline for DNA met
+abarcoding to detect small
+arthropod specimens and its tendency to avoid most, if not all, false pos
+itives suggests its
+great potential in biodiversity-related surveillance, such as in bi
+omonitoring programs.
+However, further improvement for mitochondrial enrichment is likely n
+eeded for the
+application of the new pipeline in analyzing arthropod communities at higher diversity.
+UR - http://www.gigasciencejournal.com/content/pdf/2047-217X-2-4.pdf
+ER -
+

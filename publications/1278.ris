@@ -1,0 +1,17 @@
+TY - JOUR
+ID - pmid_15961439
+A1 - B. DasGupta, K. M. Konwar, I. I. Mandoiu and A. A. Shvartsman
+Y1 - 2005
+T1 - DNA-BAR: distinguisher selection for DNA barcoding.
+JA - Bioinformatics
+VL - 21
+IS - 16
+SP - 3424
+EP - 3426
+M1 - 2005-08-05(date received)
+M1 - 2005-10-05(date accepted)
+M1 - 2006-11-15(date revised)
+U1 - 10.1093/bioinformatics/bti547(DOI)
+N2 - DNA-BAR is a software package for selecting DNA probes (henceforth referred to as distinguishers) that can be used in genomic-based identification of microorganisms. Given the genomic sequences of the microorganisms, DNA-BAR finds a near-minimum number of distinguishers yielding a distinct hybridization pattern for each microorganism. Selected distinguishers satisfy user specified bounds on length, melting temperature and GC content, as well as redundancy and cross-hybridization constraints.
+ER -
+

@@ -1,0 +1,24 @@
+TY - JOUR
+ID - n/a
+A1 - Hou, Liping; Phillips, Christopher; Azaro, Marco; Brzustowicz, Linda M.; Bartlett, Christopher W.
+Y1 - 2011
+T1 - Validation of a Cost-Efficient Multi-Purpose SNP Panel for Disease Based Research
+JA - PLoS ONE
+VL - 6
+IS - 5
+SP - e19699
+M1 - 2010-12-21(date received)
+M1 - 2011-04-13(date accepted)
+U1 - 10.1371/journal.pone.0019699(DOI)
+U1 - User submitted
+N2 - Background
+
+Here we present convergent methodologies using theoretical calculations, empirical assessment on in-house and publicly available datasets as well as in silico simulations, that validate a panel of SNPs for a variety of necessary tasks in human genetics disease research before resources are committed to larger-scale genotyping studies on those samples. While large-scale well-funded human genetic studies routinely have up to a million SNP genotypes, samples in a human genetics laboratory that are not yet part of such studies may be productively utilized in pilot projects or as part of targeted follow-up work though such smaller scale applications require at least some genome-wide genotype data for quality control purposes such as DNA “barcoding” to detect swaps or contamination issues, determining familial relationships between samples and correcting biases due to population effects such as population stratification in pilot studies.
+Principal Findings
+
+Empirical performance in classification of relative types for any two given DNA samples (e.g., full siblings, parental, etc) indicated that for outbred populations the panel performs sufficiently to classify relationship in extended families and therefore also for smaller structures such as trios and for twin zygosity testing. Additionally, familial relationships do not significantly diminish the (mean match) probability of sharing SNP genotypes in pedigrees, further indicating the uniqueness of the “barcode.” Simulation using these SNPs for an African American case-control disease association study demonstrated that population stratification, even in complex admixed samples, can be adequately corrected under a range of disease models using the SNP panel.
+Conclusion
+
+The panel has been validated for use in a variety of human disease genetics research tasks including sample barcoding, relationship verification, population substructure detection and statistical correction. Given the ease of genotyping our specific assay contained herein, this panel represents a useful and economical panel for human geneticists.
+ER -
+

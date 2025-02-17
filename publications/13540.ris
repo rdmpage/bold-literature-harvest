@@ -1,0 +1,19 @@
+TY - JOUR
+ID - n/a
+A1 - Josip Rudar, Teresita M Porter, Michael Wright, G Brian Golding, Mehrdad Hajibabaei
+Y1 - 2022
+T1 - LANDMark: an ensemble approach to the supervised selection of biomarkers in high-throughput sequencing data
+JA - BMC Bioinformatics
+VL - 23
+IS - 1
+SP - 34
+U1 - 10.1186/s12859‐022‐04631‐z(DOI)
+U1 - User submitted
+N2 - Background: Identification of biomarkers, which are measurable characteristics
+of biological datasets, can be challenging. Although amplicon sequence variants (ASVs) can be considered potential biomarkers, identifying important ASVs in high-through- put sequencing datasets is challenging. Noise, algorithmic failures to account for spe- cific distributional properties, and feature interactions can complicate the discovery of ASV biomarkers. In addition, these issues can impact the replicability of various models and elevate false-discovery rates. Contemporary machine learning approaches can be leveraged to address these issues. Ensembles of decision trees are particularly effective at classifying the types of data commonly generated in high-throughput sequencing (HTS) studies due to their robustness when the number of features in the training data is orders of magnitude larger than the number of samples. In addition, when combined with appropriate model introspection algorithms, machine learning algorithms can also be used to discover and select potential biomarkers. However, the construction
+of these models could introduce various biases which potentially obfuscate feature discovery.
+Results: We developed a decision tree ensemble, LANDMark, which uses oblique
+and non-linear cuts at each node. In synthetic and toy tests LANDMark consistently ranked as the best classifier and often outperformed the Random Forest classifier. When trained on the full metabarcoding dataset obtained from Canada’s Wood Buffalo National Park, LANDMark was able to create highly predictive models and achieved an overall balanced accuracy score of 0.96 ± 0.06. The use of recursive feature elimination did not impact LANDMark’s generalization performance and, when trained on data from the BE amplicon, it was able to outperform the Linear Support Vector Machine, Logistic Regression models, and Stochastic Gradient Descent models (p ≤ 0.05). Finally, LANDMark distinguishes itself due to its ability to learn smoother non-linear decision boundaries.
+Conclusions: Our work introduces LANDMark, a meta-classifier which blends the characteristics of several machine learning models into a decision tree and ensem- ble learning framework. To our knowledge, this is the first study to apply this type of ensemble approach to amplicon sequencing data and we have shown that analyzing these datasets using LANDMark can produce highly predictive and consistent models.
+ER -
+

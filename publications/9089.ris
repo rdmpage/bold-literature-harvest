@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Rohland, N.; Reich, D.
+T1 - Cost-effective, high-throughput DNA sequencing libraries for multiplexed target capture
+JA - Genome Research
+VL - 22
+IS - 5
+SP - 939
+EP - 946
+U1 - 10.1101/gr.128124.111(DOI)
+N2 - Improvements in technology have reduced the cost of DNA sequencing to the point that the limiting factor for many experiments is the time and reagent cost of sample preparation. We present an approach in which 192 sequencing libraries can be produced in a single day of technician time at a cost of about $15 per sample. These libraries are effective not only for low-pass whole-genome sequencing, but also for simultaneously enriching them in pools of approximately 100 individually barcoded samples for a subset of the genome without substantial loss in efficiency of target capture. We illustrate the power and effectiveness of this approach on about 2000 samples from a prostate cancer study.
+UR - http://genome.cshlp.org/cgi/doi/10.1101/gr.128124.111
+ER -
+

@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Costion, Craig; Ford, Andrew; Cross, Hugh; Crayn, Darren; Harrington, Mark; Lowe, Andrew
+T1 - Plant DNA Barcodes Can Accurately Estimate Species Richness in Poorly Known Floras
+JA - PLoS ONE
+VL - 6
+IS - 11
+SP - e26841
+U1 - 10.1371/journal.pone.0026841(DOI)
+N2 - Background: Widespread uptake of DNA barcoding technology for vascular plants has been slow due to the relatively poor resolution of species discrimination (~70%) and low sequencing and amplification success of one of the two official barcoding loci, matK. Studies to date have mostly focused on finding a solution to these intrinsic limitations of the markers, rather than posing questions that can maximize the utility of DNA barcodes for plants with the current technology. 
+
+Methodology/Principal Findings: Here we test the ability of plant DNA barcodes using the two official barcoding loci, rbcLa and matK, plus an alternative barcoding locus, trnH-psbA, to estimate the species diversity of trees in a tropical rainforest plot. Species discrimination accuracy was similar to findings from previous studies but species richness estimation accuracy proved higher, up to 89%. All combinations which included the trnH-psbA locus performed better at both species discrimination and richness estimation than matK, which showed little enhanced species discriminatory power when concatenated with rbcLa. The utility of the trnH-psbA locus is limited however, by the occurrence of intraspecific variation observed in some angiosperm families to occur as an inversion that obscures the monophyly of species. 
+
+Conclusions/Significance: We demonstrate for the first time, using a case study, the potential of plant DNA barcodes for the rapid estimation of species richness in taxonomically poorly known areas or cryptic populations revealing a powerful new tool for rapid biodiversity assessment. The combination of the rbcLa and trnH-psbA loci performed better for this purpose than any two-locus combination that included matK. We show that although DNA barcodes fail to discriminate all species of plants, new perspectives and methods on biodiversity value and quantification may overshadow some of these shortcomings by applying barcode data in new ways.
+UR - http://dx.plos.org/10.1371/journal.pone.0026841
+ER -
+

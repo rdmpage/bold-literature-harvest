@@ -1,0 +1,17 @@
+TY - JOUR
+ID - pmid_20525632
+A1 - S. Klopfstein, C. Kropf and D. L. J. Quicke
+Y1 - 2010
+T1 - An evaluation of phylogenetic informativeness profiles and the molecular phylogeny of diplazontinae (Hymenoptera, Ichneumonidae).
+JA - Systematic Biology
+VL - 59
+IS - 2
+SP - 226
+EP - 241
+M1 - 2010-06-07(date received)
+M1 - 2010-10-12(date accepted)
+M1 - 2011-06-03(date revised)
+U1 - 10.1093/sysbio/syp105(DOI)
+N2 - How to quantify the phylogenetic information content of a data set is a longstanding question in phylogenetics, influencing both the assessment of data quality in completed studies and the planning of future phylogenetic projects. Recently, a method has been developed that profiles the phylogenetic informativeness (PI) of a data set through time by linking its site-specific rates of change to its power to resolve relationships at different timescales. Here, we evaluate the performance of this method in the case of 2 standard genetic markers for phylogenetic reconstruction, 28S ribosomal RNA and cytochrome oxidase subunit 1 (CO1) mitochondrial DNA, with maximum parsimony, maximum likelihood, and Bayesian analyses of relationships within a group of parasitoid wasps (Hymenoptera: Ichneumonidae, Diplazontinae). Retrieving PI profiles of the 2 genes from our own and from 3 additional data sets, we find that the method repeatedly overestimates the performance of the more quickly evolving CO1 compared with 28S. We explore possible reasons for this bias, including phylogenetic uncertainty, violation of the molecular clock assumption, model misspecification, and nonstationary nucleotide composition. As none of these provides a sufficient explanation of the observed discrepancy, we use simulated data sets, based on an idealized setting, to show that the optimum evolutionary rate decreases with increasing number of taxa. We suggest that this relationship could explain why the formula derived from the 4-taxon case overrates the performance of higher versus lower rates of evolution in our case and that caution should be taken when the method is applied to data sets including more than 4 taxa.
+ER -
+

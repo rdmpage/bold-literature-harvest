@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Zhou, Hong-Wei; Li, Dong-Fang; Tam, Nora Fung-Yee; Jiang, Xiao-Tao; Zhang, Hai; Sheng, Hua-Fang; Qin, Jin; Liu, Xiao; Zou, Fei
+T1 - BIPES, a cost-effective high-throughput method for assessing microbial diversity
+JA - The ISME Journal
+VL - 5
+IS - 4
+SP - 741
+EP - 749
+U1 - 10.1038/ismej.2010.160(DOI)
+N2 - Pyrosequencing of 16S rRNA (16S) variable tags has become the most popular method for assessing microbial diversity, but the method remains costly for the evaluation of large numbers of environmental samples with high sequencing depths. We developed a barcoded Illumina paired-end (PE) sequencing (BIPES) method that sequences each 16S V6 tag from both ends on the Illumina HiSeq 2000, and the PE reads are then overlapped to obtain the V6 tag. The average accuracy of Illumina single-end (SE) reads was only 97.9%, which decreased from ~99.9% at the start of the read to less than 85% at the end of the read; nevertheless, overlapping of the PE reads significantly increased the sequencing accuracy to 99.65% by verifying the 3′ end of each SE in which the sequencing quality was degraded. After the removal of tags with two or more mismatches within the medial 40–70 bases of the reads and of tags with any primer errors, the overall base sequencing accuracy of the BIPES reads was further increased to 99.93%. The BIPES reads reflected the amounts of the various tags in the initial template, but long tags and high GC tags were underestimated. The BIPES method yields 20–50 times more 16S V6 tags than does pyrosequencing in a single-flow cell run, and each of the BIPES reads costs less than 1/40 of a pyrosequencing read. As a laborsaving and cost-effective method, BIPES can be routinely used to analyze the microbial ecology of both environmental and human microbiomes.
+UR - http://www.nature.com/doifinder/10.1038/ismej.2010.160
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Göker, Markus; Grimm, Guido W.; Auch, Alexander F.; Aurahs, Ralf; Kucera, Michal
+Y1 - 2010
+T1 - A Clustering Optimization Strategy for Molecular Taxonomy Applied to Planktonic Foraminifera SSU rDNA
+JA - Evolutionary Bioinformatics
+VL - 6
+SP - 97
+EP - 112
+U1 - 10.4137/EBO.S5504(DOI)
+U1 - User submitted
+N2 - Identifying species is challenging in the case of organisms for which primarily molecular data are available. Even if morphological features are available, molecular taxonomy is often necessary to revise taxonomic concepts and to analyze environmental DNA sequences. However, clustering approaches to delineate molecular operational taxonomic units often rely on arbitrary parameter choices. Also, distance calculation is difficult for highly alignment-ambiguous sequences. Here, we applied a recently described clustering optimization method to highly divergent planktonic foraminifera SSU rDNA sequences. We determined the distance function and the clustering setting that result in the highest agreement with morphological reference data. Alignment-free distance calculation, when adapted to the use with partly non-homologous sequences caused by distinct primer pairs, outperformed multiple sequence alignment. Clustering optimization offers new perspectives for the barcoding of species diversity and for environmental sequencing. It bridges the gap between traditional and modern taxonomic disciplines by specifically addressing the issue of how to optimally account for both genetic divergence and given species concepts.
+ER -
+

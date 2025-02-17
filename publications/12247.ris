@@ -1,0 +1,12 @@
+TY - JOUR
+ID - n/a
+A1 - Farias-Hesson, Eveline; Erikson, Jonathan; Atkins, Alexander; Shen, Peidong; Davis, Ronald W.; Scharfe, Curt; Pourmand, Nader
+T1 - Semi-Automated Library Preparation for High-Throughput DNA Sequencing Platforms
+JA - Journal of Biomedicine and Biotechnology
+VL - 2010
+SP - 41647
+U1 - 10.1155/2010/617469(DOI)
+N2 - Next-generation sequencing platforms are powerful technologies, providing gigabases of genetic information in a single run. An important prerequisite for high-throughput DNA sequencing is the development of robust and cost-effective preprocessing protocols for DNA sample library construction. Here we report the development of a semi-automated sample preparation protocol to produce adaptor-ligated fragment libraries. Using a liquid-handling robot in conjunction with Carboxy Terminated Magnetic Beads, we labeled each library sample using a unique 6 bp DNA barcode, which allowed multiplex sample processing and sequencing of 32 libraries in a single run using Applied Biosystems' SOLiD sequencer. We applied our semi-automated pipeline to targeted medical resequencing of nuclear candidate genes in individuals affected by mitochondrial disorders. This novel method is capable of preparing as much as 32 DNA libraries in 2.01 days (8-hour workday) for emulsion PCR/high throughput DNA sequencing, increasing sample preparation production by 8-fold.
+UR - http://www.hindawi.com/journals/bmri/2010/617469/
+ER -
+

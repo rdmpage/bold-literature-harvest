@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Zhang, A.-B.; Muster, C.; Liang, H.-B.; Zhu, C.-D.; Crozier, R.; Wan, P.; Feng, J.; Ward, R. D.
+T1 - A fuzzy-set-theory-based approach to analyse species membership in DNA barcoding: SPECIES MEMBERSHIP IN DNA BARCODING
+JA - Molecular Ecology
+VL - 21
+IS - 8
+SP - 1848
+EP - 1863
+U1 - 10.1111/j.1365-294X.2011.05235.x(DOI)
+N2 - Reliable assignment of an unknown query sequence to its correct species remains a methodological problem for the growing field of DNA barcoding. While great advances have been achieved recently, species identification from barcodes can still be unreliable if the relevant biodiversity has been insufficiently sampled. We here propose a new notion of species membership for DNA barcoding—fuzzy membership, based on fuzzy set theory—and illustrate its successful application to four real data sets (bats, fishes, butterflies and flies) with more than 5000 random simulations. Two of the data sets comprise especially dense species/population-level samples. In comparison with current DNA barcoding methods, the newly proposed minimum distance (MD) plus fuzzy set approach, and another computationally simple method, ‘best close match’, outperform two computationally sophisticated Bayesian and BootstrapNJ methods. The new method proposed here has great power in reducing false-positive species identification compared with other methods when conspecifics of the query are absent from the reference database.
+UR - http://doi.wiley.com/10.1111/j.1365-294X.2011.05235.x
+ER -
+

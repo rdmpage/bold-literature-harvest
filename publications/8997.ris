@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Stiller, M.; Knapp, M.; Stenzel, U.; Hofreiter, M.; Meyer, M.
+T1 - Direct multiplex sequencing (DMPS)--a novel method for targeted high-throughput sequencing of ancient and highly degraded DNA
+JA - Genome Research
+VL - 19
+IS - 10
+SP - 1843
+EP - 1848
+U1 - 10.1101/gr.095760.109(DOI)
+N2 - Although the emergence of high-throughput sequencing technologies has enabled whole-genome sequencing from extinct organisms, little progress has been made in accelerating targeted sequencing from highly degraded DNA. Here, we present a novel and highly sensitive method for targeted sequencing of ancient and degraded DNA, which couples multiplex PCR directly with sample barcoding and high-throughput sequencing. Using this approach, we obtained a 96% complete mitochondrial genome data set from 31 cave bear (Ursus spelaeus) samples using only two 454 Life Sciences (Roche) GS FLX runs. In contrast to previous studies relying only on short sequence fragments, the overlapping portion of our data comprises almost 10 kb of replicated mitochondrial genome sequence, allowing for the unambiguous differentiation of three major cave bear clades. Our method opens up the opportunity to simultaneously generate many kilobases of overlapping sequence data from large sets of difficult samples, such as museum specimens, medical collections, or forensic samples. Embedded in our approach, we present a new protocol for the construction of barcoded sequencing libraries, which is compatible with all current high-throughput technologies and can be performed entirely in plate setup.
+UR - http://genome.cshlp.org/cgi/doi/10.1101/gr.095760.109
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Page, R. D. M.
+T1 - Biodiversity informatics: the challenge of linking data and the role of shared identifiers
+JA - Briefings in Bioinformatics
+VL - 9
+IS - 5
+SP - 345
+EP - 354
+U1 - 10.1093/bib/bbn022(DOI)
+N2 - A major challenge facing biodiversity informatics is integrating data stored in widely distributed databases. Initial efforts have relied on taxonomic names as the shared identifier linking records in different databases. However, taxonomic names have limitations as identifiers, being neither stable nor globally unique, and the pace of molecular taxonomic and phylogenetic research means that a lot of information in public sequence databases is not linked to formal taxonomic names. This review explores the use of other identifiers, such as specimen codes and GenBank accession numbers, to link otherwise disconnected facts in different databases. The structure of these links can also be exploited using the PageRank algorithm to rank the results of searches on biodiversity databases. The key to rich integration is a commitment to deploy and reuse globally unique, shared identifiers [such as Digital Object Identifiers (DOIs) and Life Science Identifiers (LSIDs)], and the implementation of services that link those identifiers.
+UR - http://bib.oxfordjournals.org/cgi/doi/10.1093/bib/bbn022
+ER -
+

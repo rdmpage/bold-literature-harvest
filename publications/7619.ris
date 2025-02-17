@@ -1,0 +1,19 @@
+TY - JOUR
+ID - n/a
+A1 - Spouge, John L.; Mariño-Ramírez, Leonardo
+Y1 - 2012
+T1 - The Practical Evaluation of DNA Barcode Efﬁcacy
+JA - Methods in Molecular Biology
+VL - 858
+SP - 365
+EP - 377
+U1 - 10.1007/978-1-61779-591-6_17(DOI)
+U1 - User submitted
+N2 - This chapter describes a workﬂ ow for measuring the efﬁ cacy of a barcode in identifying species. First, assemble individual sequence databases corresponding to each barcode marker. A controlled collection of taxonomic data is preferable to GenBank data, because GenBank data can be problematic, particularly when comparing barcodes based on more than one marker. To ensure proper controls when evaluating species identiﬁ cation, specimens not having a sequence in every marker database should be discarded. Second, select a computer algorithm for assigning species to barcode sequences. No algorithm has yet improved notably on assigning a specimen to the species of its nearest neighbor within a barcode database. Because global sequence alignments (e.g., with the Needleman–Wunsch algorithm, or some related algorithm) examine entire barcode sequences, they generally produce better species assignments than local sequence alignments (e.g., with BLAST). No neighboring method (e.g., global sequence similarity, global 
+sequence distance, or evolutionary distance based on a global alignment) has yet shown a notable superiority 
+in identifying species. Finally, “the probability of correct identiﬁ cation” (PCI) provides an appropriate measurement of barcode efﬁ cacy. The overall PCI for a data set is the average of the species PCIs, taken 
+over all species in the data set. This chapter states explicitly how to calculate PCI, how to estimate its statistical sampling error, and how to use data on PCR failure to set limits on how much improvements in PCR 
+technology can improve species identiﬁ cation.
+UR - http://link.springer.com/protocol/10.1007%2F978-1-61779-591-6_17
+ER -
+

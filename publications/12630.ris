@@ -1,0 +1,11 @@
+TY - JOUR
+ID - n/a
+A1 - Andrea Barco, Michael Raupach, Silke Laakmann, Hermann Neumann, Thomas Knebelsberger
+Y1 - 2015
+T1 - Identification of North Sea molluscs with DNA barcoding
+JA - Molecular Ecology Resources
+U1 - 10.1111/1755-0998.12440(DOI)
+U1 - User submitted
+N2 - Sequence-based specimen identification, known as DNA barcoding, is a common method complementing traditional morphology-based taxonomic assignments. The fundamental resource in DNA barcoding is the availability of a taxonomically reliable sequence database to use as a reference for sequence comparisons. Here we provide a reference library including 579 sequences of the mitochondrial cytochrome c oxidase subunit I (COI) for 113 North Sea mollusc species. We tested the efficacy of this library by simulating a sequence-based specimen identification scenario using Best Match (BM), Best Close Match (BCM) and All Species Barcode (ASB) criteria with three different threshold values. Each identification result was compared with our prior morphology-based taxonomic assignments. Our simulation resulted in 87.7% congruent identifications (93.8% when excluding singletons). The highest number of congruent identifications was obtained with BCM and ASB and a 0.05 threshold. We also compared identifications with genetic clustering (BINs) computed by the Barcode of Life Datasystem (BOLD). About 68% of our morphological identifications were congruent with BINs created by BOLD. Forty-nine sequences were clustered in 16 discordant BINs, and these were divided in two classes: sequences from different species clustered in a single BIN; and conspecific sequences divided in more BINs. Whereas former incongruences were likely caused by BOLD entries in need of a taxonomic update, the latter incongruences regarded taxa requiring further investigations. These include species with amphi-Atlantic distribution, whose genetic structure should be evaluated over their entire range to produce a reliable sequence-based identification system.
+ER -
+

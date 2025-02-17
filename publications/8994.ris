@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Smith, A. M.; Heisler, L. E.; Mellor, J.; Kaper, F.; Thompson, M. J.; Chee, M.; Roth, F. P.; Giaever, G.; Nislow, C.
+T1 - Quantitative phenotyping via deep barcode sequencing
+JA - Genome Research
+VL - 19
+IS - 10
+SP - 1836
+EP - 1842
+U1 - 10.1101/gr.093955.109(DOI)
+N2 - Next-generation DNA sequencing technologies have revolutionized diverse genomics applications, including de novo genome sequencing, SNP detection, chromatin immunoprecipitation, and transcriptome analysis. Here we apply deep sequencing to genome-scale fitness profiling to evaluate yeast strain collections in parallel. This method, Barcode analysis by Sequencing, or “Bar-seq,” outperforms the current benchmark barcode microarray assay in terms of both dynamic range and throughput. When applied to a complex chemogenomic assay, Bar-seq quantitatively identifies drug targets, with performance superior to the benchmark microarray assay. We also show that Bar-seq is well-suited for a multiplex format. We completely re-sequenced and re-annotated the yeast deletion collection using deep sequencing, found that ∼20% of the barcodes and common priming sequences varied from expectation, and used this revised list of barcode sequences to improve data quality. Together, this new assay and analysis routine provide a deep-sequencing-based toolkit for identifying gene–environment interactions on a genome-wide scale.
+UR - http://genome.cshlp.org/cgi/doi/10.1101/gr.093955.109
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - National Bureau of Agriculturally Important Insects, Post Bag No. 2491, H.A. Farm Post, Hebbal, Bellary Road, Bangalore – 560 024, Karnataka, India; Pratheepa, Maria; Jalali, Sushil Kumar; Arokiaraj, Robinson Silvester; Venkatesan, Thiruvengadam; Nagesh, Mandadi; Panda, Madhusmita; Pattar, Sharath
+T1 - Insect Barcode Information System
+JA - Bioinformation
+VL - 10
+IS - 2
+SP - 98
+EP - 100
+U1 - 10.6026/97320630010098(DOI)
+N2 - Insect Barcode Information System called as Insect Barcode Informática (IBIn) is an online database resource developed by the National Bureau of Agriculturally Important Insects, Bangalore. This database provides acquisition, storage, analysis and publication of DNA barcode records of agriculturally important insects, for researchers specifically in India and other countries. It bridges a gap in bioinformatics by integrating molecular, morphological and distribution details of agriculturally important insects. IBIn was developed using PHP/My SQL by using relational database management concept. This database is based on the client–server architecture, where many clients can access data simultaneously. IBIn is freely available on-line and is user-friendly. IBIn allows the registered users to input new information, search and view information related to DNA barcode of agriculturally important insects.This paper provides a current status of insect barcode in India and brief introduction about the database IBIn.
+UR - http://www.bioinformation.net/010/97320630010098.htm
+ER -
+

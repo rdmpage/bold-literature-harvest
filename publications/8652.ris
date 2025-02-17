@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Liu, Chang; Liang, Dong; Gao, Ting; Pang, Xiaohui; Song, Jingyuan; Yao, Hui; Han, Jianping; Liu, Zhihua; Guan, Xiaojun; Jiang, Kun; Li, Huan; Chen, Shilin
+T1 - PTIGS-IdIt, a system for species identification by DNA sequences of the psbA-trnH intergenic spacer region
+JA - BMC Bioinformatics
+VL - 12
+IS - S13
+SP - S4
+U1 - 10.1186/1471-2105-12-S13-S4(DOI)
+N2 - Background: DNA barcoding technology, which uses a short piece of DNA sequence to identify species, has wide ranges of applications. Until today, a universal DNA barcode marker for plants remains elusive. The rbcL and matK regions have been proposed as the “core barcode” for plants and the ITS2 and psbA-trnH intergenic spacer (PTIGS) regions were later added as supplemental barcodes. The use of PTIGS region as a supplemental barcode has been limited by the lack of computational tools that can handle significant insertions and deletions in the PTIGS sequences. Here, we compared the most commonly used alignment-based and alignment-free methods and developed a web server to allow the biologists to carry out PTIGS-based DNA barcoding analyses. 
+
+Results: First, we compared several alignment-based methods such as BLAST and those calculating P distance and Edit distance, alignment-free methods Di-Nucleotide Frequency Profile (DNFP) and their combinations. We found that the DNFP and Edit-distance methods increased the identification success rate to ~80%, 20% higher than the most commonly used BLAST method. Second, the combined methods showed overall better success rate and performance. Last, we have developed a web server that allows (1) retrieving various sub-regions and the consensus sequences of PTIGS, (2) annotating novel PTIGS sequences, (3) determining species identity by PTIGS sequences using eight methods, and (4) examining identification efficiency and performance of the eight methods for various taxonomy groups. 
+
+Conclusions: The Edit distance and the DNFP methods have the highest discrimination powers. Hybrid methods can be used to achieve significant improvement in performance. These methods can be extended to applications using the core barcodes and the other supplemental DNA barcode ITS2. To our knowledge, the web server developed here is the only one that allows species determination based on PTIGS sequences. The web server can be accessed at http://psba-trnh-plantidit.dnsalias.org webcite.
+UR - http://www.biomedcentral.com/1471-2105/12/S13/S4
+ER -
+

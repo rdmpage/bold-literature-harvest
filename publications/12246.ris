@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Varley, K. E.; Mitra, R. D.
+T1 - Nested Patch PCR for Highly Multiplexed Amplification of Genomic Loci
+JA - Cold Spring Harbor Protocols
+VL - 2009
+IS - 7
+SP - pdb.prot5252
+EP - pdb.prot5252
+U1 - 10.1101/pdb.prot5252(DOI)
+N2 - INTRODUCTION Nested Patch polymerase chain reaction (PCR) amplifies a large number (greater than 90) of targeted loci from genomic DNA simultaneously in the same reaction. These amplified loci can then be sequenced on a second-generation sequencing machine to detect single nucleotide polymorphisms (SNPs) and mutations. The reaction is highly specific: 90% of sequencing reads match targeted loci. Nested Patch PCR can be performed on many samples in parallel, and by using sample-specific DNA barcodes, these can be pooled and sequenced in a single reaction. Thus, the Nested Patch PCR protocol that is described here provides an easy workflow to identify SNPs and mutations across many targeted loci for many samples in parallel.
+UR - http://www.cshprotocols.org/cgi/doi/10.1101/pdb.prot5252
+ER -
+

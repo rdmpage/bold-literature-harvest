@@ -1,0 +1,16 @@
+TY - JOUR
+ID - pmid_18388294
+A1 - T. D. Harris, P. R. Buzby, H. Babcock, E. Beer, J. Bowers, I. Braslavsky, M. Causey, J. Colonell, J. DiMeo, J. W. Efcavitch, E. Giladi, J. Gill, J. Healy, M. Jarosz, D. Lapen, K. Moulton, S. R. Quake, K. Steinmann, E. Thayer, A. Tyurina, R. Ward, H. Weiss and Z. Xie
+Y1 - 2008
+T1 - Single-molecule DNA sequencing of a viral genome.
+JA - Science
+VL - 320
+IS - 5872
+SP - 106
+EP - 109
+M1 - 2008-04-04(date received)
+M1 - 2008-04-16(date accepted)
+U1 - 10.1126/science.1150427(DOI)
+N2 - The full promise of human genomics will be realized only when the genomes of thousands of individuals can be sequenced for comparative analysis. A reference sequence enables the use of short read length. We report an amplification-free method for determining the nucleotide sequence of more than 280,000 individual DNA molecules simultaneously. A DNA polymerase adds labeled nucleotides to surface-immobilized primer-template duplexes in stepwise fashion, and the asynchronous growth of individual DNA molecules was monitored by fluorescence imaging. Read lengths of >25 bases and equivalent phred software program quality scores approaching 30 were achieved. We used this method to sequence the M13 virus to an average depth of >150x and with 100% coverage; thus, we resequenced the M13 genome with high-sensitivity mutation detection. This demonstrates a strategy for high-throughput low-cost resequencing.
+ER -
+

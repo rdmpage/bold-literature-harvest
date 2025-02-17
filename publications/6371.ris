@@ -1,0 +1,18 @@
+TY - JOUR
+ID - n/a
+A1 - John Wilson, Rodolphe Rougerie, Justin Schonfeld, Daniel H Janzen, Winnie Hallwachs, Mehrdad Hajibabaei, Ian J Kitching, Jean Haxaire and Paul DN Hebert
+Y1 - 2011
+T1 - When species matches are unavailable are DNA barcodes correctly assigned to higher taxa? An assessment using sphingid moths
+JA - BMC Ecology
+VL - 11
+IS - 1
+SP - 18
+M1 - 2011-08-01(date accepted)
+M1 - 2011-04-12(date revised)
+U1 - 10.1186/1472-6785-11-18(DOI)
+U1 - User submitted
+N2 - Background: When a specimen belongs to a species not yet represented in DNA barcode reference libraries there is disagreement over the effectiveness of using sequence comparisons to assign the query accurately to a higher taxon. Library completeness and the assignment criteria used have been proposed as critical factors affecting the accuracy of such assignments but have not been thoroughly investigated. We explored the accuracy of assignments to genus, tribe and subfamily in the Sphingidae, using the almost complete global DNA barcode reference library (1095 species) available for this family. Costa Rican sphingids (118 species), a well-documented, diverse subset of the family, with each of the tribes and subfamilies represented were used as queries. We simulated libraries with different levels of completeness (10-100% of the available species), and recorded assignments (positive or ambiguous) and their accuracy (true or false) under six criteria.
+Results: A liberal tree-based criterion assigned 83% of queries accurately to genus, 74% to tribe and 90% to subfamily, compared to a strict tree-based criterion, which assigned 75% of queries accurately to genus, 66% to tribe and 84% to subfamily, with a library containing 100% of available species (but excluding the species of the query). The greater number of true positives delivered by more relaxed criteria was negatively balanced by the occurrence of more false positives. This effect was most sharply observed with libraries of the lowest completeness where, for example at the genus level, 32% of assignments were false positives with the liberal criterion versus < 1% when using the strict. We observed little difference (< 8% using the liberal criterion) however, in the overall accuracy of the assignments between the lowest and highest levels of library completeness at the tribe and subfamily level. Conclusions: Our results suggest that when using a strict tree-based criterion for higher taxon assignment with DNA barcodes, the likelihood of assigning a query a genus name incorrectly is very low, if a genus name is provided it has a high likelihood of being accurate, and if no genus match is available the query can nevertheless be assigned to a subfamily with high accuracy regardless of library completeness. DNA barcoding often correctly assigned sphingid moths to higher taxa when species matches were unavailable, suggesting that barcode reference libraries can be useful for higher taxon assignments long before they achieve complete species coverage.
+UR - http://www.biomedcentral.com/1472-6785/11/18
+ER -
+

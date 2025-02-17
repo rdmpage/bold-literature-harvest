@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Teresita M. Porter & Mehrdad Hajibabaei
+Y1 - 2018
+T1 - Automated high throughput animal CO1 metabarcode classification
+JA - Scientific Reports
+VL - 8
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - We introduce a method for assigning names to CO1 metabarcode sequences with confidence scores in a rapid, high-throughput manner. We compiled nearly 1 million CO1 barcode sequences appropriate for classifying arthropods and chordates. Compared to our previous Insecta classifier, the current classifier has more than three times the taxonomic coverage, including outgroups, and is based on almost five times as many reference sequences. Unlike other popular rDNA metabarcoding markers, we show that classification performance is similar across the length of the CO1 barcoding region. We show that the RDP classifier can make taxonomic assignments about 19 times faster than the popular top BLAST hit method and reduce the false positive rate from nearly 100% to 34%. This is especially important in large-scale biodiversity and biomonitoring studies where datasets can become very large and the taxonomic assignment problem is not trivial. We also show that reference databases are becoming more representative of current species diversity but that gaps still exist. We suggest that it would benefit the field as a whole if all investigators involved in metabarocoding studies, through collaborations with taxonomic experts, also planned to barcode representatives of their local biota as a part of their projects.
+ER -
+

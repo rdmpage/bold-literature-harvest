@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Willner, Dana; Daly, Joshua; Whiley, David; Grimwood, Keith; Wainwright, Claire E.; Hugenholtz, Philip
+T1 - Comparison of DNA Extraction Methods for Microbial Community Profiling with an Application to Pediatric Bronchoalveolar Lavage Samples
+JA - PLoS ONE
+VL - 7
+IS - 4
+SP - e34605
+U1 - 10.1371/journal.pone.0034605(DOI)
+N2 - Barcoded amplicon sequencing is rapidly becoming a standard method for profiling microbial communities, including the human respiratory microbiome. While this approach has less bias than standard cultivation, several steps can introduce variation including the type of DNA extraction method used. Here we assessed five different extraction methods on pediatric bronchoalveolar lavage (BAL) samples and a mock community comprised of nine bacterial genera to determine method reproducibility and detection limits for these typically low complexity communities. Additionally, using the mock community, we were able to evaluate contamination and select a relative abundance cut-off threshold based on the geometric distribution that optimizes the trade off between detecting bona fide operational taxonomic units and filtering out spurious ones. Using this threshold, the majority of genera in the mock community were predictably detected by all extraction methods including the hard-to-lyse Gram-positive genus Staphylococcus. Differences between extraction methods were significantly greater than between technical replicates for both the mock community and BAL samples emphasizing the importance of using a standardized methodology for microbiome studies. However, regardless of method used, individual patients retained unique diagnostic profiles. Furthermore, despite being stored as raw frozen samples for over five years, community profiles from BAL samples were consistent with historical culturing results. The culture-independent profiling of these samples also identified a number of anaerobic genera that are gaining acceptance as being part of the respiratory microbiome. This study should help guide researchers to formulate sampling, extraction and analysis strategies for respiratory and other human microbiome samples.
+UR - http://dx.plos.org/10.1371/journal.pone.0034605
+ER -
+

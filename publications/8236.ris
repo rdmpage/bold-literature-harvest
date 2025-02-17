@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Rubinstein, N. D.; Feldstein, T.; Shenkar, N.; Botero-Castro, F.; Griggio, F.; Mastrototaro, F.; Delsuc, F.; Douzery, E. J. P.; Gissi, C.; Huchon, D.
+T1 - Deep Sequencing of Mixed Total DNA without Barcodes Allows Efficient Assembly of Highly Plastic Ascidian Mitochondrial Genomes
+JA - Genome Biology and Evolution
+VL - 5
+IS - 6
+SP - 1185
+EP - 1199
+U1 - 10.1093/gbe/evt081(DOI)
+N2 - Ascidians or sea squirts form a diverse group within chordates, which includes a few thousand members of marine sessile filter-feeding animals. Their mitochondrial genomes are characterized by particularly high evolutionary rates and rampant gene rearrangements. This extreme variability complicates standard polymerase chain reaction (PCR) based techniques for molecular characterization studies, and consequently only a few complete Ascidian mitochondrial genome sequences are available. Using the standard PCR and Sanger sequencing approach, we produced the mitochondrial genome of Ascidiella aspersa only after a great effort. In contrast, we produced five additional mitogenomes (Botrylloides aff. leachii, Halocynthia spinosa, Polycarpa mytiligera, Pyura gangelion, and Rhodosoma turcicum) with a novel strategy, consisting in sequencing the pooled total DNA samples of these five species using one Illumina HiSeq 2000 flow cell lane. Each mitogenome was efficiently assembled in a single contig using de novo transcriptome assembly, as de novo genome assembly generally performed poorly for this task. Each of the new six mitogenomes presents a different and novel gene order, showing that no syntenic block has been conserved at the ordinal level (in Stolidobranchia and in Phlebobranchia). Phylogenetic analyses support the paraphyly of both Ascidiacea and Phlebobranchia, with Thaliacea nested inside Phlebobranchia, although the deepest nodes of the Phlebobranchia–Thaliacea clade are not well resolved. The strategy described here thus provides a cost-effective approach to obtain complete mitogenomes characterized by a highly plastic gene order and a fast nucleotide/amino acid substitution rate.
+UR - http://gbe.oxfordjournals.org/cgi/doi/10.1093/gbe/evt081
+ER -
+

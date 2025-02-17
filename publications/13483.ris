@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Cameron M. Nugent, Tyler A. Elliott, Sujeevan Ratnasingham, Paul D.N. Hebert, Sarah J. Adamowicz
+Y1 - 2021
+T1 - Debar: A sequence-by-sequence denoiser for COI-5P DNA barcode data
+JA - Molecular Ecology Resources
+VL - 21
+IS - 8
+SP - 15
+U1 - 10.1111/1755-0998.13384(DOI)
+U1 - User submitted
+N2 - DNA barcoding and metabarcoding are now widely used to advance species discovery and biodiversity assessments. High-throughput sequencing (HTS) has expanded the volume and scope of these analyses, but elevated error rates introduce noise into sequence records that can inflate estimates of biodiversity. Denoising —the separation of biological signal from instrument (technical) noise—of barcode and metabarcode data currently employs abundance-based methods which do not capitalize on the highly conserved structure of the cytochrome c oxidase subunit I (COI) region employed as the animal barcode. This manuscript introduces debar, an R package that utilizes a profile hidden Markov model to denoise indel errors in COI sequences introduced by instrument error. In silico studies demonstrated that debar recognized 95% of artificially introduced indels in COI sequences. When applied to real-world data, debar reduced indel errors in circular consensus sequences obtained with the Sequel platform by 75%, and those generated on the Ion Torrent S5 by 94%. The false correction rate was less than 0.1%, indicating that debar is receptive to the majority of true COI variation in the animal kingdom. In conclusion, the debar package improves DNA barcode and metabarcode workflows by aiding the generation of more accurate sequences aiding the characterization of species diversity.
+ER -
+

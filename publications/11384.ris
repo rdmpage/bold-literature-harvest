@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Casbon, J. A.; Slatter, A. F.; Musgrave-Brown, E.; Osborne, R. J.; Lichtenstein, C. P.; Brenner, S.
+T1 - Reflex: intramolecular barcoding of long-range PCR products for sequencing multiple pooled DNAs
+JA - Nucleic Acids Research
+VL - 41
+IS - 10
+SP - e112
+EP - e112
+U1 - 10.1093/nar/gkt228(DOI)
+N2 - We present an intramolecular reaction, Reflex™, to derive shorter, sequencer-ready, daughter polymerase chain reaction products from a pooled population of barcoded long-range polymerase chain reaction products, whilst still preserving the cognate DNA barcodes. Our Reflex workflow needs only a small number of primer extension steps to rapidly enable uniform sequence coverage of long contiguous sequence targets in large numbers of samples at low cost on desktop next-generation sequencers.
+UR - http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkt228
+ER -
+

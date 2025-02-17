@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Alon, S.; Vigneault, F.; Eminaga, S.; Christodoulou, D. C.; Seidman, J. G.; Church, G. M.; Eisenberg, E.
+T1 - Barcoding bias in high-throughput multiplex sequencing of miRNA
+JA - Genome Research
+VL - 21
+IS - 9
+SP - 1506
+EP - 1511
+U1 - 10.1101/gr.121715.111(DOI)
+N2 - Second-generation sequencing is gradually becoming the method of choice for miRNA detection and expression profiling. Given the relatively small number of miRNAs and improvements in DNA sequencing technology, studying miRNA expression profiles of multiple samples in a single flow cell lane becomes feasible. Multiplexing strategies require marking each miRNA library with a DNA barcode. Here we report that barcodes introduced through adapter ligation confer significant bias on miRNA expression profiles. This bias is much higher than the expected Poisson noise and masks significant expression differences between miRNA libraries. This bias can be eliminated by adding barcodes during PCR amplification of libraries. The accuracy of miRNA expression measurement in multiplexed experiments becomes a function of sample number.
+UR - http://genome.cshlp.org/cgi/doi/10.1101/gr.121715.111
+ER -
+

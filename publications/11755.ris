@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Pihlstrøm, Lasse; Rengmark, Aina; Bjørnarå, Kari Anne; Toft, Mathias
+T1 - Effective Variant Detection by Targeted Deep Sequencing of DNA Pools: An Example from Parkinson's Disease: Targeted Pooled Sequencing in PD
+JA - Annals of Human Genetics
+VL - 78
+IS - 3
+SP - 243
+EP - 252
+U1 - 10.1111/ahg.12060(DOI)
+N2 - Next-generation sequencing technologies will dominate the next phase of discoveries in human genetics, but considerable costs may still represent a limitation for studies involving large sample sets. Targeted capture of genomic regions may be combined with deep sequencing of DNA pools to efficiently screen sample cohorts for disease-relevant mutations. We designed a 200 kb HaloPlex kit for PCR-based capture of all coding exons in 71 genes relevant to Parkinson's disease and other neurodegenerative disorders. DNA from 387 patients with Parkinson's disease was combined into 39 pools, each representing 10 individuals, before library preparation with barcoding and Illumina sequencing. In this study, we focused the analysis on six genes implicated in Mendelian Parkinson's disease, emphasizing quality metrics and evaluation of the method, including validation of variants against individual genotyping and Sanger sequencing. Our data showed 97% sensitivity to detect a single nonreference allele in pools, rising to 100% where pools achieved sequence depth above 80x for the relevant position. Pooled sequencing detected 18 rare nonsynonymous variants, of which 17 were validated by independent methods, corresponding to a specificity of 94%. We argue that this design represents an effective and reliable approach with possible applications for both complex and Mendelian genetics.
+UR - http://doi.wiley.com/10.1111/ahg.12060
+ER -
+

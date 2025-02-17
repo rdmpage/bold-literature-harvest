@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Jennien Raffington, Dirk Steinke, Dan Tulpan
+Y1 - 2020
+T1 - Recognition of arthropod species names using bigram-based classification
+JA - Research Square
+VL - 1
+IS - 1
+SP - 28
+U1 - 10.21203/rs.3.rs-26532/v1(DOI)
+U1 - User submitted
+N2 - The task of recognizing species names in scientific articles is a quintessential step for a large number of applications in high-throughput text mining and data analytics, such as species-specific information collection, construction of species food networks and trophic relationship extraction. These tasks become even more important in fast-paced species-discovery areas such as entomology, where an impressive number of new arthropod species are discovered each year. This article explores the use of twocharacter n-grams (bigrams) in machine learning models for arthropod species name recognition. This particular method has been previously applied successfully to the task of language identification [1] but the application to species name identification had yet to be explored.
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - van den Bogert, B.; de Vos, W. M.; Zoetendal, E. G.; Kleerebezem, M.
+T1 - Microarray Analysis and Barcoded Pyrosequencing Provide Consistent Microbial Profiles Depending on the Source of Human Intestinal Samples
+JA - Applied and Environmental Microbiology
+VL - 77
+IS - 6
+SP - 2071
+EP - 2080
+U1 - 10.1128/AEM.02477-10(DOI)
+N2 - Large-scale and in-depth characterization of the intestinal microbiota necessitates application of high-throughput 16S rRNA gene-based technologies, such as barcoded pyrosequencing and phylogenetic microarray analysis. In this study, the two techniques were compared and contrasted for analysis of the bacterial composition in three fecal and three small intestinal samples from human individuals. As PCR remains a crucial step in sample preparation for both techniques, different forward primers were used for amplification to assess their impact on microbial profiling results. An average of 7,944 pyrosequences, spanning the V1 and V2 region of 16S rRNA genes, was obtained per sample. Although primer choice in barcoded pyrosequencing did not affect species richness and diversity estimates, detection of Actinobacteria strongly depended on the selected primer. Microbial profiles obtained by pyrosequencing and phylogenetic microarray analysis (HITChip) correlated strongly for fecal and ileal lumen samples but were less concordant for ileostomy effluent. Quantitative PCR was employed to investigate the deviations in profiling between pyrosequencing and HITChip analysis. Since cloning and sequencing of random 16S rRNA genes from ileostomy effluent confirmed the presence of novel intestinal phylotypes detected by pyrosequencing, especially those belonging to the Veillonella group, the divergence between pyrosequencing and the HITChip is likely due to the relatively low number of available 16S rRNA gene sequences of small intestinal origin in the DNA databases that were used for HITChip probe design. Overall, this study demonstrated that equivalent biological conclusions are obtained by high-throughput profiling of microbial communities, independent of technology or primer choice.
+UR - http://aem.asm.org/cgi/doi/10.1128/AEM.02477-10
+ER -
+

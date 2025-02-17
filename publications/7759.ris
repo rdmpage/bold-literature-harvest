@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - J. Ananda Ranasinghe, Eric D. Stein, Peter E. Miller and Stephen B. Weisberg
+Y1 - 2012
+T1 - Performance of Two Southern California Benthic Community Condition Indices Using Species Abundance and Presence-Only Data: Relevance to DNA Barcoding
+JA - PLoS ONE
+VL - 7
+IS - 8
+SP - e40875
+U1 - 10.1371/journal.pone.0040875(DOI)
+U1 - User submitted
+N2 - DNA barcoding, as it is currently employed, enhances use of marine benthic macrofauna as environmental condition indicators by improving the speed and accuracy of the underlying taxonomic identifications. The next generation of barcoding applications, processing bulk environmental samples, will likely only provide presence information. However, macrofauna indices presently used to interpret these data are based on species abundances. To assess the importance of this difference, we evaluated the performance of the Southern California Benthic Response Index (BRI) and the AZTI Marine Biotic Index (AMBI) when species abundance data were removed from their calculation. Presence only versions of these two indices were created by eliminating abundance weighting while preserving species identity. Associations between the presence and abundance BRI, and the presence and abundance AMBI were highly significant, with correlation coefficients of 0.99 and 0.81, respectively. The presence versions validated almost equally to the abundance-based indices when applied to the spatial and the temporal monitoring data used to validate the original indices. Simulations in which taxa were systematically removed from calculation of the indices were also conducted to assess how large the barcode library must be for the indices to be effective. Correlation between the BRI-P and BRI remained above 0.9 with only 370 species in the library and reducing the number of species to 450 had almost no effect on correlation between the presence and abundance versions of the AMBI.
+UR - http://www.plosone.org/article/fetchObject.action;jsessionid=842D1A6676EAD5E649F3D601A809CE10?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0040875&representation=PDF
+ER -
+

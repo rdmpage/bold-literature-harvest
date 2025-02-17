@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - G. A. C. Singer, N. A. Fahner, J. G. Barnes, A. McCarthy & M. Hajibabaei
+Y1 - 2019
+T1 - Comprehensive biodiversity analysis via ultra-deep patterned flow cell technology: a case study of eDNA metabarcoding seawater
+JA - Scientific Reports
+VL - 9
+IS - 1
+SP - 1
+EP - 12
+U1 - https://doi.org/10.1038/s41598-019-42455-9(DOI)
+U1 - User submitted
+N2 - The characterization of biodiversity is a crucial element of ecological investigations as well as environmental assessment and monitoring activities. Increasingly, amplicon-based environmental DNA metabarcoding (alternatively, marker gene metagenomics) is used for such studies given its ability to provide biodiversity data from various groups of organisms simply from analysis of bulk environmental samples such as water, soil or sediments. The Illumina MiSeq is currently the most popular tool for carrying out this work, but we set out to determine whether typical studies were reading enough DNA to detect rare organisms (i.e., those that may be of greatest interest such as endangered or invasive species) present in the environment. We collected sea water samples along two transects in Conception Bay, Newfoundland and analyzed them on the MiSeq with a sequencing depth of 100,000 reads per sample (exceeding the 60,000 per sample that is typical of similar studies). We then analyzed these same samples on Illumina’s newest high-capacity platform, the NovaSeq, at a depth of 7 million reads per sample. Not surprisingly, the NovaSeq detected many more taxa than the MiSeq thanks to its much greater sequencing depth. However, contrary to our expectations this pattern was true even in depth-for-depth comparisons. In other words, the NovaSeq can detect more DNA sequence diversity within samples than the MiSeq, even at the exact same sequencing depth. Even when samples were reanalyzed on the MiSeq with a sequencing depth of 1 million reads each, the MiSeq’s ability to detect new sequences plateaued while the NovaSeq continued to detect new sequence variants. These results have important biological implications. The NovaSeq found 40% more metazoan families in this environment than the MiSeq, including some of interest such as marine mammals and bony fish so the real-world implications of these findings are significant. These results are most likely associated to the advances incorporated in the NovaSeq, especially a patterned flow cell, which prevents similar sequences that are neighbours on the flow cell (common in metabarcoding studies) from being erroneously merged into single spots by the sequencing instrument. This study sets the stage for incorporating eDNA metabarcoding in comprehensive analysis of oceanic samples in a wide range of ecological and environmental investigations.
+UR - https://www.nature.com/articles/s41598-019-42455-9?bcmt=1
+ER -
+

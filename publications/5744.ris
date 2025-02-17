@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Zahariev, M.; Dahl, V.; Chen, W.; LéVesque, C. A.
+Y1 - 2009
+T1 - Efficient algorithms for the discovery of DNA oligonucleotide barcodes from sequence databases.
+JA - Molecular Ecology Resources
+VL - 9
+IS - S1
+SP - 58
+EP - 64
+U1 - 10.1111/j.1755-0998.2009.02651.x(DOI)
+U1 - User submitted
+N2 - Efficient design of barcode oligonucleotides can lead to significant cost reductions in the manufacturing of DNA arrays. Previous methods are based on either a preliminary alignment, which reduces their efficiency for intron-rich regions, or on a brute force approach, not feasible for large-scale problems or on data structures with very poor performance in the worst case. One of the algorithms we propose uses 'oligonucleotide sorting' for the discovery of oligonucleotide barcodes of given sizes, with good asymptotic performance. Specific barcode oligonucleotides with at least one base difference from other sequences in a database are found for each individual sequence. With another algorithm, specific oligonucleotides can also be found for groups or clades in the database, which have 100% homology for all oligonucleotide sequences within the group or clade while having differences with the rest of the data. By re-organizing the sequences/groups in the database, oligonucleotides for different hierarchical levels can be found. The oligonucleotides or polymorphism locations identified as species or clade specific by the new algorithm are refined and screened further for hybridization thermodynamic properties with third party software.
+ER -
+

@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Qian Jin, Li-Jun He and Ai-Bing Zhang
+Y1 - 2012
+T1 - A Simple 2D Non-Parametric Resampling Statistical Approach to Assess Confidence in Species Identification in DNA Barcoding—An Alternative to Likelihood and Bayesian Approaches
+JA - PLoS ONE
+VL - 7
+IS - 12
+SP - e50831
+U1 - 10.1371/journal.pone.0050831(DOI)
+U1 - User submitted
+N2 - In the recent worldwide campaign for the global biodiversity inventory via DNA barcoding, a simple and easily used measure of confidence for assigning sequences to species in DNA barcoding has not been established so far, although the likelihood ratio test and the Bayesian approach had been proposed to address this issue from a statistical point of view. The TDR (Two Dimensional non-parametric Resampling) measure newly proposed in this study offers users a simple and easy approach to evaluate the confidence of species membership in DNA barcoding projects. We assessed the validity and robustness of the TDR approach using datasets simulated under coalescent models, and an empirical dataset, and found that TDR measure is very robust in assessing species membership of DNA barcoding. In contrast to the likelihood ratio test and Bayesian approach, the TDR method stands out due to simplicity in both concepts and calculations, with little in the way of restrictive population genetic assumptions. To implement this approach we have developed a computer program package (TDR1.0beta) freely available from ftp://202.204.209.200/education/video/TD​R1.0beta.rar.
+UR - http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0050831
+ER -
+

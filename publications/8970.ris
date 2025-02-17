@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Wegner, K. Mathias
+T1 - Massive parallel MHC genotyping: titanium that shines
+JA - Molecular Ecology
+VL - 18
+IS - 9
+SP - 1818
+EP - 1820
+U1 - 10.1111/j.1365-294X.2009.04173.x(DOI)
+N2 - The power of population genetic analyses is often limited by sample size resulting from constraints in financial resources and time to genotype large numbers of individuals. This particularly applies to nonmodel species where detailed genomic knowledge is lacking. Next-generation sequencing technology using primers ‘tagged’ with an individual barcode of a few nucleotides offers the opportunity to genotype hundreds of individuals at several loci in parallel (Binladen et al. 2007; Meyer et al. 2008). The large number of sequence reads can also be used to identify artefacts by frequency distribution thresholds intrinsically determined for each run and data set. In Babik et al. (2009), next-generation deep sequencing was used to genotype several major histocompatibility complex (MHC) class IIB loci of the European bank vole (Fig. 1). Their approach can be useful for many researchers working with complex multiallelic templates and large sample sizes. 1Hypothetical example of parallel genotyping of two individuals using individually bar-coded primers. Polymerase chain reactions (PCRs) are performed separately for each individual using a forward primer with a unique Tag-sequence of four nucleotides. After sequencing of pooled PCR products, sequences can be sorted by their forward primer Tag (Tag-sorting error rate was estimated < 0.1%). Rare sequences most likely represent artefacts and due to the large amount of sequences obtained (up to 106) the artefact threshold can be determined intrinsically for each data set and was estimated to be around 3% in the case of bank vole MHC class IIB genes (Babik et al. 2009). Photos by Gabriela Bydlon.
+UR - http://doi.wiley.com/10.1111/j.1365-294X.2009.04173.x
+ER -
+

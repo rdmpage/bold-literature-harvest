@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Goldfeder, Rachel L.; Parker, Stephen C. J.; Ajay, Subramanian S.; Ozel Abaan, Hatice; Margulies, Elliott H.
+T1 - A Bioinformatics Approach for Determining Sample Identity from Different Lanes of High-Throughput Sequencing Data
+JA - PLoS ONE
+VL - 6
+IS - 8
+SP - e23683
+U1 - 10.1371/journal.pone.0023683(DOI)
+N2 - The ability to generate whole genome data is rapidly becoming commoditized. For example, a mammalian sized genome (~3Gb) can now be sequenced using approximately ten lanes on an Illumina HiSeq 2000. Since lanes from different runs are often combined, verifying that each lane in a genome's build is from the same sample is an important quality control. We sought to address this issue in a post hoc bioinformatic manner, instead of using upstream sample or “barcode” modifications. We rely on the inherent small differences between any two individuals to show that genotype concordance rates can be effectively used to test if any two lanes of HiSeq 2000 data are from the same sample. As proof of principle, we use recent data from three different human samples generated on this platform. We show that the distributions of concordance rates are non-overlapping when comparing lanes from the same sample versus lanes from different samples. Our method proves to be robust even when different numbers of reads are analyzed. Finally, we provide a straightforward method for determining the gender of any given sample. Our results suggest that examining the concordance of detected genotypes from lanes purported to be from the same sample is a relatively simple approach for confirming that combined lanes of data are of the same identity and quality.
+UR - http://dx.plos.org/10.1371/journal.pone.0023683
+ER -
+

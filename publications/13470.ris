@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Tomas Roslin, Panu Somervuo, Mikko Pentinsaari, Paul D. N. Hebert, Jireh Agda, Petri Ahlroth, Perttu Anttonen, Jouni Aspi, Gergin Blagoev, Santiago Blanco, Dean Chan, Tom Clayhills, Jeremy deWaard, Stephanie deWaard, Tyler Elliot, Riikka Elo, Sami Haapala, Eero Helve, Jari Ilmonen, et al.
+Y1 - 2022
+T1 - A molecular-based identification resource for the arthropods of Finland
+JA - Molecular Ecology Resources
+VL - 22
+IS - 2
+SP - 20
+U1 - 10.1111/1755-0998.13510(DOI)
+U1 - User submitted
+N2 - To associate specimens identified by molecular characters to other biological knowledge, we need reference sequences annotated by Linnaean taxonomy. In this study, we (1) report the creation of a comprehensive reference library of DNA barcodes for the arthropods of an entire country (Finland), (2) publish this library, and (3) deliver a new identification tool for insects and spiders, as based on this resource. The reference library contains mtDNA COI barcodes for 11,275 (43%) of 26,437 arthropod species known from Finland, including 10,811 (45%) of 23,956 insect species. To quantify the improvement in identification accuracy enabled by the current reference library, we ran 1000 Finnish insect and spider species through the Barcode of Life Data system (BOLD) identification engine. Of these, 91% were correctly assigned to a unique species when compared to the new reference library alone, 85% were correctly identified when compared to BOLD with the new material included, and 75% with the new material excluded. To capitalize on this resource, we used the new reference material to train a probabilistic taxonomic assignment tool, FinPROTAX, scoring high success. For the full-length barcode region, the accuracy of taxonomic assignments at the level of classes, orders, families, subfamilies, tribes, genera, and species reached 99.9%, 99.9%, 99.8%, 99.7%, 99.4%, 96.8%, and 88.5%, respectively. The FinBOL arthropod reference library and FinPROTAX are available through the Finnish Biodiversity Information Facility (www.laji.fi) at https://laji.fi/en/theme/protax. Overall, the FinBOL investment represents a massive capacity-transfer from the taxonomic community of Finland to all sectors of society.
+ER -
+

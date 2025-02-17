@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Costea, Paul Igor; Lundeberg, Joakim; Akan, Pelin
+T1 - TagGD: Fast and Accurate Software for DNA Tag Generation and Demultiplexing
+JA - PLoS ONE
+VL - 8
+IS - 3
+SP - e57521
+U1 - 10.1371/journal.pone.0057521(DOI)
+N2 - Multiplexing is of vital importance for utilizing the full potential of next generation sequencing technologies. We here report TagGD (DNA-based Tag Generator and Demultiplexor), a fully-customisable, fast and accurate software package that can generate thousands of barcodes satisfying user-defined constraints and can guarantee full demultiplexing accuracy. The barcodes are designed to minimise their interference with the experiment. Insertion, deletion and substitution events are considered when designing and demultiplexing barcodes. 20,000 barcodes of length 18 were designed in 5 minutes and 2 million barcoded Illumina HiSeq-like reads generated with an error rate of 2% were demultiplexed with full accuracy in 5 minutes. We believe that our software meets a central demand in the current high-throughput biology and can be utilised in any field with ample sample abundance. The software is available on GitHub (https://github.com/pelinakan/UBD.git).
+UR - http://dx.plos.org/10.1371/journal.pone.0057521
+ER -
+

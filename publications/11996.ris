@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Piccolo, S. R.; Withers, M. R.; Francis, O. E.; Bild, A. H.; Johnson, W. E.
+T1 - Multiplatform single-sample estimates of transcriptional activation
+JA - Proceedings of the National Academy of Sciences
+VL - 110
+IS - 44
+SP - 17778
+EP - 17783
+U1 - 10.1073/pnas.1305823110(DOI)
+N2 - Over the past two decades, many biotechnology platforms have been developed for high-throughput gene expression profiling. However, because each platform is subject to technology-specific biases and produces distinct raw-data distributions, researchers have experienced difficulty in integrating data across platforms. Data integration is crucial to data-generating consortiums, researchers transitioning to newer profiling technologies, and individuals seeking to aggregate data across experiments. We address this need with our Universal exPression Code (UPC) approach, which corrects for platform-specific background noise using models that account for the genomic base composition and length of target regions; this approach also uses a mixture model to estimate whether a gene is active in a particular profiling sample. The latter produces standardized UPC values on a zero-to-one scale, so that they can be interpreted consistently, irrespective of profiling technology, thus enabling downstream analysis pipelines to be developed in a platform-agnostic manner. The UPC method can be applied to one- and two-channel expression microarrays and to next-generation sequencing data (RNA sequencing). Furthermore, UPCs are derived using information from within a given sample only—no ancillary samples are required at processing time. Thus, UPCs are suitable for personalized-medicine workflows where samples must be processed individually rather than in batches. In a variety of analyses and comparisons, UPCs perform comparably to other methods designed specifically for microarrays or RNA sequencing in most settings. Software for calculating UPCs is freely available at www.bioconductor.org/packages/release/bioc/html/SCAN.UPC.html.
+UR - http://www.pnas.org/cgi/doi/10.1073/pnas.1305823110
+ER -
+

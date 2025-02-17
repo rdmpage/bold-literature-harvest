@@ -1,0 +1,24 @@
+TY - JOUR
+ID - n/a
+A1 - Piganeau, Gwenael; Eyre-Walker, Adam; Grimsley, Nigel; Moreau, Herv√©
+Y1 - 2011
+T1 - How and Why DNA Barcodes Underestimate the Diversity of Microbial Eukaryotes
+JA - PLoS ONE
+VL - 6
+IS - 2
+SP - e16342
+M1 - 2010-10-08(date received)
+M1 - 2010-12-12(date accepted)
+U1 - 10.1371/journal.pone.0016342(DOI)
+U1 - User submitted
+N2 - Background
+
+Because many picoplanktonic eukaryotic species cannot currently be maintained in culture, direct sequencing of PCR-amplified 18S ribosomal gene DNA fragments from filtered sea-water has been successfully used to investigate the astounding diversity of these organisms. The recognition of many novel planktonic organisms is thus based solely on their 18S rDNA sequence. However, a species delimited by its 18S rDNA sequence might contain many cryptic species, which are highly differentiated in their protein coding sequences.
+Principal Findings
+
+Here, we investigate the issue of species identification from one gene to the whole genome sequence. Using 52 whole genome DNA sequences, we estimated the global genetic divergence in protein coding genes between organisms from different lineages and compared this to their ribosomal gene sequence divergences. We show that this relationship between proteome divergence and 18S divergence is lineage dependant. Unicellular lineages have especially low 18S divergences relative to their protein sequence divergences, suggesting that 18S ribosomal genes are too conservative to assess planktonic eukaryotic diversity. We provide an explanation for this lineage dependency, which suggests that most species with large effective population sizes will show far less divergence in 18S than protein coding sequences.
+Conclusions
+
+There is therefore a trade-off between using genes that are easy to amplify in all species, but which by their nature are highly conserved and underestimate the true number of species, and using genes that give a better description of the number of species, but which are more difficult to amplify. We have shown that this trade-off differs between unicellular and multicellular organisms as a likely consequence of differences in effective population sizes. We anticipate that biodiversity of microbial eukaryotic species is underestimated and that numerous ìcryptic speciesî will become discernable with the future acquisition of genomic and metagenomic sequences.
+ER -
+

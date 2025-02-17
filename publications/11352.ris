@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Timmermans, M. J. T. N.; Dodsworth, S.; Culverwell, C. L.; Bocak, L.; Ahrens, D.; Littlewood, D. T. J.; Pons, J.; Vogler, A. P.
+T1 - Why barcode? High-throughput multiplex sequencing of mitochondrial genomes for molecular systematics
+JA - Nucleic Acids Research
+VL - 38
+IS - 21
+SP - e197
+EP - e197
+U1 - 10.1093/nar/gkq807(DOI)
+N2 - Mitochondrial genome sequences are important markers for phylogenetics but taxon sampling remains sporadic because of the great effort and cost required to acquire full-length sequences. Here, we demonstrate a simple, cost-effective way to sequence the full complement of protein coding mitochondrial genes from pooled samples using the 454/Roche platform. Multiplexing was achieved without the need for expensive indexing tags (‘barcodes’). The method was trialled with a set of long-range polymerase chain reaction (PCR) fragments from 30 species of Coleoptera (beetles) sequenced in a 1/16th sector of a sequencing plate. Long contigs were produced from the pooled sequences with sequencing depths ranging from ∼10 to 100× per contig. Species identity of individual contigs was established via three ‘bait’ sequences matching disparate parts of the mitochondrial genome obtained by conventional PCR and Sanger sequencing. This proved that assembly of contigs from the sequencing pool was correct. Our study produced sequences for 21 nearly complete and seven partial sets of protein coding mitochondrial genes. Combined with existing sequences for 25 taxa, an improved estimate of basal relationships in Coleoptera was obtained. The procedure could be employed routinely for mitochondrial genome sequencing at the species level, to provide improved species ‘barcodes’ that currently use the cox1 gene only.
+UR - http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkq807
+ER -
+

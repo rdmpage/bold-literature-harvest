@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Teresita M. Porter, Mehrdad Hajibabaei
+Y1 - 2018
+T1 - Over 2.5 million COI sequences in GenBank and growing
+JA - PLoS ONE
+VL - 13
+IS - 9
+SP - e0200177
+U1 - https://doi.org/10.1371/journal.pone.0200177(DOI)
+U1 - User submitted
+N2 - The increasing popularity of cytochrome c oxidase subunit 1 (COI) DNA metabarcoding warrants a careful look at the underlying reference databases used to make high-throughput taxonomic assignments. The objectives of this study are to document trends and assess the future usability of COI records for metabarcode identification. The number of COI records deposited to the NCBI nucleotide database has increased by a geometric average of 51% per year, from 8,137 records deposited in 2003 to a cumulative total of ~ 2.5 million by the end of 2017. About half of these records are fully identified to the species rank, 92% are at least 500 bp in length, 74% have a country annotation, and 51% have latitude-longitude annotations. To ensure the future usability of COI records in GenBank we suggest: 1) Improving the geographic representation of COI records, 2) Improving the cross-referencing of COI records in the Barcode of Life Data System and GenBank to facilitate consolidation and incorporation into existing bioinformatic pipelines, 3) Adherence to the minimum information about a marker gene sequence guidelines, and 4) Integrating metabarcodes from eDNA and mixed community studies with existing reference sequences. The growth of COI reference records over the past 15 years has been substantial and is likely to be a resource across many fields for years to come.
+UR - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200177
+ER -
+

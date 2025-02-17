@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Huang, Zi-Xia; Chen, Zhi-Sen; Ke, Cai-Huan; Zhao, Jing; You, Wei-Wei; Zhang, Jie; Dong, Wei-Ting; Chen, Jun
+T1 - Pyrosequencing of Haliotis diversicolor Transcriptomes: Insights into Early Developmental Molluscan Gene Expression
+JA - PLoS ONE
+VL - 7
+IS - 12
+SP - e51279
+U1 - 10.1371/journal.pone.0051279(DOI)
+N2 - Background The abalone Haliotis diversicolor is a good model for study of the settlement and metamorphosis, which are widespread marine ecological phenomena. However, information on the global gene backgrounds and gene expression profiles for the early development of abalones is lacking.
+
+Methodology/Principal Findings In this study, eight non-normalized and multiplex barcode-labeled transcriptomes were sequenced using a 454 GS system to cover the early developmental stages of the abalone H. diversicolor. The assembly generated 35,415 unigenes, of which 7,566 were assigned GO terms. A global gene expression profile containing 636 scaffolds/contigs was constructed and was proven reliable using qPCR evaluation. It indicated that there may be existing dramatic phase transitions. Bioprocesses were proposed, including the ‘lock system’ in mature eggs, the collagen shells of the trochophore larvae and the development of chambered extracellular matrix (ECM) structures within the earliest postlarvae.
+
+Conclusion This study globally details the first 454 sequencing data for larval stages of H. diversicolor. A basic analysis of the larval transcriptomes and cluster of the gene expression profile indicates that each stage possesses a batch of specific genes that are indispensable during embryonic development, especially during the two-cell, trochophore and early postlarval stages. These data will provide a fundamental resource for future physiological works on abalones, revealing the mechanisms of settlement and metamorphosis at the molecular level.
+UR - http://dx.plos.org/10.1371/journal.pone.0051279
+ER -
+

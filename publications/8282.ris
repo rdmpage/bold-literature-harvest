@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Schütze, Tatjana; Wilhelm, Barbara; Greiner, Nicole; Braun, Hannsjörg; Peter, Franziska; Mörl, Mario; Erdmann, Volker A.; Lehrach, Hans; Konthur, Zoltán; Menger, Marcus; Arndt, Peter F.; Glökler, Jörn
+T1 - Probing the SELEX Process with Next-Generation Sequencing
+JA - PLoS ONE
+VL - 6
+IS - 12
+SP - e29604
+U1 - 10.1371/journal.pone.0029604(DOI)
+N2 - Background SELEX is an iterative process in which highly diverse synthetic nucleic acid libraries are selected over many rounds to finally identify aptamers with desired properties. However, little is understood as how binders are enriched during the selection course. Next-generation sequencing offers the opportunity to open the black box and observe a large part of the population dynamics during the selection process. 
+
+Methodology We have performed a semi-automated SELEX procedure on the model target streptavidin starting with a synthetic DNA oligonucleotide library and compared results obtained by the conventional analysis via cloning and Sanger sequencing with next-generation sequencing. In order to follow the population dynamics during the selection, pools from all selection rounds were barcoded and sequenced in parallel. 
+
+Conclusions High affinity aptamers can be readily identified simply by copy number enrichment in the first selection rounds. Based on our results, we suggest a new selection scheme that avoids a high number of iterative selection rounds while reducing time, PCR bias, and artifacts.
+UR - http://dx.plos.org/10.1371/journal.pone.0029604
+ER -
+

@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Daniel Lukic, Jonas Eberle, Jana Thormann, Carolus Holzschuh, Dirk Ahrens
+Y1 - 2021
+T1 - Excluding spatial sampling bias does not eliminate oversplitting in DNA-based species delimitation analyses
+JA - Ecology and Evolution
+VL - 11
+IS - 15
+SP - 10327
+EP - 1033
+U1 - https://doi.org/10.1002/ece3.7836(DOI)
+U1 - User submitted
+N2 - DNA barcoding and DNA-based species delimitation are major tools in DNA taxonomy. Sampling has been a central debate in this context, because the geographical composition of samples affects the accuracy and performance of DNA barcoding. Performance of complex DNA-based species delimitation is to be tested under simpler conditions in absence of geographic sampling bias. Here, we present an empirical dataset sampled from a single locality in a Southeast-Asian biodiversity hotspot (Laos: Phou Pan mountain). We investigate the performance of various species delimitation approaches on a megadiverse assemblage of herbivorous chafer beetles (Coleoptera: Scarabaeidae) to infer whether species delimitation suffers in the same way from exaggerate infraspecific variation despite the lack of geographic genetic variation that led to inconsistencies between entities from DNA-based and morphology-based species inference in previous studies. For this purpose, a 658 bp fragment of the mitochondrial cytochrome c oxidase subunit 1 (cox1) was analyzed for a total of 186 individuals of 56 morphospecies. Tree-based and distance-based species delimitation methods were used. All approaches showed a rather limited match ratio (max. 77%) with morphospecies. Poisson tree process (PTP) and statistical parsimony network analysis (TCS) prevailingly over-splitted morphospecies, while 3% clustering and Automatic Barcode Gap Discovery (ABGD) also lumped several species into one entity. ABGD revealed the highest congruence between molecular operational taxonomic units (MOTUs) and morphospecies. Disagreements between morphospecies and MOTUs have to be explained by historically acquired geographic genetic differentiation, incomplete lineage sorting, and hybridization. The study once again highlights how important morphology still is in order to correctly interpret the results of molecular species delimitation.
+ER -
+

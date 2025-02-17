@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Miner, B. E.
+T1 - Molecular barcodes detect redundancy and contamination in hairpin-bisulfite PCR
+JA - Nucleic Acids Research
+VL - 32
+IS - 17
+SP - e135
+EP - e135
+U1 - 10.1093/nar/gnh132(DOI)
+N2 - PCR amplification of limited amounts of DNA template carries an increased risk of product redundancy and contamination. We use molecular barcoding to label each genomic DNA template with an individual sequence tag prior to PCR amplification. In addition, we include molecular ‘batch-stamps’ that effectively label each genomic template with a sample ID and analysis date. This highly sensitive method identifies redundant and contaminant sequences and serves as a reliable method for positive identification of desired sequences; we can therefore capture accurately the genomic template diversity in the sample analyzed. Although our application described here involves the use of hairpin-bisulfite PCR for amplification of double-stranded DNA, the method can readily be adapted to single-strand PCR. Useful applications will include analyses of limited template DNA for biomedical, ancient DNA and forensic purposes.
+UR - http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gnh132
+ER -
+

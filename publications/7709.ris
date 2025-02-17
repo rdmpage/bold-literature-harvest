@@ -1,0 +1,25 @@
+TY - JOUR
+ID - n/a
+A1 - Jerome C. Regier, Charles Mitter, Andreas Zwick, Adam L. Bazinet, Michael P. Cummings, Akito Y. Kawahara, Jae-Cheon Sohn, Derrick J. Zwickl, Soowon Cho, Donald R. Davis, Joaquin Baixeras, John Brown, Cynthia Parr, Susan Weller, David C. Lees and Kim T. Mitter
+Y1 - 2013
+T1 - A Large-Scale, Higher-Level, Molecular Phylogenetic Study of the Insect Order Lepidoptera (Moths and Butterflies)
+JA - PLoS ONE
+VL - 8
+IS - 3
+SP - e58568
+U1 - 10.1371/journal.pone.0058568(DOI)
+U1 - User submitted
+N2 - Background
+
+Higher-level relationships within the Lepidoptera, and particularly within the species-rich subclade Ditrysia, are generally not well understood, although recent studies have yielded progress. We present the most comprehensive molecular analysis of lepidopteran phylogeny to date, focusing on relationships among superfamilies.
+
+Methodology / Principal Findings
+
+483 taxa spanning 115 of 124 families were sampled for 19 protein-coding nuclear genes, from which maximum likelihood tree estimates and bootstrap percentages were obtained using GARLI. Assessment of heuristic search effectiveness showed that better trees and higher bootstrap percentages probably remain to be discovered even after 1000 or more search replicates, but further search proved impractical even with grid computing. Other analyses explored the effects of sampling nonsynonymous change only versus partitioned and unpartitioned total nucleotide change; deletion of rogue taxa; and compositional heterogeneity. Relationships among the non-ditrysian lineages previously inferred from morphology were largely confirmed, plus some new ones, with strong support. Robust support was also found for divergences among non-apoditrysian lineages of Ditrysia, but only rarely so within Apoditrysia. Paraphyly for Tineoidea is strongly supported by analysis of nonsynonymous-only signal; conflicting, strong support for tineoid monophyly when synonymous signal was added back is shown to result from compositional heterogeneity.
+
+Conclusions / Significance
+
+Support for among-superfamily relationships outside the Apoditrysia is now generally strong. Comparable support is mostly lacking within Apoditrysia, but dramatically increased bootstrap percentages for some nodes after rogue taxon removal, and concordance with other evidence, strongly suggest that our picture of apoditrysian phylogeny is approximately correct. This study highlights the challenge of finding optimal topologies when analyzing hundreds of taxa. It also shows that some nodes get strong support only when analysis is restricted to nonsynonymous change, while total change is necessary for strong support of others. Thus, multiple types of analyses will be necessary to fully resolve lepidopteran phylogeny.
+UR - http://www.plosone.org/article/fetchObject.action;jsessionid=FC226B2A1867DB66C3DF29B494343926?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0058568&representation=PDF
+ER -
+

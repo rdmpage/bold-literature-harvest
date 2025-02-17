@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Sato, Hirotoshi; Tsujino, Riyou; Kurita, Kazuki; Yokoyama, Kazumasa; Agata, Kiyokazu
+T1 - Modelling the global distribution of fungal species: new insights into microbial cosmopolitanism
+JA - Molecular Ecology
+VL - 21
+IS - 22
+SP - 5599
+EP - 5612
+U1 - 10.1111/mec.12053(DOI)
+N2 - Microbes are usually believed to have cosmopolitan distributions. However, for estimating the global distributions of microorganisms, discriminating among cryptic species and eliminating undersampling biases are important challenges. We used a novel approach to address these problems and infer the global distribution of a given fungal ecological guild. We collected mushroom-forming fungi from Yakushima, Japan. We sequenced the internal transcribed spacer 2 (ITS2) from these samples and queried their sequences against GenBank. After identifying similar sequences, we tracked down the geographical origins of samples that yielded those sequences. We used Bayesian zero-inflated models to allow for species whose DNA sequences have not yet been deposited in GenBank. Results indicated that the geographical distribution of ectomycorrhizal (ECM) fungi was strongly constrained by host specificity, resulting in the occurrence of these fungi intensively in the neighbouring regions. On the other hand, saprotrophic (SAP) fungi were less constrained by climatic conditions, resulting in a much broader distribution range. We inferred that differences in constraints during colonization between ECM and SAP fungi were responsible for the different geographical distribution ranges. We hypothesize that the degree of host/habitat specificity and the degree of isolation of potentially suitable habitats determine microbial biogeographic patterns.
+UR - http://doi.wiley.com/10.1111/mec.12053
+ER -
+

@@ -1,0 +1,10 @@
+TY - JOUR
+ID - n/a
+A1 - Olteanu, Madalina; Nicolas, Violaine; Schaeffer, Brigitte; Denys, Christiane; Missoup, Alain-Didier; Kennis, Jan; Larédo, Catherine
+T1 - Nonlinear projection methods for visualizing Barcode data and application on two data sets
+JA - Molecular Ecology Resources
+U1 - 10.1111/1755-0998.12047(DOI)
+N2 - Developing tools for visualizing DNA sequences is an important issue in the Barcoding context. Visualizing Barcode data can be put in a purely statistical context, unsupervised learning. Clustering methods combined with projection methods have two closely linked objectives, visualizing and finding structure in the data. Multidimensional scaling (MDS) and Self-organizing maps (SOM) are unsupervised statistical tools for data visualization. Both algorithms map data onto a lower dimensional manifold: MDS looks for a projection that best preserves pairwise distances while SOM preserves the topology of the data. Both algorithms were initially developed for Euclidean data and the conditions necessary to their good implementation were not satisfied for Barcode data. We developed a workflow consisting in four steps: collapse data into distinct sequences; compute a dissimilarity matrix; run a modified version of SOM for dissimilarity matrices to structure the data and reduce dimensionality; project the results using MDS. This methodology was applied to Astraptes fulgerator and Hylomyscus, an African rodent with debated taxonomy. We obtained very good results for both data sets. The results were robust against unbalanced species. All the species in Astraptes were well displayed in very distinct groups in the various visualizations, except for LOHAMP and FABOV that were mixed up. For Hylomyscus, our findings were consistent with known species, confirmed the existence of four unnamed taxa and suggested the existence of potentially new species.
+UR - http://doi.wiley.com/10.1111/1755-0998.12047
+ER -
+

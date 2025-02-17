@@ -1,0 +1,16 @@
+TY - JOUR
+ID - pmid_18398766
+A1 - A. B. Zhang, D. S. Sikes, C. Muster and S. Q. Li
+Y1 - 2008
+T1 - Inferring species membership using DNA sequences with back-propagation neural networks.
+JA - Systematic Biology
+VL - 57
+IS - 2
+SP - 202
+EP - 215
+M1 - 2008-04-09(date received)
+M1 - 2008-10-28(date accepted)
+U1 - 10.1080/10635150802032982(DOI)
+N2 - DNA barcoding as a method for species identification is rapidly increasing in popularity. However, there are still relatively few rigorous methodological tests of DNA barcoding. Current distance-based methods are frequently criticized for treating the nearest neighbor as the closest relative via a raw similarity score, lacking an objective set of criteria to delineate taxa, or for being incongruent with classical character-based taxonomy. Here, we propose an artificial intelligence-based approach - inferring species membership via DNA barcoding with back-propagation neural networks (named BP-based species identification) - as a new advance to the spectrum of available methods. We demonstrate the value of this approach with simulated data sets representing different levels of sequence variation under coalescent simulations with various evolutionary models, as well as with two empirical data sets of COI sequences from East Asian ground beetles (Carabidae) and Costa Rican skipper butterflies. With a 630-to 690-bp fragment of the COI gene, we identified 97.50% of 80 unknown sequences of ground beetles, 95.63%, 96.10%, and 100% of 275, 205, and 9 unknown sequences of the neotropical skipper butterfly to their correct species, respectively. Our simulation studies indicate that the success rates of species identification depend on the divergence of sequences, the length of sequences, and the number of reference sequences. Particularly in cases involving incomplete lineage sorting, this new BP-based method appears to be superior to commonly used methods for DNA-based species identification.
+ER -
+

@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Robin van Velzen, Emanuel Weitschek, Giovanni Felici and Freek T. Bakker
+Y1 - 2012
+T1 - DNA Barcoding of Recently Diverged Species: Relative Performance of Matching Methods
+JA - PLoS ONE
+VL - 7
+IS - 1
+SP - e30490
+U1 - 10.1371/journal.pone.0030490(DOI)
+U1 - User submitted
+N2 - Recently diverged species are challenging for identification, yet they are frequently of special interest scientifically as well as from a regulatory perspective. DNA barcoding has proven instrumental in species identification, especially in insects and vertebrates, but for the identification of recently diverged species it has been reported to be problematic in some cases. Problems are mostly due to incomplete lineage sorting or simply lack of a ‘barcode gap’ and probably related to large effective population size and/or low mutation rate. Our objective was to compare six methods in their ability to correctly identify recently diverged species with DNA barcodes: neighbor joining and parsimony (both tree-based), nearest neighbor and BLAST (similarity-based), and the diagnostic methods DNA-BAR, and BLOG. We analyzed simulated data assuming three different effective population sizes as well as three selected empirical data sets from published studies. Results show, as expected, that success rates are significantly lower for recently diverged species (~75%) than for older species (~97%) (P<0.00001). Similarity-based and diagnostic methods significantly outperform tree-based methods, when applied to simulated DNA barcode data (P<0.00001). The diagnostic method BLOG had highest correct query identification rate based on simulated (86.2%) as well as empirical data (93.1%), indicating that it is a consistently better method overall. Another advantage of BLOG is that it offers species-level information that can be used outside the realm of DNA barcoding, for instance in species description or molecular detection assays. Even though we can confirm that identification success based on DNA barcoding is generally high in our data, recently diverged species remain difficult to identify. Nevertheless, our results contribute to improved solutions for their accurate identification.
+UR - http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0030490&representation=PDF
+ER -
+

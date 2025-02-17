@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Rodger A. Gwiazdowski, Robert G. Foottit, H. Eric L. Maw, Paul D. N. Hebert
+Y1 - 2015
+T1 - The Hemiptera (Insecta) of Canada: Constructing a Reference Library of DNA Barcodes.
+JA - PLoS ONE
+VL - 10
+IS - 4
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - DNA barcode reference libraries linked to voucher specimens create new opportunities for high-throughput identification and taxonomic re-evaluations. This study provides a DNA barcode library for about 45% of the recognized species of Canadian Hemiptera, and the publically available R workflow used for its generation. The current library is based on the analysis of 20,851 specimens including 1849 species belonging to 628 genera and 64 families. These individuals were assigned to 1867 Barcode Index Numbers (BINs), sequence clusters that often coincide with species recognized through prior taxonomy. Museum collections were a key source for identified specimens, but we also employed high-throughput collection methods that generated large numbers of unidentified specimens. Many of these specimens represented novel BINs that were subsequently identified by taxonomists, adding barcode coverage for additional species. Our analyses based on both approaches includes 94 species not listed in the most recent Canadian checklist, representing a potential 3% increase in the fauna. We discuss the development of our workflow in the context of prior DNA barcode library construction projects, emphasizing the importance of delineating a set of reference specimens to aid investigations in cases of nomenclatural and DNA barcode discordance. The identification for each specimen in the reference set can be annotated on the Barcode of Life Data System (BOLD), allowing experts to highlight questionable identifications; annotations can be added by any registered user of BOLD, and instructions for this are provided.
+ER -
+

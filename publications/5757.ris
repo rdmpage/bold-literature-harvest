@@ -1,0 +1,14 @@
+TY - JOUR
+ID - pmid_17932070
+A1 - Parameswaran, P.; Jalili, R.; Tao, L.; Shokralla, S.; Gharizadeh, B.; Ronaghi, M.; Fire, A. Z.
+Y1 - 2007
+T1 - A pyrosequencing-tailored nucleotide barcode design unveils opportunities for large-scale sample multiplexing.
+JA - Nucleic Acids Research
+VL - 35
+IS - 19
+SP - e130
+U1 - 10.1093/nar/gkm760(DOI)
+U1 - User submitted
+N2 - Multiplexed high-throughput pyrosequencing is currently limited in complexity (number of samples sequenced in parallel), and in capacity (number of sequences obtained per sample). Physical-space segregation of the sequencing platform into a fixed number of channels allows limited multiplexing, but obscures available sequencing space. To overcome these limitations, we have devised a novel barcoding approach to allow for pooling and sequencing of DNA from independent samples, and to facilitate subsequent segregation of sequencing capacity. Forty-eight forward-reverse barcode pairs are described: each forward and each reverse barcode unique with respect to at least 4 nt positions. With improved read lengths of pyrosequencers, combinations of forward and reverse barcodes may be used to sequence from as many as n(2) independent libraries for each set of \'n\' forward and \'n\' reverse barcodes, for each defined set of cloning-linkers. In two pilot series of barcoded sequencing using the GS20 Sequencer (454/Roche), we found that over 99.8% of obtained sequences could be assigned to 25 independent, uniquely barcoded libraries based on the presence of either a perfect forward or a perfect reverse barcode. The false-discovery rate, as measured by the percentage of sequences with unexpected perfect pairings of unmatched forward and reverse barcodes, was estimated to be <0.005%.
+ER -
+

@@ -1,0 +1,40 @@
+TY - JOUR
+ID - n/a
+A1 - Rosen, Gail L.; Polikar, Robi; Caseiro, Diamantino A.; Essinger, Steven D.; Sokhansanj, Bahrad A.
+Y1 - 2011
+T1 - Discovering the unknown: improving detection of novel species and genera from short reads
+JA - Journal of Biomedicine and Biotechnology
+VL - 2011
+SP - 1
+EP - 11
+M1 - 2010-09-20(date received)
+M1 - 2011-01-25(date accepted)
+M1 - 2010-12-23(date revised)
+U1 - 10.1155/2011/495849(DOI)
+U1 - User submitted
+N2 - High-throughput sequencing technologies enable metagenome
+profiling, simultaneous sequencing of multiple microbial species
+present within an environmental sample. Since metagenomic data
+includes sequence fragments (“reads”) from organisms
+that are absent from any database, new algorithms must be
+developed for the identification and annotation of novel sequence
+fragments. Homology-based techniques have been modified to detect
+novel species and genera, but, composition-based methods, have not
+been adapted. We develop a detection technique that can
+discriminate between “known” and “unknown”
+taxa, which can be used with composition-based methods, as well as
+a hybrid method. Unlike previous studies, we rigorously evaluate
+all algorithms for their ability to detect novel taxa.  First, we
+show that the integration of a detector with a composition-based
+method performs significantly better than homology-based methods
+for the detection of novel species and genera, with best
+performance at finer taxonomic resolutions. Most importantly, we
+evaluate all the algorithms by introducing an
+“unknown” class and show that the modified version of
+PhymmBL has similar or better overall classification performance
+than the other modified algorithms, especially for the
+species-level and ultrashort reads. Finally, we evaluate the
+performance of several algorithms on a real acid mine drainage
+dataset.
+ER -
+

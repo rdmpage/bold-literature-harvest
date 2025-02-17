@@ -1,0 +1,17 @@
+TY - JOUR
+ID - pmid_17366136
+A1 - Zaid Abdo and G. Brian Golding
+Y1 - 2007
+T1 - A step toward barcoding life: a model-based, decision-theoretic method to assign genes to preexisting species groups.
+JA - Systematic Biology
+VL - 56
+IS - 1
+SP - 44
+EP - 56
+M1 - 2007-03-16(date received)
+M1 - 2007-04-27(date accepted)
+M1 - 2007-12-03(date revised)
+U1 - 10.1080/10635150601167005(DOI)
+N2 - A major part of the barcoding of life problem is assigning newly sequenced or sampled individuals to existing groups that are preidentified externally (by a taxonomist, for example). This problem involves evaluating the statistical evidence towards associating a sequence from a new individual with one group or another. The main concern of our current research is to perform this task in a fast and accurate manner. To accomplish this we have developed a model-based, decision-theoretic framework based on the coalescent theory. Under this framework, we utilized both distance and the posterior probability of a group, given the sequences from members of this group and the sequence from a newly sampled individual to assign this new individual. We believe that this approach makes efficient use of the available information in the data. Our preliminary results indicated that this approach is more accurate than using a simple measure of distance for assignment.
+ER -
+

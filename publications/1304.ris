@@ -1,0 +1,17 @@
+TY - JOUR
+ID - pmid_15869663
+A1 - Kõljalg, Urmas; Larsson, Karl-Henrik; Abarenkov, Kessy; Nilsson, R. Henrik; Alexander, Ian J.; Eberhardt, Ursula; Erland, Susanne; Høiland, Klaus; Kjøller, Rasmus; Larsson, Ellen; Pennanen, Taina; Sen, Robin; Taylor, Andy F. S.; Tedersoo, Leho; Vrålstad, Trude
+Y1 - 2005
+T1 - UNITE: a database providing web-based methods for the molecular identification of ectomycorrhizal fungi.
+JA - New Phytologist
+VL - 166
+IS - 3
+SP - 1063
+EP - 1068
+M1 - 2005-05-04(date received)
+M1 - 2005-06-29(date accepted)
+M1 - 2006-11-15(date revised)
+U1 - 10.1111/j.1469-8137.2005.01376.x(DOI)
+N2 - Identification of ectomycorrhizal (ECM) fungi is often achieved through comparisons of ribosomal DNA internal transcribed spacer (ITS) sequences with accessioned sequences deposited in public databases. A major problem encountered is that annotation of the sequences in these databases is not always complete or trustworthy. In order to overcome this deficiency, we report on UNITE, an open-access database. UNITE comprises well annotated fungal ITS sequences from well defined herbarium specimens that include full herbarium reference identification data, collector/source and ecological data. At present UNITE contains 758 ITS sequences from 455 species and 67 genera of ECM fungi. UNITE can be searched by taxon name, via sequence similarity using blastn, and via phylogenetic sequence identification using galaxie. Following implementation, galaxie performs a phylogenetic analysis of the query sequence after alignment either to pre-existing generic alignments, or to matches retrieved from a blast search on the UNITE data. It should be noted that the current version of UNITE is dedicated to the reliable identification of ECM fungi. The UNITE database is accessible through the URL http://unite.zbi.ee
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Wang, Guoqing; Zhou, Fengfeng; Olman, Victor; Li, Fan; Xu, Ying
+T1 - Prediction of pathogenicity islands in Enterohemorrhagic Escherichia coli O157:H7 using genomic barcodes
+JA - FEBS Letters
+VL - 584
+IS - 1
+SP - 194
+EP - 198
+U1 - 10.1016/j.febslet.2009.11.067(DOI)
+N2 - The genome of lethal animal pathogenic bacterium Enterohemorrhagic Escherichia coli (EHEC) O157:H7 is characterized by the presence of multiple pathogenicity islands (PAIs). Computational methods have been developed to identify PAIs based on the distinguishing G + C levels in some PAI versus non-PAI regions. We observed that PAIs can have a very similar G + C level to that of the host chromosome, which may have led to false negative predictions using these methods. We have applied a novel method of genomic barcodes to identify PAIs. Using this technique, we have successfully identified both known and novel PAIs in the genomes of three strains of EHEC O157:H7.
+UR - http://linkinghub.elsevier.com/retrieve/pii/S0014579309009806
+ER -
+

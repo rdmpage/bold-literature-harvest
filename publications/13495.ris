@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Christopher Hempel, Julia Harvie, Jose Hleap Lozano, Natalie Wright, Sarah Adamowicz, Dirk Steinke
+Y1 - 2021
+T1 - Comparing total RNA sequencing and metagenomics pipelines for multi-domain taxonomic profiling: implications for ecological assessments
+JA - ARPHA Conference Abstracts
+VL - 4
+IS - 1
+SP - 2
+U1 - 10.3897/aca.4.e64996(DOI)
+U1 - User submitted
+N2 - Ecological assessments are necessary to evaluate the status of our deteriorating ecosystems, however, assessment methods traditionally omit most microbes because unicellular organisms are challenging to identify. This omission is not ideal, as microbes might be better indicators for changes in environmental conditions than taxa traditionally used. DNA- and RNA-based techniques are increasingly applied for ecological assessments to overcome this challenge but require more testing and optimization. In this study, we compare metagenomics and total RNA sequencing (total RNA-Seq) for their taxonomic profiling performance for microbial communities. We applied both techniques on two sample sets, 1) a commercially available microbial mock community consisting of eight bacterial and two eukaryotic species, and 2) a display tank water sample. We processed the data using 1,532 bioinformatics pipelines and evaluated each workflow, i.e., the combination of sample type (metagenomics or total RNA-Seq) and pipeline, in terms of their accuracy and precision. This talk will showcase preliminary results and highlight differences in workflow performances. A recommended workflow to maximize taxonomic profiling accuracy of microbial communities will also be presented.
+ER -
+

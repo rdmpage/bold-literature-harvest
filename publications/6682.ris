@@ -1,0 +1,24 @@
+TY - JOUR
+ID - n/a
+A1 - Buchheim, Mark A.; Keller, Alexander; Koetschan, Christian; Förster, Frank; Merget, Benjamin; Wolf, Matthias
+Y1 - 2011
+T1 - Internal Transcribed Spacer 2 (nu ITS2 rRNA) Sequence-Structure Phylogenetics: Towards an Automated Reconstruction of the Green Algal Tree of Life
+JA - PLoS ONE
+VL - 6
+IS - 2
+SP - e16931
+M1 - 2010-10-03(date received)
+M1 - 2011-01-05(date accepted)
+U1 - 10.1371/journal.pone.0016931(DOI)
+U1 - User submitted
+N2 - Background
+
+Chloroplast-encoded genes (matK and rbcL) have been formally proposed for use in DNA barcoding efforts targeting embryophytes. Extending such a protocol to chlorophytan green algae, though, is fraught with problems including non homology (matK) and heterogeneity that prevents the creation of a universal PCR toolkit (rbcL). Some have advocated the use of the nuclear-encoded, internal transcribed spacer two (ITS2) as an alternative to the traditional chloroplast markers. However, the ITS2 is broadly perceived to be insufficiently conserved or to be confounded by introgression or biparental inheritance patterns, precluding its broad use in phylogenetic reconstruction or as a DNA barcode. A growing body of evidence has shown that simultaneous analysis of nucleotide data with secondary structure information can overcome at least some of the limitations of ITS2. The goal of this investigation was to assess the feasibility of an automated, sequence-structure approach for analysis of IT2 data from a large sampling of phylum Chlorophyta.
+Methodology/Principal Findings
+
+Sequences and secondary structures from 591 chlorophycean, 741 trebouxiophycean and 938 ulvophycean algae, all obtained from the ITS2 Database, were aligned using a sequence structure-specific scoring matrix. Phylogenetic relationships were reconstructed by Profile Neighbor-Joining coupled with a sequence structure-specific, general time reversible substitution model. Results from analyses of the ITS2 data were robust at multiple nodes and showed considerable congruence with results from published phylogenetic analyses.
+Conclusions/Significance
+
+Our observations on the power of automated, sequence-structure analyses of ITS2 to reconstruct phylum-level phylogenies of the green algae validate this approach to assessing diversity for large sets of chlorophytan taxa. Moreover, our results indicate that objections to the use of ITS2 for DNA barcoding should be weighed against the utility of an automated, data analysis approach with demonstrated power to reconstruct evolutionary patterns for highly divergent lineages.
+ER -
+

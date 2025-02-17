@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Gholami, Mahmood; Bekele, Wubishet A.; Schondelmaier, Joerg; Snowdon, Rod J.
+T1 - A tailed PCR procedure for cost-effective, two-order multiplex sequencing of candidate genes in polyploid plants: Tailed multiplex 454 amplicon sequencing
+JA - Plant Biotechnology Journal
+VL - 10
+IS - 6
+SP - 635
+EP - 645
+U1 - 10.1111/j.1467-7652.2012.00696.x(DOI)
+N2 - Complex polyploid crop genomes can be recalcitrant towards conventional DNA sequencing approaches for allele mining in candidate genes for valuable traits. In the past, this has greatly complicated the transfer of knowledge on promising candidate genes from model plants to even closely related polyploid crops. Next-generation sequencing offers diverse solutions to overcome such difficulties. Here, we present a method for multiplexed 454 sequencing in gene-specific PCR amplicons that can simultaneously address multiple homologues of given target genes. We devised a simple two-step PCR procedure employing a set of barcoded M13/T7 universal fusion primers that enable a cost-effective and efficient amplification of large numbers of target gene amplicons. Sequencing-ready amplicons are generated that can be simultaneously sequenced in pools comprising multiple amplicons from multiple genotypes. High-depth sequencing allows resolution of the resulting sequence reads into contigs representing multiple homologous loci, with only insignificant off-target capture of paralogues or PCR artefacts. In a case study, the procedure was tested in the complex polyploid genome of Brassica napus for a set of nine genes identified in Arabidopsis as candidates for regulation of seed development and oil content. Up to six copies of these genes were expected in B. napus. SNP discovery was performed by pooled multiplex sequencing of 30 amplicons in 20 diverse B. napus accessions with interesting trait variation for oil content, providing a basis for comparative mapping to relevant quantitative trait loci and for subsequent marker-assisted breeding.
+UR - http://doi.wiley.com/10.1111/j.1467-7652.2012.00696.x
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Schlecht, U.; Miranda, M.; Suresh, S.; Davis, R. W.; St.Onge, R. P.
+T1 - Multiplex assay for condition-dependent changes in protein-protein interactions
+JA - Proceedings of the National Academy of Sciences
+VL - 109
+IS - 23
+SP - 9213
+EP - 9218
+U1 - 10.1073/pnas.1204952109(DOI)
+N2 - Changes in protein–protein interactions that occur in response to environmental cues are difficult to uncover and have been poorly characterized to date. Here we describe a yeast-based assay that allows many binary protein interactions to be assessed in parallel and under various conditions. This method combines molecular bar-coding and tag array technology with the murine dihydrofolate reductase-based protein-fragment complementation assay. A total of 238 protein-fragment complementation assay strains, each representing a unique binary protein complex, were tagged with molecular barcodes, pooled, and then interrogated against a panel of 80 diverse small molecules. Our method successfully identified specific disruption of the Hom3:Fpr1 interaction by the immunosuppressant FK506, illustrating the assay’s capacity to identify chemical inhibitors of protein–protein interactions. Among the additional findings was specific cellular depletion of the Dst1:Rbp9 complex by the anthracycline drug doxorubicin, but not by the related drug idarubicin. The assay also revealed chemical-induced accumulation of several binary multidrug transporter complexes that largely paralleled increases in transcript levels. Further assessment of two such interactions (Tpo1:Pdr5 and Snq2:Pdr5) in the presence of 1,246 unique chemical compounds revealed a positive correlation between drug lipophilicity and the drug response in yeast.
+UR - http://www.pnas.org/cgi/doi/10.1073/pnas.1204952109
+ER -
+

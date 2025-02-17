@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Dunham, J. P.; Friesen, M. L.
+T1 - A Cost-Effective Method for High-Throughput Construction of Illumina Sequencing Libraries
+JA - Cold Spring Harbor Protocols
+VL - 2013
+IS - 9
+SP - pdb.prot074187
+EP - pdb.prot074187
+U1 - 10.1101/pdb.prot074187(DOI)
+N2 - Despite the plummeting cost of next-generation sequencing, the preparation of sequencing libraries using commercially available kits still remains expensive. The cost can be prohibitive for large-scale comparative or experimental studies, where hundreds to thousands of samples need to be analyzed. The increasing use of multiplexing dozens to hundreds of samples underscores the urgent need to develop a cost-effective and time-efficient high-throughput method for library preparation. By optimizing and scaling down the steps in library construction and using commonly available reagents, the protocol described here allows for the preparation of DNA libraries in a 96-well format using no specialized equipment and at a substantial savings in both reagent cost and personnel hours. Utilizing this optimized high-throughput format results in a 10-fold cost reduction, compared to commercially available kits, making per library or pooled sample costs ∼$12.60–14.90 for individually prepared libraries and ∼$8.60–10.60 for pooled libraries with individual barcodes; both techniques allow for up to 144 samples to be pooled on a single lane with the barcodes tested herein.
+UR - http://www.cshprotocols.org/cgi/doi/10.1101/pdb.prot074187
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Xu, Q.; Schlabach, M. R.; Hannon, G. J.; Elledge, S. J.
+T1 - Design of 240,000 orthogonal 25mer DNA barcode probes
+JA - Proceedings of the National Academy of Sciences
+VL - 106
+IS - 7
+SP - 2289
+EP - 2294
+U1 - 10.1073/pnas.0812506106(DOI)
+N2 - DNA barcodes linked to genetic features greatly facilitate screening these features in pooled formats using microarray hybridization, and new tools are needed to design large sets of barcodes to allow construction of large barcoded mammalian libraries such as shRNA libraries. Here we report a framework for designing large sets of orthogonal barcode probes. We demonstrate the utility of this framework by designing 240,000 barcode probes and testing their performance by hybridization. From the test hybridizations, we also discovered new probe design rules that significantly reduce cross-hybridization after their introduction into the framework of the algorithm. These rules should improve the performance of DNA microarray probe designs for many applications.
+UR - http://www.pnas.org/cgi/doi/10.1073/pnas.0812506106
+ER -
+

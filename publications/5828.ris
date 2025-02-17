@@ -1,0 +1,16 @@
+TY - JOUR
+ID - pmid_18757756
+A1 - H. Song, J. E. Buhay, M. F. Whiting and K. A. Crandall
+Y1 - 2008
+T1 - Many species in one: DNA barcoding overestimates the number of species when nuclear mitochondrial pseudogenes are coamplified.
+JA - Proceedings of the National Academy of Sciences
+VL - 105
+IS - 36
+SP - 13486
+EP - 13491
+M1 - 2008-03-28(date received)
+U1 - 10.1073/pnas.0803076105(DOI)
+U1 - User submitted
+N2 - Nuclear mitochondrial pseudogenes (numts) are nonfunctional copies of mtDNA in the nucleus that have been found in major clades of eukaryotic organisms. They can be easily coamplified with orthologous mtDNA by using conserved universal primers; however, this is especially problematic for DNA barcoding, which attempts to characterize all living organisms by using a short fragment of the mitochondrial cytochrome c oxidase I (COI) gene. Here, we study the effect of numts on DNA barcoding based on phylogenetic and barcoding analyses of numt and mtDNA sequences in two divergent lineages of arthropods: grasshoppers and crayfish. Single individuals from both organisms have numts of the COI gene, many of which are highly divergent from orthologous mtDNA sequences, and DNA barcoding analysis incorrectly overestimates the number of unique species based on the standard metric of 3% sequence divergence. Removal of numts based on a careful examination of sequence characteristics, including indels, in-frame stop codons, and nucleotide composition, drastically reduces the incorrect inferences of the number of unique species, but even such rigorous quality control measures fail to identify certain numts. We also show that the distribution of numts is lineage-specific and the presence of numts cannot be known a priori. Whereas DNA barcoding strives for rapid and inexpensive generation of molecular species tags, we demonstrate that the presence of COI numts makes this goal difficult to achieve when numts are prevalent and can introduce serious ambiguity into DNA barcoding.
+ER -
+

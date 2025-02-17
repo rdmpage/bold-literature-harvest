@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Sujeevan Ratnasingham
+Y1 - 2015
+T1 - Informatics tools for the second decade of DNA barcoding
+JA - Genome
+VL - 58
+IS - 5
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - The Barcode of Life Data System (BOLD) was launched in 2005 as a workbench and repository in support of a growing community of researchers focused on building the DNA barcode library of all eukaryotic life. This platform was highly successful during the first decade of DNA barcoding with 4.2M+ barcodes representing 490K+ species hosted, and over 30K species identifications provided per week. It is clear, however, that the future informatics needs of the barcoding community will exceed the capabilities of the current system. The overwhelming success of DNA barcode studies across the taxonomic spectrum has resulted in the adoption of this method in many life science fields, most notably in systematics, ecology, forensics, and conservation biology. With each field finding novel uses, some extending and deviating from the original DNA barcode concept, there are new and diverse requirements for informatics tools. In recognition of this expanded landscape, the next generation of informatics tools will need to employ new strategies, data standards, and workflows. Important aspects of this future include an adoption of bigdata concepts and tools, democratization of DNA barcoding by improving access to this methodology, and a shift of focus from data collection to knowledge generation. I present early solutions to these challenges, including the latest version of BOLD (version 4), new tools, and future plans to address the evolving informatics requirements in the second decade of DNA barcoding.
+ER -
+

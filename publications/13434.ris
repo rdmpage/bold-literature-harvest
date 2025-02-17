@@ -1,0 +1,25 @@
+TY - JOUR
+ID - n/a
+A1 - Tim Maes, Zoë De Corte, Carl Vangestel, Massimiliano Virgilio, Nathalie Smitz, Félicité F. Djuikwo-Teukeng, Maria Ioanna Papadaki & Tine Huyse
+Y1 - 2022
+T1 - Large-scale and small-scale population genetic structure of the medically important gastropod species Bulinus truncatus (Gastropoda, Heterobranchia)
+JA - Parasites & Vectors
+VL - 328
+IS - 15
+SP - /
+U1 - https://doi.org/10.1186/s13071-022-05445-x(DOI)
+U1 - User submitted
+N2 - Background
+Gastropod snails remain strongly understudied, despite their important role in transmitting parasitic diseases. Knowledge of their distribution and population dynamics increases our understanding of the processes driving disease transmission. We report the first study to use high-throughput sequencing (HTS) to elucidate the population genetic structure of the hermaphroditic snail Bulinus truncatus (Gastropoda, Heterobranchia) on a regional (17–150 km) and inter-regional (1000–5400 km) scale. This snail species acts as an intermediate host of Schistosoma haematobium and Schistosoma bovis, which cause human and animal schistosomiasis respectively.
+
+Methods
+Bulinus truncatus snails were collected in Senegal, Cameroon, Egypt and France and identified through DNA barcoding. A single-end genotyping-by-sequencing (GBS) library, comprising 87 snail specimens from the respective countries, was built and sequenced on an Illumina HiSeq 2000 platform. Reads were mapped against S. bovis and S. haematobium reference genomes to identify schistosome infections, and single nucleotide polymorphisms (SNPs) were scored using the Stacks pipeline. These SNPs were used to estimate genetic diversity, assess population structure and construct phylogenetic trees of B. truncatus.
+
+Results
+A total of 10,750 SNPs were scored and used in downstream analyses. The phylogenetic analysis identified five clades, each consisting of snails from a single country but with two distinct clades within Senegal. Genetic diversity was low in all populations, reflecting high selfing rates, but varied between locations due to habitat variability. Significant genetic differentiation and isolation by distance patterns were observed at both spatial scales, indicating that gene flow is not strong enough to counteract the effects of population bottlenecks, high selfing rates and genetic drift. Remarkably, the population genetic differentiation on a regional scale (i.e. within Senegal) was as large as that between populations on an inter-regional scale. The blind GBS technique was able to pick up parasite DNA in snail tissue, demonstrating the potential of HTS techniques to further elucidate the role of snail species in parasite transmission.
+
+Conclusions
+HTS techniques offer a valuable toolbox to further investigate the population genetic patterns of intermediate schistosome host snails and the role of snail species in parasite transmission.
+UR - https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-022-05445-x
+ER -
+

@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Nyberg, Lena K.; Persson, Fredrik; Berg, Johan; Bergström, Johanna; Fransson, Emelie; Olsson, Linnea; Persson, Moa; Stålnacke, Antti; Wigenius, Jens; Tegenfeldt, Jonas O.; Westerlund, Fredrik
+T1 - A single-step competitive binding assay for mapping of single DNA molecules
+JA - Biochemical and Biophysical Research Communications
+VL - 417
+IS - 1
+SP - 404
+EP - 408
+U1 - 10.1016/j.bbrc.2011.11.128(DOI)
+N2 - Optical mapping of genomic DNA is of relevance for a plethora of applications such as scaffolding for sequencing and detection of structural variations as well as identification of pathogens like bacteria and viruses. For future clinical applications it is desirable to have a fast and robust mapping method based on as few steps as possible. We here demonstrate a single-step method to obtain a DNA barcode that is directly visualized using nanofluidic devices and fluorescence microscopy. Using a mixture of YOYO-1, a bright DNA dye, and netropsin, a natural antibiotic with very high AT specificity, we obtain a DNA map with a fluorescence intensity profile along the DNA that reflects the underlying sequence. The netropsin binds to AT-tetrads and blocks these binding sites from YOYO-1 binding which results in lower fluorescence intensity from AT-rich regions of the DNA. We thus obtain a DNA barcode that is dark in AT-rich regions and bright in GC-rich regions with kilobasepair resolution. We demonstrate the versatility of the method by obtaining a barcode on DNA from the phage T4 that captures its circular permutation and agrees well with its known sequence.
+UR - http://linkinghub.elsevier.com/retrieve/pii/S0006291X11021565
+ER -
+

@@ -1,0 +1,24 @@
+TY - JOUR
+ID - n/a
+A1 - Lawrence Sirovich, Mark Y. Stoeckle and Yu Zhang
+Y1 - 2009
+T1 - A scalable method for analysis and display of DNA sequences
+JA - PLoS ONE
+VL - 4
+IS - 10
+SP - e7051
+M1 - 2009-06-29(date received)
+M1 - 2009-08-14(date accepted)
+U1 - 10.1371/journal.pone.0007051(DOI)
+U1 - User submitted
+N2 - Background
+
+Comparative DNA sequence analysis provides insight into evolution and helps construct a natural classification reflecting the Tree of Life. The growing numbers of organisms represented in DNA databases challenge tree-building techniques and the vertical hierarchical classification may obscure relationships among some groups. Approaches that can incorporate sequence data from large numbers of taxa and enable visualization of affinities across groups are desirable.
+Methodology/Principal Findings
+
+Toward this end, we developed a procedure for extracting diagnostic patterns in the form of indicator vectors from DNA sequences of taxonomic groups. In the present instance the indicator vectors were derived from mitochondrial cytochrome c oxidase I (COI) sequences of those groups and further analyzed on this basis. In the first example, indicator vectors for birds, fish, and butterflies were constructed from a training set of COI sequences, then correlations with test sequences not used to construct the indicator vector were determined. In all cases, correlation with the indicator vector correctly assigned test sequences to their proper group. In the second example, this approach was explored at the species level within the bird grouping; this also gave correct assignment, suggesting the possibility of automated procedures for classification at various taxonomic levels. A false-color matrix of vector correlations displayed affinities among species consistent with higher-order taxonomy.
+Conclusions/Significance
+
+The indicator vectors preserved DNA character information and provided quantitative measures of correlations among taxonomic groups. This method is scalable to the largest datasets envisioned in this field, provides a visually-intuitive display that captures relational affinities derived from sequence data across a diversity of life forms, and is potentially a useful complement to current tree-building techniques for studying evolutionary processes based on DNA sequence data.
+ER -
+

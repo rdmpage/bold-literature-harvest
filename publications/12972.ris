@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Lyubomir Penev, Stefan Schmidt, Andrew Polaszek, Teodor Georgiev, Jose Fernandez-Triana, Gunnar Brehm, Pavel Stoev, Axel Hausmann, Sujeevan Ratnasingham, and Paul D.N. Hebert
+Y1 - 2015
+T1 - Streamlining scholarly publication of Barcode of Life data
+JA - Genome
+VL - 58
+IS - 5
+SP - 163
+EP - 303
+U1 - User submitted
+N2 - Biodiversity data are accumulating at an unprecedented rate. However, their scholarly publication often happens at the expense of tedious and time-consuming conversions that transform structured data into non-machine-readable and non-reusable formats, such as PDF and paper, thus adding to the ever-growing backlog of these types of data. This is a deeply inefficient process that has to change. Publication of biodiversity data needs to be fast, efficient, and structured. Results: The Biodiversity Data Journal (BDJ) successfully tested several routes to export specimen and other data from the Barcode of Life Data Systems (BOLD) to BDJ's authoring tool via APIs and (or) Excel spreadsheets. The authoring tool allows authors to further elaborate manuscripts online in collaboration with co-authors and peers; for example, by providing specific epithets, concise morphological descriptions and diagnoses, type specimen data, and additional taxonomic remarks, to complete the formal publication in a way that meets the requirements of the codes of biological nomenclature. The final version of the manuscript is submitted to BDJ “at the click of a button” for further community peer-review, publication, and dissemination. On the very day of publication, BOLD can update its original records either through automated metadata export or by a harvesting mechanism. Occurrence records are automatically exported and indexed in the Global Biodiversity Information Facility (GBIF). Data paper manuscripts describing barcode data sets—also known as “barcode data release” papers—can also be extracted from the metadata descriptors at BOLD and finalized in BDJ's authoring tool. Significance: Data are imported into manuscripts and published in both humanreadable text and structured Darwin Core formats that can be downloaded by humans, or harvested by computers straight from the journal article. This workflow saves a great deal of effort for all parties involved— authors, editors, future users, and data aggregators.
+ER -
+

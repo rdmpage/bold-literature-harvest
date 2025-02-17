@@ -1,0 +1,26 @@
+TY - JOUR
+ID - n/a
+A1 - Yoamel Milián-García, Christopher A Hempel, Lauren AA Janke, Robert G Young, Tara Furukawa-Stoffer, Aruna Ambagala, Dirk Steinke, Robert H Hanner
+Y1 - 2022
+T1 - Mitochondrial genome sequencing, mapping, and assembly benchmarking for Culicoides species (Diptera: Ceratopogonidae)
+JA - BMC genomics
+VL - 23
+IS - 1
+SP - 18
+U1 - 10.1186/s12864‐022‐08743‐x(DOI)
+U1 - User submitted
+N2 - Background
+Mitochondrial genomes are the most sequenced genomes after bacterial and fungal genomic DNA. However, little information on mitogenomes is available for multiple metazoan taxa, such as Culicoides, a globally distributed, megadiverse genus containing 1,347 species.
+
+Aim
+ Generating novel mitogenomic information from single Culicoides sonorensis and C. biguttatus specimens, comparing available mitogenome mapping and de novo assembly tools, and identifying the best performing strategy and tools for Culicoides species.
+
+Results
+We present two novel and fully annotated mitochondrial haplotypes for two Culicoides species, C. sonorensis and C. biguttatus. We also annotated or re-annotated the only available reference mitogenome for C. sonorensis and C. arakawae. All species present a high similarity in mitogenome organization. The general gene arrangement for all Culicoides species was identical to the ancestral insect mitochondrial genome. Only short spacers were found in C. sonorensis (up to 30 bp), contrary to C. biguttatus (up to 114 bp). The mitochondrial genes ATP8, NAD2, NAD6, and LSU rRNA exhibited the highest nucleotide diversity and pairwise interspecific p genetic distance, suggesting that these genes might be suitable and complementary molecular barcodes for Culicoides identification in addition to the commonly utilized COI gene.
+
+We observed performance differences between the compared mitogenome generation strategies. The mapping strategy outperformed the de novo assembly strategy, but mapping results were partially biased in the absence of species-specific reference mitogenome. Among the utilized tools, BWA performed best for C. sonorensis while SPAdes, MEGAHIT, and MitoZ were among the best for C. biguttatus. The best-performing mitogenome annotator was MITOS2. Additionally, we were able to recover exogenous mitochondrial DNA from Bos taurus (biting midges host) from a C. biguttatus blood meal sample.
+
+Conclusions
+Two novel annotated mitogenome haplotypes for C. sonorensis and C. biguttatus using High-Throughput Sequencing are presented. Current results are useful as the baseline for mitogenome reconstruction of the remaining Culicoides species from single specimens to HTS and genome annotation. Mapping to a species-specific reference mitogenome generated better results for Culicoides mitochondrial genome reconstruction than de novo assembly, while de novo assembly resulted better in the absence of a closely related reference mitogenome. These results have direct implications for molecular-based identification of these vectors of human and zoonotic diseases, setting the basis for using the whole mitochondrial genome as a marker in Culicoides identification.
+ER -
+

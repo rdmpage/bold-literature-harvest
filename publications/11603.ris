@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Munch, Kasper; Boomsma, Wouter; Huelsenbeck, John; Willerslev, Eske; Nielsen, Rasmus
+T1 - Statistical Assignment of DNA Sequences Using Bayesian Phylogenetics
+JA - Systematic Biology
+VL - 57
+IS - 5
+SP - 750
+EP - 757
+U1 - 10.1080/10635150802422316(DOI)
+N2 - We provide a new automated statistical method for DNA barcoding based on a Bayesian phylogenetic analysis. The method is based on automated database sequence retrieval, alignment, and phylogenetic analysis using a custom-built program for Bayesian phylogenetic analysis. We show on real data that the method outperforms Blast searches as a measure of confidence and can help eliminate 80% of all false assignment based on best Blast hit. However, the most important advance of the method is that it provides statistically meaningful measures of confidence. We apply the method to a re-analysis of previously published ancient DNA data and show that, with high statistical confidence, most of the published sequences are in fact of Neanderthal origin. However, there are several cases of chimeric sequences that are comprised of a combination of both Neanderthal and modern human DNA.
+UR - http://sysbio.oxfordjournals.org/cgi/doi/10.1080/10635150802422316
+ER -
+

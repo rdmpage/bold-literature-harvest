@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Jose S. Hleap, Joanne E. Littlefair, Dirk Steinke, Paul D. N. Hebert, Melania E. Cristescu
+Y1 - 2021
+T1 - Assessment of current taxonomic assignment strategies for metabarcoding eukaryotes
+JA - Molecular Ecology Resources
+VL - 21
+IS - 7
+SP - 14
+U1 - 10.1111/1755-0998.13407(DOI)
+U1 - User submitted
+N2 - The effective use of metabarcoding in biodiversity science has brought important analytical challenges due to the need to generate accurate taxonomic assignments. The assignment of sequences to genus or species level is critical for biodiversity surveys and biomonitoring, but it is particularly challenging as researchers must select the approach that best recovers information on species composition. This study evaluates the performance and accuracy of seven methods in recovering the species composition of mock communities by using COI barcode fragments. The mock communities varied in species number and specimen abundance, while upstream molecular and bioinformatic variables were held constant, and using a set of COI fragments. We evaluated the impact of parameter optimization on the quality of the predictions. Our results indicate that BLAST top hit competes well with more complex approaches if optimized for the mock community under study. For example, the two machine learning methods that were benchmarked proved more sensitive to reference database heterogeneity and completeness than methods based on sequence similarity. The accuracy of assignments was impacted by both species and specimen counts (query compositional heterogeneity) which ultimately influence the selection of appropriate software. We urge researchers to: (i) use realistic mock communities to allow optimization of parameters, regardless of the taxonomic assignment method employed; (ii) carefully choose and curate the reference databases including completeness; and (iii) use QIIME, BLAST or LCA methods, in conjunction with parameter tuning to better assign taxonomy to diverse communities, especially when information on species diversity is lacking for the area under study.
+ER -
+

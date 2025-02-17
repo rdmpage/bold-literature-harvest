@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Chen, Zhang-Fan; Matsumura, Kiyotaka; Wang, Hao; Arellano, Shawn M.; Yan, Xingcheng; Alam, Intikhab; Archer, John A. C.; Bajic, Vladimir B.; Qian, Pei-Yuan
+T1 - Toward an Understanding of the Molecular Mechanisms of Barnacle Larval Settlement: A Comparative Transcriptomic Approach
+JA - PLoS ONE
+VL - 6
+IS - 7
+SP - e22913
+U1 - 10.1371/journal.pone.0022913(DOI)
+N2 - Background The barnacle Balanus amphitrite is a globally distributed biofouler and a model species in intertidal ecology and larval settlement studies. However, a lack of genomic information has hindered the comprehensive elucidation of the molecular mechanisms coordinating its larval settlement. The pyrosequencing-based transcriptomic approach is thought to be useful to identify key molecular changes during larval settlement. 
+
+Methodology and Principal Findings Using 454 pyrosequencing, we collected totally 630,845 reads including 215,308 from the larval stages and 415,537 from the adults; 23,451 contigs were generated while 77,785 remained as singletons. We annotated 31,720 of the 92,322 predicted open reading frames, which matched hits in the NCBI NR database, and identified 7,954 putative genes that were differentially expressed between the larval and adult stages. Of these, several genes were further characterized with quantitative real-time PCR and in situ hybridization, revealing some key findings: 1) vitellogenin was uniquely expressed in late nauplius stage, suggesting it may be an energy source for the subsequent non-feeding cyprid stage; 2) the locations of mannose receptors suggested they may be involved in the sensory system of cyprids; 3) 20 kDa-cement protein homologues were expressed in the cyprid cement gland and probably function during attachment; and 4) receptor tyrosine kinases were expressed higher in cyprid stage and may be involved in signal perception during larval settlement. 
+
+Conclusions Our results provide not only the basis of several new hypotheses about gene functions during larval settlement, but also the availability of this large transcriptome dataset in B. amphitrite for further exploration of larval settlement and developmental pathways in this important marine species.
+UR - http://dx.plos.org/10.1371/journal.pone.0022913
+ER -
+

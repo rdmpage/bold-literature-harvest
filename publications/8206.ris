@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Rigola, Diana; van Oeveren, Jan; Janssen, Antoine; Bonné, Anita; Schneiders, Harrie; van der Poel, Hein J. A.; van Orsouw, Nathalie J.; Hogers, René C. J.; de Both, Michiel T. J.; van Eijk, Michiel J. T.
+T1 - High-Throughput Detection of Induced Mutations and Natural Variation Using KeyPoint™ Technology
+JA - PLoS ONE
+VL - 4
+IS - 3
+SP - e4761
+U1 - 10.1371/journal.pone.0004761(DOI)
+N2 - Reverse genetics approaches rely on the detection of sequence alterations in target genes to identify allelic variants among mutant or natural populations. Current (pre-) screening methods such as TILLING and EcoTILLING are based on the detection of single base mismatches in heteroduplexes using endonucleases such as CEL 1. However, there are drawbacks in the use of endonucleases due to their relatively poor cleavage efficiency and exonuclease activity. Moreover, pre-screening methods do not reveal information about the nature of sequence changes and their possible impact on gene function. We present KeyPoint™ technology, a high-throughput mutation/polymorphism discovery technique based on massive parallel sequencing of target genes amplified from mutant or natural populations. KeyPoint combines multi-dimensional pooling of large numbers of individual DNA samples and the use of sample identification tags (“sample barcoding”) with next-generation sequencing technology. We show the power of KeyPoint by identifying two mutants in the tomato eIF4E gene based on screening more than 3000 M2 families in a single GS FLX sequencing run, and discovery of six haplotypes of tomato eIF4E gene by re-sequencing three amplicons in a subset of 92 tomato lines from the EU-SOL core collection. We propose KeyPoint technology as a broadly applicable amplicon sequencing approach to screen mutant populations or germplasm collections for identification of (novel) allelic variation in a high-throughput fashion.
+UR - http://dx.plos.org/10.1371/journal.pone.0004761
+ER -
+

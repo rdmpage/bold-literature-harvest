@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Riaz, T.; Shehzad, W.; Viari, A.; Pompanon, F.; Taberlet, P.; Coissac, E.
+T1 - ecoPrimers: inference of new DNA barcode markers from whole genome sequence analysis
+JA - Nucleic Acids Research
+VL - 39
+IS - 21
+SP - e145
+EP - e145
+U1 - 10.1093/nar/gkr732(DOI)
+N2 - Using non-conventional markers, DNA metabarcoding allows biodiversity assessment from complex substrates. In this article, we present ecoPrimers, a software for identifying new barcode markers and their associated PCR primers. ecoPrimers scans whole genomes to find such markers without a priori knowledge. ecoPrimers optimizes two quality indices measuring taxonomical range and discrimination to select the most efficient markers from a set of reference sequences, according to specific experimental constraints such as marker length or specifically targeted taxa. The key step of the algorithm is the identification of conserved regions among reference sequences for anchoring primers. We propose an efficient algorithm based on data mining, that allows the analysis of huge sets of sequences. We evaluate the efficiency of ecoPrimers by running it on three different sequence sets: mitochondrial, chloroplast and bacterial genomes. Identified barcode markers correspond either to barcode regions already in use for plants or animals, or to new potential barcodes. Results from empirical experiments carried out on a promising new barcode for analyzing vertebrate diversity fully agree with expectations based on bioinformatics analysis. These tests demonstrate the efficiency of ecoPrimers for inferring new barcodes fitting with diverse experimental contexts. ecoPrimers is available as an open source project at: http://www.grenoble.prabi.fr/trac/ecoPrimers.
+UR - http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkr732
+ER -
+

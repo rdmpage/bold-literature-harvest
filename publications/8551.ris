@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Ludlow, Catherine L; Scott, Adrian C; Cromie, Gareth A; Jeffery, Eric W; Sirr, Amy; May, Patrick; Lin, Jake; Gilbert, Teresa L; Hays, Michelle; Dudley, Aimée M
+T1 - High-throughput tetrad analysis
+JA - Nature Methods
+VL - 10
+IS - 7
+SP - 671
+EP - 675
+U1 - 10.1038/nmeth.2479(DOI)
+N2 - Tetrad analysis has been a gold-standard genetic technique for several decades. Unfortunately, the need to manually isolate, disrupt and space tetrads has relegated its application to small-scale studies and limited its integration with high-throughput DNA sequencing technologies. We have developed a rapid, high-throughput method, called barcode-enabled sequencing of tetrads (BEST), that uses (i) a meiosis-specific GFP fusion protein to isolate tetrads by FACS and (ii) molecular barcodes that are read during genotyping to identify spores derived from the same tetrad. Maintaining tetrad information allows accurate inference of missing genetic markers and full genotypes of missing (and presumably nonviable) individuals. An individual researcher was able to isolate over 3,000 yeast tetrads in 3 h, an output equivalent to that of almost 1 month of manual dissection. BEST is transferable to other microorganisms for which meiotic mapping is significantly more laborious.
+UR - http://www.nature.com/doifinder/10.1038/nmeth.2479
+ER -
+

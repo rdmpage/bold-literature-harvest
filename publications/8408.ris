@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Egge, Elianne; Bittner, Lucie; Andersen, Tom; Audic, Stéphane; de Vargas, Colomban; Edvardsen, Bente
+T1 - 454 Pyrosequencing to Describe Microbial Eukaryotic Community Composition, Diversity and Relative Abundance: A Test for Marine Haptophytes
+JA - PLoS ONE
+VL - 8
+IS - 9
+SP - e74371
+U1 - 10.1371/journal.pone.0074371(DOI)
+N2 - Next generation sequencing of ribosomal DNA is increasingly used to assess the diversity and structure of microbial communities. Here we test the ability of 454 pyrosequencing to detect the number of species present, and assess the relative abundance in terms of cell numbers and biomass of protists in the phylum Haptophyta. We used a mock community consisting of equal number of cells of 11 haptophyte species and compared targeting DNA and RNA/cDNA, and two different V4 SSU rDNA haptophyte-biased primer pairs. Further, we tested four different bioinformatic filtering methods to reduce errors in the resulting sequence dataset. With sequencing depth of 11000–20000 reads and targeting cDNA with Haptophyta specific primers Hap454 we detected all 11 species. A rarefaction analysis of expected number of species recovered as a function of sampling depth suggested that minimum 1400 reads were required here to recover all species in the mock community. Relative read abundance did not correlate to relative cell numbers. Although the species represented with the largest biomass was also proportionally most abundant among the reads, there was generally a weak correlation between proportional read abundance and proportional biomass of the different species, both with DNA and cDNA as template. The 454 sequencing generated considerable spurious diversity, and more with cDNA than DNA as template. With initial filtering based only on match with barcode and primer we observed 100-fold more operational taxonomic units (OTUs) at 99% similarity than the number of species present in the mock community. Filtering based on quality scores, or denoising with PyroNoise resulted in ten times more OTU99% than the number of species. Denoising with AmpliconNoise reduced the number of OTU99% to match the number of species present in the mock community. Based on our analyses, we propose a strategy to more accurately depict haptophyte diversity using 454 pyrosequencing.
+UR - http://dx.plos.org/10.1371/journal.pone.0074371
+ER -
+

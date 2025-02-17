@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Stoeckle, Mark Y.; Kerr, Kevin C. R.
+Y1 - 2012
+T1 - Frequency Matrix Approach Demonstrates High Sequence Quality in Avian BARCODEs and Highlights Cryptic Pseudogenes
+JA - PLoS ONE
+VL - 7
+IS - 8
+SP - e43992
+U1 - 10.1371/journal.pone.0043992(DOI)
+U1 - User submitted
+N2 - The accuracy of DNA barcode databases is critical for research and practical applications. Here we apply a frequency matrix to assess sequencing errors in a very large set of avian BARCODEs. Using 11,000 sequences from 2,700 bird species, we show most avian cytochrome c oxidase I (COI) nucleotide and amino acid sequences vary within a narrow range. Except for third codon positions, nearly all (96%) sites were highly conserved or limited to two nucleotides or two amino acids. A large number of positions had very low frequency variants present in single individuals of a species; these were strongly concentrated at the ends of the barcode segment, consistent with sequencing error. In addition, a small fraction (0.1%) of BARCODEs had multiple very low frequency variants shared among individuals of a species; these were found to represent overlooked cryptic pseudogenes lacking stop codons. The calculated upper limit of sequencing error was 8×10−5 errors/nucleotide, which was relatively high for direct Sanger sequencing of amplified DNA, but unlikely to compromise species identification. Our results confirm the high quality of the avian BARCODE database and demonstrate significant quality improvement in avian COI records deposited in GenBank over the past decade. This approach has potential application for genetic database quality control, discovery of cryptic pseudogenes, and studies of low-level genetic variation.
+UR - http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0043992&representation=PDF
+ER -
+

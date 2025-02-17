@@ -1,0 +1,25 @@
+TY - JOUR
+ID - n/a
+A1 - Nilsson, R. Henrik; Veldre, Vilmar; Wang, Zheng; Eckart, Martin; Branco, Sara; Hartmann, Martin; Quince, Christopher; Godhe, Anna; Bertrand, Yann; Alfredsson, Johan F.; Larsson, Karl-Henrik; KÃµljalg, Urmas; Abarenkov, Kessy
+Y1 - 2011
+T1 - A note on the incidence of reverse complementary fungal ITS sequences in the public sequence databases and a software tool for their detection and reorientation
+JA - Mycoscience
+VL - 52
+IS - 4
+SP - 278
+EP - 282
+U1 - 10.1007/S10267-010-0086-Z(DOI)
+U1 - User submitted
+N2 - Reverse complementary DNA sequences––
+sequences that are inadvertently cast backward and in
+which all purines and pyrimidines are transposed––are not
+uncommon in sequence databases, where they may introduce noise into sequence-based research. We show that
+about 1% of the public fungal ITS sequences, the most
+commonly sequenced genetic marker in mycology, are
+reverse complementary, and we introduce an open source
+software solution to automate their detection and reorientation. The MacOSX/Linux/UNIX software operates on
+public or private datasets of any size, although some 50
+base pairs of the 5.8S gene of the ITS region are needed for
+the analysis.
+ER -
+

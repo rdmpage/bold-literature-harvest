@@ -1,0 +1,11 @@
+TY - JOUR
+ID - n/a
+A1 - Adachi, Kei; Enoki, Tatsuji; Kawano, Yasuhiro; Veraz, Michael; Nakai, Hiroyuki
+T1 - Drawing a high-resolution functional map of adeno-associated virus capsid by massively parallel sequencing
+JA - Nature Communications
+VL - 5
+U1 - 10.1038/ncomms4075(DOI)
+N2 - Adeno-associated virus (AAV) capsid engineering is an emerging approach to advance gene therapy. However, a systematic analysis on how each capsid amino acid contributes to multiple functions remains challenging. Here we show proof-of-principle and successful application of a novel approach, termed AAV Barcode-Seq, that allows us to characterize phenotypes of hundreds of different AAV strains in a high-throughput manner and therefore overcomes technical difficulties in the systematic analysis. In this approach, we generate DNA barcode-tagged AAV libraries and determine a spectrum of phenotypes of each AAV strain by Illumina barcode sequencing. By applying this method to AAV capsid mutant libraries tagged with DNA barcodes, we can draw a high-resolution map of AAV capsid amino acids important for the structural integrity and functions including receptor binding, tropism, neutralization and blood clearance. Thus, Barcode-Seq provides a new tool to generate a valuable resource for virus and gene therapy research.
+UR - http://www.nature.com/doifinder/10.1038/ncomms4075
+ER -
+

@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Sun, Xiaowen; Liu, Dongyuan; Zhang, Xiaofeng; Li, Wenbin; Liu, Hui; Hong, Weiguo; Jiang, Chuanbei; Guan, Ning; Ma, Chouxian; Zeng, Huaping; Xu, Chunhua; Song, Jun; Huang, Long; Wang, Chunmei; Shi, Junjie; Wang, Rui; Zheng, Xianhu; Lu, Cuiyun; Wang, Xiaowu; Zheng, Hongkun
+T1 - SLAF-seq: An Efficient Method of Large-Scale De Novo SNP Discovery and Genotyping Using High-Throughput Sequencing
+JA - PLoS ONE
+VL - 8
+IS - 3
+SP - e58700
+U1 - 10.1371/journal.pone.0058700(DOI)
+N2 - Large-scale genotyping plays an important role in genetic association studies. It has provided new opportunities for gene discovery, especially when combined with high-throughput sequencing technologies. Here, we report an efficient solution for large-scale genotyping. We call it specific-locus amplified fragment sequencing (SLAF-seq). SLAF-seq technology has several distinguishing characteristics: i) deep sequencing to ensure genotyping accuracy; ii) reduced representation strategy to reduce sequencing costs; iii) pre-designed reduced representation scheme to optimize marker efficiency; and iv) double barcode system for large populations. In this study, we tested the efficiency of SLAF-seq on rice and soybean data. Both sets of results showed strong consistency between predicted and practical SLAFs and considerable genotyping accuracy. We also report the highest density genetic map yet created for any organism without a reference genome sequence, common carp in this case, using SLAF-seq data. We detected 50,530 high-quality SLAFs with 13,291 SNPs genotyped in 211 individual carp. The genetic map contained 5,885 markers with 0.68 cM intervals on average. A comparative genomics study between common carp genetic map and zebrafish genome sequence map showed high-quality SLAF-seq genotyping results. SLAF-seq provides a high-resolution strategy for large-scale genotyping and can be generally applicable to various species and populations.
+UR - http://dx.plos.org/10.1371/journal.pone.0058700
+ER -
+

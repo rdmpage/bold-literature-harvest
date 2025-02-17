@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Shiroguchi, K.; Jia, T. Z.; Sims, P. A.; Xie, X. S.
+T1 - Digital RNA sequencing minimizes sequence-dependent bias and amplification noise with optimized single-molecule barcodes
+JA - Proceedings of the National Academy of Sciences
+VL - 109
+IS - 4
+SP - 1347
+EP - 1352
+U1 - 10.1073/pnas.1118018109(DOI)
+N2 - RNA sequencing (RNA-Seq) is a powerful tool for transcriptome profiling, but is hampered by sequence-dependent bias and inaccuracy at low copy numbers intrinsic to exponential PCR amplification. We developed a simple strategy for mitigating these complications, allowing truly digital RNA-Seq. Following reverse transcription, a large set of barcode sequences is added in excess, and nearly every cDNA molecule is uniquely labeled by random attachment of barcode sequences to both ends. After PCR, we applied paired-end deep sequencing to read the two barcodes and cDNA sequences. Rather than counting the number of reads, RNA abundance is measured based on the number of unique barcode sequences observed for a given cDNA sequence. We optimized the barcodes to be unambiguously identifiable, even in the presence of multiple sequencing errors. This method allows counting with single-copy resolution despite sequence-dependent bias and PCR-amplification noise, and is analogous to digital PCR but amendable to quantifying a whole transcriptome. We demonstrated transcriptome profiling of Escherichia coli with more accurate and reproducible quantification than conventional RNA-Seq.
+UR - http://www.pnas.org/cgi/doi/10.1073/pnas.1118018109
+ER -
+

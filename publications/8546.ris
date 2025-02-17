@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Lefrançois, Philippe; Euskirchen, Ghia M; Auerbach, Raymond K; Rozowsky, Joel; Gibson, Theodore; Yellman, Christopher M; Gerstein, Mark; Snyder, Michael
+T1 - Efficient yeast ChIP-Seq using multiplex short-read DNA sequencing
+JA - BMC Genomics
+VL - 10
+IS - 1
+SP - 37
+U1 - 10.1186/1471-2164-10-37(DOI)
+N2 - Short-read high-throughput DNA sequencing technologies provide new tools to answer biological questions. However, high cost and low throughput limit their widespread use, particularly in organisms with smaller genomes such as S. cerevisiae. Although ChIP-Seq in mammalian cell lines is replacing array-based ChIP-chip as the standard for transcription factor binding studies, ChIP-Seq in yeast is still underutilized compared to ChIP-chip. We developed a multiplex barcoding system that allows simultaneous sequencing and analysis of multiple samples using Illumina's platform. We applied this method to analyze the chromosomal distributions of three yeast DNA binding proteins (Ste12, Cse4 and RNA PolII) and a reference sample (input DNA) in a single experiment and demonstrate its utility for rapid and accurate results at reduced costs. PMID: 19159457
+UR - http://www.biomedcentral.com/1471-2164/10/37
+ER -
+

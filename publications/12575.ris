@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Rumakanta Sapkota, Mogens Nicolaisen
+Y1 - 2015
+T1 - An improved high throughput sequencing method for studying oomycete communities
+JA - Journal of Microbiological Methods
+VL - 110
+IS - 1
+SP - 33
+EP - 39
+U1 - 10.1016/j.mimet.2015.01.013(DOI)
+U1 - User submitted
+N2 - Culture-independent studies using next generation sequencing have revolutionized microbial ecology, however, oomycete ecology in soils is severely lagging behind. The aim of this study was to improve and validate standard techniques for using high throughput sequencing as a tool for studying oomycete communities. The well-known primer sets ITS4, ITS6 and ITS7 were used in the study in a semi-nested PCR approach to target the internal transcribed spacer (ITS) 1 of ribosomal DNA in a next generation sequencing protocol. These primers have been used in similar studies before, but with limited success. We were able to increase the proportion of retrieved oomycete sequences dramatically mainly by increasing the annealing temperature during PCR. The optimized protocol was validated using three mock communities and the method was further evaluated using total DNA from 26 soil samples collected from different agricultural fields in Denmark, and 11 samples from carrot tissue with symptoms of Pythium infection. Sequence data from the Pythium and Phytophthora mock communities showed that our strategy successfully detected all included species. Taxonomic assignments of OTUs from 26 soil sample showed that 95% of the sequences could be assigned to oomycetes including Pythium, Aphanomyces, Peronospora, Saprolegnia and Phytophthora. A high proportion of oomycete reads was consistently present in all 26 soil samples showing the versatility of the strategy. A large diversity of Pythium species including pathogenic and saprophytic species were dominating in cultivated soil. Finally, we analyzed amplicons from carrots with symptoms of cavity spot. This resulted in 94% of the reads belonging to oomycetes with a dominance of species of Pythium that are known to be involved in causing cavity spot, thus demonstrating the usefulness of the method not only in soil DNA but also in a plant DNA background. In conclusion, we demonstrate a successful approach for pyrosequencing of oomycete communities using ITS1 as the barcode sequence with well-known primers for oomycete DNA amplification.
+UR - http://ac.els-cdn.com/S0167701215000275/1-s2.0-S0167701215000275-main.pdf?_tid=8c0f359e-e452-11e4-b2e1-00000aab0f02&acdnat=1429200571_d52261210b8c6ac7a6aaa4f51a873a93
+ER -
+

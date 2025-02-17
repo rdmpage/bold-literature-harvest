@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Tang, D. T. P.; Plessy, C.; Salimullah, M.; Suzuki, A. M.; Calligaris, R.; Gustincich, S.; Carninci, P.
+T1 - Suppression of artifacts and barcode bias in high-throughput transcriptome analyses utilizing template switching
+JA - Nucleic Acids Research
+VL - 41
+IS - 3
+SP - e44
+EP - e44
+U1 - 10.1093/nar/gks1128(DOI)
+N2 - Template switching (TS) has been an inherent mechanism of reverse transcriptase, which has been exploited in several transcriptome analysis methods, such as CAGE, RNA-Seq and short RNA sequencing. TS is an attractive option, given the simplicity of the protocol, which does not require an adaptor mediated step and thus minimizes sample loss. As such, it has been used in several studies that deal with limited amounts of RNA, such as in single cell studies. Additionally, TS has also been used to introduce DNA barcodes or indexes into different samples, cells or molecules. This labeling allows one to pool several samples into one sequencing flow cell, increasing the data throughput of sequencing and takes advantage of the increasing throughput of current sequences. Here, we report TS artifacts that form owing to a process called strand invasion. Due to the way in which barcodes/indexes are introduced by TS, strand invasion becomes more problematic by introducing unsystematic biases. We describe a strategy that eliminates these artifacts in silico and propose an experimental solution that suppresses biases from TS.
+UR - http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gks1128
+ER -
+

@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Samuel D. J. Brown, Rupert A. Collins, Stephane Boyer, Marie-Caroline Lefort, Jagoba Malumbres-Olarte, Cor J. Vink and Robert H. Cruickshank
+Y1 - 2012
+T1 - Spider: An R package for the analysis of species identity and evolution, with particular reference to DNA barcoding
+JA - Molecular Ecology Resources
+VL - 12
+IS - 3
+SP - 562
+EP - 565
+U1 - 10.1111/j.1755-0998.2011.03108.x(DOI)
+U1 - User submitted
+N2 - Spider: SPecies IDentity and Evolution in R is a new R package implementing a number of useful analyses for DNA barcoding studies and associated research into species delimitation and speciation. Included are functions essential for generating important summary statistics from DNA barcode data, assessing specimen identification efficacy, and for testing and optimizing divergence threshold limits. In terms of investigating evolutionary and taxonomic questions, techniques for assessing diagnostic nucleotides and probability of reciprocal monophyly are also provided. Additionally, a sliding window function offers opportunities to analyse information across a gene, essential for marker design in degraded DNA studies. Spider capitalizes on R’s extensible ethos and offers an integrated platform ideal for the analysis of both nucleotide and morphological data. The program can be obtained from the comprehensive R archive network (CRAN, http://cran.r-project.org) and from the R-Forge package development site (http://spider.r-forge.r-project.org/).
+UR - http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2011.03108.x/pdf
+ER -
+

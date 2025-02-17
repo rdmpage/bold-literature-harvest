@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Adams, Rachel I.; Amend, Anthony S.; Taylor, John W.; Bruns, Thomas D.
+T1 - A Unique Signal Distorts the Perception of Species Richness and Composition in High-Throughput Sequencing Surveys of Microbial Communities: a Case Study of Fungi in Indoor Dust
+JA - Microbial Ecology
+VL - 66
+IS - 4
+SP - 735
+EP - 741
+U1 - 10.1007/s00248-013-0266-4(DOI)
+N2 - Sequence-based surveys of microorganisms in varied environments have found extremely diverse assemblages. A standard practice in current high-throughput sequence (HTS) approaches in microbial ecology is to sequence the composition of many environmental samples at once by pooling amplicon libraries at a common concentration before processing on one run of a sequencing platform. Biomass of the target taxa, however, is not typically determined prior to HTS, and here, we show that when abundances of the samples differ to a large degree, this standard practice can lead to a perceived bias in community richness and composition. Fungal signal in settled dust of five university teaching laboratory classrooms, one of which was used for a mycology course, was surveyed. The fungal richness and composition in the dust of the nonmycology classrooms were remarkably similar to each other, while the mycology classroom was dominated by abundantly sporulating specimen fungi, particularly puffballs, and appeared to have a lower overall richness based on rarefaction curves and richness estimators. The fungal biomass was three to five times higher in the mycology classroom than the other classrooms, indicating that fungi added to the mycology classroom swamped the background fungi present in indoor air. Thus, the high abundance of a few taxa can skew the perception of richness and composition when samples are sequenced to an even depth. Next, we used in silico manipulations of the observed data to confirm that a unique signature can be identified with HTS approaches when the source is abundant, whether or not the taxon identity is distinct. Lastly, aerobiology of indoor fungi is discussed.
+UR - http://link.springer.com/10.1007/s00248-013-0266-4
+ER -
+

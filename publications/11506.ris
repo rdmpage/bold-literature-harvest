@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Větrovský, Tomáš; Baldrian, Petr
+T1 - Analysis of soil fungal communities by amplicon pyrosequencing: current approaches to data analysis and the introduction of the pipeline SEED
+JA - Biology and Fertility of Soils
+VL - 49
+IS - 8
+SP - 1027
+EP - 1037
+U1 - 10.1007/s00374-013-0801-y(DOI)
+N2 - Fungi are important in soils as both decomposers and plant symbionts, and an understanding of the composition of their complex communities is thus indispensable to answer a variety of ecological questions. 454 Pyrosequencing is currently the method of choice for the in-depth analysis of fungal communities. However, the interpretation of its results is complicated by differences in data analysis approaches that make inter-study comparisons difficult. The pyrosequencing studies published so far have also used variable molecular targets in fungal rDNA. Although the ITS region and, in particular, ITS1 appear to be the most frequent sequencing targets, the use of various primers with different coverages of fungal groups remains a serious problem. Sequence length limits also vary widely across studies, and in many studies, length differences may negatively affect sequence similarity clustering or identification. Unfortunately, many studies neglect the need to correct for method-dependent errors, such as pyrosequencing noise or chimeric sequences. Even when performed, error rates in sequences may be high, and consensus sequences created by sequence clustering therefore better represent operational taxonomic units. We recommend a data analysis workflow that includes sequence denoising, chimera removal, sequence trimming before clustering and random resampling before calculating diversity parameters. The newly developed free pipeline (SEED) introduced here can be used to perform all the required analytical steps. The improvement and unification of data analysis procedures should make future studies both more reliable and comparable and allow meta-studies to be performed to provide more general views on fungal diversity, biogeography or ecology.
+UR - http://link.springer.com/10.1007/s00374-013-0801-y
+ER -
+

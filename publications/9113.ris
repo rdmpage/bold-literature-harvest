@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Brugman, Martijn H.; Suerth, Julia D.; Rothe, Michael; Suerbaum, Sebastian; Schambach, Axel; Modlich, Ute; Kustikova, Olga; Baum, Christopher
+T1 - Evaluating a Ligation-Mediated PCR and Pyrosequencing Method for the Detection of Clonal Contribution in Polyclonal Retrovirally Transduced Samples
+JA - Human Gene Therapy Methods
+VL - 24
+IS - 2
+SP - 68
+EP - 79
+U1 - 10.1089/hgtb.2012.175(DOI)
+N2 - Retroviral gene transfer has proven therapeutic potential in clinical gene therapy trials but may also cause abnormal cell growth via perturbation of gene expression in the locus surrounding the insertion site. By establishing clonal marks, retroviral insertions are also used to describe the regenerative potential of individual cells. Deep sequencing approaches have become the method of choice to study insertion profiles in preclinical models and clinical trials. We used a protocol combining ligation-mediated polymerase chain reaction (LM-PCR) and pyrosequencing for insertion profiling and quantification in cells of various tissues transduced with various retroviral vectors. The presented method allows simultaneous analysis of a multitude of DNA-barcoded samples per pyrosequencing run, thereby allowing cost-effective insertion screening in studies with multiple samples. In addition, we investigated whether the number of pyrosequencing reads can be used to quantify clonal abundance. By comparing pyrosequencing reads against site-specific quantitative PCR and by performing spike-in experiments, we show that considerable variation exists in the quantification of insertion sites even when present in the same clone. Our results suggest that the protocol used here and similar approaches might misinterpret abundance clones defined by insertion sites, unless careful calibration measures are taken. The crucial variables causing this variation need to be defined and methodological improvements are required to establish pyrosequencing reads as a quantification measure in polyclonal situations.
+UR - http://online.liebertpub.com/doi/abs/10.1089/hgtb.2012.175
+ER -
+

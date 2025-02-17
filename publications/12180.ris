@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Durgante, Flávia Machado; Higuchi, Niro; Almeida, Ana; Vicentini, Alberto
+T1 - Species Spectral Signature: Discriminating closely related plant species in the Amazon with Near-Infrared Leaf-Spectroscopy
+JA - Forest Ecology and Management
+VL - 291
+SP - 240
+EP - 248
+U1 - 10.1016/j.foreco.2012.10.045(DOI)
+N2 - The combined use of high technology instruments and appropriate techniques for discriminating tree species is necessary to improve the biodiversity inventory system in tropical countries. The Fourier-Transform Near-Infrared (FT-NIR) Leaf Spectroscopy appears to be a promising tool for plant species discrimination. In this study, we demonstrate an outstanding performance of FT-NIR, extracted from dried whole leaves, to discriminate closely related species of Eschweilera and Corythophora, Lecythidaceae, a major component of Amazonian forests. We obtained 36 spectral readings, from the adaxial and abaxial surfaces of dried leaves, for 159 individuals representing 10 species. Each spectrum consisted of 1557 FT-NIR absorbance values. We compared the rate of correct specimen (individual tree) identification to species for different datasets and discriminant models, in which individual spectrum consisted of different combinations as to the number of variables (all, stepwise selected), different number of reads per specimen (all reads, adaxial, abaxial, randomly selected), and discriminant models (cross-validation, test set validation). The best results indicated 99.4% of correct specimen identification when we used the average of all 36 spectral readings per specimen and stepwise selected variables. The lowest rate was on average 96.6% when a single spectral reading was used per individual tree (randomly sampled over 100 replicates). Overall, the rate of correct species discrimination was always high and insensible to variable selection, to the different datasets, and to the two major validation models we used. These Species Spectral Signature (SSS) provided better results than current DNA barcoding for plant identification in tropical forests, and represents a fast, low-cost sampling technique. Although further tests are required to assess the potential of FT-NIR spectroscopy for plant identification at broader geographical and phylogenetic scales, the results presented in this paper indicate that SSS extracted from herbarium specimens can be a powerful reference to identify specimens, even when lacking reproductive structures, an so of particular interest for forest inventory and management.
+UR - http://linkinghub.elsevier.com/retrieve/pii/S0378112712006512
+ER -
+

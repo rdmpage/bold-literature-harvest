@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Clarke, Andrew C; Prost, Stefan; Stanton, Jo-Ann L; White, W Timothy J; Kaplan, Matthew E; Matisoo-Smith, Elizabeth A; The Genographic Consortium
+T1 - From cheek swabs to consensus sequences: an A to Z protocol for high-throughput DNA sequencing of complete human mitochondrial genomes
+JA - BMC Genomics
+VL - 15
+IS - 1
+SP - 68
+U1 - 10.1186/1471-2164-15-68(DOI)
+N2 - Background: Next-generation DNA sequencing (NGS) technologies have made huge impacts in many fields of biological research, but especially in evolutionary biology. One area where NGS has shown potential is for high-throughput sequencing of complete mtDNA genomes (of humans and other animals). Despite the increasing use of NGS technologies and a better appreciation of their importance in answering biological questions, there remain significant obstacles to the successful implementation of NGS-based projects, especially for new users. 
+
+Results: Here we present an ‘A to Z’ protocol for obtaining complete human mitochondrial (mtDNA) genomes – from DNA extraction to consensus sequence. Although designed for use on humans, this protocol could also be used to sequence small, organellar genomes from other species, and also nuclear loci. This protocol includes DNA extraction, PCR amplification, fragmentation of PCR products, barcoding of fragments, sequencing using the 454 GS FLX platform, and a complete bioinformatics pipeline (primer removal, reference-based mapping, output of coverage plots and SNP calling). 
+
+Conclusions: All steps in this protocol are designed to be straightforward to implement, especially for researchers who are undertaking next-generation sequencing for the first time. The molecular steps are scalable to large numbers (hundreds) of individuals and all steps post-DNA extraction can be carried out in 96-well plate format. Also, the protocol has been assembled so that individual ‘modules’ can be swapped out to suit available resources.
+UR - http://www.biomedcentral.com/1471-2164/15/68
+ER -
+

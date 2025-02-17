@@ -1,0 +1,22 @@
+TY - JOUR
+ID - n/a
+A1 - Jeongheui Lim, Sang-Yoon Kim, Sungmin Kim, Hae-Seok Eo, Chang-Bae Kim, Woon Paek, Won Kim and Jong Bhak
+Y1 - 2009
+T1 - BioBarcode: a general DNA barcoding database and server platform for Asian biodiversity resources
+JA - BMC Genomics
+VL - 10
+IS - S3
+SP - S8
+U1 - 10.1186/1471-2164-10-S3-S8(DOI)
+U1 - User submitted
+N2 - Background
+
+DNA barcoding provides a rapid, accurate, and standardized method for species-level identification using short DNA sequences. Such a standardized identification method is useful for mapping all the species on Earth, particularly when DNA sequencing technology is cheaply available. There are many nations in Asia with many biodiversity resources that need to be mapped and registered in databases.
+Results
+
+We have built a general DNA barcode data processing system, BioBarcode, with open source software - which is a general purpose database and server. It uses mySQL RDBMS 5.0, BLAST2, and Apache httpd server. An exemplary database of BioBarcode has around 11,300 specimen entries (including GenBank data) and registers the biological species to map their genetic relationships. The BioBarcode database contains a chromatogram viewer which improves the performance in DNA sequence analyses.
+Conclusion
+
+Asia has a very high degree of biodiversity and the BioBarcode database server system aims to provide an efficient bioinformatics protocol that can be freely used by Asian researchers and research organizations interested in DNA barcoding. The BioBarcode promotes the rapid acquisition of biological species DNA sequence data that meet global standards by providing specialized services, and provides useful tools that will make barcoding cheaper and faster in the biodiversity community such as standardization, depository, management, and analysis of DNA barcode data. The system can be downloaded upon request, and an exemplary server has been constructed with which to build an Asian biodiversity system http://www.asianbarcode.org
+ER -
+

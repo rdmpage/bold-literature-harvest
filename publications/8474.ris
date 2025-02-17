@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Zajac, Pawel; Islam, Saiful; Hochgerner, Hannah; Lönnerberg, Peter; Linnarsson, Sten
+T1 - Base Preferences in Non-Templated Nucleotide Incorporation by MMLV-Derived Reverse Transcriptases
+JA - PLoS ONE
+VL - 8
+IS - 12
+SP - e85270
+U1 - 10.1371/journal.pone.0085270(DOI)
+N2 - Reverse transcriptases derived from Moloney Murine Leukemia Virus (MMLV) have an intrinsic terminal transferase activity, which causes the addition of a few non-templated nucleotides at the 3´ end of cDNA, with a preference for cytosine. This mechanism can be exploited to make the reverse transcriptase switch template from the RNA molecule to a secondary oligonucleotide during first-strand cDNA synthesis, and thereby to introduce arbitrary barcode or adaptor sequences in the cDNA. Because the mechanism is relatively efficient and occurs in a single reaction, it has recently found use in several protocols for single-cell RNA sequencing. However, the base preference of the terminal transferase activity is not known in detail, which may lead to inefficiencies in template switching when starting from tiny amounts of mRNA. Here, we used fully degenerate oligos to determine the exact base preference at the template switching site up to a distance of ten nucleotides. We found a strong preference for guanosine at the first non-templated nucleotide, with a greatly reduced bias at progressively more distant positions. Based on this result, and a number of careful optimizations, we report conditions for efficient template switching for cDNA amplification from single cells.
+UR - http://dx.plos.org/10.1371/journal.pone.0085270
+ER -
+

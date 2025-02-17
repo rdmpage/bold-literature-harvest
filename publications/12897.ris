@@ -1,0 +1,19 @@
+TY - JOUR
+ID - n/a
+A1 - Björn Rulik, Jonas Eberle, Laura von der Mark, Jana Thormann, Manfred Jung, Frank Köhler, Wolfgang Apfel, Andreas Weigel, Andreas Kopetz, Jonas Köhler, Frank Fritzlar, Matthias Hartmann, Karl Hadulla, Joachim Schmidt, Thomas Hörren, Detlef Krebs, Florian Theves, Ute Eulitz, André Skale, Dirk Rohwedder, Andreas Kleeberg, Jonas J. Astrin, Matthias F. Geiger, J. Wolfgang Wägele, Peter Grobe & Dirk Ahrens
+Y1 - 2017
+T1 - Using taxonomic consistency with semi‐automated data pre‐processing for high quality DNA barcodes
+JA - Methods in Ecology and Evolution
+VL - 8
+IS - 12
+SP - 1878
+EP - 1887
+U1 - 10.1111/2041-210X.12824(DOI)
+U1 - User submitted
+N2 -     In recent years, large‐scale DNA barcoding campaigns have generated an enormous amount of COI barcodes, which are usually stored in NCBI's GenBank and the official Barcode of Life database (BOLD). BOLD data are generally associated with more detailed and better curated meta‐data, because a great proportion is based on expert‐verified and vouchered material, accessible in public collections. In the course of the initiative German Barcode of Life data were generated for the reference library of 2,846 species of Coleoptera from 13,516 individuals.
+    Confronted with the high effort associated with the identification, verification and data validation, a bioinformatic pipeline, “TaxCI” was developed that (1) identifies taxonomic inconsistencies in a given tree topology (optionally including a reference dataset), (2) discriminates between different cases of incongruence in order to identify contamination or misidentified specimens, (3) graphically marks those cases in the tree, which finally can be checked again and, if needed, corrected or removed from the dataset. For this, “TaxCI” may use DNA‐based species delimitations from other approaches (e.g. mPTP) or may perform implemented threshold‐based clustering.
+    The data‐processing pipeline was tested on a newly generated set of barcodes, using the available BOLD records as a reference. A data revision based on the first run of the TaxCI tool resulted in the second TaxCI analysis in a taxonomic match ratio very similar to the one recorded from the reference set (92% vs. 94%). The revised dataset improved by nearly 20% through this procedure compared to the original, uncorrected one.
+    Overall, the new processing pipeline for DNA barcode data allows for the rapid and easy identification of inconsistencies in large datasets, which can be dealt with before submitting them to public data repositories like BOLD or GenBank. Ultimately, this will increase the quality of submitted data and the speed of data submission, while primarily avoiding the deterioration of the accuracy of the data repositories due to ambiguously identified or contaminated specimens.
+UR - https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.12824
+ER -
+

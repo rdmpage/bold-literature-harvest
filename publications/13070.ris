@@ -1,0 +1,15 @@
+TY - JOUR
+ID - n/a
+A1 - Hebert, Paul D. N., Braukmann, Thomas W. A., Prosser, Sean W. J., Ratnasingham, Sujeevan, deWaard, Jeremy R., Ivanova, Natalia V., Janzen, Daniel H., Hallwachs, Winnie, Naik, Suresh, Sones, Jayme E., Zakharov, Evgeny V.
+Y1 - 2018
+T1 - A Sequel to Sanger: Amplicon sequencing that scales
+JA - BMC Genomics
+VL - 19
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - Background: Although high-throughput sequencers (HTS) have largely displaced their Sanger counterparts, the short read lengths and high error rates of most platforms constrain their utility for amplicon sequencing. The present study tests the capacity of single molecule, real-time (SMRT) sequencing implemented on the SEQUEL platform to overcome these limitations, employing 658 bp amplicons of the mitochondrial cytochrome c oxidase I gene as a model system. 
+Results: By examining templates from more than 5000 species and 20,000 specimens, the performance of SMRT sequencing was tested with amplicons showing wide variation in GC composition and varied sequence attributes. SMRT and Sanger sequences were very similar, but SMRT sequencing provided more complete coverage, especially for amplicons with homopolymer tracts. Because it can characterize amplicon pools from 10,000 DNA extracts in a single run, the SEQUEL can reduce greatly reduce sequencing costs in comparison to first (Sanger) and second generation platforms (Illumina, Ion). 
+Conclusions: SMRT analysis generates high-fidelity sequences from amplicons with varying GC content and is resilient to homopolymer tracts. Analytical costs are low, substantially less than those for first or second generation sequencers. When implemented on the SEQUEL platform, SMRT analysis enables massive amplicon characterization because each instrument can recover sequences from more than 5 million DNA extracts a year.
+ER -
+

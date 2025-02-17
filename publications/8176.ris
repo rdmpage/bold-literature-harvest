@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Bybee, S. M.; Bracken-Grissom, H.; Haynes, B. D.; Hermansen, R. A.; Byers, R. L.; Clement, M. J.; Udall, J. A.; Wilcox, E. R.; Crandall, K. A.
+T1 - Targeted Amplicon Sequencing (TAS): A Scalable Next-Gen Approach to Multilocus, Multitaxa Phylogenetics
+JA - Genome Biology and Evolution
+VL - 3
+SP - 1312
+EP - 1323
+U1 - 10.1093/gbe/evr106(DOI)
+N2 - Next-gen sequencing technologies have revolutionized data collection in genetic studies and advanced genome biology to novel frontiers. However, to date, next-gen technologies have been used principally for whole genome sequencing and transcriptome sequencing. Yet many questions in population genetics and systematics rely on sequencing specific genes of known function or diversity levels. Here, we describe a targeted amplicon sequencing (TAS) approach capitalizing on next-gen capacity to sequence large numbers of targeted gene regions from a large number of samples. Our TAS approach is easily scalable, simple in execution, neither time-nor labor-intensive, relatively inexpensive, and can be applied to a broad diversity of organisms and/or genes. Our TAS approach includes a bioinformatic application, BarcodeCrucher, to take raw next-gen sequence reads and perform quality control checks and convert the data into FASTA format organized by gene and sample, ready for phylogenetic analyses. We demonstrate our approach by sequencing targeted genes of known phylogenetic utility to estimate a phylogeny for the Pancrustacea. We generated data from 44 taxa using 68 different 10-bp multiplexing identifiers. The overall quality of data produced was robust and was informative for phylogeny estimation. The potential for this method to produce copious amounts of data from a single 454 plate (e.g., 325 taxa for 24 loci) significantly reduces sequencing expenses incurred from traditional Sanger sequencing. We further discuss the advantages and disadvantages of this method, while offering suggestions to enhance the approach.
+UR - http://gbe.oxfordjournals.org/cgi/doi/10.1093/gbe/evr106
+ER -
+

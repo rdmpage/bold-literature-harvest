@@ -1,0 +1,22 @@
+TY - JOUR
+ID - n/a
+A1 - Pavel Kuksa and Vladimir Pavlovic
+Y1 - 2009
+T1 - Efficient alignment-free DNA barcode analytics
+JA - BMC Bioinformatics
+VL - 10
+IS - S14
+SP - S9
+U1 - 10.1186/1471-2105-10-S14-S9(DOI)
+U1 - User submitted
+N2 - Background
+
+In this work we consider barcode DNA analysis problems and address them using alternative, alignment-free methods and representations which model sequences as collections of short sequence fragments (features). The methods use fixed-length representations (spectrum) for barcode sequences to measure similarities or dissimilarities between sequences coming from the same or different species. The spectrum-based representation not only allows for accurate and computationally efficient species classification, but also opens possibility for accurate clustering analysis of putative species barcodes and identification of critical within-barcode loci distinguishing barcodes of different sample groups.
+Results
+
+New alignment-free methods provide highly accurate and fast DNA barcode-based identification and classification of species with substantial improvements in accuracy and speed over state-of-the-art barcode analysis methods. We evaluate our methods on problems of species classification and identification using barcodes, important and relevant analytical tasks in many practical applications (adverse species movement monitoring, sampling surveys for unknown or pathogenic species identification, biodiversity assessment, etc.) On several benchmark barcode datasets, including ACG, Astraptes, Hesperiidae, Fish larvae, and Birds of North America, proposed alignment-free methods considerably improve prediction accuracy compared to prior results. We also observe significant running time improvements over the state-of-the-art methods.
+Conclusion
+
+Our results show that newly developed alignment-free methods for DNA barcoding can efficiently and with high accuracy identify specimens by examining only few barcode features, resulting in increased scalability and interpretability of current computational approaches to barcoding.
+ER -
+

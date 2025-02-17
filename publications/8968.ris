@@ -1,0 +1,14 @@
+TY - JOUR
+ID - n/a
+A1 - Varley, K. E.; Mitra, R. D.
+T1 - Nested Patch PCR enables highly multiplexed mutation discovery in candidate genes
+JA - Genome Research
+VL - 18
+IS - 11
+SP - 1844
+EP - 1850
+U1 - 10.1101/gr.078204.108(DOI)
+N2 - Medical resequencing of candidate genes in individual patient samples is becoming increasingly important in the clinic and in clinical research. Medical resequencing requires the amplification and sequencing of many candidate genes in many patient samples. Here we introduce Nested Patch PCR, a novel method for highly multiplexed PCR that is very specific, can sensitively detect SNPs and mutations, and is easy to implement. This is the first method that couples multiplex PCR with sample-specific DNA barcodes and next-generation sequencing to enable highly multiplex mutation discovery in candidate genes for multiple samples in parallel. In our pilot study, we amplified exons from colon cancer and matched normal human genomic DNA. From each sample, we successfully amplified 96% (90 of 94) targeted exons from across the genome, totaling 21.6 kbp of sequence. Ninety percent of all sequencing reads were from targeted exons, demonstrating that Nested Patch PCR is highly specific. We found that the abundance of reads per exon was reproducible across samples. We reliably detected germline SNPs and discovered a colon tumor specific nonsense mutation in APC, a gene causally implicated in colorectal cancer. With Nested Patch PCR, candidate gene mutation discovery across multiple individual patient samples can now utilize the power of second-generation sequencing.
+UR - http://genome.cshlp.org/cgi/doi/10.1101/gr.078204.108
+ER -
+

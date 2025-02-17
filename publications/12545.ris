@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Amrita Srivathsan, John C. M. Sha, Alfried P. Vogler, and Rudolf Meier
+Y1 - 2015
+T1 - Comparing the effectiveness of metagenomics andmetabarcoding for diet analysis of a leaf-feeding monkey(Pygathrix nemaeus)
+JA - Molecular Ecology Resource
+VL - 15
+IS - 1
+SP - 250
+EP - 261
+M1 - 2014-06-29(date revised)
+U1 - 10.1111/1755-0998.12302(DOI)
+U1 - User submitted
+N2 - Faecal samples are of great value as a non-invasive means to gather information on the genetics, distribution, demog-raphy, diet and parasite infestation of endangered species. Direct shotgun sequencing of faecal DNA could giveinformation on these simultaneously, but this approach is largely untested. Here, we used two faecal samples tocharacterize the diet of two red-shanked doucs langurs (Pygathrix nemaeus) that were fed known foliage, fruits, vege-tables and cereals. Illumina HiSeq produced ~74 and 67 million paired reads for these samples, of which ~10 000(0.014%) and ~44 000 (0.066%), respectively, were of chloroplast origin. Sequences were matched against a databaseof available chloroplast ‘barcodes’ for angiosperms. The results were compared with ‘metabarcoding’ using PCRamplification of the P6 loop of trnL. Metagenomics identified seven and nine of the likely 16 diet plants while sixand five were identified by metabarcoding. Metabarcoding produced thousands of reads consistent with the knowndiet, but the barcodes were too short to identify several plant species to genus. Metagenomics utilized multiple,longer barcodes that combined had greater power of identification. However, rare diet items were not recovered.Read numbers for diet species in metagenomic and metabarcoding data were correlated, indicating that both are use-ful for determining relative sequence abundance. Metagenomic reads were uniformly distributed across the chloro-plast genomes; thus, if chloroplast genomes were used as reference, the precision of identifications and speciesrecovery would improve further. Metagenomics also recovered the host mitochondrial genome and numerous intesti-nal parasite sequences in addition to generating data useful for characterizing the microbiome.
+UR - http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12302/epdf
+ER -
+

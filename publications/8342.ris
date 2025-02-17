@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Mahé, Stéphane; Duhamel, Marie; Le Calvez, Thomas; Guillot, Laetitia; Sarbu, Ludmila; Bretaudeau, Anthony; Collin, Olivier; Dufresne, Alexis; Kiers, E. Toby; Vandenkoornhuyse, Philippe
+T1 - PHYMYCO-DB: A Curated Database for Analyses of Fungal Diversity and Evolution
+JA - PLoS ONE
+VL - 7
+IS - 9
+SP - e43117
+U1 - 10.1371/journal.pone.0043117(DOI)
+N2 - Background: In environmental sequencing studies, fungi can be identified based on nucleic acid sequences, using either highly variable sequences as species barcodes or conserved sequences containing a high-quality phylogenetic signal. For the latter, identification relies on phylogenetic analyses and the adoption of the phylogenetic species concept. Such analysis requires that the reference sequences are well identified and deposited in public-access databases. However, many entries in the public sequence databases are problematic in terms of quality and reliability and these data require screening to ensure correct phylogenetic interpretation. 
+
+Methods and Principal Findings: To facilitate phylogenetic inferences and phylogenetic assignment, we introduce a fungal sequence database. The database PHYMYCO-DB comprises fungal sequences from GenBank that have been filtered to satisfy stringent sequence quality criteria. For the first release, two widely used molecular taxonomic markers were chosen: the nuclear SSU rRNA and EF1-α gene sequences. Following the automatic extraction and filtration, a manual curation is performed to remove problematic sequences while preserving relevant sequences useful for phylogenetic studies. As a result of curation, ~20% of the automatically filtered sequences have been removed from the database. To demonstrate how PHYMYCO-DB can be employed, we test a set of environmental Chytridiomycota sequences obtained from deep sea samples. 
+
+Conclusion: PHYMYCO-DB offers the tools necessary to: (i) extract high quality fungal sequences for each of the 5 fungal phyla, at all taxonomic levels, (ii) extract already performed alignments, to act as ‘reference alignments’, (iii) launch alignments of personal sequences along with stored data. A total of 9120 SSU rRNA and 672 EF1-α high-quality fungal sequences are now available.
+UR - http://dx.plos.org/10.1371/journal.pone.0043117
+ER -
+

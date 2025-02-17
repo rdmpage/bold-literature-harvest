@@ -1,0 +1,12 @@
+TY - JOUR
+ID - n/a
+A1 - Teresita M. Porter, Mehrdad Hajibabaei
+Y1 - 2017
+T1 - Automated high throughput animal DNA metabarcode classification
+JA - bioRxiv
+SP - 0
+EP - 0
+U1 - User submitted
+N2 - Until now, there has been difficulty assigning names to animal barcode sequences isolated directly from eDNA in a rapid, high-throughput manner, providing a measure of confidence for each assignment. To address this gap, we have compiled nearly 1 million marker gene DNA barcode sequences appropriate for classifying chordates, arthropods, and flag members of other major eukaryote groups. We show that the RDP naïve Bayesian classifier can assign the same number of queries 19 times faster than the popular BLAST top hit method and reduce the false positive rate by two-thirds. As reference databases become more representative of current species diversity, confidence in taxonomic assignments should continue to improve. We recommend that investigators can improve the performance of species-level assignments immediately by supplementing existing reference databases with full-length DNA barcode sequences from representatives of local fauna.
+ER -
+

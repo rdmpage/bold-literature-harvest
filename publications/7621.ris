@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - Andrea Paz and Andrew J Crawford
+Y1 - 2012
+T1 - Molecular-based rapid inventories of sympatric diversity: A comparison of DNA barcode clustering methods applied to geography-based vs clade-based sampling of amphibians
+JA - Journal of Biosciences
+VL - 37
+IS - 5
+SP - 887
+EP - 896
+U1 - 10.1007/s12038-012-9255-x(DOI)
+U1 - User submitted
+N2 - Molecular markers offer a universal source of data for quantifying biodiversity. DNA barcoding uses a standardized genetic marker and a curated reference database to identify known species and to reveal cryptic diversity within well-sampled clades. Rapid biological inventories, e.g. rapid assessment programs (RAPs), unlike most barcoding campaigns, are focused on particular geographic localities rather than on clades. Because of the potentially sparse phylogenetic sampling, the addition of DNA barcoding to RAPs may present a greater challenge for the identification of named species or for revealing cryptic diversity. In this article we evaluate the use of DNA barcoding for quantifying lineage diversity within a single sampling site as compared to clade-based sampling, and present examples from amphibians. We compared algorithms for identifying DNA barcode clusters (e.g. species, cryptic species or Evolutionary Significant Units) using previously published DNA barcode data obtained from geography-based sampling at a site in Central Panama, and from clade-based sampling in Madagascar. We found that clustering algorithms based on genetic distance performed similarly on sympatric as well as clade-based barcode data, while a promising coalescent-based method performed poorly on sympatric data. The various clustering algorithms were also compared in terms of speed and software implementation. Although each method has its shortcomings in certain contexts, we recommend the use of the ABGD method, which not only performs fairly well under either sampling method, but does so in a few seconds and with a user-friendly Web interface.
+UR - http://link.springer.com/article/10.1007%2Fs12038-012-9255-x
+ER -
+

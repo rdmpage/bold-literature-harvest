@@ -44,13 +44,15 @@ $count = 1;
 
 $num_pages = 14;
 
-for ($page = 1; $page <= $num_pages; $page++)
+for ($page = 14; $page <= $num_pages; $page++)
 {
 	$offset = ($page - 1) * $page_size;
 	
 	$url = 'https://v3.boldsystems.org/index.php/Public_Publication_PublicationSearch/getSearchResultPage';
 	
 	$url .= '?offset=' . $offset . '&limit=' . $page_size;
+	
+	echo $url . "\n";
 	
 	$html = get($url);
 	
@@ -67,7 +69,7 @@ for ($page = 1; $page <= $num_pages; $page++)
 			
 			$ris = get($u);
 			
-			echo $ris;
+			//echo $ris;
 			
 			$filename = 'publications/' . $id . '.ris';
 			
@@ -82,6 +84,10 @@ for ($page = 1; $page <= $num_pages; $page++)
 					echo "\n-- ...sleeping for " . round(($rand / 1000000),2) . ' seconds' . "\n\n";
 					usleep($rand);
 				}
+			}
+			else
+			{
+				"Have $id already!\n";
 			}
 		}
 	}

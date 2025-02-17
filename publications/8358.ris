@@ -1,0 +1,13 @@
+TY - JOUR
+ID - n/a
+A1 - Pinto, Ameet J.; Raskin, Lutgarde
+T1 - PCR Biases Distort Bacterial and Archaeal Community Structure in Pyrosequencing Datasets
+JA - PLoS ONE
+VL - 7
+IS - 8
+SP - e43093
+U1 - 10.1371/journal.pone.0043093(DOI)
+N2 - As 16S rRNA gene targeted massively parallel sequencing has become a common tool for microbial diversity investigations, numerous advances have been made to minimize the influence of sequencing and chimeric PCR artifacts through rigorous quality control measures. However, there has been little effort towards understanding the effect of multi-template PCR biases on microbial community structure. In this study, we used three bacterial and three archaeal mock communities consisting of, respectively, 33 bacterial and 24 archaeal 16S rRNA gene sequences combined in different proportions to compare the influences of (1) sequencing depth, (2) sequencing artifacts (sequencing errors and chimeric PCR artifacts), and (3) biases in multi-template PCR, towards the interpretation of community structure in pyrosequencing datasets. We also assessed the influence of each of these three variables on α- and β-diversity metrics that rely on the number of OTUs alone (richness) and those that include both membership and the relative abundance of detected OTUs (diversity). As part of this study, we redesigned bacterial and archaeal primer sets that target the V3–V5 region of the 16S rRNA gene, along with multiplexing barcodes, to permit simultaneous sequencing of PCR products from the two domains. We conclude that the benefits of deeper sequencing efforts extend beyond greater OTU detection and result in higher precision in β-diversity analyses by reducing the variability between replicate libraries, despite the presence of more sequencing artifacts. Additionally, spurious OTUs resulting from sequencing errors have a significant impact on richness or shared-richness based α- and β-diversity metrics, whereas metrics that utilize community structure (including both richness and relative abundance of OTUs) are minimally affected by spurious OTUs. However, the greatest obstacle towards accurately evaluating community structure are the errors in estimated mean relative abundance of each detected OTU due to biases associated with multi-template PCR reactions.
+UR - http://dx.plos.org/10.1371/journal.pone.0043093
+ER -
+

@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - Julia E Miller, Dirk Steinke
+Y1 - 2020
+T1 - CommDivMap: Modelling and mapping species richness at different spatial scales
+JA - bioRxiv
+VL - 1
+IS - 1
+SP - 12
+U1 - 10.1101/2020.05.11.089029(DOI)
+U1 - User submitted
+N2 - 1. Modern ecosystem models have the potential to greatly enhance our capacity to predict community responses to change, but they demand comprehensive spatial distribution information, creating the need for new approaches to gather and synthesize biodiversity data.
+2. Metabarcoding or metagenomics can generate comprehensive biodiversity data sets at species-level resolution but they are limited to point samples.
+3. CommDivMap contains a number of functions that can be used to turn OTU tables resulting from metabarcoding runs of bulk samples into species richness maps. We tested the method on a series of arthropod bulk samples obtained from various experimental agricultural plots.
+4. The script runs smoothly and is reasonably fast. We hope that our assemble first, predict later approach to statistical modelling of species richness will set the stage for the transition from data-rich but finite sets of point samples to spatially continuous biodiversity maps
+ER -
+

@@ -1,0 +1,17 @@
+TY - JOUR
+ID - n/a
+A1 - ElSharawy, Abdou; Forster, Michael; Schracke, Nadine; Keller, Andreas; Thomsen, Ingo; Petersen, Britt-Sabina; Stade, Björn; Stähler, Peer; Schreiber, Stefan; Rosenstiel, Philip; Franke, Andre
+T1 - Improving mapping and SNP-calling performance in multiplexed targeted next-generation sequencing
+JA - BMC Genomics
+VL - 13
+IS - 1
+SP - 417
+U1 - 10.1186/1471-2164-13-417(DOI)
+N2 - Background: Compared to classical genotyping, targeted next-generation sequencing (tNGS) can be custom-designed to interrogate entire genomic regions of interest, in order to detect novel as well as known variants. To bring down the per-sample cost, one approach is to pool barcoded NGS libraries before sample enrichment. Still, we lack a complete understanding of how this multiplexed tNGS approach and the varying performance of the ever-evolving analytical tools can affect the quality of variant discovery. Therefore, we evaluated the impact of different software tools and analytical approaches on the discovery of single nucleotide polymorphisms (SNPs) in multiplexed tNGS data. To generate our own test model, we combined a sequence capture method with NGS in three experimental stages of increasing complexity (E. coli genes, multiplexed E. coli, and multiplexed HapMap BRCA1/2 regions). 
+
+Results: We successfully enriched barcoded NGS libraries instead of genomic DNA, achieving reproducible coverage profiles (Pearson correlation coefficients of up to 0.99) across multiplexed samples, with <10% strand bias. However, the SNP calling quality was substantially affected by the choice of tools and mapping strategy. With the aim of reducing computational requirements, we compared conventional whole-genome mapping and SNP-calling with a new faster approach: target-region mapping with subsequent ‘read-backmapping’ to the whole genome to reduce the false detection rate. Consequently, we developed a combined mapping pipeline, which includes standard tools (BWA, SAMtools, etc.), and tested it on public HiSeq2000 exome data from the 1000 Genomes Project. Our pipeline saved 12 hours of run time per Hiseq2000 exome sample and detected ~5% more SNPs than the conventional whole genome approach. This suggests that more potential novel SNPs may be discovered using both approaches than with just the conventional approach. 
+
+Conclusions: We recommend applying our general ‘two-step’ mapping approach for more efficient SNP discovery in tNGS. Our study has also shown the benefit of computing inter-sample SNP-concordances and inspecting read alignments in order to attain more confident results.
+UR - http://www.biomedcentral.com/1471-2164/13/417
+ER -
+

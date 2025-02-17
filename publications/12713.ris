@@ -1,0 +1,16 @@
+TY - JOUR
+ID - n/a
+A1 - M. J. T. N. Timmermans, C. Viberg, G. Martin, K. Hopkins and A. P. Vogler
+Y1 - 2016
+T1 - Rapid assembly of taxonomically validated mitochondrial genomes from historical insect collections
+JA - Biological Journal of the Linnean Society
+VL - 117
+IS - 1
+SP - 83
+EP - 95
+U1 - 10.1111/bij.12552(DOI)
+U1 - User submitted
+N2 - Polymerase chain reaction approaches for DNA sequencing from dried collection specimens of insects usually suffer from contamination, short fragment length, and limited phylogenetic power. As an alternative, we use shotgun metagenomic sequencing from mixed pools of DNA, from which mitochondrial sequences are filtered in silico. We extracted DNA from a single leg of 35 species of British butterflies that had been stored in the Natural History Museum for between 9 and 35 years. Illumina MiSeq (1/3 of flow cell) produced mitogenome sequences of > 10 kb for ten species, of which six were (almost) complete. In addition, full or partial barcode sequences for 31 species were recovered, which, in almost all cases, showed perfect (100%) identity to sequences available in the BOLD database under the same taxon name. The mean length of sequence reads was 167 bp (putative mitochondrial reads) and 153 bp (all reads). Assembly of contigs > 10 kb from these short reads was apparently error free, except in the case of two closely-related species of Pieris that formed chimeras. Contiguous sequences are difficult to obtain from degraded DNA with Sanger technology but the Illumina short reads are a natural fit for dry-collection specimens. The obvious possibility for scaling up this protocol provides exciting prospects for the large-scale indexing of natural history collections using partial or full mitochondrial genomes.
+UR - http://onlinelibrary.wiley.com/doi/10.1111/bij.12552/full
+ER -
+
